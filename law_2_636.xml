@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2039" order_by="12-2039" level="5">Sec. 12-2039. - COMPLIANCE WITH PASSENGERS' REQUESTS.</unit>
+ </structure>
+ <section_number>12-2039</section_number>
+ <catch_line>COMPLIANCE WITH PASSENGERS' REQUESTS.</catch_line>
+ <order_by>12-2039</order_by>
+ <text>
+All drivers shall comply with all reasonable and lawful requests of the passenger or passengers as to the speed of travel, and, when providing premium service, the route to be taken. 
+All companies holding valid owner's and/or driver's permits shall provide prompt, efficient service and shall be courteous at all times to the general public, to the taxicab inspectors, to other taxicabs, to other taxicab owners, and to any officer of the Raleigh Police Department. 
+(Code 1959 , §22-20; Ord. No. 2009-671, §21, 11-3-09) 
+</text>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - DEPARTMENTAL ORGANIZATION</unit>
+  <unit label="section" identifier="1-3003" order_by="1-3003" level="4">Sec. 1-3003. - FUNCTIONS AND DUTIES OF CITY OFFICES AND DEPARTMENTS.</unit>
+ </structure>
+ <section_number>1-3003</section_number>
+ <catch_line>FUNCTIONS AND DUTIES OF CITY OFFICES AND DEPARTMENTS.</catch_line>
+ <order_by>1-3003</order_by>
+ <text>
+  <section prefix="(a)">	Attend each meeting of the Council and to keep the minutes and records of all the proceedings of the Council in well-bound books provided for that purpose. 
+</section>
+  <section prefix="(b)">	Preserve all books, papers and writings of all kinds submitted to the Clerk.
+</section>
+  <section prefix="(c)">	Maintain custody of all signed petitions with reference to public improvements, and all contracts made and entered into by the City and of all notices and affidavits of publishers with reference to publication of ordinances, budgets or other legal advertisements required to be made by the City. 
+</section>
+  <section prefix="(d)">	Maintain custody of the official corporate seal of the City and attest and affix the official seal to all documents or instruments of the City required to be so attested and sealed. 
+</section>
+  <section prefix="(e)">	Maintain custody of all deeds or conveyances of all types made to the City, and it shall be the Clerk's duty to file with the Register of Deeds of the County for the purpose of being recorded in the registry of the County. 
+</section>
+  <section prefix="(f)">	Account and pay over all moneys which may come into the Clerk's hands by virtue of the Clerk's office. 
+</section>
+  <section prefix="(g)">	The City Clerk is granted full discretion to advertise public hearings electronically in any manner and for any subject allowed by Chapter 161 of the Session Laws of 2003. 
+</section>
+  <section prefix="(h)">	Perform such other duties as may be required by law or by the Council. 
+(Ord. No. 2003-516, §1, 9-16-03) 
+Charter reference: Appointment, duties, §§5.2, 5.3 
+State law references: Duties of the City Clerk, G.S. 160A-71; deputy Clerks, G.S. 160A-172.  
+</section>
+ </text>
+</law>

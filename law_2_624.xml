@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2027" order_by="12-2027" level="5">Sec. 12-2027. - TYPE OF TAXICAB.</unit>
+ </structure>
+ <section_number>12-2027</section_number>
+ <catch_line>TYPE OF TAXICAB.</catch_line>
+ <order_by>12-2027</order_by>
+ <text>
+  <section prefix="(a)">	Each taxicab for which an owner's permit is issued under this chapter shall have a body of the sedan or enclosed type. 
+</section>
+  <section prefix="(b)">	The body of each taxicab shall have four (4) doors, two (2) leading into the passenger's compartment, and two (2) leading into the driver's compartment, so constructed that they may be opened from the inside and the outside. Any other type of vehicle must be approved by the City Council. Each door shall be constructed with a double or safety lock. 
+(Code 1959 , §22-7; Ord. No. 1980-487, §§8, 9, 10-7-80) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1024" order_by="1-1024" level="5">Sec. 1-1024. - COMPENSATION AND ALLOWANCES OF THE MAYOR AND MEMBERS OF THE COUNCIL.</unit>
+ </structure>
+ <section_number>1-1024</section_number>
+ <catch_line>COMPENSATION AND ALLOWANCES OF THE MAYOR AND MEMBERS OF THE COUNCIL.</catch_line>
+ <order_by>1-1024</order_by>
+ <text>
+  <section prefix="(a)">	The Mayor shall be paid a salary of sixteen thousand dollars ($16,000.00) annually in monthly payments of one thousand three hundred thirty-three dollars and thirty-three cents ($1,333.33) with actual travel expenses paid through voucher request and shall be paid an additional sum of one hundred dollars ($100.00) per month, and said sum shall be an allowance for in-City expenses. 
+</section>
+  <section prefix="(b)">	The Mayor Pro Tem shall be paid a salary of thirteen thousand dollars ($13,000.00) annually in monthly payments of one thousand eighty-three dollars and thirty-three cents ($1,083.33) with actual travel expenses paid through voucher request. 
+</section>
+  <section prefix="(c)">	The remaining Council members shall be paid a salary of eleven thousand dollars ($11,000.00) annually in monthly payments of nine hundred sixteen dollars and sixty-seven cents ($916.67) with actual travel expenses paid through voucher request. 
+</section>
+  <section prefix="(d)">	All Council members shall be paid an additional sum of one hundred fifty dollars ($150.00) per month, and said sum shall be an allowance for auto travel. Council members are eligible to participate in the City's health and dental plans and may choose to have a cell phone allowance of up to forty-two dollars ($42.00) per month. Council members shall receive a salary increase of one thousand dollars ($1,000.00) annually for four (4) fiscal years beginning July 1, 2013. 
+(Code 1959 , §2-3.1; Ord. No. 1987-576A, §§1—3, 6-18-87; Ord. No. 1990-468, §§1—3, 1-2-90; Ord. No. 2012-69, §1, 6-18-12, eff. 7-1-12) 
+State law references: Authority of Mayor and Council to establish levels of compensation, G.S. 160-64. 
+</section>
+ </text>
+</law>

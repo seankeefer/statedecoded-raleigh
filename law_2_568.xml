@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="6" order_by="6" level="3">CHAPTER 6. - STREET MAINTENANCE [2]</unit>
+  <unit label="section" identifier="11-6001" order_by="11-6001" level="4">Sec. 11-6001. - PERMIT AND REGULATIONS FOR WORKING IN, UPON, OVER, UNDER OR ADJACENT TO THE STREETS AND SIDEWALKS.</unit>
+ </structure>
+ <section_number>11-6001</section_number>
+ <catch_line>PERMIT AND REGULATIONS FOR WORKING IN, UPON, OVER, UNDER OR ADJACENT TO THE STREETS AND SIDEWALKS.</catch_line>
+ <order_by>11-6001</order_by>
+ <text>
+</text>
+</law>

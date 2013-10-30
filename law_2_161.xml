@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2046" order_by="5-2046" level="5">Sec. 5-2046. - NEW MATERIALS; TESTING AND APPROVAL.</unit>
+ </structure>
+ <section_number>5-2046</section_number>
+ <catch_line>NEW MATERIALS; TESTING AND APPROVAL.</catch_line>
+ <order_by>5-2046</order_by>
+ <text>
+In addition to and not inconsistent with applicable provisions of the Fire Prevention Code, the Fire Chief and the Chief of the Fire Prevention Bureau shall, on request, evaluate any new materials, processes, or occupancies requiring fire prevention permits, in addition to those now enumerated in the Fire Prevention Code. Any determinations regarding new materials, processes, or occupancies requiring fire prevention permits shall be made a matter of record, shall be open for public inspection, and copies of such determinations shall be available to interested parties. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</text>
+</law>

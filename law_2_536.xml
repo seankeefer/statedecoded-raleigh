@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2243" order_by="11-2243" level="5">Sec. 11-2243. - BUILDING MATERIALS ON STREET.</unit>
+ </structure>
+ <section_number>11-2243</section_number>
+ <catch_line>BUILDING MATERIALS ON STREET.</catch_line>
+ <order_by>11-2243</order_by>
+ <text>
+  <section prefix="(a)">	Every person permitted by the building inspector to use any portion of any street for the purpose of placing and storing any building material, equipment or supplies, or spoil material from a demolished structure, shall store such items and material on as small amount of space as is reasonably possible. 
+</section>
+  <section prefix="(b)">	In no event shall such permittee obstruct an area in width more than ten (10) feet. Before obstructing any street, such permittee shall have the permit issued by him by the transportation director or his agent as provided for in this article. No permittee storing building materials pursuant to the provisions of this section shall block, impede or otherwise prevent the passage of water through the gutter of such street. Such permittee shall at all times provide a safe walkway not less than five (5) feet wide around said obstruction. Such walkway shall be adequately lighted and protected at all times. 
+On building sites where approval to use a portion of the street for staging has been approved, a chain link fence at least six (6) feet high must first be installed as approved. All building material, equipment, etc., shall be kept inside this staging area. Any changes to this fenced area, the original traffic control plan, or both, shall first be approved by the Department of Transportation after receiving a revised &quot;traffic control site plan.&quot; 
+(Code 1959 , §19-43; Ord. No. 1980-416, §6, 7-15-80; Ord. No. 1994-393, §10, 5-3-94) 
+</section>
+ </text>
+</law>

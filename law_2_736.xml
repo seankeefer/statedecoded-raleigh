@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2179" order_by="12-2179" level="5">Sec. 12-2179. - STANDARDS.</unit>
+ </structure>
+ <section_number>12-2179</section_number>
+ <catch_line>STANDARDS.</catch_line>
+ <order_by>12-2179</order_by>
+ <text>
+  <section prefix="(a)">	The owner shall respond to each department making contact, either in person or by telephone, within two (2) business days after being contacted at the telephone number provided in the application or renewal application by the Raleigh Police Department, the Fire Department, or the Inspections Department. The owner shall designate an alternate person as responsible for responding to calls for assistance from the Raleigh Police Department, the Fire Department, or the Inspections Department when the department is unable to be in contact with the owner within two (2) business days of the initial contact. The designated alternate must be located in the City or within twenty-five (25) miles of the City's planning jurisdiction and be authorized by it to respond to calls. The designation shall be effective only when the responsible person is identified and agrees to accept the duty by signature on the application or renewal application. 
+</section>
+  <section prefix="(b)">	The owner shall maintain a current list of occupants. Upon request, by City inspectors, police, and fire and emergency response personnel investigating violations or potential violations of the City Code or State law, the owner shall present the list of occupants to the investigating personnel. 
+</section>
+  <section prefix="(c)">	The Public Utilities Department shall not provide water service to a vacant rental residential dwelling which is not registered in compliance with this Article. 
+(Ord. No. 2008-415B, §1, 7-1-08) 
+</section>
+ </text>
+</law>

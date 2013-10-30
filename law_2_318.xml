@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.8. - ANNUAL PUBLICATION OF SIGNIFICANT NONCOMPLIANCE.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>ANNUAL PUBLICATION OF SIGNIFICANT NONCOMPLIANCE.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+At least annually, the POTW Director shall publish in a newspaper of general circulation that provides meaningful public notice within the jurisdiction(s) served by the POTW, a list of those industrial users which were found to be in significant noncompliance, also referred to as reportable noncompliance, in 15A NCAC 2H .0903(b)(10), with applicable pretreatment standards and requirements, during the previous twelve (12) months. 
+(Ord. No. 2011-981, §1, 12-6-11)  
+DIVISION 8. - AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS
+</text>
+</law>

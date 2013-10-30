@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.28" order_by="6.28" level="3">Sec. 6.28 - CITY-OWNED UTILITIES; ESTABLISHMENT AND OPERATION OF WATER, SEWER AND OTHER UTILITY SYSTEMS.</unit>
+ </structure>
+ <section_number>I-VI-6.28</section_number>
+ <catch_line>CITY-OWNED UTILITIES; ESTABLISHMENT AND OPERATION OF WATER, SEWER AND OTHER UTILITY SYSTEMS.</catch_line>
+ <order_by>6.28</order_by>
+ <section prefix="text">
+The City shall have the power to acquire, provide, construct, establish, own, maintain and operate its own light and waterworks system and sewerage system, and to furnish water, light and sewerage service to the citizens and residents of the City; and to furnish such services or any of them to any person, firm or corporation outside the corporate limits, where any such service is available, upon such terms and conditions as may be prescribed by the City Council, in its discretion; and the City Council shall have full and complete control, supervision and management of said public utility systems and each of them. The City is authorized to make special assessments following the procedures provided by the General Statutes against benefited property within its corporate limits for constructing, reconstructing, extending and otherwise building or improving water lines and sanitary sewer lines. The City shall not be under any legal obligation to extend or render any services to anyone outside the corporate limits, except as may be required by contract lawfully made by the City. Upon annexation of any area to its corporate limits, the City is authorized to make special assessments against benefited property for water lines and sanitary sewer lines which were extended to said area at any time prior to its annexation. The City shall not in any case be liable to any person, firm or corporation, resident or nonresident, for damages for a failure to furnish a sufficient supply or particular quality of either water, sewer service, or light for any purpose. The City Council shall have the power to adopt such rules and regulations as may be considered necessary or expedient, in the discretion of the City Council, to provide for the protection, maintenance, management and operation of such systems of the City, and may appoint special officers to enforce the ordinances, rules and regulations of the City of Raleigh, the laws of the State of North Carolina, and the applicable rules and regulations of the State Board of Health. Such special officers shall be vested with the authority of peace officers within, but only within, the area to which they are assigned. 
+ 
+</section>
+ <history>(S.L. 1957, Ch. 122, §1; S.L. 1975, Ch. 561, §9)</history>
+</law>

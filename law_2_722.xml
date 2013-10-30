@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2163" order_by="12-2163" level="5">Sec. 12-2163. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>12-2163</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>12-2163</order_by>
+ <text>
+  <section prefix="(a)">	Business affiliate: A person who directly or indirectly owns or controls, is owned or controlled by, or is under common ownership or control with, the owner of a probationary residential rental dwelling of any property. Solely for purposes of this definition, the terms &quot;owns,&quot; &quot;is owned,&quot; and &quot;ownership&quot; mean ownership of an equity interest, or the equivalent thereof, of ten (10) per cent of [or] more. 
+</section>
+  <section prefix="(b)">	Dwelling: A dwelling unit used for residential purposes other than a dwelling unit in a bed and breakfast inn; hotel or motel; guest house; rest home; rooming house, boarding house, lodging house; or tourist home. 
+</section>
+  <section prefix="(c)">	Dwelling unit: One (1) or more rooms physically arranged as to create an independent housekeeping establishment with separate facilities for cooking, sleeping, and toilet. A dwelling unit can be occupied by only one (1) family. A dwelling unit can also contain a utility apartment or rented rooms in accordance with §10-2072(b). 
+</section>
+  <section prefix="(d)">	Fifth degree of kinship: Collateral kin within five degrees of kinship removed from the owner with the degree of kinship to be computed as provided in N.C.G.S. §104A-1. 
+</section>
+  <section prefix="(e)">	Housing Code: The provisions of the Raleigh City Code codified at §§10-6121 through 10-6137 
+</section>
+  <section prefix="(f)">	Inspections Department: The Inspections Department of the City of Raleigh. 
+</section>
+  <section prefix="(g)">	Licensed rental agency: A rental agency holding a current privilege license issued by the State of North Carolina pursuant to N.C.G.S. §105-41(a)(8) or (9). 
+</section>
+  <section prefix="(h)">	Notice of violation: A City issued list of failures to comply with the City Code at the dwelling included in the notice sent to the owner(s) pursuant to N.C.G.S. §§160A-428 and 160A-429; §§10-6126, 10-6127, 10-2152, and 12-6003 
+</section>
+  <section prefix="(i)">
+   <section prefix="(1)">	Shall have title to any dwelling or dwelling unit, with or without accompanying actual possession thereof; or 
+</section>
+   <section prefix="(2)">	Shall have charge, care or control of any dwelling or dwelling unit, as owner or agent of the owner, or as executor, executrix, administrator, administratrix, trustee or guardian of the estate of the owner. Any such person thus representing the actual owner shall be bound to comply with the provisions of this article, and of rules and regulations adopted pursuant thereto, to the same extent as if the person were the owner; or 
+</section>
+   <section prefix="(3)">	For violations of the Housing Code, shall be a mortgagee of record. 
+</section>
+  </section>
+  <section prefix="(j)">	Person: Associations, corporations, limited liability companies, company, firm, partnerships, joint ventures, public or private institutions, corporations, trusts, estates, utilities, cooperatives, commissions, boards, condominiums, interstate bodies and bodies politic and corporate as well as to individuals or other legal entities. 
+</section>
+  <section prefix="(k)">	Probationary rental occupancy permit: A permit issued to the owner of a probationary rental residential dwelling pursuant to this article. 
+</section>
+  <section prefix="(l)">
+   <section prefix="(1)">	A violation of §10-6058 by reoccupancy of a dwelling previously found unsafe; 
+</section>
+   <section prefix="(2)">	A violation of §10-6137 by reoccupancy before certification of compliance with the Housing Code by the Inspections Department; 
+</section>
+   <section prefix="(3)">	Activities resulting in (a) a third conviction for violation of §13-3017 the Nuisance Party ordinance, within the twenty-four (24) month period following notice from the PROP Team of the Police Department of the first conviction or (b) a third civil penalty for violation of §13-3017, within the twenty-four (24) month period following notice from the PROP Team of the Police Department of the first notice of violation; 
+</section>
+   <section prefix="(4)">	Activities resulting in (a) a third conviction for violation of §12-5007, the Prohibited Noises ordinance, within the twenty-four (24) month period following notice from the PROP Team of the Police Department of the first conviction or (b) a third civil penalty for violation of §12-5007, within the twenty-four (24) month period following notice from the PROP Team of the Police Department of the first notice of violation; 
+</section>
+   <section prefix="(5)">	A violation of §10-6058 by the failure to repair, vacate or demolish within the time provided for compliance with the Code in the order issued by the Inspections Department pursuant to N.C.G.S. §160A-429; 
+</section>
+   <section prefix="(6)">	A violation of §10-6137 by the failure to repair, vacate or demolish the dwelling within the time provided for compliance with the Code in the order issued by the Inspections Department pursuant to §10-6127 
+</section>
+   <section prefix="(7)">	A violation of §10-2151 by housing more inhabitants than permitted in the zoning Code section applicable to the dwelling; 
+</section>
+   <section prefix="(8)">	A zoning vehicle violation by the failure to comply in a timely manner with an order issued by Inspections Department due to the unlawful storage of unlicensed, uninspected, wrecked, crushed, dismantled, or partially dismantled automotive vehicles on the premises; 
+</section>
+   <section prefix="(9)">	A second nuisance abatement pursuant to §12-6003 within a twenty-four (24) month period; 
+(10)	A fourth notice of violation within a twenty-four (24) month period, when the prior notices of violations were resolved by corrective action and without issuance of any order or mandate for corrective action, of any of the following sections §§10-2151, 10-6058, 10-6137 and 12-6003 of the City Code. 
+</section>
+   <section prefix="(11)">	Activities resulting in a third conviction for a criminal activity on the premises of the dwelling following notice from the PROP Team of the Police Department within the twenty-four (24)month period following notice from the first conviction for a criminal activity on the premises of the dwelling. 
+</section>
+  </section>
+  <section prefix="(m)">	Public nuisance violation: A determination by a Code enforcement official that any of the nuisances listed in §12-6002 exists at a property which determination is included in a notice sent to the property owner pursuance to §12-6003(a). 
+</section>
+  <section prefix="(n)">	Violation: A determination by a Code enforcement official or a judge, after a notice of violation of the City Code and an opportunity for response to the noticed alleged failures, that an order or other mandate should issue to the owner or any other person imposing a sanction or requiring further actions to comply with the City Code, including without any limitation the payment of civil penalties or administrative fees, implementation of corrective measures, or cessation of activities which are not authorized by the City Code, or conviction of a criminal Code offense for failure to comply with the Code provisions listed in (l) of this section. 
+</section>
+  <section prefix="(o)">	Zoning vehicle violation: A determination that unlicensed, uninspected, wrecked, crushed, dismantled, or partially dismantled automotive vehicles are present on the premises in violation of the zoning Code including the provisions at §§10-2015(c), 10-2016(c), 10-2017(c), 10-2018(c), 10-2019(c), 10-2020(c), 10-2021(c), 10-2022(c), 10-2023(c), 10-2024(c), 10-2025(c), 10-2030(c), 10-2031(c), 10-2032(c), 10-2035(c), 10-2036(c), 10-2037(c), 10-2040(c), 10-2041(c), 10-2042(c), 10-2043(c), 10-2045(c) and 10-2050(c). 
+</section>
+  <section prefix="(p)">	Criminal Activity: Means conviction of a tenant or tenant guest for conduct on the premises of the dwelling under any of the following: (i) N.C.G.S. 14-204; (ii) N.C.G.S. 14-71.1 on the premises; (iii) N.C.G.S. 18B-300; (iv) N.C.G.S. 14-409 or N.C.G.S. 14-415.1; (v) N.C.G.S. 14-292; or (iv) N.C.G.S. 14-288.2. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §§1—8, 7-11-06; Ord. No. 2008-415, §§2—4, 7-1-08) 
+</section>
+ </text>
+</law>

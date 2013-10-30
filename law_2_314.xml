@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.4. - ADMINISTRATIVE REMEDIES.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>ADMINISTRATIVE REMEDIES.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+  <section prefix="(a)">	Notification of violation. 
+Whenever the POTW Director finds that any industrial user, consumer or other person has violated or is violating this article, waste water permit, or any prohibition, limitation, or requirements contained therein or any other pretreatment requirement the POTW Director may serve upon such a person a written notice stating the nature of the violation. Within thirty (30) days from the date of this notice, an explanation for the violation and a plan for the satisfactory correction thereof shall be submitted to the City by the industrial user, consumer or other person. Submission of this plan does not relieve the discharger of liability for any violations occurring before or after receipt of the notice of violation. 
+</section>
+  <section prefix="(b)">	Consent orders. 
+The POTW Director is hereby empowered to enter into consent orders, assurances of voluntary compliance, or other similar documents establishing an agreement with the person responsible for the noncompliance. Such orders will include specific action to be taken by the discharger to correct the noncompliance within a time period also specified by the order. Consent orders shall have the same force and effect as an administrative order issued pursuant to §8-2140.4(d), below. 
+</section>
+  <section prefix="(c)">	Show cause hearing. 
+The POTW Director may order any industrial user, consumer or other person who causes or is responsible for an unauthorized discharge, has violated this article or is in noncompliance with a waste water discharge permit to show cause why a proposed enforcement action should not be taken. In the event the POTW Director determines that a show cause order should be issued, a notice shall be served on the industrial user, consumer or other person specifying the time and place for the hearing, the proposed enforcement action, the reasons for such action, and a request that the industrial user, consumer or other person show cause why this proposed enforcement action should not be taken. The notice of the hearing shall be served personally or by registered or certified mail (return receipt requested) at least ten (10) days before the hearing. Service may be made on any agent or officer of a corporation. 
+The POTW Director shall review the evidence presented at the hearing and determine whether the proposed enforcement action is appropriate. 
+A show cause hearing under this section is not a prerequisite to the assessment of a civil penalty under §8-2140.5 nor is any action or inaction taken by the POTW Director under this section subject to an administrative appeal under §8-2127(8). 
+</section>
+  <section prefix="(d)">
+   <section prefix="(1)">	Immediately comply with all requirements;
+</section>
+   <section prefix="(2)">	Comply in accordance with a compliance time schedule set forth in the order;
+</section>
+   <section prefix="(3)">	Take appropriate remedial or preventive action in the event of a continuing or threatened violation;
+</section>
+   <section prefix="(4)">	Disconnect, unless adequate treatment facilities, devices or other related appurtenances are installed and properly operated within a specified time period. 
+</section>
+  </section>
+  <section prefix="(e)">	Emergency suspensions. 
+The POTW Director may suspend the waste water treatment service and/or waste water permit when such suspension is necessary in order to stop an actual or threatened discharge which presents or may present an imminent or substantial endangerment to the health or welfare of persons or the environment, interferes with the POTW or causes the POTW to violate any condition of its NPDES or non-discharge permit. 
+Any industrial user, consumer or other person notified of a suspension of the waste water treatment service and/or the waste water permit shall immediately stop or eliminate the contribution. A hearing will be held within fifteen (15) days of the notice of suspension to determine whether the suspension may be lifted or the industrial user's, consumer's or other person's waste discharge permit terminated. 
+In the event of a failure to comply voluntarily with the suspension order, the POTW Director shall take such steps as deemed necessary including immediate severance of the sewer connection, to prevent or minimize damage to the POTW system or endangerment to any individuals. The POTW Director shall reinstate the waste water permit and the waste water treatment service upon proof of the elimination of the noncompliant discharge. The industrial user, consumer or other person shall submit a detailed written statement describing the causes of the harmful contribution and the measures taken to prevent any future occurrence to the POTW Director prior to the date of the above described hearing. 
+</section>
+  <section prefix="(f)">
+   <section prefix="(1)">	Failure to accurately report the waste water constituents and characteristics of his discharge; 
+</section>
+   <section prefix="(2)">	Failure to report significant changes in operations, or waste water constituents and characteristics; 
+</section>
+   <section prefix="(3)">	Refusal of reasonable access to the industrial user's, consumer's or other person's premises for the purpose of inspection or monitoring; or 
+</section>
+   <section prefix="(4)">	Violation of conditions of the permit or permission to discharge, conditions of this article, or any applicable State and Federal regulations. 
+Noncompliant industrial users, consumers or other persons will be notified of the proposed termination of their waste water permit and will be offered an opportunity to show cause under §8-2140.4 of this article why the proposed action should not be taken. 
+</section>
+  </section>
+  <section prefix="(g)">	Investigative costs. 
+The POTW Director may access the reasonable costs to the City of any investigation, inspection, or monitoring survey which revealed the violation against the person or business entity responsible for the violation. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

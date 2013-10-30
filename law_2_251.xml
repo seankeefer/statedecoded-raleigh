@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2042" order_by="8-2042" level="5">Secs. 8-2042 — 8-2045. - RESERVED.</unit>
+ </structure>
+ <section_number>8-2042</section_number>
+ <catch_line>RESERVED.</catch_line>
+ <order_by>8-2042</order_by>
+ <text>
+Editor's note: Section 8-2042 is now §8-2077. §8-2043 (deriving from a resolution of Feb. 4, 1974) was repealed by §22 of Ord. No. 1985-543, becoming part of §8-2063. §23 of Ord. No. 1985-543 repealed §§8-2044 and 8-2045, concerning sewer extensions to serve annexed areas where intervening properties are traversed, derived from Code 1959, §23-9.1, and concerning procedure for connections derived from the following resolutions: 1961-223, §4; 404 of June 1, 1964; 976 of Dec. 21, 1970; 659 of Nov. 6, 1972; and 773 of March 2, 1973. 
+</text>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - STREET OBSTRUCTIONS AND ENCROACHMENTS</unit>
+  <unit label="section" identifier="12-1006" order_by="12-1006" level="5">Sec. 12-1006. - BICYCLES ON SIDEWALKS.</unit>
+ </structure>
+ <section_number>12-1006</section_number>
+ <catch_line>BICYCLES ON SIDEWALKS.</catch_line>
+ <order_by>12-1006</order_by>
+ <text>
+No person shall ride bicycles on any of the following pedestrian ways or sidewalks: Fayetteville Street Mall, Moore Square Station Transit Mall, adjacent to designated bike lanes. This prohibition shall not apply to sworn law enforcement officers while on duty and to any private security force employed by a non-profit corporation and approved by the City Council. 
+(Code 1959 , §19-21(c); Ord. No. 1987-96, §1, 12-1-87; Ord. No. 2000-747, §1, 3-7-00) 
+Cross reference: Bicycles generally, Part 11, Ch. 3. 
+</text>
+</law>

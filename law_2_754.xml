@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - DOGS AND CATS [9]</unit>
+  <unit label="section" identifier="12-3012" order_by="12-3012" level="5">Sec. 12-3012. - CONFINEMENT OF FEMALE DOGS IN HEAT.</unit>
+ </structure>
+ <section_number>12-3012</section_number>
+ <catch_line>CONFINEMENT OF FEMALE DOGS IN HEAT.</catch_line>
+ <order_by>12-3012</order_by>
+ <text>
+Every female dog, while in heat, shall be confined in a building or secure enclosure in such manner that she will not be in contact with another dog, nor create a nuisance by attracting other animals; provided, this section shall not be construed to prohibit the intentional breeding of animals within an enclosed area on the premises of the owner of an animal being bred. 
+(Code 1959 , §4-9)  
+DIVISION 2. - RESERVED [10] 
+</text>
+</law>

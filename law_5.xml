@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="I" order_by="1" level="2">ARTICLE I. - IN GENERAL</unit>
+  <unit label="section" identifier="1.6" order_by="1.6" level="3">Sec. 1.6 - PLATTING OF PROPERTY.</unit>
+ </structure>
+ <section_number>I-I-1.6</section_number>
+ <catch_line>PLATTING OF PROPERTY.</catch_line>
+ <order_by>1.6</order_by>
+ <section prefix="text">
+Should any property lying within the corporate limits as established by this Act be hereafter platted into blocks and lots, then and in that event the owners of said property shall plat and lay the same off to conform to the streets and lots abutting on same, and shall file with the City Engineer a correct map of same; provided, that in no case shall the City of Raleigh be required to pay for any of said streets, at whatever date opened; but when opened by reason of the platting of said property, at whatever the date platted, they shall become by such act the property of the City of Raleigh for use as public highways, and shall be cared for as such. 
+</section>
+</law>

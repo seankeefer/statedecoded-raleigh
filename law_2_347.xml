@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2169" order_by="8-2169" level="5">Sec. 8-2169. - LANDSCAPE WATER EFFICIENCY.</unit>
+ </structure>
+ <section_number>8-2169</section_number>
+ <catch_line>LANDSCAPE WATER EFFICIENCY.</catch_line>
+ <order_by>8-2169</order_by>
+ <text>
+Upon application of this Article[*], all new permanent in-ground irrigation systems shall be individually metered. The irrigation systems shall be installed, maintained and operated according to the following design specifications. These systems must include: (1) A smart controller, which will consist of: (a) an approved programmable timer that must reflect mandatory watering restrictions to include days and times, and register run-times as low as one-minute increments, and (b) two (2) weather-based controllers, which will act as shut-off devices to assist in optimal watering conditions which will reflect current climate conditions; one (1) sensor will be a rain sensor, for automatic shut-off during rain events, and the second sensor will monitor one of the other weather characteristics such as temperature soil conditions and/or evapotranspiration, and listed on the IA's website as a common sensor type. 
+These sensors will be installed as add-on devices serving to override the programmable timer's run-times in the event that irrigation is unnecessary or unlawful. 
+Each irrigation system must be installed by a licensed irrigation contractor. Following the installation of a new system, the licensed irrigation contractor will conduct a field performance irrigation audit following the Best Management Practices (BMPs) set forth within the Irrigation Association's (IA) Irrigation Audit Guidelines. The audit shall be scheduled within one (1) month following completion of the installation, and the overall system must maintain a distribution uniformity (DU) of no less than fifty (50) per cent. The licensed irrigation contractor will then submit the audit results to the City for approval, in the format provided by the Irrigation Association, within two (2) weeks of the initial irrigation audit's completion. Systems which fail to meet the standards of the audit will have a period of two (2) weeks from the date of the failing audit to correct the problem or result in having their irrigation service interrupted. 
+The irrigation system shall be regularly maintained to preserve the integrity of the design and to sustain efficient operation. All controllers and sensors shall be installed according to manufacturer's instructions in a location that will provide full exposure to rainfall such that accuracy of operation is assured and shall be maintained in good working condition. No person shall, with the intent of circumventing the purpose of this section, adjust any components of said irrigation system so that the sensors are not able to override and turn off the irrigation system when unnecessary or unlawful. All automatic in-ground irrigation systems shall comply with the mandatory water conservation requirements of §8-2175(c). 
+(Ord. No. 2007-235, §1, 5-15-07; Ord. No. 2010-704, §3, 2-16-10, eff. 7-1-10) 
+Editor's note: This regulation first became applicable to permanent in-ground irrigation systems installed on or after July 1, 2010. 
+</text>
+</law>

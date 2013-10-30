@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2133" order_by="11-2133" level="5">Sec. 11-2133. - REGULATION OF VEHICLES AND LOADS.</unit>
+ </structure>
+ <section_number>11-2133</section_number>
+ <catch_line>REGULATION OF VEHICLES AND LOADS.</catch_line>
+ <order_by>11-2133</order_by>
+ <text>
+  <section prefix="(a)">	It shall be unlawful for any person to drive or move or for the owner to cause or knowingly permit to be moved or driven on any street within the corporate limits any vehicle or vehicles of a size exceeding the limitations stated in this section, provided that the prohibition and limitations of this section shall only apply on the days of the week of Monday through Friday inclusive and shall only apply during the periods between 7:30 a.m. and 8:30 a.m. and between 4:30 p.m. and 6:00 p.m. 
+</section>
+  <section prefix="(b)">	The total outside width of any vehicle or the load thereon shall not exceed ten and one-half (10½) feet. 
+</section>
+  <section prefix="(c)">	No vehicle, unladen or with load, shall exceed a height of thirteen (13) feet, six (6) inches. 
+</section>
+  <section prefix="(d)">	A vehicle having two (2) axles shall not exceed thirty-five (35) feet in length of extreme overall dimensions inclusive of front and rear bumpers. A vehicle having three (3) axles shall not exceed forty (40) feet in length of overall dimensions inclusive of front and rear bumpers. A truck-tractor and semitrailer shall be regarded as two (2) vehicles for the purpose of determining lawful length. 
+</section>
+  <section prefix="(e)">	No combination of vehicles coupled together shall exceed a total length of fifty-five (55) feet inclusive of front and rear bumpers. 
+(Code 1959 , §21-53) 
+</section>
+ </text>
+</law>

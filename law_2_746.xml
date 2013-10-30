@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3004" order_by="12-3004" level="5">Sec. 12-3004. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>12-3004</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>12-3004</order_by>
+ <text>
+  <section prefix="(a)">	Is repeatedly found at large.
+</section>
+  <section prefix="(b)">	Damages the property of anyone other than its owner. 
+</section>
+  <section prefix="(c)">	Is vicious.
+</section>
+  <section prefix="(d)">	Causes fouling of the air by odors.
+</section>
+  <section prefix="(e)">	Causes unsanitary condition of enclosures or surroundings.
+</section>
+  <section prefix="(f)">	By virtue of number or type is offensive or dangerous to the public health, safety, or welfare.
+</section>
+  <section prefix="(g)">	Excessively makes disturbing noises.
+</section>
+  <section prefix="(h)">	Is diseased and dangerous to the public health.
+Tether Tying out or fastening a dog outdoors on a rope, chain or other line for restraining a dog. The term does not mean the restraint of a dog on an attended leash. 
+Trainer. Any individual who holds himself available to the general public for the purpose of training attack and security dogs. This does not include individuals who are in the business of obedience training only. 
+Vicious animal. Any animal which constitutes a physical threat to human beings or other animals by virtue of attacks of such number and severity as to cause property damage or physical injury. 
+Weekdays. Monday through Saturday inclusive, excluding local, state and national legal holidays. 
+(Code 1959 , §4-4; Ord. No. 1980-502, §1, 10-21-80; Ord. No. 1996-833, §1, 2-20-96; Ord. No. 2000-843, §1, 7-18-00; Ord. No. 2003-400, §1, 3-18-03; Ord. No. 2009-552, §1, 3-3-09, eff. 7-1-09) 
+</section>
+ </text>
+</law>

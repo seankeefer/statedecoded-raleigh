@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="14" order_by="14" level="2">PART 14 - GENERAL PROVISIONS</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - TORT CLAIMS BY CITY</unit>
+  <unit label="section" identifier="14-2007" order_by="14-2007" level="4">Sec. 14-2007. - REPAIR OF DAMAGED PROPERTY.</unit>
+ </structure>
+ <section_number>14-2007</section_number>
+ <catch_line>REPAIR OF DAMAGED PROPERTY.</catch_line>
+ <order_by>14-2007</order_by>
+ <text>
+It shall be unlawful for any person to use for any dog, attack and security dog training facility, or holding facility, a license receipt, or a rabies inoculation certificate issued to another person, dog, cat, or facility. 
+(Code 1959 , §4-49; Ord. No. 1980-502, §4, 10-21-80; Ord. No. 2012-59, §5, 6-5-12, eff. 1-1-13)  
+</text>
+</law>

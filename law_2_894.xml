@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="7" order_by="7" level="2">PART 7 - SOLID WASTE SERVICES [1]</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - SOLID WASTE COLLECTION [2]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="7-2002" order_by="7-2002" level="5">Sec. 7-2002.1. - ENFORCEMENT BY SOLID WASTE SERVICES DEPARTMENT.</unit>
+ </structure>
+ <section_number>7-2002</section_number>
+ <catch_line>ENFORCEMENT BY SOLID WASTE SERVICES DEPARTMENT.</catch_line>
+ <order_by>7-2002</order_by>
+ <text>
+The Solid Waste Services Director, or his designee, is clothed with full power and authority imposed by this and other related sections of the Raleigh City Code and is hereby authorized to carry out its provisions. The Solid Waste Services Department is given the authority to prevent items banned from landfills, as set forth in N.C. Gen. Stat. §130A-309.10(f), from entering the waste stream through education, press release, public notice, other communications and events, and/or direct enforcement including the assessment of administrative fees and civil penalties. 
+(Ord. No. 2011-822, §1, 1-4-11) 
+</text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.21" order_by="6.21" level="3">Sec. 6.21 - POLICE DEPARTMENT; CREATED; PERSONNEL.</unit>
+ </structure>
+ <section_number>I-VI-6.21</section_number>
+ <catch_line>POLICE DEPARTMENT; CREATED; PERSONNEL.</catch_line>
+ <order_by>6.21</order_by>
+ <section prefix="text">
+There is hereby created, within the Department of Public Safety, a Police Department (or division), which shall be composed of a Chief of Police, under the Director of Public Safety, and such other officers and employees as shall be deemed necessary by the City Council. The salaries of the Chief of Police and of the other officers and employees of the department or division shall be fixed by the City Council. The Chief of Police may or may not be chosen from the officers of the Police Department. 
+) 
+</section>
+ <history>(S.L. 1973, Ch. 319, §1(q)</history>
+</law>

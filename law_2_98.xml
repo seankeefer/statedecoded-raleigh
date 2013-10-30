@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TRANSIENT OCCUPANCY TAX; CONVENTION AND VISITORS BUREAU</unit>
+  <unit label="section" identifier="2-2082" order_by="2-2082" level="5">Sec. 2-2082. - DEDUCTIONS AND REFUNDS.</unit>
+ </structure>
+ <section_number>2-2082</section_number>
+ <catch_line>DEDUCTIONS AND REFUNDS.</catch_line>
+ <order_by>2-2082</order_by>
+ <text>
+During any month following a month in which a hotel, motel, or inn has supplied a room to the same person for the ninetieth consecutive day, the hotel, motel or inn can apply to the City Revenue Collector, on a form available from that office for that purpose, for a deduction from transient occupancy taxes due that month in an amount equal to the tax previously paid on the receipts from the rental of the room supplied for the period of ninety (90) continuous days or more. A refund shall be issued by the Revenue Collector if no transient occupancy taxes are then due from which a deduction could be taken. 
+(Ord. No. 1986-825A, §1, 7-15-86) 
+</text>
+</law>

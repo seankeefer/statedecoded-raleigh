@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="4" order_by="4" level="2">PART 4 - COMMUNITY SERVICES [1]</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF COMMUNITY SERVICES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - CIVIL RIGHTS UNIT</unit>
+  <unit label="section" identifier="4-1011" order_by="4-1011" level="5">Sec. 4-1011. - PURPOSE.</unit>
+ </structure>
+ <section_number>4-1011</section_number>
+ <catch_line>PURPOSE.</catch_line>
+ <order_by>4-1011</order_by>
+ <text>
+The unit of civil rights is charged with assisting the City in developing a community with unity and harmony based on justice; a community free of discriminatory practices based on race, color, creed, age, sex, national origin, and thus enabling the City to benefit from the fullest realization of its human resource. 
+(Ord. No. 1977-473, 3-15-77, §2) 
+</text>
+</law>

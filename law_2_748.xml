@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3006" order_by="12-3006" level="5">Sec. 12-3006. - ANIMALS OR FOWL BANNED FROM SALE.</unit>
+ </structure>
+ <section_number>12-3006</section_number>
+ <catch_line>ANIMALS OR FOWL BANNED FROM SALE.</catch_line>
+ <order_by>12-3006</order_by>
+ <text>
+It shall be unlawful for any person to sell or offer for sale, or permit to be sold or offered for sale, within the corporate limits of the City, baby chickens, baby ducklings, or baby rabbits less than six (6) weeks of age; provided, this section shall not apply to hatcheries raising chickens or ducks expressly for the broiler market or for sale to farms. 
+(Code 1959 , §4-6) 
+</text>
+</law>

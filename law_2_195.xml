@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET AND SIDEWALK STANDARDS</unit>
+  <unit label="section" identifier="6-2013" order_by="6-2013" level="5">Sec. 6-2013. - STREET WIDTHS.</unit>
+ </structure>
+ <section_number>6-2013</section_number>
+ <catch_line>STREET WIDTHS.</catch_line>
+ <order_by>6-2013</order_by>
+ <text>
+  <section prefix="(a)">	Major and minor thoroughfares, fifty-three (53) feet (16.6 meters) or more;
+</section>
+  <section prefix="(b)">	Collector street, forty-one (41) feet (12.50 meters); 
+</section>
+  <section prefix="(c)">	Commercial street, forty-one (41) feet (12.50 meters); 
+</section>
+  <section prefix="(d)">	Residential collector street, thirty-six (36) feet (10.97 meters), but forty-one (41) feet (12.50 meters) within three hundred (300) feet of a collector street or thoroughfare system roadway intersection. 
+</section>
+  <section prefix="(e)">	Residential street, thirty-one (31) feet (9.45 meters); 
+</section>
+  <section prefix="(f)">	Minor residential street, twenty-six (26) feet (7.92 meters). 
+(Ord. No. 1987-69, §4, 10-20-87; Ord. No. 1995-760-TC-122, §5, TC-20C-95, 11-21-95) 
+</section>
+ </text>
+</law>

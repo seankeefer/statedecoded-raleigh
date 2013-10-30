@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2159" order_by="12-2159" level="5">Sec. 12-2159. - ENFORCEMENT.</unit>
+ </structure>
+ <section_number>12-2159</section_number>
+ <catch_line>ENFORCEMENT.</catch_line>
+ <order_by>12-2159</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Any person who shall operate a business without first applying for and obtaining the license required in §12-2156 shall be subject to a civil penalty of one thousand dollars ($1,000.00), and each continuing day of noncompliance following notice thereof shall result in the assessment of an additional civil penalty of five hundred dollars ($500.00) per day. 
+</section>
+   <section prefix="(2)">	Any licensee who after receiving written notice by the City violates §12-2157 shall be subject to a civil penalty of five hundred dollars ($500.00). Thereafter, each and every subsequent single violation occurring on the same business location, within the same two-year period shall be assessed a civil penalty of one thousand dollars ($1,000.00). 
+</section>
+  </section>
+  <section prefix="(b)">	Equitable remedies, including injunctions. 
+As authorized by the City Council, the City may apply for any appropriate equitable remedy to enforce the provisions of this article, including mandatory or prohibitory injunctions commanding the party to correct the unlawful condition or cease the unlawful use of the business. 
+</section>
+  <section prefix="(c)">	Criminal offense. 
+A violation of this article shall constitute a misdemeanor offense as provided by G.S. 14-4, and the maximum fine or term of imprisonment or both as authorized by law is hereby imposed. 
+</section>
+  <section prefix="(d)">	Revocation of license. 
+Following a written recommendation of the City Manager which describes the nature of any violation, the City Council may revoke a license issued pursuant to §12-2156 if it determines that the licensee has violated any provision of this article and other means of enforcement have failed to deter the licensee from operating in violation of this article. 
+(Ord. No. 1992-31, §1, 8-4-92; Ord. No. 1994-340, §2, 2-15-94; Ord. No. 1997-49, §3, 2-4-97) 
+</section>
+ </text>
+</law>

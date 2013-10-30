@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - REUSE WATER REGULATION [7]</unit>
+  <unit label="section" identifier="8-2187" order_by="8-2187" level="5">Sec. 8-2187. - BUFFERS AND RUNOFF.</unit>
+ </structure>
+ <section_number>8-2187</section_number>
+ <catch_line>BUFFERS AND RUNOFF.</catch_line>
+ <order_by>8-2187</order_by>
+ <text>
+  <section prefix="(1)">	Twenty-five (25) feet from surface waters including intermittent streams, perennial streams, perennial water bodies and wetlands.
+</section>
+  <section prefix="(2)">	One hundred (100) feet from any well except monitoring wells.
+</section>
+  <section prefix="(3)">	Fifty (50) feet between reuse water storage/irrigation ponds and property lines. 
+Irrigation and other systems using reuse water shall not generate runoff that flows into the natural waterways or into the buffer areas. Runoff shall not enter a storm sewer or drainage ditch that connects to waters of the State. 
+(Ord. No. 2006-100, §1, 9-19-06) 
+</section>
+ </text>
+</law>

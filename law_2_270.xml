@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2078" order_by="8-2078" level="5">Sec. 8-2078. - ENFORCEMENT PROCEDURE.</unit>
+ </structure>
+ <section_number>8-2078</section_number>
+ <catch_line>ENFORCEMENT PROCEDURE.</catch_line>
+ <order_by>8-2078</order_by>
+ <text>
+  <section prefix="(a)">	Civil penalties. 
+Any person who violates any of the provisions of this division, or any standard or regulation, rule, or order duly adopted in furtherance of this division, or who undertakes or continues any alteration, extension, or construction of the utility system or part thereof without first obtaining a permit or written permission or who undertakes or continues any alterations, extension or construction of the utility system or part thereof, except in conformity with the terms, conditions, requirements and provisions of an approved application, plan, or both shall be subject to a civil penalty of fifteen hundred dollars ($1,500.00) per day. The person alleged to be in violation shall be given notice of the civil penalty by registered mail, certified mail return receipt requested or personal service. The notice shall set forth in detail a description of the violation for which the penalty has been invoked. For continuous violations, a second notice shall be sent ten (10) calendar days after the original notice. If payment is not received or equitable settlement reached after twenty (20) days after demand for payment is first made, the matter shall be referred to the City Attorney for institution of a civil action in the name of the City in the appropriate division of the general court of justice of Wake County for recovery of the penalty. 
+</section>
+  <section prefix="(b)">	Criminal penalties. 
+Any person who knowingly or willfully or negligently violates any of the provisions of this division, or any standard, regulation, rule or order duly adopted in furtherance of this division, or who undertakes or continues any alteration, extension or construction of the utility system or part thereof without first obtaining a permit or written permission or who undertakes or continues any alteration, extension, or construction of the utility system or part thereof, except in conformity with the terms, conditions, requirements and provisions of an approved application, plan, or both shall be guilty of a misdemeanor punishable by imprisonment to the maximum number of days prescribed by law. 
+</section>
+  <section prefix="(c)">	Injunctive relief. 
+Whenever the City Council has reasonable cause to believe that any person is violating or threatening to violate any of the provisions of this division or any standards, regulation, rule or order duly adopted in furtherance of this division, or is undertaking or continuing any alteration, extension and construction of the utility system without first obtaining a permit or written permission, or is undertaking or continuing any alterations, extension, or construction of the utility system or part thereof, except in conformity with the terms, conditions, requirements and provisions of an approved application, plan, or both, the City may, either before or after the institution of any other action or proceeding authorized by this Code, institute a civil action in the name of the City for injunctive relief to restrain the violation or threatened violation. The institution of an action for injunctive relief under this subsection shall not relieve any party to such proceeding from any civil or criminal penalty prescribed for violations of this Code. 
+The terms &quot;undertakes&quot; or &quot;undertaking&quot; as used in §8-2078 herein means the initiating of or continuing of or being financially responsible for any activity or phase of activity which results in the extension, construction, or alteration of any part of the utility system of the City. 
+(Ord. No. 1986-775, §1, 4-15-86; Ord. No. 2006-100, §2, 9-19-06) 
+State law reference: Criminal offenses, G.S. 14-4; G.S. 143-215.6(b). 
+</section>
+ </text>
+</law>

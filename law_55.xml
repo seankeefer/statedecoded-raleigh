@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.14" order_by="6.14" level="3">Sec. 6.14 - SALES OF PROPERTY OF THE CITY; PERSONAL.</unit>
+ </structure>
+ <section_number>I-VI-6.14</section_number>
+ <catch_line>SALES OF PROPERTY OF THE CITY; PERSONAL.</catch_line>
+ <order_by>6.14</order_by>
+ <section prefix="text">
+The City Council shall have power at any time to sell any and all personal property belonging to the City of Raleigh after having authorized the sale thereof by resolution duly adopted and after having advertised the property for sale by publishing a notice at least once in a daily newspaper published in the City of Raleigh and qualified to publish legal advertising, at least seven (7) days prior to the date of the sale, which notice shall contain a brief description of the property to be sold and the date, hour and place of such sale. Such sale shall be by public auction or by sealed bids invited by advertisement which shall be publicly opened, or by a combination of sealed bids and public auction, as set forth in the said resolution and notice of sale or as prescribed by ordinance. The sale shall be subject to confirmation by the City Council, and the City Council shall have the right and power to reject any and all bids, or to authorize a sale to the highest bidder for cash if the Council determines in its discretion that the highest price bid is fair and reasonable. The Mayor, or other official authorized by the City Council, shall have power to make title to the purchaser. 
+</section>
+</law>

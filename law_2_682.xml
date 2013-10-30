@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PAWNBROKERS [3]</unit>
+  <unit label="section" identifier="12-2103" order_by="12-2103" level="5">Sec. 12-2103. - ISSUANCE OF LICENSE.</unit>
+ </structure>
+ <section_number>12-2103</section_number>
+ <catch_line>ISSUANCE OF LICENSE.</catch_line>
+ <order_by>12-2103</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	The application contains no misstatement of fact.
+</section>
+   <section prefix="(2)">	The applicant conforms to all requirements of applicable zoning, building, and fire prevention codes.
+</section>
+   <section prefix="(3)">	The applicant shall not have been convicted of a felony within a ten-year period preceding the filing of the application. 
+</section>
+   <section prefix="(4)">	Parking facilities and traffic facilities in the neighborhood.
+</section>
+   <section prefix="(5)">	The recommendations of the City of Raleigh Police Department. 
+</section>
+   <section prefix="(6)">	Any other evidence that would tend to show whether the applicant would comply with the provisions of G.S. Chapter 91A and the applicable provisions of this Code and whether the operation of the business at that location would be detrimental to the neighborhood. 
+</section>
+   <section prefix="(7)">	This ordinance [section] shall apply to all pawnbroker licenses pending on May 8, 1995, and to all applications for such licenses filed after that date. 
+</section>
+  </section>
+  <section prefix="(b)">	Upon approval of the application by the Council and upon receipt of a license fee of two hundred seventy-five dollars ($275.00), the Revenue Collector shall issue a pawnbrokers license to the applicant. The license must be renewed annually. 
+</section>
+  <section prefix="(c)">	At the time of receiving the license the applicant shall file with the City Clerk a bond payable to the City in the amount of five thousand dollars ($5,000.00) to be executed by the licensee and by two (2) sureties or a surety company licensed to do business in North Carolina, which shall be for the faithful performance of the requirements and obligations pertaining to the licensed business. The City may sue for forfeiture of the bond upon breach, and any other person who obtains a judgment against a pawnbroker and upon which judgment execution is returned unsatisfied may maintain an action in his own name upon the bond to satisfy the judgment. 
+(Ord. No. 1992-982, §3, 6-2-92; Ord. No. 1995-639, §1, 5-2-95; Ord. No. 1995-679, §1, 7-5-95) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.8" order_by="6.8" level="3">Sec. 6.8 - POWERS, DUTIES AND OBLIGATIONS OF CITY COLLECTOR OF REVENUE; SPECIFIC ENUMERATION.</unit>
+ </structure>
+ <section_number>I-VI-6.8</section_number>
+ <catch_line>POWERS, DUTIES AND OBLIGATIONS OF CITY COLLECTOR OF REVENUE; SPECIFIC ENUMERATION.</catch_line>
+ <order_by>6.8</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	He shall collect ad valorem taxes on real and personal property, street assessments, benefits assessed in condemnation proceedings, license privilege taxes, poll taxes, auto license taxes, dog licenses, and all other taxes of any nature or kind, privilege or otherwise required to be paid to the City of Raleigh and not herein otherwise specifically required to be collected by some other officer or department of the City of Raleigh. He shall keep a true and accurate account thereof and shall allocate the moneys received by him to the respective accounts designated in the levy of such tax assessments, and each day render a detailed statement of such collection to the Treasurer of the City of Raleigh accompanied by the duplicate bank deposit slip showing the deposit of such funds in a depository, or depositories, designated by the City Council for the deposit of such funds. 
+</section>
+  <section prefix="(2)">	He shall be the custodian of the tax books and records, together with all tax sale certificates, street assessment books and records, and all moneys coming into his hands, until the same have been duly deposited in the depository, or depositories, named by the City Council. 
+</section>
+  <section prefix="(3)">	He shall issue under the rules and regulations of the City Council all privilege licenses except those authorized to be issued by other officers or departments of said City upon the payment of the license or privilege fee required by the ordinances of the City of Raleigh. 
+</section>
+  <section prefix="(4)">	Possession of the tax list or scroll, after having been placed in the hands of the City Collector of Revenue by the City Council, shall have the same force and effect of a duly docketed judgment and of an execution against the real and personal property of the persons charged with taxes on such list, and the collector of revenue is authorized to make seizure under said tax list as fully as if an execution issued from a court of competent jurisdiction, in the same way and manner as the sheriff may levy and execute upon an execution issued to him by a court of competent jurisdiction, and he shall, when necessary, institute in the name of the City, garnishment proceedings for the purpose of collection of taxes. 
+</section>
+ </section>
+</law>

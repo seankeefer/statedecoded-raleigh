@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PAWNBROKERS [3]</unit>
+  <unit label="section" identifier="12-2101" order_by="12-2101" level="5">Sec. 12-2101. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>12-2101</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>12-2101</order_by>
+ <text>
+As used in this article the following terms shall be defined as follows: 
+Pawn or Pawn Transaction: A written bailment of personal property as security for debt, redeemable on certain terms within one hundred eighty (180) days, unless renewed, and with an implied power of sale on default. 
+Pawnbroker: A person engaged in the business of lending money on the security of pledged goods and who may also purchase merchandise for resale from dealers and traders. 
+Pawnshop: The location at which or in which a pawnbroker regularly conducts business. 
+Person: Any individual, corporation, joint venture, association, or any other legal entity, however organized. 
+Pledged Goods: Tangible personal property which is deposited with or otherwise delivered into the possession of a pawnbroker in the course of his business in connection with a pawn transaction. 
+Purchase: Any item purchased from an individual for the purpose of resale whereby the seller no longer has a vested interest in the item. 
+(Ord. No. 1992-982, §1, 6-2-92) 
+</text>
+</law>

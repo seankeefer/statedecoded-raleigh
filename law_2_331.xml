@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2150" order_by="8-2150" level="5">Sec. 8-2150. - NEW CONSTRUCTION.</unit>
+ </structure>
+ <section_number>8-2150</section_number>
+ <catch_line>NEW CONSTRUCTION.</catch_line>
+ <order_by>8-2150</order_by>
+ <text>
+All buildings proposing to connect to the public water system of the City of Raleigh receiving building permits, on or after the effective date of this article, shall be equipped with an approved and tested as properly functioning backflow prevention device(s), as prescribed herein, prior to the issuance of a certificate of code compliance for that building. If a building permit was issued for the building prior to the effective date of the article, or a building permit was not required, the building shall be considered to be an existing building prior to the effective date, in accordance with §8-2146 of this Code. 
+(Ord. No. 1987-20, §1, 7-21-87) 
+Editor's note: The effective date of this article is September 30, 1987. 
+</text>
+</law>

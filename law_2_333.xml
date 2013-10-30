@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2152" order_by="8-2152" level="5">Sec. 8-2152. - CHANGE IN NATURE OF USE.</unit>
+ </structure>
+ <section_number>8-2152</section_number>
+ <catch_line>CHANGE IN NATURE OF USE.</catch_line>
+ <order_by>8-2152</order_by>
+ <text>
+The Public Utilities Department shall be notified by the consumer when the nature of use of the property changes so as to change the hazard classification of that property, as set forth in §§8-2147 through 8-2148 of this Code. 
+(Ord. No. 1987-20, §1, 7-21-87) 
+</text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - MOTOR VEHICLES REGISTRATION [2]</unit>
+  <unit label="section" identifier="2-2072" order_by="2-2072" level="5">Sec. 2-2072. - EXEMPTIONS.</unit>
+ </structure>
+ <section_number>2-2072</section_number>
+ <catch_line>EXEMPTIONS.</catch_line>
+ <order_by>2-2072</order_by>
+ <text>
+The motor vehicle license required by this article shall not apply to motor vehicles belonging to members of the armed forces of the United States on duty within the City and exempted by Title 50, United States Code, §574, nor shall the license be required of motor vehicles held for sale as a part of the stock and trade of any motor vehicle dealer licensed under this chapter and bearing a state license issued pursuant to the General Statutes. 
+(Ord. No. 1988-240, §2, 9-6-88) 
+</text>
+</law>

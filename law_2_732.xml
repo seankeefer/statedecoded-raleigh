@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2175" order_by="12-2175" level="5">Sec. 12-2175. - FINDINGS AND DECLARATION OF NECESSITY.</unit>
+ </structure>
+ <section_number>12-2175</section_number>
+ <catch_line>FINDINGS AND DECLARATION OF NECESSITY.</catch_line>
+ <order_by>12-2175</order_by>
+ <text>
+  <section prefix="(a)">	Findings: Housing in the City consists of owner occupied and tenant occupied properties and the two types of housing are in general parity. The substantial majority of complaints about and violations of the Code provisions adopted to assure minimum adequate housing arise from tenant occupied property. State law and this Code impose the responsibility to provide minimally adequate housing for tenants on the property owner. A significant obstacle to effecting prompt and efficient enforcement of the minimum housing code is accuracy of the information in the public record for making contact with the owner of such tenant occupied properties and for the delivery of notifications of activity at the property which may result in the dwelling being required to be licensed under Article G, the Probationary Rental Occupancy Permit. In addition, the effectiveness of responses by the Fire Department and the Police Department to multiple incidents at such properties can be improved by contact with the owners or managers of such properties. Existing contact information is insufficient to achieve prompt City response to matters adversely impacting the public health, safety, and welfare of the City including the quality of life for tenants, affected neighborhoods and the City. To expedite Fire and Police response as well as compliance with the Code at such properties and thereby assure better quality housing for tenants and the neighborhood, the Council finds it necessary to adopt a registration requirement for residential rental properties. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Promote responsible management of these housing accommodations.
+</section>
+   <section prefix="(2)">	Assist in providing a safe habitat for residents and neighbors of these facilities.
+</section>
+   <section prefix="(3)">	Safeguard property values. 
+</section>
+   <section prefix="(4)">	Expedite repair of residential housing accommodations where such problems arise. 
+(Ord. No. 2008-415B, §1, 7-1-08) 
+</section>
+  </section>
+ </text>
+</law>

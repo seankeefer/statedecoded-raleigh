@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - PROCEDURE</unit>
+  <unit label="section" identifier="6-2002" order_by="6-2002" level="5">Sec. 6-2002. - CITY COUNCIL INITIATIVE.</unit>
+ </structure>
+ <section_number>6-2002</section_number>
+ <catch_line>CITY COUNCIL INITIATIVE.</catch_line>
+ <order_by>6-2002</order_by>
+ <text>
+  <section prefix="(a)">	Whenever the City Council decides to finance a proposed street and sidewalk project by special assessments, it shall first adopt a preliminary resolution (resolution of intent) pursuant to Article 10 of Chapter 160A of the General Statutes. The Council may adopt a preliminary resolution without a petition and assess the costs against the property. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(2)">	Efforts reasonably calculated to notify interested parties of the proposed public improvements and scheduled information meetings shall be made by the City. Such notice shall be made at least three (3) weeks prior to the meeting and may include, without limitation, first class mailings, citizens' advisory Council newsletters, and the posting of notice on the street. 
+</section>
+   <section prefix="(3)">	Further deliberations including review of the proposed variances to be recommended to the City Council, will be held with groups or individuals as warranted. 
+</section>
+   <section prefix="(4)">	The informational meeting, notice, and deliberations required in subdivisions (b)(1) through (3) shall not apply to repairs to resurfacing or to reconstruction of existing facilities. 
+</section>
+  </section>
+  <section prefix="(c)">	Following these deliberations, a hearing on the preliminary resolution (assessment resolution) and a hearing on the preliminary assessment roll (confirmation hearing) will be held in accordance with Article 10 Chapter 160A of the General Statutes. 
+(Ord. No. 1985-613, §1, 7-16-85; Ord. No. 1987-69, §1, 10-20-87) 
+Charter reference: Street and sidewalk assessments without petition, §6.44 
+</section>
+ </text>
+</law>

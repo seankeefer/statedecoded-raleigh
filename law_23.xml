@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.1" order_by="3.1" level="3">Sec. 3.1 - CITY MANAGER; APPOINTMENT.</unit>
+ </structure>
+ <section_number>I-III-3.1</section_number>
+ <catch_line>CITY MANAGER; APPOINTMENT.</catch_line>
+ <order_by>3.1</order_by>
+ <section prefix="text">
+The City Council shall appoint a City Manager, who shall be the administrative head of the City government, and shall be responsible for the administration of all departments. He shall be appointed with regard to merit only, and he need not be a resident of the City when appointed. He shall hold office during the pleasure of the City Council, and shall receive such compensation as the City Council shall fix by ordinance. 
+</section>
+</law>

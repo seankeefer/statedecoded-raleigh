@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VII" order_by="7" level="2">ARTICLE VII. - MISCELLANEOUS PROVISIONS</unit>
+  <unit label="section" identifier="7.2" order_by="7.2" level="3">Sec. 7.2 - COMPUTATION OF TIME.</unit>
+ </structure>
+ <section_number>I-VII-7.2</section_number>
+ <catch_line>COMPUTATION OF TIME.</catch_line>
+ <order_by>7.2</order_by>
+ <section prefix="text">
+In all provisions of this charter and the ordinances that are now or to be hereafter enforced in the City of Raleigh, that fix any time for doing or performing any act, the time shall be eastern standard time, and all persons, firms and corporations who are granted license by the City, shall be held to have accepted the same on the conditions that the same time shall govern; provided, that in the event what is commonly known as daylight saving time shall be adopted by the City Council or otherwise by law, then in such event such time shall be considered to be in force and effect with respect to the provisions of this section in lieu of eastern standard time. 
+</section>
+</law>

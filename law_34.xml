@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="IV" order_by="4" level="2">ARTICLE IV. - ELECTIONS [2] </unit>
+  <unit label="section" identifier="4.3" order_by="4.3" level="3">Sec. 4.3 - REMOVAL OF RESIDENCE.</unit>
+ </structure>
+ <section_number>I-IV-4.3</section_number>
+ <catch_line>REMOVAL OF RESIDENCE.</catch_line>
+ <order_by>4.3</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	In the case of removal of residence of any elective officer from the territorial limits of the City, such removal shall, ipso facto, create a vacancy in his office. 
+</section>
+  <section prefix="(b)">	In the case of removal of residence of any officer elected to represent a specific electoral district from the electoral district for the representation of which he was elected, such removal shall, ipso facto, create a vacancy in his office. 
+) 
+</section>
+ </section>
+ <history>(S.L. 1953, Ch. 347, Art. 2; S.L. 1973, Ch. 319, §1(m)</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.6" order_by="6.6" level="3">Sec. 6.6 - SUPERVISION BY DIRECTOR OF FINANCE OF COLLECTIONS AND PURCHASES AND CONTRACTS.</unit>
+ </structure>
+ <section_number>I-VI-6.6</section_number>
+ <catch_line>SUPERVISION BY DIRECTOR OF FINANCE OF COLLECTIONS AND PURCHASES AND CONTRACTS.</catch_line>
+ <order_by>6.6</order_by>
+ <section prefix="text">
+The Director of Finance shall have general supervision over the collection of all taxes, special assessments, license fees and other revenues of the City of Raleigh, but the responsibility for collecting taxes, special assessments, license fees and other revenues of the City and the responsibility for receiving and accounting for such moneys shall be that of the City Collector of Revenue, as hereinafter provided. The Director of Finance shall also have general supervision over the purchase, storage and distribution of all supplies, materials, equipment and other articles authorized to be purchased by the City Council, as well as all contracts relating to such purchases, but the direct responsibility for such purchases and contracts shall be imposed upon the City purchasing agent, who shall be the head of the Division of Purchases and Contracts, as hereinafter provided. 
+</section>
+</law>

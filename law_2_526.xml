@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2233" order_by="11-2233" level="5">Sec. 11-2233. - USE OF FLAGMEN; CHANNELIZATION OF TRAFFIC.</unit>
+ </structure>
+ <section_number>11-2233</section_number>
+ <catch_line>USE OF FLAGMEN; CHANNELIZATION OF TRAFFIC.</catch_line>
+ <order_by>11-2233</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Provide signs and barricades and one (1) or more flagmen, as necessary to maintain traffic flow by the obstruction; or 
+</section>
+   <section prefix="(2)">	Clearly and safely separate and channelize the opposing movement of traffic when the unobstructed portion of the roadway is of sufficient width to provide at least a ten (10) feet minimum lane. Such separation and channelization shall be achieved by the use of traffic cones, signs and/or barricades. 
+</section>
+  </section>
+  <section prefix="(b)">	Failure to comply with the provisions of this section shall be a misdemeanor. 
+(Code 1959 , §19-35; Ord. No. 1980-416, §4, 7-15-80; Ord. No. 1994-393, §§5, 6, 5-3-94) 
+</section>
+ </text>
+</law>

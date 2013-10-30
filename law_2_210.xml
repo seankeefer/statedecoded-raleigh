@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - RENAMING STREETS</unit>
+  <unit label="section" identifier="6-3001" order_by="6-3001" level="4">Sec. 6-3001. - PROCEDURES FOR RENAMING STREETS.</unit>
+ </structure>
+ <section_number>6-3001</section_number>
+ <catch_line>PROCEDURES FOR RENAMING STREETS.</catch_line>
+ <order_by>6-3001</order_by>
+ <text>
+Dedicated streets not opened shall not be opened or maintained unless first improved by the owners of the property abutting thereon by the installation of improvements in conformity with City standards. Submission of a sufficient petition as provided in this chapter by abutting property owners requesting the improvement of the street on an assessment basis shall be considered as compliance with the provisions of this section. 
+(Ord. No. 1995-760-TC-122, §11, TC-20C-95, 11-21-95) 
+Cross references: City standards for streets, Part 10 chapters 3 and 7; Street Sidewalk and Driveway Access Handbook on file with the City Clerk. 
+Editor's note: The provisions of Part 10 chapter 3 are unaffected by the provisions of Part 6 chapter 2, Ordinance No. (1979)-197 uncodified §2. 
+State law reference: S.L. 1989 Chapter 511.  
+</text>
+</law>

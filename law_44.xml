@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.3" order_by="6.3" level="3">Sec. 6.3 - DIRECTOR OF FINANCE, CITY ACCOUNTANT; APPOINTMENT; BOND.</unit>
+ </structure>
+ <section_number>I-VI-6.3</section_number>
+ <catch_line>DIRECTOR OF FINANCE, CITY ACCOUNTANT; APPOINTMENT; BOND.</catch_line>
+ <order_by>6.3</order_by>
+ <section prefix="text">
+It shall be the duty of the City Council on or before the first day of June 1949, and biennially thereafter before the first day of June in each odd year, to appoint, upon the advice and recommendation of the City Manager some person of honesty and ability whose experience, training and qualifications have been approved by the Local Government Commission of the State of North Carolina, as City Accountant of the City of Raleigh, who shall also be known as the Director of Finance, and he shall hold such office or position at the will of the City Council or until such approval has been revoked by the Local Government Commission, or until the appointment of his successor. The City Accountant shall furnish bond annually in such amount as required by the City Council, which bond shall be approved both by the City Council and by the Local Government Commission, and shall be conditioned for the faithful performance of his duties imposed by law as City Accountant and Director of Finance. 
+</section>
+</law>

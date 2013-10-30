@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2118" order_by="12-2118" level="5">Sec. 12-2118. - DEFINITION.</unit>
+ </structure>
+ <section_number>12-2118</section_number>
+ <catch_line>DEFINITION.</catch_line>
+ <order_by>12-2118</order_by>
+ <text>
+All establishments located in Raleigh and providing amplified music or other amplified entertainment shall possess an amplified entertainment permit. Amplified entertainment shall mean any type of music or other entertainment delivered through and by an electronic system. Televisions operating with no amplification other than their internal speakers and background music systems operated at a low amplification and not intended for entertainment shall not be deemed amplified entertainment. Religious worship facilities, schools and any establishment providing amplified entertainment four (4) or fewer times a year are exempt from the provisions of this division. 
+(Ord. No. 1999-539, §1, 4-6-99; Ord. No. 2005-851, §1, 6-7-05) 
+</text>
+</law>

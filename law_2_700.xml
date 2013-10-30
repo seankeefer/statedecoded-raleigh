@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - MASSAGES [6]</unit>
+  <unit label="section" identifier="12-2132" order_by="12-2132" level="5">Sec. 12-2132. - EXEMPTIONS.</unit>
+ </structure>
+ <section_number>12-2132</section_number>
+ <catch_line>EXEMPTIONS.</catch_line>
+ <order_by>12-2132</order_by>
+ <text>
+  <section prefix="(a)">	Trainers of any amateur, semiprofessional, or professional athlete or athletic team within the framework of athletic participation.
+</section>
+  <section prefix="(b)">	Massage practiced at any State accredited school, college, university, or seminary. 
+</section>
+  <section prefix="(c)">	Massage practiced at any hospital, clinic, nursing home, convalescent home, or sanitarium established and licensed pursuant to the laws of this State. 
+</section>
+  <section prefix="(d)">	Any person exempted from the requirement of a North Carolina massage and bodywork therapy license under G.S. §90-624. 
+(Ord. No. 2001-935, §3, 2-6-01) 
+</section>
+ </text>
+</law>

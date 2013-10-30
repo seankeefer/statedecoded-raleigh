@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2011" order_by="5-2011" level="5">Sec. 5-2011. - INTERFERENCE WITH FIREFIGHTER; GETTING ON OR OFF APPARATUS; LOITERING; MEDDLING WITH APPARATUS.</unit>
+ </structure>
+ <section_number>5-2011</section_number>
+ <catch_line>INTERFERENCE WITH FIREFIGHTER; GETTING ON OR OFF APPARATUS; LOITERING; MEDDLING WITH APPARATUS.</catch_line>
+ <order_by>5-2011</order_by>
+ <text>
+It shall be unlawful for any person to interfere with a firefighter in the discharge of his duty, or to get on or off of the apparatus going to or from a fire without authority from the Chief or Assistant Chief, or to loiter about the engine houses, or for any person to meddle with the engine, hose, or apparatus. 
+(Code 1959 , §10-10) 
+</text>
+</law>

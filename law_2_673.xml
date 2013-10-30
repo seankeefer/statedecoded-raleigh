@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2089" order_by="12-2089" level="5">Sec. 12-2089. - CONTENTS AND EFFECT.</unit>
+ </structure>
+ <section_number>12-2089</section_number>
+ <catch_line>CONTENTS AND EFFECT.</catch_line>
+ <order_by>12-2089</order_by>
+ <text>
+  <section prefix="(a)">	The driver's permit shall specify the certificate holder for whom such driver may operate a cab. The driver holding such permit shall not drive for any other certificate holder without securing a new permit from the inspector designating the new certificate holder. 
+</section>
+  <section prefix="(b)">	The driver's permit shall bear a recent photograph of the driver to whom it issued and shall show the name, address, height, weight, age and expiration date of the permit. 
+</section>
+  <section prefix="(c)">	Upon the issuance of a driver's permit, the permittee may drive a taxicab under its authorization for the period of time stated therein, subject to its revocation as provided in this division. 
+(Code 1959 , §22-51; Ord. No. 2009-671, §40, 11-3-09) 
+</section>
+ </text>
+</law>

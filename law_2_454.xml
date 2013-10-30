@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TURNING MOVEMENTS</unit>
+  <unit label="section" identifier="11-2104" order_by="11-2104" level="5">Sec. 11-2104. - TURNING AT OR BETWEEN INTERSECTIONS.</unit>
+ </structure>
+ <section_number>11-2104</section_number>
+ <catch_line>TURNING AT OR BETWEEN INTERSECTIONS.</catch_line>
+ <order_by>11-2104</order_by>
+ <text>
+After authorized signs have been erected giving notice thereof, it shall be unlawful to make a left turn, right turn, or a straight-through movement, respectively, at the locations set out in official Traffic Schedule No. 8, Restricted turns at or between intersections. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</text>
+</law>

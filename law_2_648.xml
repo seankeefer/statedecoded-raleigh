@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2052" order_by="12-2052" level="5">Sec. 12-2052. - APPLICATION.</unit>
+ </structure>
+ <section_number>12-2052</section_number>
+ <catch_line>APPLICATION.</catch_line>
+ <order_by>12-2052</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	The name and address of the applicant (owner or driver), and if the applicant (owner or driver) be a corporation, a certified copy of the articles of incorporation. 
+</section>
+   <section prefix="(2)">	The number of vehicles actually owned and the number of vehicles actually operated by such owner on the date of such application, if any; 
+</section>
+   <section prefix="(3)">	The number of vehicles to be operated under the owner's permit applied for; 
+</section>
+   <section prefix="(4)">	The net worth of the applicant (owner) over and above all debts, judgments, claims and demands whatsoever; 
+</section>
+   <section prefix="(5)">	Whether there are any unpaid or unbonded judgments of record against such owner, and if so, the title of all actions and the amount of all judgments unpaid or unbonded, and reference to the judgment docket and page where the judgment is recorded; 
+</section>
+   <section prefix="(6)">	The make, type, year of manufacture, serial number, engine number and passenger capacity of each taxicab to be operated under the owner's permit applied for; 
+</section>
+   <section prefix="(7)">	Whether there are any liens, mortgages, or other encumbrances on such taxicabs, and, if so, the amount and character thereof;
+</section>
+   <section prefix="(8)">	The experience of the applicant in the transportation of passengers for hire;
+</section>
+   <section prefix="(9)">	A consent to use the applicant's name, race, sex, date of birth, social security number, and fingerprints for the purposes of conducting a State criminal history records check through the North Carolina Department of Justice and a national criminal history records check through the Federal Bureau of Investigation. 
+(10)	The Chief of Police, or his designee, shall submit the applicant's fingerprints and indentifying information to the North Carolina Department of Justice for a State criminal records check and to the Federal Bureau of Investigation for a thorough national criminal records check. 
+</section>
+   <section prefix="(11)">	Criminal History Records Information obtained by the North Carolina Department of Justice or the Federal Bureau of Investigation shall be privileged information and shall be kept confidential and not disseminated outside the Raleigh Police Department. This information shall not be public record information as defined by Chapter 132 of the North Carolina General Statues; 
+</section>
+   <section prefix="(12)">	Authority to conduct Criminal History Records Check is referenced with North Carolina General Statute 160A-304.
+</section>
+   <section prefix="(13)">	Prior to the denial or termination of an owner's permit based upon Criminal History Records Information the Raleigh Police Department shall verify the existence of a record by either obtaining a certified public record or by submitting a fingerprint card of the individual to the North Carolina Department of Justice for verification that the Criminal History Records Information belongs to the individual. 
+</section>
+   <section prefix="(14)">	Any of the following information obtained from Criminal History Records shall be deemed sufficient for refusing to issue a permit or for revoking a permit already issued: 
+</section>
+  </section>
+  <section prefix="(i)">	Conviction of a felony against this State, or a conviction of any offense against another State or the United States which would have been a felony if committed in this State; 
+(ii)	Violation of any federal or State law relating to the use, possession, or sale of alcoholic beverages, or narcotics or barbiturate drugs; 
+(iii)	Addiction to or habitual use of alcoholic beverages or narcotics or barbiturate drugs;
+(iv)	Violation of any federal or State law relating to prostitution;
+</section>
+  <section prefix="(v)">	Habitual violation of traffic laws or ordinances. &quot;Habitual violation&quot; shall mean a determination of guilt within the three-year period immediately prior to application for a permit or initiation of action to revoke a permit on more than three (3) infractions of traffic law or more than two (2) general misdemeanors in violation of traffic laws. 
+</section>
+  <section prefix="(b)">	The applicant shall from time to time furnish to the Council such other information as the Council, in its discretion, may require. 
+(Code 1959 , §22-28; Ord. No. 1988-220, §2, 7-19-88; Ord. No. 2009-671, §§24—26, 11-3-09; Ord. No. 2009-672, §1, 11-3-09) 
+</section>
+ </text>
+</law>

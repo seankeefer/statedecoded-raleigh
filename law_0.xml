@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="I" order_by="1" level="2">ARTICLE I. - IN GENERAL</unit>
+  <unit label="section" identifier="1.1" order_by="1.1" level="3">Sec. 1.1 - SHORT TITLE.</unit>
+ </structure>
+ <section_number>I-I-1.1</section_number>
+ <catch_line>SHORT TITLE.</catch_line>
+ <order_by>1.1</order_by>
+ <section prefix="text">
+This Act shall be known as and may be cited as &quot;The Charter of the City of Raleigh.&quot; 
+</section>
+</law>

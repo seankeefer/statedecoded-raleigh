@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2072" order_by="8-2072" level="5">Sec. 8-2072. - CONTROL BY CITY; FEES TO CITY.</unit>
+ </structure>
+ <section_number>8-2072</section_number>
+ <catch_line>CONTROL BY CITY; FEES TO CITY.</catch_line>
+ <order_by>8-2072</order_by>
+ <text>
+All connections by consumers with the utility lines constructed and dedicated pursuant to this article and the Charter and all services through those lines and apparatus shall be in accordance with the laws, ordinances, rules and regulations of and applicable to the City and its Department of Public Utilities, as now in force or as may be enacted, adopted and amended from time to time. The City shall have complete supervision and control over the lines, taps, connections and all other parts of the utility lines and system so constructed for the purpose of making any and all necessary inspections, and turning the water on and off; and for other purposes. The City shall collect all rents, fees and charges from consumers connected with such utility lines, for its sole use and benefit without compensation to the dedicators. 
+(Code 1959 , §23-23; Ord. No. 1984-343-TC-215, §2, 5-1-84) 
+</text>
+</law>

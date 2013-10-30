@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="9" order_by="9" level="2">PART 9 - PARKS, RECREATION AND CULTURAL AFFAIRS</unit>
+  <unit label="chapter" identifier="10" order_by="10" level="3">CHAPTER 10. - ARTS COMMISSION [8]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="9-10001" order_by="9-10001" level="5">Sec. 9-10001. - COMMISSION CREATED.</unit>
+ </structure>
+ <section_number>9-10001</section_number>
+ <catch_line>COMMISSION CREATED.</catch_line>
+ <order_by>9-10001</order_by>
+ <text>
+There is hereby established, pursuant to Raleigh City Charter §22 [§2.14] a Raleigh Arts Commission, as the official municipal advisory body on the arts broadly defined, which will promote, coordinate and strengthen public programs to further the cultural development of the City. 
+(Ord. No. 1977-578, §1, 7-5-77) 
+</text>
+</law>

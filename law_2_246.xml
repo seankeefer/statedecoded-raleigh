@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2037" order_by="8-2037" level="5">Sec. 8-2037. - CHARGE IN LIEU OF ASSESSMENT ON PROPERTY NOT ASSESSED.</unit>
+ </structure>
+ <section_number>8-2037</section_number>
+ <catch_line>CHARGE IN LIEU OF ASSESSMENT ON PROPERTY NOT ASSESSED.</catch_line>
+ <order_by>8-2037</order_by>
+ <text>
+  <section prefix="(a)">	If property to be served by a water or sewer line is to be connected to a line constructed on an assessment basis pursuant to the provisions of §§8-2031 through 8-2036 of this Code and no assessment was made against the property for its proportionate part of the line because ownership of the property would not permit the collection of an assessment, then either at the time of connection as provided in §10-6081(e) or presentation of a subdivision for recordation, whichever occurs first, there shall be collected, in addition to all other charges provided herein, or by other law, or ordinance, or resolution, the amount which would have been assessed against the property to be served by the line had such property been assessable at the time the line was constructed. 
+</section>
+  <section prefix="(b)">	In those cases where the City has paid the cost of the installation of a water and/or sewer line outside the City, either at the time of connection as provided in §10-6081(e) or presentation of a subdivision for recordation, whichever occurs first, there shall be in addition to all other fees, an amount charged at the time of connection equal to the amount that would have been assessed, if the property had been assessed but was not, due to the fact that property was located outside the City limits at the time the line was installed. 
+(Code 1959 , §17-10(c); Res. No. 176, 3-20-61; Res. No. 1961-223, §3; Ord. No. 1984-336, §§5, 6, 4-17-84; Ord. No. 1985-543, §17, 4-16-85) 
+Editor's note: The second paragraph of §8-2037 is also set out as §10-6081(c) of this Code for ease of reference. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.7. - REMEDIES NONEXCLUSIVE.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>REMEDIES NONEXCLUSIVE.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+The remedies provided for in this article are not exclusive. The POTW Director may take any, all, or any combination of these actions against a noncompliant user, consumer or other person. Enforcement of pretreatment violations will generally be in accordance with the City's Enforcement Response Plan. However, the POTW Director may take other action against any user, consumer or other person when the circumstances warrant. Further, the POTW Director is empowered to take more than one (1) enforcement action against any noncompliant user, consumer or other person. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+Policy reference—City of Raleigh Enforcement Response Plan. 
+</text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - THE COUNCIL [2]</unit>
+  <unit label="section" identifier="1-1012" order_by="1-1012" level="5">Secs. 1-1012 — 1-1020. - RESERVED.</unit>
+ </structure>
+ <section_number>1-1012</section_number>
+ <catch_line>RESERVED.</catch_line>
+ <order_by>1-1012</order_by>
+ <text>
+
+________________________________________
+FOOTNOTE(S):
+________________________________________
+--- (2) --- 
+Charter references: Governing body, §2.1; composition, §2.2; power and organization, §2.3; meetings, §2.4; quorum requirements, procedures, §2.5; compensation, §2.12 (Back)
+State law reference: Government of the City vested in City Council, G.S. 160A-67. (Back) 
+</text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3038" order_by="12-3038" level="5">Sec. 12-3038. - STANDARDS FOR CATTERIES.</unit>
+ </structure>
+ <section_number>12-3038</section_number>
+ <catch_line>STANDARDS FOR CATTERIES.</catch_line>
+ <order_by>12-3038</order_by>
+ <text>
+The standards for catteries, as defined herein, shall be the same as those required for kennels as defined and prescribed above. The word &quot;cat&quot; shall be substituted for the word &quot;dog&quot; when applying kennel standards to catteries. 
+(Code 1959 , §4-21) 
+</text>
+</law>

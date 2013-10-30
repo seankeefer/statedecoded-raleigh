@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.45" order_by="6.45" level="3">Sec. 6.45 - BUDGET; APPROPRIATIONS; BONDS AND NOTES; AND OTHER FINANCIAL POWERS AND FUNCTIONS.</unit>
+ </structure>
+ <section_number>I-VI-6.45</section_number>
+ <catch_line>BUDGET; APPROPRIATIONS; BONDS AND NOTES; AND OTHER FINANCIAL POWERS AND FUNCTIONS.</catch_line>
+ <order_by>6.45</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The City Council of the City of Raleigh, the City Manager, the City Accountant, the City Clerk and the City Treasurer, are respectively vested with all of the powers and authority, and are respectively charged with the functions and duties, and are subject to the restrictions and limitations of the following general laws of the State of North Carolina, as amended: 
+</section>
+  <section prefix="(b)">	The Municipal Finance Act, the Fiscal Control Act, the Local Government Act, the Revenue Bond Act, the Municipal Capital Reserve Act, and all other general laws of the State applicable to the financial powers, duties and functions of municipalities and municipal financial and accounting officers. 
+</section>
+  <section prefix="(c)">	It shall be the ultimate responsibility of the City Manager to prepare and submit to the City Council the budget estimate as required by the Fiscal Control Act.  
+</section>
+ </section>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="7" order_by="7" level="3">CHAPTER 7. - REMOVAL AND DISPOSITION OF ABANDONED AND NUISANCE MOTOR VEHICLES</unit>
+  <unit label="section" identifier="12-7005" order_by="12-7005" level="4">Sec. 12-7005. - REMOVAL OF ABANDONED OR NUISANCE VEHICLES; PRE-TOWING NOTICE REQUIREMENTS.</unit>
+ </structure>
+ <section_number>12-7005</section_number>
+ <catch_line>REMOVAL OF ABANDONED OR NUISANCE VEHICLES; PRE-TOWING NOTICE REQUIREMENTS.</catch_line>
+ <order_by>12-7005</order_by>
+ <text>
+It shall be unlawful for any person to use for any dog, attack and security dog training facility, or holding facility, a license receipt, or a rabies inoculation certificate issued to another person, dog, cat, or facility. 
+(Code 1959 , §4-49; Ord. No. 1980-502, §4, 10-21-80; Ord. No. 2012-59, §5, 6-5-12, eff. 1-1-13)  
+</text>
+</law>

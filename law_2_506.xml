@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2201" order_by="11-2201" level="5">Sec. 11-2201. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>11-2201</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>11-2201</order_by>
+ <text>
+  <section prefix="(a)">	Operator. 
+The word operator as used in this article, shall mean and include every individual who shall operate a vehicle as the owner thereof, or as the agent, employee or permittee of the owner, or is in actual physical control of a vehicle. 
+</section>
+  <section prefix="(b)">	Park, parking. 
+The word park or parking, as used in this article, shall mean the standing of a vehicle, whether occupied or not, upon a street otherwise than temporarily for the purpose of, and while actually engaged in, receiving or discharging passengers or loading or unloading merchandise or in obedience to traffic regulations, signs or signals or an involuntary stopping of the vehicle by reason of causes beyond the control of the operator of the vehicle. 
+</section>
+  <section prefix="(c)">	Parking meter. 
+The word parking meter, as used in this article, shall mean and include any mechanical device or meter not inconsistent with this chapter placed or erected for the regulation of parking by authority of this chapter. Each parking meter installed shall indicate by proper legend the legal parking time established by the City and when operated shall at all times indicate the balance of legal parking time, and at the expiration of such period shall indicate illegal or overtime parking. 
+</section>
+  <section prefix="(d)">	Parking meter zone. 
+The words parking meter zone, as used in this article, shall mean and include any restricted street upon which parking meters are installed and in operation. 
+</section>
+  <section prefix="(e)">	Parking meter space. 
+The words parking meter space, as used in this article, shall mean any space within a parking meter zone, adjacent to a parking meter and which is duly designated for the parking of a single vehicle by lines painted or otherwise durably marked on the curb or on the surface of the street adjacent to or adjoining the parking meters. 
+(Code 1959 , §21-44) 
+Annotation: Metered parking is permissible, if for a regulatory, rather than revenue-earning purpose. State v. Scoggin, 236 NC 1, 72 S.E. 2d 97 (1952). 
+</section>
+ </text>
+</law>

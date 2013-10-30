@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="V" order_by="5" level="2">ARTICLE V. - POWERS AND DUTIES OF MAYOR, CITY CLERK AND TREASURER, AND CITY ATTORNEY</unit>
+  <unit label="section" identifier="5.3" order_by="5.3" level="3">Sec. 5.3 - DUTIES OF CITY CLERK.</unit>
+ </structure>
+ <section_number>I-V-5.3</section_number>
+ <catch_line>DUTIES OF CITY CLERK.</catch_line>
+ <order_by>5.3</order_by>
+ <section prefix="text">
+The City Clerk shall act as Clerk of the City Council and it shall be his or her duty to attend each meeting of the City Council and to keep the minutes and records of all the proceedings of the Council in well-bound books provided for that purpose, and to preserve all books, papers and writings of all kinds submitted to his or her care during his or her continuance in office, and deliver them to his or her successor; the City Clerk shall be custodian of all written claims and demands made upon the City arising out of tort actions, the City Clerk shall be the custodian of all signed petitions with reference to public improvements, condemnation proceedings and all contracts made and entered into by the City and of all notices and affidavits of publishers with reference to publication of ordinances, budgets, or other legal advertisements required to be made by the City; the City Clerk shall be the custodian of the official corporate seal of the City of Raleigh and shall attest and affix said official seal to all documents or instruments of the City required to be so attested and sealed; he or she shall be custodian of all bonds required by ordinance, contract or by law to be executed and deposited with the City; he or she shall be the custodian of all deeds or conveyances of all types made to the City, and it shall be his or [her] duty to file with the Register of Deeds of Wake County for the purpose of being recorded in the Registry of Wake County; and the City Clerk shall account and pay over all moneys which may come into his or her hands by virtue of his or her office; and the City Clerk shall perform such other duties as may be required by law or by the City Council. 
+ 
+</section>
+ <history>(S.L. 1975, Ch. 561, §2)</history>
+</law>

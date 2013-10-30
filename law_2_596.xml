@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET USE AND CLEANLINESS</unit>
+  <unit label="section" identifier="12-1033" order_by="12-1033" level="5">Sec. 12-1033. - DRAINS UNDER SIDEWALKS.</unit>
+ </structure>
+ <section_number>12-1033</section_number>
+ <catch_line>DRAINS UNDER SIDEWALKS.</catch_line>
+ <order_by>12-1033</order_by>
+ <text>
+Every owner or lessee of any building having conductors or down pipes emptying on any sidewalk shall provide and maintain under efficient operating conditions underdrainage for same across such sidewalks. Each day's failure to comply with the provisions of this section after notice shall constitute a separate offense. 
+(Code 1959 , §19-8) 
+</text>
+</law>

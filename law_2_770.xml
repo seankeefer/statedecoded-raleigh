@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3042" order_by="12-3042" level="5">Sec. 12-3042. - FEE; SEPARATE LICENSE FOR EACH FACILITY OPERATED.</unit>
+ </structure>
+ <section_number>12-3042</section_number>
+ <catch_line>FEE; SEPARATE LICENSE FOR EACH FACILITY OPERATED.</catch_line>
+ <order_by>12-3042</order_by>
+ <text>
+The annual license fee for a pet shop shall be imposed pursuant to the provisions of Part 2, Chapter 2 of this Code relating to merchants. Pet shop licensees shall be required to obtain a separate license for each other holding facility operated on the same premises as the pet shop. 
+(Code 1959 , §4-25) 
+</text>
+</law>

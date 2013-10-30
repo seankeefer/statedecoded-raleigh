@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2033" order_by="2-2033" level="5">Sec. 2-2033. - REVOCATION OR SUSPENSION OF LICENSES.</unit>
+ </structure>
+ <section_number>2-2033</section_number>
+ <catch_line>REVOCATION OR SUSPENSION OF LICENSES.</catch_line>
+ <order_by>2-2033</order_by>
+ <text>
+Any license issued under this article shall be subject to revocation or suspension for a definite or indefinite time by the City Council, without refund of any part of the tax paid if the licensee or Manager or person in charge of the business or employee shall violate any article or law relative to such business, or be convicted of crime, or if, in the judgment of the Council, the licensed permit does, by reason of its nature or the manner or place in which it is conducted, constitute a nuisance, or is a menace to good order, or to public health, safety, or morals. Upon the revocation or suspension of any such license it shall be unlawful for the person to whom such license was granted to continue to conduct such business; upon the violation of this provision, the offender shall upon conviction be fined fifty dollars ($50.00) or imprisoned thirty (30) days. Each day such business is conducted after revocation or suspension of license shall constitute a separate offense. 
+(Code 1959 , §14-19) 
+</text>
+</law>

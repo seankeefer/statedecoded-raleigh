@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2175" order_by="8-2175" level="5">Sec. 8-2175. - MANDATORY WATER USE RESTRICTIONS.</unit>
+ </structure>
+ <section_number>8-2175</section_number>
+ <catch_line>MANDATORY WATER USE RESTRICTIONS.</catch_line>
+ <order_by>8-2175</order_by>
+ <text>
+  <section prefix="(a)">	All Stage 1 mandatory water conservation restrictions and rules as set forth by any ordinance adopted by the City Council. 
+</section>
+  <section prefix="(b)">	All Stage 2 mandatory water conservation restrictions and rules as set forth by any ordinance adopted by the City Council. 
+</section>
+  <section prefix="(c)">	All Stage 3 mandatory water conservation restrictions and rules as set forth by any ordinance adopted by the City Council. 
+</section>
+  <section prefix="(d)">
+   <section prefix="(1)">	Water from the City of Raleigh public water supply shall not be served in a public restaurant for drinking water, except upon specific request by customers. Also, hotels/motels/bed and breakfast inns served by the City of Raleigh public water supply will ask guests spending more than one night to use their towels and bed linens more than once between laundering. 
+</section>
+   <section prefix="(2)">	Violations of §8-2175(c) may be punished by any of the means available to the City pursuant to N.C.G.S. 160A-175. A written warning will be issued for the first violation of §8-2175(c). A civil penalty of fifty dollars ($50.00) shall be assessed for the second violation of §8-2175(c) and a third violation shall result in a civil penalty of two hundred dollars ($200.00). A fourth violation will result in interruption of water service to the offending customer. The City will issue written notification to the customer and occupant of intent to interrupt water service and twenty-four (24) hours later will interrupt water service. If water service has been interrupted due to repeat violation of §8-2175(c), service will not be re-instated until the Public Utilities Director has determined that the risk to the City water supply has been alleviated or the Public Utilities Director is otherwise assured of compliance. 
+(Ord. No. 2007-235, §1, 5-15-07; Ord. No. 2007-251, §1, 6-19-07; Ord. No. 2007-280, §1, 8-7-07; Ord. No. 2008-458, §1, 9-16-08; Ord. No. 2010-688, §3, 1-19-10; Ord. No. 2012-48, §1, 5-14-12) 
+</section>
+  </section>
+ </text>
+</law>

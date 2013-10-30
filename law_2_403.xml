@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="9" order_by="9" level="2">PART 9 - PARKS, RECREATION AND CULTURAL AFFAIRS</unit>
+  <unit label="chapter" identifier="10" order_by="10" level="3">CHAPTER 10. - ARTS COMMISSION [8]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PUBLIC ART</unit>
+  <unit label="section" identifier="9-10011" order_by="9-10011" level="5">Sec. 9-10011. - ADMINISTRATIVE ACTION.</unit>
+ </structure>
+ <section_number>9-10011</section_number>
+ <catch_line>ADMINISTRATIVE ACTION.</catch_line>
+ <order_by>9-10011</order_by>
+ <text>
+Within sixty (60) days after the passage of this ordinance the City Manager shall cause to be created an administrative process to guide the various City contracting departments as to how each is to interact in the per cent for public art process. 
+(Ord. No. 2009-563, §2, 3-17-09, eff. 7-1-09)  
+</text>
+</law>

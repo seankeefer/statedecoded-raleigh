@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="12-3069" order_by="12-3069" level="5">Sec. 12-3069. - FINES AND PENALTIES.</unit>
+ </structure>
+ <section_number>12-3069</section_number>
+ <catch_line>FINES AND PENALTIES.</catch_line>
+ <order_by>12-3069</order_by>
+ <text>
+  <section prefix="(a)">	Any violation of this chapter is both a civil offense and a misdemeanor criminal offense. The fine for a criminal violation of this chapter shall be up to five hundred dollars ($500.00) or larger if allowed by G.S. 14-4. Misdemeanor violations shall be enforced by the issuance of citations or by arrest according to the same procedures used for other criminal violations. 
+</section>
+  <section prefix="(b)">	The first violation of this chapter shall subject the violator to a civil penalty of fifty dollars ($50.00); the second violation during a twelve-month period shall be subject to a one hundred dollar ($100.00) penalty; the third and subsequent violations shall be subject to a one hundred fifty dollar ($150.00) penalty. Notwithstanding this schedule of penalties, the fourth and subsequent violations of §12-3021 et seq. of this chapter (Public Nuisance Animals) shall subject the violator to a two hundred fifty dollar ($250.00) penalty. Civil citations shall be served personally upon the violator by the animal control officer, by a member of the Raleigh Police Department, or by any other means authorized for the service of civil process by the North Carolina Rules of Civil Procedure. 
+</section>
+  <section prefix="(c)">	Failure to pay any license fee established by this chapter will constitute both a civil offense and a criminal misdemeanor. The violator will be subject to the amount of the license fee in addition to the civil and criminal penalties set out in subsection (b) above. A civil collection of the fee will be in the nature of a collection for debt. 
+(Ord. No. 2003-433, §2, 4-15-03) 
+Editor's note— 
+Ord. No. 2003-433, §1, adopted April 15, 2003, repealed the former §12-3069 which pertained to license tax deemed a debt to City, liability for tax and penalty, and action to recover moneys, and derived from Code 1959, § 4-43; Ord. No. 1977-615, §1, adopted Sept. 6, 1977; and Ord. No. 1984-307, §5, adopted March 20, 1984. Section 2 of Ord. No. 2003-433 enacted a new §12-3069 as set out herein. 
+</section>
+ </text>
+</law>

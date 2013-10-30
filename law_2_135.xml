@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2005" order_by="5-2005" level="5">Sec. 5-2005. - DUTIES OF CHIEF OF POLICE AT FIRES.</unit>
+ </structure>
+ <section_number>5-2005</section_number>
+ <catch_line>DUTIES OF CHIEF OF POLICE AT FIRES.</catch_line>
+ <order_by>5-2005</order_by>
+ <text>
+In case of fire the Police Department upon request of the Chief of the Fire Department shall furnish such help as is necessary. In case of the removal or exposure of property, he shall detail a sufficient number of citizens, or police officers, whose duty it shall be, under the direction of the Chief of Police, to guard all exposed property and detain all suspicious and disorderly persons, and to do whatever may be lawfully done to protect the rights of the citizens and preserve the public peace. 
+(Code 1959 , §10-4) 
+</text>
+</law>

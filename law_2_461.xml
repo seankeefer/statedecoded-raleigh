@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2121" order_by="11-2121" level="5">Sec. 11-2121. - DRIVING ON SIDEWALKS.</unit>
+ </structure>
+ <section_number>11-2121</section_number>
+ <catch_line>DRIVING ON SIDEWALKS.</catch_line>
+ <order_by>11-2121</order_by>
+ <text>
+The driver of a motorized vehicle shall not drive within any sidewalk except at a permanent or temporary driveway. 
+(Code 1959 , §21-19; Ord. No. 1988-103, §1, 1-5-88) 
+</text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2016" order_by="2-2016" level="5">Sec. 2-2016. - APPLICATION; FALSE STATEMENT THEREON.</unit>
+ </structure>
+ <section_number>2-2016</section_number>
+ <catch_line>APPLICATION; FALSE STATEMENT THEREON.</catch_line>
+ <order_by>2-2016</order_by>
+ <text>
+  <section prefix="(a)">	Every person desiring to obtain a license for the privilege of engaging in a business within the City shall make application therefor in writing to the Revenue Collector. The application, to be made on a form provided by the Revenue Collector, shall contain the following information: (i) name and nature of the business for which the license is sought; (ii) the address where the business is conducted, and a mailing address for the business, if different; (iii) the name and address of the person filling out the application, and his relationship to the business; (iv) the gross receipts of the business for the most recently completed tax year, if applicable; and (v) any other information which the Revenue Collector determines to be necessary. 
+</section>
+  <section prefix="(b)">	Any person who willfully makes a false statement on a license application shall be guilty of a misdemeanor and, upon conviction, shall be fined or imprisoned in the discretion of the court and any fine shall be in addition to the amount of the tax. 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	Class one—Entertainment centers.
+</section>
+   <section prefix="(2)">	Class two—Entertainment centers.
+</section>
+   <section prefix="(3)">	Dance halls.
+</section>
+   <section prefix="(4)">	Private clubs.
+</section>
+   <section prefix="(5)">	Public clubs.
+</section>
+   <section prefix="(6)">	Establishments with live entertainment, but without alcoholic beverages.
+(Ord. No. 1985-677, §1, 11-19-85; Ord. No. 2001-935, §4, 2-6-01) 
+</section>
+  </section>
+ </text>
+</law>

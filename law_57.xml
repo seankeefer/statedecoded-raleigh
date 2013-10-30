@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.16" order_by="6.16" level="3">Sec. 6.16 - DEPARTMENT OF PUBLIC WORKS; CREATED; PERSONNEL; FUNCTION.</unit>
+ </structure>
+ <section_number>I-VI-6.16</section_number>
+ <catch_line>DEPARTMENT OF PUBLIC WORKS; CREATED; PERSONNEL; FUNCTION.</catch_line>
+ <order_by>6.16</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created a Department of Public Works of the City of Raleigh and said department shall consist of a Director of Public Works, who shall be its administrative head, and such other officers and employees as may be deemed necessary by the City Council and whose salaries shall be fixed by the City Council. 
+</section>
+  <section prefix="(b)">	Subject to the control of the City Council, the Director of Public Works, under the direction and supervision of the City Manager, shall have control, management and direction of all public works not herein or otherwise expressly given to some other department of the City; all public grounds, bridges, viaducts, subways and buildings not otherwise assigned herein or by the City Council to some other department; the construction, cleansing, sprinkling, repair and maintenance of the streets and public places of the City; the erection of public buildings for the City; and the making, constructing, supervising and inspecting of all other improvements, paving, curbing, sidewalks, bridges, viaducts, and the repair thereof. The Director of Public Works shall have supervision and control and it shall be his duty to keep in good condition the streets, cemeteries and public grounds and parks of the City of Raleigh, subject to the legislative control of the City Council. 
+</section>
+  <section prefix="(c)">	He shall have supervision of the enforcement of the provisions of law and the ordinances relating to streets, public squares and places and relating to all matters within the jurisdiction and control of his department. The Director of Public Works shall have supervision and direction of the location of railway tracks, telephone and telegraph wires, poles and other things placed by public service corporations in, along, under or over the streets in the City. Except as otherwise provided by ordinances of the City, the collection, removal and disposition of all waste, including but not being limited to garbage, rubbish and ashes, as defined by the City Council, shall be under the jurisdiction, management and direction of the Director of Public Works according to such rules and regulations as may be adopted from time to time by ordinance. 
+</section>
+  <section prefix="(d)">	The Director of Public Works, through his department, shall have the duty and responsibility of keeping clean all streets, alleys and public places, in accordance with such regulations as may be prescribed from time to time by ordinances adopted by the City Council. The Director of Public Works shall also have supervision and management and control over the lighting system of the City of Raleigh and the management and direction of the lighting of the streets, alleys and other public places and grounds and all other places where City lights are placed. The Director of Public Works and the officials and employees of the Department of Public Works shall do and perform all other duties and services as prescribed from time to time by the City Council, or otherwise provided by law. He shall have charge and supervision of the electrical inspector, plumbing inspector and building inspector, and he shall have supervision and direction over all officers and employees in his department. 
+</section>
+ </section>
+</law>

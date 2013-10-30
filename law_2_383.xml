@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - REUSE WATER REGULATION [7]</unit>
+  <unit label="section" identifier="8-2204" order_by="8-2204" level="5">Sec. 8-2204. - METER REQUIREMENTS; PLACEMENT OF METERS.</unit>
+ </structure>
+ <section_number>8-2204</section_number>
+ <catch_line>METER REQUIREMENTS; PLACEMENT OF METERS.</catch_line>
+ <order_by>8-2204</order_by>
+ <text>
+A separate reuse water meter connection is required for each lot at the time of connection with reuse water service. All such meters shall be placed in the street right-of-way or in a two-foot easement adjacent to the street right-of-way at such locations as the Director of Public Utilities shall determine, provided that nothing herein shall authorize the placement of a water meter on the opposite side of the street right-of-way from the building being served. Reuse water meters shall be placed within five feet of the potable water meter serving the property. All meters shall conform to the standards and material specifications of the City. All reuse water meters shall be installed by City forces in accordance to a fee schedule on file with the Department of Inspections. 
+(Ord. No. 2006-100, §1, 9-19-06) 
+</text>
+</law>

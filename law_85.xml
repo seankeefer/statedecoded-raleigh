@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.44" order_by="6.44" level="3">Sec. 6.44 - STREETS, SIDEWALKS, DRIVEWAYS, ETC.</unit>
+ </structure>
+ <section_number>I-VI-6.44</section_number>
+ <catch_line>STREETS, SIDEWALKS, DRIVEWAYS, ETC.</catch_line>
+ <order_by>6.44</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	Petition Unnecessary. 
+In addition as now or may hereafter be granted to the City for making street or sidewalk improvements, the City Council is hereby authorized to order such improvements and to assess the total cost thereof against abutting properties without the necessity of a petition of property owners. 
+</section>
+  <section prefix="(b)">	Sidewalk Repairs. 
+The Council is further authorized to order or to make sidewalk repairs and driveway repairs across sidewalks according to standards and specifications of the City, and to assess the total cost thereof against abutting properties without the necessity of a petition of property owners. 
+</section>
+  <section prefix="(c)">	Sidewalk on One Side of Street. 
+If a sidewalk is constructed on only one side of the street, the cost thereof may be assessed against the property abutting on both sides of the street, unless there already exists a sidewalk on the other side of the street, the total cost of which was assessed against the abutting property. 
+</section>
+  <section prefix="(d)">	Notice to Property Owners. 
+Before the City Council shall order improvements to be made pursuant to subsection (a) or (b) of this section it shall hold a public hearing thereon, and shall give the owners of the property to be assessed, written notice of such public hearing and the proposed action. 
+</section>
+  <section prefix="(e)">	Assessment Procedure and Effect. 
+In ordering street or sidewalk improvements or sidewalk repairs and assessing the cost thereof, the Council shall follow the procedures provided by the General Statutes for street and sidewalk improvements, except those provisions relating to the petition of property owners and the sufficiency thereof. The effect of levying assessments pursuant to this act shall for all purposes be the same as if they were levied under authority of the General Statutes. 
+</section>
+  <section prefix="(f)">	Duty of Maintenance for Driveways and Sidewalks. 
+It is the duty of every property owner to maintain the sidewalks and driveways abutting his property in good repair and safe condition. 
+</section>
+  <section prefix="(g)">	Payment of Assessments. 
+Any special assessment of the City for any purpose amounting to less than one hundred dollars ($100.00) shall be paid in cash within ninety (90) days of confirmation rather than in annual installments, and shall bear interest as taxes. 
+</section>
+  <section prefix="(h)">	Assessment Where Street Is City Limit Line. 
+In those instances where the City limit line runs along a street or road the City Council may order the improvements and assess the cost thereof against property abutting on both sides of the street as if all the abutting property were within the corporate limits. Regardless of whether the improvement is ordered pursuant to this section or other general law. 
+</section>
+  <section prefix="(i)">	Assessments Against Cemeteries. 
+Assessments shall not be made against property owned or held for the sole purpose of burial of the dead unless the City of Raleigh assumes and pays for such assessment. 
+</section>
+  <section prefix="(j)">	Supplementary Authorization. 
+The procedure herein outlined shall be supplementary in addition to all other procedure authorized by law relating to improvements or special assessments. 
+; S.L. 1975, Ch. 561, §10; S.L. 1969, Ch. 974, §1) 
+Annotation: R.R. Co. v. City of Raleigh, 277 N.C. 709, 178 S.E. 2nd 422 (1971). Exemptions from public assessments contained in the General Statutes control over local charter and local acts. 
+Editor's note: 1971 Session Laws, Ch. 1209, §1(d), repealed former §6.44 entitled, &quot;Local improvements&quot; and enacted in lieu thereof §6.44 as herein set out. 
+</section>
+ </section>
+ <history>(S.L. 1953, Ch. 96, §1; S.L. 1953, Ch. 747, §1; S.L. 1955, Ch. 672, §1; S.L. 1955, Ch. 863, §1; S.L. 1957, Ch. 489, §1; S.L. 1963, Ch. 15, §1; S.L. 1965, Ch. 221; S.L. 1965, Ch. 434, §1; S.L. 1965, Ch. 612, §1; S.L. 1971, Ch. 1209, §1(d)</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2147" order_by="8-2147" level="5">Sec. 8-2147. - HAZARDOUS USES.</unit>
+ </structure>
+ <section_number>8-2147</section_number>
+ <catch_line>HAZARDOUS USES.</catch_line>
+ <order_by>8-2147</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Hazardous uses include, but are not limited to: pumps and tanks handling sewage, radioactive, lethal, or toxic substances, boiler and steam connections, sewer waste lines, low inlets to receptacles containing toxic substances, coils or jackets used as heat exchangers, flush valve toilets without vacuum breaks, bacterial and viral materials, private wells or other private water supply, irrigation systems, water systems or hose connections, with booster pumps, carbonation equipment, or similar hazard potential as determined by the cross connection coordinator. 
+</section>
+   <section prefix="(2)">	Any location at which the nature or mode of operation within a premises are such that frequent alterations are made to the plumbing or at which there is a likelihood in the determination of the cross connection coordinator that protective measures may be subverted, altered, or disconnected. 
+</section>
+   <section prefix="(3)">	Any facility which contains, but is not limited to, a bottling plant, cannery, building having five (5) or more stories, battery manufacturer, exterminator, greenhouse, chemical processing plant, dairy, dye works, film laboratory, car wash, hospital, commercial laboratory, laundry, metal fabricating operation, mortuary, swimming pool, morgue, x-ray equipment, medical office with laboratory, aspirator, medical washing equipment, packing house, plating plant, poultry house, power plant, nuclear reactor, those fire sprinkler systems equipped with facilities for introduction of freeze preventive chemicals or other substances other than water, dental office, any radioactive material, restaurant, shopping mall with a tenant conducting any activity listed in this section and sewage pump or treatment facilities. 
+</section>
+  </section>
+  <section prefix="(b)">	All installations described in §8-2147 of this Code shall be deemed hazardous uses, and must have a containment device in the form of a reduced pressure zone backflow prevention device provided that, if the consumer demonstrates to the satisfaction of the cross connection coordinator that sufficient internal confinement devices have been installed and tested. The cross connection coordinator will require that the consumer provide engineering drawings sealed by a professional engineer of installations within the premises, which provide complete internal protection against cross-connection as approved by the cross connection coordinator. Any such connection shall be considered an other connection for the purpose of determining the type of containment device required. Each internal confinement device shall be one (1) of the following, as approved by the Director of Public Utilities or his authorized representative: reduced pressure zone principle backflow prevention device, double check valve backflow prevention device, air gap, vacuum break-pressure type, or dual check valve. Each reduced pressure zone principle backflow prevention device serving as an internal confinement device shall have a mesh strainer immediately upstream of the inlet gate valve. 
+</section>
+  <section prefix="(c)">	No person shall fill any tanks or tankers which include the following: those containing pesticides, fertilizers, other toxic chemicals or their residues, flush trucks, street sweepers, and nonpotable water tankers from a public water system except with an approved air gap fill or an approved reduced pressure backflow preventor properly installed on the tank or tanker or on the public water supply fill pipeline or hose. 
+(Ord. No. 1987-20, §1, 7-21-87; Ord. No. 1992-3, §§2—4, 7-7-92; Ord. No. 1994-306, §1, 1-4-94) 
+</section>
+ </text>
+</law>

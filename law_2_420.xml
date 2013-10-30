@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="11-2022" order_by="11-2022" level="5">Sec. 11-2022. - ACCIDENT INVESTIGATION.</unit>
+ </structure>
+ <section_number>11-2022</section_number>
+ <catch_line>ACCIDENT INVESTIGATION.</catch_line>
+ <order_by>11-2022</order_by>
+ <text>
+It is the duty of the law enforcement officers of the City to investigate traffic accidents and to obtain prosecution of those persons apparently guilty of violations of this chapter or state motor vehicle laws causing or contributing to those accidents. The owner or operator of any ambulance must arrange for the Wake County Emergency Communications Center to be notified before leaving to answer a call to the scene of a traffic accident. 
+</text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - STREET OBSTRUCTIONS AND ENCROACHMENTS</unit>
+  <unit label="section" identifier="12-1004" order_by="12-1004" level="5">Sec. 12-1004. - CELLARS AND VAULTS UNDER SIDEWALKS.</unit>
+ </structure>
+ <section_number>12-1004</section_number>
+ <catch_line>CELLARS AND VAULTS UNDER SIDEWALKS.</catch_line>
+ <order_by>12-1004</order_by>
+ <text>
+  <section prefix="(a)">	No person shall appropriate any space under a sidewalk for cellar, vault or other underground uses without first obtaining approval of the Council. When approved, underground structures shall be constructed so as not to interfere with public utilities. 
+</section>
+  <section prefix="(b)">	The sidewalk over any such underground space permitted shall be constructed and maintained by the owner of such structure so as to permit safe travel over the same by pedestrians. 
+</section>
+  <section prefix="(c)">	The roof over any such underground space shall be of approved noncombustible material. Glass lights shall not be permitted within the sidewalk area over cellars, vaults or other underground structures. 
+(Code 1959 , §19-5) 
+</section>
+ </text>
+</law>

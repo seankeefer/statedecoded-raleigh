@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2119" order_by="12-2119" level="5">Sec. 12-2119. - REQUIREMENTS FOR AMPLIFIED ENTERTAINMENT PERMIT.</unit>
+ </structure>
+ <section_number>12-2119</section_number>
+ <catch_line>REQUIREMENTS FOR AMPLIFIED ENTERTAINMENT PERMIT.</catch_line>
+ <order_by>12-2119</order_by>
+ <text>
+  <section prefix="(a)">	Reserved.
+</section>
+  <section prefix="(b)">	Establishments holding an amplified entertainment permit shall not generate any sound from their structure or parking area that exceeds the decibel limits set out in §12-5003 of this Code when measured at or beyond any property line of the premises covered by the permit. In addition to the decibel limits set out above no establishment shall be in violation of the noise restrictions found in §12-5007 of this Code. A violation is defined for a civil citation as a finding by the arbitrator that a civil citation was valid. A violation of a criminal citation or arrest occurs upon the conviction of the party cited or arrested. 
+</section>
+  <section prefix="(c)">	Bass noise provisions. In addition to the limits set out in §12-5003 of this Code, the holder of an amplified entertainment permit shall be subject to regulation of certain low frequency emissions from the premises. The following table sets out the greatest allowable amount of low frequency steady-state sound which may be transmitted across an adjoining property line. 
+MAXIMUM SOUND LIMITATIONS-LOW FREQUENCY STEADY-STATE SOUNDS, dB
+(Commercial, Industrial, Business, Office Zones To Residential)
+One-Third Octave-Band Center
+Frequency, Hz	Daytime	One-Third Octave-Band SPL, dB
+Nighttime
+16	84	79
+20	76	71
+25	68	63
+31.5	60	55
+40	59	54
+50	57	52
+63	56	51
+80	55	50
+100	54	49
+125	53	48
+160	52	47
+200	51	46
+250	50	45
+315	49	44
+ 
+The terms daytime and nighttime shall have the same meaning as those terms are defined in §12-5003. The term steady-state sound is a sound source that is detectable at least fifty (50) per cent of the time in a three (3) minute period. Measurements shall be made according to the measurement standards and policies adopted by the Raleigh Police Department for the measurement of low frequency noise. Low frequency noise is those sound sources that exhibit acoustic energy in one-third (1/3) octave bands at or below three hundred fifty-five (355) Hertz. 
+</section>
+  <section prefix="(d)">	Every holder of an amplified entertainment permit shall provide the required number of off-street parking spaces required in Part 10 of this Code for the zoning district in which the establishment is located. All amplified entertainment permit off-street parking areas and all amplified entertainment permit establishment property abutting a public right-of-way shall be cleaned of all litter by 7:30 a.m. each morning. All off-street parking areas shall be lighted. Such illumination shall be a minimum average of two (2) maintained foot-candles. 
+The holder of an amplified entertainment permit shall provide at least one (1) uniformed sworn law enforcement officer or at least one (1) uniformed security guard furnished by a company licensed to provide security by the State of North Carolina continuously present in the parking area between 9:00 p.m. and until one (1) hour after closing to provide security and supervision of the parking area. Any establishment that has maintained a nine (9) month history of safe and effective operation shall be exempt from the security requirement. Safe and effective operation means that the establishment, either inside or in its parking area or lot, has had less than two (2) custodial arrests for felony drug offenses; less than seven (7) custodial arrests for misdemeanor drug offenses; less than two (2) custodial arrests for acts of violence; or no custodial arrests for acts of violence involving a deadly weapon. The persons arrested must be patrons of the establishment or on their way into or out of the establishment before the arrest limits will apply. For purposes of this ordinance a custodial arrest means a physical arrest that result in a finding of probable cause by a magistrate or judge. The City Manager will implement a system within the City administration to monitor such arrests and probable cause determinations. The safe and efficient requirement shall be retroactive to January 1, 2005. Any establishment that becomes subject to the security requirement can become exempt again if it operates in a safe and efficient manner for nine (9) months from the time it is placed into the program. No security will be required on days when the establishment is not providing amplified entertainment. Any establishment receiving an amplified entertainment permit after the effective date of this ordinance will be presumed to be a safe and efficient operator and will not be required to implement the security requirement until it fails to meet the safety requirements of this section. 
+The security requirement will be waived in the establishment presents satisfactory evidence to the City showing that the parking area is leased from a third party who maintains personnel at the lot or deck or garage at all times during the establishments hours of operation and that the personnel on duty have a wireless phone, radio, land line phone or other communications device capable of calling the 911 emergency number. 
+</section>
+  <section prefix="(e)">	[Reserved.]
+(Ord. No. 1999-539, §1, 4-6-99; Ord. No. 2002-267, §1, 8-6-02; Ord. No. 2005-851, §§2, 3, 6-7-05; Ord. No. 2008-417, §1, 6-17-08; Ord. No. 2010-788, §1, 9-21-10) 
+Editor's note— 
+Ord. No. 2000-793, § 1, adopted May 2, 2000, provides that the provisions of §12-2119(e) shall expire and be of no effect on and after January 1, 2001. 
+</section>
+ </text>
+</law>

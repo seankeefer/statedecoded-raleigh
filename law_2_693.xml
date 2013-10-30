@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2121" order_by="12-2121" level="5">Sec. 12-2121. - OUTDOOR DINING.</unit>
+ </structure>
+ <section_number>12-2121</section_number>
+ <catch_line>OUTDOOR DINING.</catch_line>
+ <order_by>12-2121</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	The restaurant property has a common boundary line with a public sidewalk. 
+</section>
+   <section prefix="(2)">	The sidewalk is of adequate width to allow the proposed pedestrian use and normal pedestrian traffic.
+</section>
+   <section prefix="(3)">	The applicant submits a valid insurance policy that will indemnify the City for any damage to the sidewalk and for any damages for which the City might incur liability because of property damage or personal injury arising out of the use of the sidewalk for dining purposes. The minimum liability limit of the policy shall be one million dollars ($1,000,000.00). 
+</section>
+   <section prefix="(4)">	The applicant shall pay an annual fee of one hundred dollars ($100.00) for the use of the sidewalk. 
+</section>
+   <section prefix="(5)">	The area to be used for dining shall be fenced off and separated from the sidewalk by a barrier at least three (3) feet high. The barrier shall be portable and shall not be chemically or mechanically attached to the sidewalk. 
+</section>
+   <section prefix="(6)">	Any such permit shall be revoked if the City Manager determines that the sidewalk is needed for pedestrian flow or if the holder of the permit violates any laws governing the use of the sidewalk. 
+(Ord. No. 1999-539, §1, 4-6-99) 
+</section>
+  </section>
+ </text>
+</law>

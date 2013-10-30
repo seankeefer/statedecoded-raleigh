@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TRANSIENT OCCUPANCY TAX; CONVENTION AND VISITORS BUREAU</unit>
+  <unit label="section" identifier="2-2092" order_by="2-2092" level="5">Sec. 2-2092. - FUNDING.</unit>
+ </structure>
+ <section_number>2-2092</section_number>
+ <catch_line>FUNDING.</catch_line>
+ <order_by>2-2092</order_by>
+ <text>
+The Bureau shall be funded at least at the minimum level required by Chapter 594 of the Session Laws of 1991. The Bureau shall prepare an annual budget based on anticipated revenues and shall submit the budget to the City Manager and County Manager for processing and approval through the regular budget procedures of the City and the County. The Bureau shall make quarterly reports to the City Council and the CountyBoard of Commissioners detailing its revenues, expenditures, and activities. The City or the County may audit the Bureau's financial records upon reasonable notice to the Bureau. At the end of each fiscal year, any funds of the Bureau not expended, or obligated or reserved as approved by the City Council and the CountyBoard of Commissioners, shall be remitted equally to the City and the County for use in accordance with §10 of this act. 
+(Ord. No. 1992-904, §4, 1-7-92) 
+Editor's note: The reference to &quot;§10 of this act&quot; is presumably to §10 of Ch. 594 of the 1991 Session Laws since Ord. No. 1992-904 has no §10. 
+</text>
+</law>

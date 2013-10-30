@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2129" order_by="8-2129" level="5">Sec. 8-2129. - COMPLIANCE SCHEDULE PROGRESS REPORTS.</unit>
+ </structure>
+ <section_number>8-2129</section_number>
+ <catch_line>COMPLIANCE SCHEDULE PROGRESS REPORTS.</catch_line>
+ <order_by>8-2129</order_by>
+ <text>
+  <section prefix="(1)">	The schedule shall contain progress increments in the form of dates for the commencement and completion of major events leading to the construction and operation of additional pretreatment required for the user to meet the applicable pretreatment standards (such events include, but are not limited to, hiring an engineer, completing preliminary and final plans, executing contracts for major components, commencing and completing construction, and beginning and conducting routine operation); 
+</section>
+  <section prefix="(2)">	No increment referred to above shall exceed nine (9) months; 
+</section>
+  <section prefix="(3)">	The user shall submit a progress report to the POTW Director no later than fourteen (14) days following each date in the schedule and the final date of compliance including, as a minimum, whether or not it complied with the increment of progress, the reason for any delay, and, if appropriate, the steps being taken by the user to return to the established schedule; and 
+</section>
+  <section prefix="(4)">	In no event shall more than nine (9) months elapse between such progress reports to the POTW Director. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

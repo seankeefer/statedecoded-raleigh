@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2167" order_by="12-2167" level="5">Sec. 12-2167. - ENFORCEMENT.</unit>
+ </structure>
+ <section_number>12-2167</section_number>
+ <catch_line>ENFORCEMENT.</catch_line>
+ <order_by>12-2167</order_by>
+ <text>
+  <section prefix="(a)">	Fifty dollars ($50.00) for a first violation, and each continuing day of noncompliance following written notice thereof shall result in the assessment of an additional civil penalty of fifty dollars ($50.00) per day; 
+</section>
+  <section prefix="(b)">	Equitable remedies, including injunctions. 
+As authorized by the City Council, the City may apply to the courts for any appropriate equitable remedy to enforce the provisions of this article, including mandatory or prohibitory injunctions commanding the party to correct the unlawful condition or cease the unlawful use of the business. 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	For each dwelling where a second violation of this article occurs within twenty-four (24) months of the most recent violation of this article, the Department of Inspections shall issue an order revoking the residential rental occupancy permit for a period of two (2) years, or when no permit had been issued the dwelling, making the probationary residential rental dwelling ineligible for a permit for a period of two (2) years. 
+</section>
+   <section prefix="(2)">	For each dwelling where a third violation of this article occurs within twenty-four (24) months of the most recent violation of this article, the Department of Inspections shall issue an order revoking every probationary rental occupancy permit issued to, or held in the name of the owner of the dwelling where the violation occurred, for a period of two (2) years, and making the owner ineligible to hold a probationary rental occupancy permit for a period of two (2) years. 
+</section>
+   <section prefix="(3)">	Ten (10) days following the service on the permittee of a written recommendation by the Director of the Inspections Department which describes the nature of any violation, the Director of the Inspections Department may revoke a permit issued pursuant to §12-2164 if it is determined that the permittee has violated any provision of this article and other means of enforcement have failed to deter the permittee from operating in violation of this article. 
+</section>
+  </section>
+  <section prefix="(d)">	Probationary status. 
+Following a determination that a permittee under this article has violated the provisions of this article, the permittee shall be sent a notice that the permit is on a probationary status and will be revoked for a period of twenty-four (24) months if the permittee commits a second violation during the twenty-four (24) month period following the first violation. Following a determination that a permittee under this article has violated the provisions of this article a second time within any twenty-four (24) month period, the permittee shall be sent a notice that the permit is on a probationary status and if the permittee commits a third violation during the twenty-four (24) month period following the first violation, every probationary rental occupancy permit issued to, or held in the name of the owner where the violation occurred, will be revoked for a period of twenty-four (24) months. 
+</section>
+  <section prefix="(e)">	Cancellation of revocation orders. 
+The Director of the Inspections Department shall cancel an order revoking a probationary rental occupancy permit when the owner requesting cancellation of the revocation order has paid all outstanding fees and civil penalties for the dwelling and the owner has no pending appeals of any notices or orders and: 
+1.	Within five (5) working days of the service of the order, the owner obtains approval from the Inspections Department of a management plan for the dwelling to achieve full compliance with the standards in §12-2165 within the time otherwise provided by the Code, or such time as the Inspections Department finds reasonable and; 
+2.	The owner by power of attorney appoints a licensed rental agency to manage the property for the two (2) year period following the approval; or 
+3.	Within fifteen (15) days of the service of the order, the new owner of the dwelling unit, who is not a prior owner, not related by marriage or within the fifth degree of kinship to the seller, is not a business affiliate of the prior owner, submits an affidavit so attesting along with proof of title transfer, pays all outstanding fees and civil penalties, and shows the Inspections Department that the dwelling complies with the standards in §12-2165 
+</section>
+  <section prefix="(f)">	Not a criminal violation. 
+Any person violating any of the provisions of this article shall be subject to the civil penalties and permit revocations set forth. Any violation of this article shall be deemed a non-criminal violation and shall not be a misdemeanor or infraction pursuant to G.S. 14-4 or §14-1005(a) of this Code of Ordinances. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §§14, 15, 7-11-06) 
+</section>
+ </text>
+</law>

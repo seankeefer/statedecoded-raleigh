@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2031" order_by="5-2031" level="5">Sec. 5-2031. - TITLE AND INTENT.</unit>
+ </structure>
+ <section_number>5-2031</section_number>
+ <catch_line>TITLE AND INTENT.</catch_line>
+ <order_by>5-2031</order_by>
+ <text>
+These regulations in Article B shall be known as the &quot;Fire Prevention and Protection Ordinance of City of Raleigh, North Carolina,&quot; and may be cited as such and referenced to herein as the Fire Prevention and Protection Ordinance. References to the Fire Prevention Code herein shall mean the North Carolina State Fire Code as adopted by the North Carolina Building Code Council. 
+It is the intent of the Fire Prevention Code and this Code to prescribe regulations consistent with nationally recognized good practice for the safeguarding of life and property from the hazards of fire and explosion within the jurisdiction of the City of Raleigh. The Fire Prevention Code and this Fire Prevention and Protection Ordinance shall not be construed to hold the City responsible for any damage to persons or property by reason of the inspection or re-inspection authorized herein, failure to inspect or re-inspect or the permits issued or denied as herein provided, or by reason of the approval or disapproval of any equipment authorized herein. In the event of conflict, the more restrictive provisions of the Fire Prevention Code shall prevail over the provisions of the Fire Prevention and Protection Ordinance. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</text>
+</law>

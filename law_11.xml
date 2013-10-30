@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.5" order_by="2.5" level="3">Sec. 2.5 - QUORUM AND CONDUCT OF BUSINESS.</unit>
+ </structure>
+ <section_number>I-II-2.5</section_number>
+ <catch_line>QUORUM AND CONDUCT OF BUSINESS.</catch_line>
+ <order_by>2.5</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	Five (5) members of the City Council shall constitute a quorum.
+</section>
+  <section prefix="(b)">	The Mayor shall have the right to vote on all questions before the City Council. When there are equal numbers of votes in the affirmative and in the negative and the Mayor has already voted, he shall not have an additional vote. The Mayor shall have no power to veto. 
+</section>
+  <section prefix="(c)">	The Mayor, who shall be the official head of the City, shall, if present, preside at all meetings of the City Council. In the absence of the Mayor, the Mayor pro tempore shall preside. In the absence of both, a Chairman pro tempore shall be chosen. 
+</section>
+  <section prefix="(d)">	The City Clerk and Treasurer shall be ex officio Clerk of the City Council and shall keep accurate minutes of its proceedings. In case of his temporary absence or in case of a vacancy in the office, the City Council may elect a temporary Clerk who shall be sworn to the faithful performance of his duties and may act as Clerk of the City Council until a City Clerk is chosen and qualified. The City Council may elect Assistant Clerks, who shall be sworn to the faithful performance of their duties and may act as Clerks of the City Council in the absence of the City Clerk. 
+</section>
+  <section prefix="(e)">	All final votes of the City Council involving the expenditure of fifty dollars ($50.00) or over shall be by ayes and noes and shall be entered in the minutes. 
+</section>
+  <section prefix="(f)">	Five affirmative votes, at least, shall be required for the passage of any motion, order, ordinance, resolution, or vote.
+) 
+</section>
+ </section>
+ <history>(S.L. 1973, Ch. 319, §1(d)</history>
+</law>

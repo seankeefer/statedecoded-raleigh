@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2017" order_by="2-2017" level="5">Sec. 2-2017. - COMPUTATION OF TAX BASED ON GROSS RECEIPTS.</unit>
+ </structure>
+ <section_number>2-2017</section_number>
+ <catch_line>COMPUTATION OF TAX BASED ON GROSS RECEIPTS.</catch_line>
+ <order_by>2-2017</order_by>
+ <text>
+  <section prefix="(a)">	Whenever this article levies a privilege license tax computed on the basis of gross receipts, &quot;gross receipts&quot; means the amount reported as gross receipts on a business's state income tax return, or on the Federal income tax return filed with the State income tax return if the State return does not separately state gross receipts, for the most recently completed tax year. 
+</section>
+  <section prefix="(b)">	If a business has not been in operation long enough for the information required in subsection (a) of this section to be available, the Revenue Collector shall estimate gross receipts for the business, based on gross receipts of comparable businesses or any other information that the Revenue Collector considers useful. 
+</section>
+  <section prefix="(c)">	On or before the June 30 immediately after each license year, each licensee for whom the tax paid in the license year just concluded was based on estimated gross receipts shall submit to the Revenue Collector a sworn final report showing the amount of gross receipts for the license year. If the amount shown is more than estimated gross receipts, the licensee shall pay the amount of additional tax that would have been due had the estimate been accurate. If the amount shown is less than estimated gross receipts, the City shall refund to the licensee the difference between the actual tax paid and the amount of tax that would have been due had the estimate been accurate. 
+</section>
+ </text>
+</law>

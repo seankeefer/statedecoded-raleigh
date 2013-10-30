@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="I" order_by="1" level="2">ARTICLE I. - IN GENERAL</unit>
+  <unit label="section" identifier="1.7" order_by="1.7" level="3">Sec. 1.7 - PROPERTY AND PROPERTY RIGHTS VESTED IN CITY.</unit>
+ </structure>
+ <section_number>I-I-1.7</section_number>
+ <catch_line>PROPERTY AND PROPERTY RIGHTS VESTED IN CITY.</catch_line>
+ <order_by>1.7</order_by>
+ <section prefix="text">
+All property, real, personal and mixed, of whatsoever character or description, and wheresoever situated, now held, controlled, or used by the City of Raleigh for any purpose, or which may hereafter be held, controlled, or used by said City, or which may have been vested in said City by virtue of any law of the State of North Carolina, and any and all judgments, liens, rights of liens, and causes of action of any and all kinds in favor of the City of Raleigh, shall vest in and remain and inure to the City of Raleigh, its successors and assigns, under this Act.  
+</section>
+</law>

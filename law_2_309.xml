@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2139" order_by="8-2139" level="5">Sec. 8-2139.2. - GREASE INTERCEPTOR MAINTENANCE RECORDS.</unit>
+ </structure>
+ <section_number>8-2139</section_number>
+ <catch_line>GREASE INTERCEPTOR MAINTENANCE RECORDS.</catch_line>
+ <order_by>8-2139</order_by>
+ <text>
+  <section prefix="(a)">	Grease interceptor maintenance records must include the following information.
+1.	FSE - name and physical location.
+2.	Date and time of each grease interceptor service.
+3.	Name of grease interceptor service company.
+4.	Name and signature of person doing said service. 
+5.	Established service frequency and type of service (Example Full pump out, partial pump out, on site treatment, etc.). 
+6.	Number and size of each grease interceptor serviced.
+7.	Approximated amount, per best professional judgment, of grease and solids removed from each grease interceptor.
+8.	Total volume of waste removed from each grease interceptor.
+9.	Destination of removed wastes, food solids, and waste water disposal. 
+</section>
+  <section prefix="(b)">	Maintenance records that do not include all the above information will be considered incomplete. Incomplete records are a violation of the City of Raleigh Sanitary Sewer Use Ordinance and may subject the facility to penalty assessments and/or service termination. 
+(Ord. No. 2011-981, §1, 12-6-11)  
+DIVISION 6. - COMPLIANCE MONITORING
+</section>
+ </text>
+</law>

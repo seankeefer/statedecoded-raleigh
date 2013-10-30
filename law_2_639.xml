@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2042" order_by="12-2042" level="5">Sec. 12-2042. - ATTENDING VEHICLE BY DRIVER.</unit>
+ </structure>
+ <section_number>12-2042</section_number>
+ <catch_line>ATTENDING VEHICLE BY DRIVER.</catch_line>
+ <order_by>12-2042</order_by>
+ <text>
+No driver of any taxicab shall at any time solicit passengers by any word, sign, signal (audible or otherwise) or gesture or use any word, sign, signal (audible or otherwise) or gesture to solicit patronage, annoy any person, obstruct the movement of any person or traffic or follow any person, except that within a taxicab zone, a driver of any taxicab located inside his vehicle or outside, but within five (5) feet of the taxicab, may solicit passengers by word, sign, or gesture. Except as provided in this subsection, a driver of any taxicab may not solicit or have any other person solicit passengers on the driver's behalf. Nothing in this subsection shall prohibit a driver of any taxicab from alighting to the street or sidewalk for the purpose of assisting passengers into or out of his taxicab. 
+In no case shall one driver of a taxicab interfere between another driver and his passenger. 
+No driver of any taxicab shall lay hold upon or take possession of any trunk, baggage or any other article belonging to any traveler or person without the consent of the owner of such trunk, baggage or other article. 
+Drivers of any taxicab shall not permit such cars to be used as sleeping quarters or lounging places, for the unnecessary gathering of persons other than passengers. 
+(Code 1959 , §22-23; Ord. No. 1980-487, §17, 10-7-80; Ord. No. 2009-671, §22, 11-3-09) 
+</text>
+</law>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - EMERGENCY PROVISIONS</unit>
+  <unit label="section" identifier="1-1051" order_by="1-1051" level="5">Sec. 1-1051. - STATE OF EMERGENCY; CURFEW AUTHORIZED; MAYOR'S POWER; RESTRICTIONS DURING EMERGENCY.</unit>
+ </structure>
+ <section_number>1-1051</section_number>
+ <catch_line>STATE OF EMERGENCY; CURFEW AUTHORIZED; MAYOR'S POWER; RESTRICTIONS DURING EMERGENCY.</catch_line>
+ <order_by>1-1051</order_by>
+ <text>
+  <section prefix="(a)">	Definition: 
+A state of emergency shall be deemed to exist whenever, during times of great public crisis, disaster, rioting, catastrophe, or similar public emergency, for any reason, municipal public safety authorities are unable to maintain public order or afford adequate protection for lives, safety or property. 
+</section>
+  <section prefix="(b)">	Proclamation: 
+In the event of an existing or threatened state of emergency endangering the lives, safety, health and welfare of the people within the City, or threatening danger to or destruction of property, the Mayor is hereby authorized and empowered to issue a public proclamation declaring to all persons the existence of such a state of emergency, and, in order to more effectively protect the lives and property of people within the City, to place in effect any or all of the restrictions hereinafter authorized. 
+</section>
+  <section prefix="(c)">	Mayor's Powers: 
+The Mayor is hereby authorized and empowered to limit by the proclamation the application of all or any part of such restrictions to any area specifically designated or described within the corporate limits of the City and to specific hours of the day or night; and to exempt from all or any part of such restrictions law enforcement officers, Fire Department officers and other public employees, doctors, nurses, employees of hospitals and other medical facilities; on-duty military personnel, whether state or Federal; on-duty employees of public utilities, public transportation companies, and newspaper, magazine, radio broadcasting, and television broadcasting corporations operated for profit; and such other classes of persons as may be essential to the preservation of public order and immediately necessary to serve the safety, health and welfare needs of the people within the City. 
+</section>
+  <section prefix="(d)">	End of State of Emergency: 
+The Mayor shall proclaim the end of such state of emergency or all or any part of the restrictions imposed as soon as circumstances warrant or when directed to do so by the Council. 
+</section>
+  <section prefix="(e)">
+   <section prefix="(1)">	Prohibit or regulate the possession off one's own premises of explosives, firearms, ammunition or dangerous weapons of any kind, and prohibit the purchase, sale, transfer or other disposition thereof. 
+</section>
+   <section prefix="(2)">	Prohibit or regulate the buying or selling of beer, wine or intoxicating beverages of any kind, and their possession or consumption off one's own premises. 
+</section>
+   <section prefix="(3)">	Prohibit or regulate any demonstration, parade, march, vigil or participation therein when taking place on any of the public ways or upon any public property. 
+</section>
+   <section prefix="(4)">	Prohibit or regulate the sale of gasoline, kerosene, naphtha or any other explosive or flammable fluids or substances.
+</section>
+   <section prefix="(5)">	Prohibit or regulate travel upon any public street, alley or roadway or upon any other public property and to except those in search of medical assistance, food or other commodity or service necessary to sustain the well-being of themselves or their families or some member thereof. 
+</section>
+   <section prefix="(6)">	Prohibit or regulate the participation in or carrying on of any business activity, and prohibit or regulate the keeping open of places of business, places of entertainment, and any other public assembly of any nature whatsoever. 
+</section>
+  </section>
+  <section prefix="(f)">	Subsequent Proclamation: 
+Any proclamation may be extended, altered or repealed in any particular during the continued or threatened existence of a state of emergency by the issuance of a subsequent proclamation. 
+</section>
+  <section prefix="(g)">	Unlawful Acts: 
+During the existence of a proclaimed state of emergency, it shall be unlawful for any person to violate any provision of any restriction imposed by any proclamation authorized by this section. 
+</section>
+  <section prefix="(h)">	List of Council Members To Act in Mayor's Stead: 
+Each January after the biannual elections for City Council members, the City Council shall establish a list of Council members designated to act in the Mayor's stead during emergency situations when the Mayor is unavailable. The list shall be by priority with the person available and nearest the top of the list designated to act for the Mayor. If the Mayor becomes available during the pendency of an emergency situation, the person acting in his stead shall relinquish the authority granted by §1-1051 to the Mayor. 
+(Code 1959 , §2-65; Ord. No. 1982-860, §2, 3-9-82; Ord. No. 1986-736, §2, 2-18-86) 
+Editor's note: §1 of Ord. No. 1986-736, adopted Feb. 18, 1986, provides for succession, in the absence of the Mayor, in the following order: (1) Mayor pro tempore; (2) Chairman, Law and Finance Committee; (3) Chairman, Public Works Committee; (4) lists order of succession of current Council. 
+State law reference: Authority of the Mayor to impose restrictions during states of emergency, G.S. 14-288.12.  
+</section>
+ </text>
+</law>

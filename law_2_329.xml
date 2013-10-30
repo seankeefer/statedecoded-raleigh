@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2148" order_by="8-2148" level="5">Sec. 8-2148. - OTHER CONNECTIONS.</unit>
+ </structure>
+ <section_number>8-2148</section_number>
+ <catch_line>OTHER CONNECTIONS.</catch_line>
+ <order_by>8-2148</order_by>
+ <text>
+  <section prefix="(a)">	Services to single-family residential units, not otherwise required by this Code to have other containment devices, may have a containment device in the form of an approved dual check valve. On all such services for which meters are applied more than ninety (90) days following the date of adoption of this article, said dual check valves or other containment devices as required shall be installed by the owner's representative prior to the installation of the meter by the Department of Public Utilities. On all such services for which meters have been applied prior to that date, said dual check valve shall be installed by the Department of Public Utilities, provided that the City reserves the right to charge the owner or occupant of any residence for the cost of said device and its installation. Maintenance of dual check valve containment devices installed in accordance with this section shall be conducted by the Department of Public Utilities. Testable containment devices that are required on lawn irrigation water systems and must be tested every three (3) years by a contractor that has been approved by the City of Raleigh. 
+</section>
+  <section prefix="(b)">	All other connections to the public water supply of the City of Raleigh shall have containment devices in the form of a double check valve backflow prevention device as set forth in §8-2149 of this Code. This shall include water mains installed to City standard, and with City supervision, but which are not maintained by the City, pursuant to §8-2007, including but not limited to manufactured home parks, apartments, group housing projects, and other private distribution systems, or similar hazard potential as determined by the Director of Public Utilities, or his authorized representative. Private distribution systems [shall be] configured so as to provide looped mains, with two (2) or more containment devices on each building water service connection and at dead-end branch mains. 
+(Ord. No. 1987-20, §1, 7-21-87; Ord. No. 1992-3, §5, 7-7-92; Ord. No. 1998-421, §1, 10-6-98; Ord. No. 2000-734-TC-189, TC-2-00, §1, 2-15-00) 
+Editor's note: Section 5 of Ord. No. 1992-3, adopted July 7, 1992, amended a nonexistent §8-2148(6). The editor has included the amendment as the final sentence of subsection (b), adding the text in brackets [] for grammatical correction. 
+</section>
+ </text>
+</law>

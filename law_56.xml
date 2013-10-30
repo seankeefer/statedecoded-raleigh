@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.15" order_by="6.15" level="3">Sec. 6.15 - REAL.</unit>
+ </structure>
+ <section_number>I-VI-6.15</section_number>
+ <catch_line>REAL.</catch_line>
+ <order_by>6.15</order_by>
+ <section prefix="text">
+The City Council shall have the power at all times to sell at public auction to the highest bidder, for cash, any real property belonging to the City of Raleigh, wheresoever situated, but only after having authorized the sale thereof by resolution, duly adopted, and after having advertised the same for sale at public auction at least once a week for at least two consecutive weeks prior to the sale in at least one daily newspaper published in the City of Raleigh and qualified to publish legal advertising, the first notice advertising the sale to be published at least fifteen days prior to the date of sale, which notice or advertisement shall describe the real estate to be sold and shall specify the date, hour, and place of such sale; provided, however, that before any bid shall be deemed to be accepted or any sale made, or any title passed by virtue of any such sale, the sale shall be confirmed by the City Council, and the City Council may, in its discretion, refuse confirmation; and when a sale has been duly confirmed and authorized by the City Council, a warranty deed for said real estate may be executed by the Mayor and attested by the City Clerk, with the corporate seal of the City attached; provided, that this section shall apply to all sales of all real estate belonging to the City of Raleigh, regardless of how such real estate may have been acquired by the City, whether by foreclosure of tax or assessment liens or otherwise, except, however, that this section shall not apply to the sale of cemetery lots owned by the City, which may be sold at private sale at such prices as the City Council may determine to be fair and reasonable, and deeds thereto executed as in case of other real estate. Incident to the power hereby granted to sell real estate at public auction, the City Council shall have power and authority to employ the services of an experienced real estate broker or agent to secure a responsible highest bidder at any such sale and to pay a reasonable fee or commission for such service in the event any such sale shall be made and confirmed to such bidder. 
+</section>
+</law>

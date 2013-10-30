@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2123" order_by="8-2123" level="5">Sec. 8-2123.1. - USER CHARGES.</unit>
+ </structure>
+ <section_number>8-2123</section_number>
+ <catch_line>USER CHARGES.</catch_line>
+ <order_by>8-2123</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	The user charge shall reflect, at a minimum, the cost to the City of debt service, and operation and maintenance costs (including, but not limited to, replacement costs) of the POTW. 
+</section>
+   <section prefix="(2)">	Each user shall pay its proportionate share of cost based on the volume of the user's flow. 
+</section>
+   <section prefix="(3)">	The POTW Director shall review annually the sewage contributions of users, the total costs of debt service, and operation and maintenance costs of the POTW (including, but not limited to, replacement costs) and shall make recommendations to the City Council for adjustments in the schedule of charges and fees as necessary. 
+</section>
+   <section prefix="(4)">	The costs to the City for repair, remedial measures, and other costs caused by unlawful discharges of pollutants into the POTW. 
+</section>
+  </section>
+  <section prefix="(b)">	A sewer capital facilities fee and a water capital facilities fee, as established below, shall be collected at the time of approval of connection to the City's water distribution system and/or sewer collection system. This one-time fee shall be collected, in addition to any other water and sewer system user charges and fees required by City ordinances and resolutions. This fee shall be collected by the City Inspections Department at the time of issuance of a utility connection permit for water and/or sewer. 
+Residential Water 	
+Individual water service all sizes	$1,334.00/dwelling unit
+Group housing on single water service	$1,334.00/dwelling unit
+	
+Non-Residential Water 
+(by meter size) 	
+ ¾-in meter	$584.00/meter
+1-in meter	$1,047.00/meter
+1½-in meter	$2,355.00/meter
+2-in meter	$4,186.00/meter
+4-in meter	$16,749.00/meter
+6-in meter	$37,685.00/meter
+8-in meter	$66,994.00/meter
+10-inch and greater	Must be individually quoted by City 
+	
+Residential Sewer 	
+Individual sewer service size up to 4-inch service	$647.00/dwelling unit
+Group housing on single service	$504.00/dwelling unit
+	
+Non-Residential Sewer 	
+0 to 4-inch sewer service	$647.00/connection
+6-inch sewer service	$1,218.00/connection
+8-inch or greater	$2,579.00/connection
+ 
+(Ord. No. 2011-981, §1, 12-6-11; Ord. No. 2012-42, §1, 5-1-12, eff. 7-1-12; Ord. No. 2012-49, §1, 5-14-12) 
+Editor's note— 
+The fees set out in the above section shall become effective July 1, 2012, pursuant to §3 of Ord. No 2012-42.
+</section>
+ </text>
+</law>

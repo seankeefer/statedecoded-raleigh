@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.12" order_by="6.12" level="3">Sec. 6.12 - REPORTS BY DEPARTMENT HEADS OF NEEDED SUPPLIES AND EQUIPMENT; ESTIMATES AND PURCHASES.</unit>
+ </structure>
+ <section_number>I-VI-6.12</section_number>
+ <catch_line>REPORTS BY DEPARTMENT HEADS OF NEEDED SUPPLIES AND EQUIPMENT; ESTIMATES AND PURCHASES.</catch_line>
+ <order_by>6.12</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	It shall be the duty of all department heads to furnish to the City purchasing agent, when requested by him, on forms furnished by him, tabulated estimates of all supplies, materials and equipment needed and required by each respective department for such periods in advance as may be designated by the City purchasing agent, or as prescribed by the City Council. 
+</section>
+  <section prefix="(b)">	The City purchasing agent shall compile and consolidate all such estimates of supplies, materials and equipment needed and required by the various departments to determine the total requirements for a given commodity during a fiscal year. If the total requirements for any given commodity will involve an estimated expenditure equal to or more than the amount which may be purchased on informal bids as provided in Article 8 of Chapter 143 of the General Statutes of North Carolina or an amendment thereof, the procedure prescribed by said article shall be followed. 
+</section>
+  <section prefix="(c)">	All purchases made and contracts executed by the City purchasing agent shall be pursuant to a written requisition from the head of the office, department or agency whose appropriation will be charged, and no contract or order shall be issued to any vendor unless and until the Director of Finance (City Accountant) certifies that there is to the credit of such office, department or agency a sufficient unencumbered appropriation balance to pay for the supplies, materials, equipment or contractual services for which the contract or order is to be issued. 
+ 
+</section>
+ </section>
+ <history>(S.L. 1965, Ch. 218, §1)</history>
+</law>

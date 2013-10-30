@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2009" order_by="5-2009" level="5">Sec. 5-2009. - FIRE APPARATUS LEAVING CITY.</unit>
+ </structure>
+ <section_number>5-2009</section_number>
+ <catch_line>FIRE APPARATUS LEAVING CITY.</catch_line>
+ <order_by>5-2009</order_by>
+ <text>
+No engine, fire truck, or other apparatus of the Fire Department shall leave the City except with the consent of the City Manager or Chief of the Fire Department, or in the absence of the Chief, the Assistant or Division Chief, upon urgent call in cases of fire in neighboring towns or cities. 
+(Code 1959 , §10-8; Ord. No. 2004-559, §1, 1-20-04) 
+</text>
+</law>

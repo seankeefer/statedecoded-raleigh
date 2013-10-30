@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.10" order_by="2.10" level="3">Sec. 2.10 - RULE AS TO FINAL EFFECTIVE DATE.</unit>
+ </structure>
+ <section_number>I-II-2.10</section_number>
+ <catch_line>RULE AS TO FINAL EFFECTIVE DATE.</catch_line>
+ <order_by>2.10</order_by>
+ <section prefix="text">
+Every ordinance, unless it shall specify another date subsequent to the twenty-day period following publication, shall become effective at the expiration of twenty days after such publication following final passage, as herein provided, or, if the ordinance be submitted at a referendum election, then upon a favorable vote of a majority of those voting thereon except as otherwise expressly provided by this charter or by the general laws of the State. 
+</section>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2170" order_by="12-2170" level="5">Sec. 12-2170. - METHODS OF SERVICE.</unit>
+ </structure>
+ <section_number>12-2170</section_number>
+ <catch_line>METHODS OF SERVICE.</catch_line>
+ <order_by>12-2170</order_by>
+ <text>
+  <section prefix="(a)">	Unless otherwise provided, notices, orders or other documents issued pursuant to this article shall be served upon persons either personally or by registered or certified mail. When service is made by registered or certified mail, a copy of the notices, orders or other documents may also be sent by regular mail. Service shall be deemed sufficient if the registered or certified mail is unclaimed or refused, but the regular mail is not returned by the post office within ten (10) days after the mailing. If regular mail is used, a notice of the pending proceedings shall be posted in a conspicuous place on the premises affected. 
+</section>
+  <section prefix="(b)">	If the identities of any owners or whereabouts of persons are unknown and the same cannot be ascertained by the Inspection Department or the PROP Team of the Police Department in the exercise of reasonable diligence, or if the owners are known but have refused to accept service by registered or certified mail, and the Inspections Department shall make an affidavit to that effect, stating the steps taken to determine and locate the persons in interest, then the serving of such complaint or order upon such owners or persons may be made by publication in a newspaper having general circulation in the City at least once no later than time at which person al service would be required under this article. Where such service is by publication, a notice of the pending proceedings shall be posted in a conspicuous place on the premises thereby affected. 
+</section>
+  <section prefix="(c)">	In order to assist the Inspections Department and the PROP Team of the Police Department with the service of notices, orders and other documents pursuant to this Article, an owner who submits an affidavit showing a failure to receive a notice of violation and who affirms in the affidavit submitted to the Inspections Department or the PROP Team of the Police Department that the address listed in the Wake County tax records has been changed to the correct address at which the owner can receive further notices, shall have the prior violation removed from consideration for the Probationary Rental Residential Dwelling determination so long as the owner continues to maintain a correct address with the Wake County tax records and does not refuse to accept service of any notice at the address listed with the Wake County tax records. 
+</section>
+  <section prefix="(d)">	In order to assist owners who desire to better monitor activities at their properties, the PROP Team of the Police Department shall notify an owner as provided in (a) of this Section within ten (10) business days of an activity at the property by a tenant or a guest of a tenant that can or will cause the property to be qualified as a probationary rental residential dwelling. In addition and to the extent practicable, a notice to the owner shall be provided in the most expeditious manner available, including notice sent by electronic mail or facsimile to the locations provided in the Rental Registration. Failure to send or deliver the more expeditious notice shall not impede the enforcement of the PROP program against the owner. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §13, 7-11-06; Ord. No. 2008-415, §1, 7-1-08) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2241" order_by="11-2241" level="5">Sec. 11-2241. - NORTH CAROLINA DEPARTMENT OF TRANSPORTATION EMPLOYEES AND AGENTS EXEMPTED.</unit>
+ </structure>
+ <section_number>11-2241</section_number>
+ <catch_line>NORTH CAROLINA DEPARTMENT OF TRANSPORTATION EMPLOYEES AND AGENTS EXEMPTED.</catch_line>
+ <order_by>11-2241</order_by>
+ <text>
+Any employee of the North Carolina State Department of Transportation, or any person, persons, firm or corporation acting pursuant to a contract with the agency, working on any street in the City shall be exempt from the provisions of this article when the procedures for traffic control in the event of street construction and maintenance, promulgated by said agency, are being followed. 
+(Code 1959 , §19-41; Ord. No. 1980-416, §5, 7-15-80; Ord. No. 1994-393, §9, 5-3-94) 
+</text>
+</law>

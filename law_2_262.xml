@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2070" order_by="8-2070" level="5">Sec. 8-2070. - MAP OF SYSTEMS.</unit>
+ </structure>
+ <section_number>8-2070</section_number>
+ <catch_line>MAP OF SYSTEMS.</catch_line>
+ <order_by>8-2070</order_by>
+ <text>
+The dedicators shall furnish the City an accurate map showing in detail the location and dimensions of all recorded easements, mains, pipe lines, laterals, stubs, valves, valve boxes, hydrants, and other fixtures, apparatus, and equipment forming a part of the utility lines constructed and dedicated pursuant to the Code, and showing the depth of all pipes and apparatus below the ground level, which map shall be subject to the approval of the Director of Public Utilities or other proper official of the City designated by the Council, and after such map is so approved there shall be no changes to the map made without the written consent of the Director of Public Utilities or other such officials of the City authorized to give such consent. 
+(Ord. No. 1985-543, §25, 4-16-85) 
+</text>
+</law>

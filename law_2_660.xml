@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2071" order_by="12-2071" level="5">Sec. 12-2071. - PARTICIPATION REQUIREMENTS.</unit>
+ </structure>
+ <section_number>12-2071</section_number>
+ <catch_line>PARTICIPATION REQUIREMENTS.</catch_line>
+ <order_by>12-2071</order_by>
+ <text>
+Any taxicab company that operates six (6) or more taxicabs must accept scrip of a type approved by the City in payment for premium taxi service. Scrip shall be sold to eligible ART users in appropriate denominations. The charge in scrip for a trip taken by an ART user shall be an amount no greater than that indicated in the rate schedule rounded to the nearest multiple of twenty-five cents ($0.25). Any taxicab company which has less than six (6) taxicabs in operation is exempt from this division. 
+(Ord. No. 1989-383, §3, 6-6-89) 
+</text>
+</law>

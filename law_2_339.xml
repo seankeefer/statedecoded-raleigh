@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2161" order_by="8-2161" level="5">Sec. 8-2161. - PURPOSE AND INTENT.</unit>
+ </structure>
+ <section_number>8-2161</section_number>
+ <catch_line>PURPOSE AND INTENT.</catch_line>
+ <order_by>8-2161</order_by>
+ <text>
+It is the purpose and intent of this article to assure that available water resources are put to reasonable beneficial uses to avoid depletion of the City water supply during a water shortage and to ensure that demand does not exceed the City's capacity for water treatment and distribution. This article shall be liberally construed to implement such purpose and intent. 
+(Ord. No. 2007-235, §1, 5-15-07) 
+</text>
+</law>

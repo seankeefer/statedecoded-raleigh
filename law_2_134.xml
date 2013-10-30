@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2004" order_by="5-2004" level="5">Sec. 5-2004. - COMMAND AT FIRES; DUTIES OF FIRE CHIEF.</unit>
+ </structure>
+ <section_number>5-2004</section_number>
+ <catch_line>COMMAND AT FIRES; DUTIES OF FIRE CHIEF.</catch_line>
+ <order_by>5-2004</order_by>
+ <text>
+  <section prefix="(a)">	The captain of the company arriving first at the fire shall command the Fire Department until the arrival of the Chief or Assistant Chief, who shall immediately take control, and their orders shall be obeyed promptly. 
+</section>
+  <section prefix="(b)">	The Chief shall have control of all property of the Fire Department; and shall inspect it once in every week and see that everything is kept in a condition for efficient service. 
+</section>
+  <section prefix="(c)">	The Chief shall have power to make all rules and regulations subject to the legislative control of the Council and approval by the City Manager. 
+</section>
+  <section prefix="(d)">	The Chief shall make monthly and annual inspection of the apparatus of the whole department, and make a report of same and of all fires to the City Manager. 
+</section>
+  <section prefix="(e)">	During fires and inspections the Chief shall control all fireplugs, maintain order among the firefighters, and do all things proper for the efficient operation of the department. 
+</section>
+  <section prefix="(f)">	The Chief shall examine all fire alarm boxes as often as necessary, shall have all repairs immediately attended to and shall examine all fire hydrants at least once in six (6) months, and shall make a report thereof to the City Manager. 
+</section>
+  <section prefix="(g)">	Whenever any examination or inspection of Fire Department equipment or property, fire hydrants, fire alarm boxes, or other fixtures or equipment shall be required by this article or by any other ordinance to be made by the Chief of the Fire Department, the Chief is hereby authorized to delegate these such duties to such employees of the City as he may designate and to require reports with respect thereto as he may deem proper; but it shall remain the responsibility of the Chief to enforce such delegated duties and to require the employees so designated by him to carry out these duties in a timely, efficient and proper manner. If the inspections are not paid within forty-five (45) days from the date of the inspection a fifty dollar ($50.00) late fee will be assessed in addition to the inspection fee. 
+(Code 1959 , §10-3; Ord. No. 2002-346, §1, 12-18-02) 
+</section>
+ </text>
+</law>

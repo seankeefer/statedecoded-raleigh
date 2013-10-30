@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.6" order_by="3.6" level="3">Sec. 3.6 - COUNCIL NOT TO INTERFERE IN APPOINTMENTS OR REMOVALS BY CITY MANAGER.</unit>
+ </structure>
+ <section_number>I-III-3.6</section_number>
+ <catch_line>COUNCIL NOT TO INTERFERE IN APPOINTMENTS OR REMOVALS BY CITY MANAGER.</catch_line>
+ <order_by>3.6</order_by>
+ <section prefix="text">
+Neither the City Council nor any of its members shall direct or request the appointment of any person to, or his removal from, office by the City Manager or by any of his subordinates, or in any manner take part in the appointment or removal of officers and employees in the administrative service of the City. Except for the purpose of inquiry, the Council and its members shall deal with the administrative service solely through the City Manager and neither the Council nor any member thereof shall give orders to any subordinates of the City Manager, either publicly or privately. 
+</section>
+</law>

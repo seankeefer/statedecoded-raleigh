@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - PROCEDURE</unit>
+  <unit label="section" identifier="6-2004" order_by="6-2004" level="5">Sec. 6-2004. - LIMITATION OF PETITIONS.</unit>
+ </structure>
+ <section_number>6-2004</section_number>
+ <catch_line>LIMITATION OF PETITIONS.</catch_line>
+ <order_by>6-2004</order_by>
+ <text>
+  <section prefix="(a)">	The end of a dead-end street; 
+</section>
+  <section prefix="(b)">	The end or beginning of existing paving or sidewalk and it is requested to complete the sidewalk or paving in that block; or 
+</section>
+  <section prefix="(c)">	A street the remaining portion of which can be completed in its entirety and improved fully at City expense because the improvement complies with the standards of §6-2021(d), and it is requested to complete the paving in that block. 
+</section>
+ </text>
+</law>

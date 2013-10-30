@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2029" order_by="2-2029" level="5">Sec. 2-2029. - UNLAWFUL TO CONDUCT BUSINESS WITHOUT A LICENSE.</unit>
+ </structure>
+ <section_number>2-2029</section_number>
+ <catch_line>UNLAWFUL TO CONDUCT BUSINESS WITHOUT A LICENSE.</catch_line>
+ <order_by>2-2029</order_by>
+ <text>
+  <section prefix="(a)">	It shall be unlawful for any person to engage in a business within this City upon which a privilege license tax is imposed by this article, without having paid the license tax specified in the schedule of license taxes, hereby incorporated herein and on file in the Department of Finance, Revenue Collections Division. Violators shall be guilty of a misdemeanor and, upon conviction, shall be fined, or imprisoned in the discretion of the court; but the fine shall not be less than twenty (20) per cent of the tax in addition to the tax and the cost. Each day that a person engages in business in violation of this section constitutes a separate offense. 
+</section>
+  <section prefix="(b)">	The City may seek an injunction against any person engaging in business in violation of this section. 
+</section>
+  <section prefix="(c)">	A conviction under this section does not relieve a person of his liability for the license tax or taxes imposed by this article. 
+</section>
+ </text>
+</law>

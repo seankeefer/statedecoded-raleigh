@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2077" order_by="8-2077" level="5">Sec. 8-2077. - REIMBURSEMENT PROCEDURES FOR EXTENSIONS TO NEW DEVELOPMENTS INSIDE AND OUTSIDE CORPORATE LIMITS; PROCEDURES.</unit>
+ </structure>
+ <section_number>8-2077</section_number>
+ <catch_line>REIMBURSEMENT PROCEDURES FOR EXTENSIONS TO NEW DEVELOPMENTS INSIDE AND OUTSIDE CORPORATE LIMITS; PROCEDURES.</catch_line>
+ <order_by>8-2077</order_by>
+ <text>
+  <section prefix="(a)">	Following completion, acceptable to the Chief Engineer of the City, of such improvements, the developer shall furnish the Chief Engineer an itemized list of costs to be reimbursed by the City. The following unit costs per lineal foot of installed main shall be used in determining the amount of reimbursement: 
+Water mains: 
+Six-inch: Thirty-five dollars ($35.00)/lineal foot.
+Eight-inch: Forty-three dollars ($43.00)/lineal foot. 
+Sewer mains: 
+Eight-inch: Forty-six dollars ($46.00)/lineal foot.
+Ten-inch: Fifty-eight dollars ($58.00)/lineal foot. 
+Design and inspection: Ten (10) per cent of construction cost. 
+Following the last working day in June, all fees stated herein shall be adjusted annually based on Engineering News Record Construction Cost Index, as published in December. After the fees are indexed, the fees shall be rounded to the nearest dollar. 
+</section>
+  <section prefix="(b)">	The City shall pay such other costs incidental to the development of the general area which, in the opinion of the Council should properly be borne by the City. 
+(Code 1959 , §20-31(d)—(g); Ord. No. 1985-543, §21, 4-16-85; Ord. No. 1987-31-TC-296, §29, 8-4-87; Ord. No. 1995-760-TC-122, §§25, 26, TC-20C-95, 11-21-95; Ord. No. 2007-165-TC-299, §1, TC-1-07, 2-6-07; Ord. No. 2012-81, §§1, 2, 6-19-12, eff. 7-1-12) 
+Editor's note: The provisions of this section are also set forth in §10-3023 and are repeated here for the convenience of the reader. 
+</section>
+ </text>
+</law>

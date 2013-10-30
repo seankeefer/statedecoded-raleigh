@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3033" order_by="12-3033" level="5">Sec. 12-3033. - REMOVAL, RELOCATION FOR VIOLATION.</unit>
+ </structure>
+ <section_number>12-3033</section_number>
+ <catch_line>REMOVAL, RELOCATION FOR VIOLATION.</catch_line>
+ <order_by>12-3033</order_by>
+ <text>
+The Wake County Health Department and City Inspection Division, upon complaint or otherwise, may after investigation notify the owner or person controlling any stable who has violated any health requirement or provision of this chapter, to remove or relocate the stable so that the same shall conform to the applicable health regulations and requirements of this chapter. Such stable owner or controller shall thereupon bring his stable into compliance or vacate and remove the same within five (5) days after the receipt of such notice. 
+(Code 1959 , §4-16) 
+</text>
+</law>

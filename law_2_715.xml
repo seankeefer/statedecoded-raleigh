@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2156" order_by="12-2156" level="5">Sec. 12-2156. - LICENSE REQUIRED.</unit>
+ </structure>
+ <section_number>12-2156</section_number>
+ <catch_line>LICENSE REQUIRED.</catch_line>
+ <order_by>12-2156</order_by>
+ <text>
+  <section prefix="(a)">	A &quot;rooming house&quot; is defined as a house, dwelling, building or structure, which was constructed originally as a single-family dwelling and now contains a type of equivalent dwelling unit as defined in Part 10, Chapter 2 consisting of a room or rooms without cooking facilities or private baths that are rented to the general public as a whole. 
+Every rooming house operator engaged in the business of renting any room or equivalent dwelling unit to another person for accommodation shall first apply for and procure from the City Revenue Collector a City license for the privilege of transacting or engaging in such business within the City. 
+The tax shall be two hundred fifty dollars ($250.00) per business location. Such license shall be due and payable in the same manner as prescribed for other privilege licenses issued by the City pursuant to this Code. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The owner actually maintains and occupies one of the living quarters as his residence and there are no more than four (4) living quarters on the premises. 
+</section>
+   <section prefix="(2)">	The business is paying the State sales tax imposed under G.S. 105-164.4(a)(3). 
+</section>
+  </section>
+  <section prefix="(c)">	Every application for the privilege license prescribed herein shall be upon a form approved by the City Manager and shall be filed with the City Revenue Collector. Every application shall be made under oath and shall contain sufficient information to enable the City to determine that the standards of §12-2157 are being met. 
+</section>
+  <section prefix="(d)">	For purposes of this article, it is immaterial whether payments are called rent, finance charge, or any other name, and it is immaterial whether the occupants are limited to any particular room in the living quarter. 
+(Ord. No. 1992-31, §1, 8-4-92; Ord. No. 1994-340, §1, 2-15-94; Ord. No. 1997-49, §1, 2-4-97) 
+</section>
+ </text>
+</law>

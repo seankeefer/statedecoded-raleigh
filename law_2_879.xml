@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="4" order_by="4" level="2">PART 4 - COMMUNITY SERVICES [1]</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FAIR HOUSING</unit>
+  <unit label="section" identifier="4-2007" order_by="4-2007" level="4">Sec. 4-2007. - PROVISIONS FOR ENFORCEMENT.</unit>
+ </structure>
+ <section_number>4-2007</section_number>
+ <catch_line>PROVISIONS FOR ENFORCEMENT.</catch_line>
+ <order_by>4-2007</order_by>
+ <text>
+  <section prefix="(a)">	It is the intent of the Council that the unit of civil rights in its work will adopt the role of advocate rather than that of adversary. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	To hear, investigate, conciliate and if necessary refer to appropriate enforcement agencies complaints of discrimination based on race, color, creed, sex, religion, national origin or age. 
+</section>
+   <section prefix="(2)">	To recommend to the department such ordinances, resolutions and statements as will aid in carrying out the purposes of this unit. 
+</section>
+   <section prefix="(3)">	To assist the Council and City Manager in implementing CityOrdinance No. (1969) - 889 as amended titled &quot;An Ordinance Authorizing and Directing That All Resources of the City of Raleigh Be Utilized To Eradicate and [Prevent] Racial Discrimination.&quot; 
+</section>
+   <section prefix="(4)">	To inquire into the manner and extent of the observance of the non-discriminatory contract clause of Ordinance No. (1969)-889 as amended. 
+</section>
+   <section prefix="(5)">	To be responsible for such other appropriate duties, responsibilities and powers as may be deemed necessary by the City Manager or Council. 
+</section>
+   <section prefix="(6)">	To seek to discourage, prevent and stop discriminatory practices against any individual or group because of race, color, creed, sex, religion, national origin or age and to seek fair and just solutions to other controversies involving human relations. 
+</section>
+   <section prefix="(7)">	To define, plan and implement community educational programs in the field of human relations and human rights with the intent of fostering mutual understanding and respect, acceptance, and equality of opportunity and treatment among various economic, social, age, religious, ethnic and racial groups within the City toward the end of preventing intergroup conflict, discrimination, alienation or unjust practices. 
+(Ord. No. 1977-473, 3/15/77, Sec. 4)  
+</section>
+  </section>
+ </text>
+</law>

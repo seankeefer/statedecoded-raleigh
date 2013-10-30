@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET AND SIDEWALK STANDARDS</unit>
+  <unit label="section" identifier="6-2016" order_by="6-2016" level="5">Sec. 6-2016. - ASPHALT SIDEWALKS.</unit>
+ </structure>
+ <section_number>6-2016</section_number>
+ <catch_line>ASPHALT SIDEWALKS.</catch_line>
+ <order_by>6-2016</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	No curb or gutter exists on the street immediately parallel to the proposed sidewalk. 
+</section>
+   <section prefix="(2)">	Prior to construction sufficient right-of-way, existing or dedicated, is available to place the sidewalk in a safe location.
+</section>
+   <section prefix="(3)">	There are no existing or projected stormwater deficiencies.
+</section>
+   <section prefix="(4)">	No part of the proposed sidewalk extends into or over a proposed street or utility improvement as shown on the amended five-year capital improvements program of any governmental authority. 
+</section>
+   <section prefix="(5)">	The proposed sidewalk is either within an area that meets the linear distances established in §10-3051(a)(3) of this Code or the City Council finds that there is substantial pedestrian demand to make sidewalks beneficial. 
+</section>
+  </section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The minimum stone base shall be four (4) inches. 
+</section>
+   <section prefix="(2)">	The asphalt shall be a minimum thickness of one and one-half ( 1/2) inches. 
+</section>
+   <section prefix="(3)">	The asphalt sidewalk is designed and installed in accordance with the standards of the engineering department.
+(Ord. No. 1991-716, §2, 1-15-91) 
+</section>
+  </section>
+ </text>
+</law>

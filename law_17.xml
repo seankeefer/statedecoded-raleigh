@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.11" order_by="2.11" level="3">Sec. 2.11 - GRANTING OF FRANCHISES.</unit>
+ </structure>
+ <section_number>I-II-2.11</section_number>
+ <catch_line>GRANTING OF FRANCHISES.</catch_line>
+ <order_by>2.11</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	No franchise initially granted to any public utility regulated by the North Carolina Public Utilities Commission shall be effective until the question has been submitted at a general or special election to the qualified voters of the City and until a majority of those voting on the proposition have voted in favor of granting such franchise. Any renewal of any franchise granted a public utility as hereinbefore defined or the grant of a franchise other than to a public utility company regulated by the North Carolina Public Utilities Commission may be granted in the Council's discretion; provided, however, that any franchise granted without a vote of the people shall be subject to a referendum as provided in §24 of Chapter 1184 of the Session Laws of North Carolina, 1949, as amended except that the number of qualified voters required by §24(b) [2.16(b)] for purposes of this section shall be five per cent (5%) rather than ten per cent (10%); and provided further that any franchise which initially requires a vote to become effective shall not be subject to the referendum provided in §24 of Chapter 1184 of the Session Laws of North Carolina, 1949, as amended. 
+</section>
+  <section prefix="(b)">	In all elections upon the granting of franchises, whether said election is held pursuant to an initial grant or otherwise, the person, persons or corporation applying for said franchise shall deposit with the City Treasurer a sum which in the opinion of the City Council will be sufficient to defray the expenses of such election; provided that no franchise shall be granted for a longer time than 60 years from the date of the granting of such franchise. 
+</section>
+  <section prefix="(c)">	Every grant of any franchise or right, as hereinbefore provided, shall make provision, by way of the forfeiture of the grant or otherwise, for the purpose of compelling compliance with the terms of the grant, and to secure efficiency of public service at reasonable rates, and the maintenance of the property in good condition throughout the full term of the grant; and when the grant of any franchise or right is made, the City shall not part with the power to expressly reserve the right and duty at all times to exercise, in the interest of the public, full superintendence, regulation and control, in respect to all matters connected with the police powers of said City; and before any such grant of any such franchise or right shall be made, the proposed specific grant shall be embodied in the form of an ordinance, with all the terms and conditions that may be right and proper, including a provision for fixing a rate, fares and charges to be made if the grant provide for the charging of a rate, fares and charges; provided, that this act shall not modify any rights, privileges and franchises heretofore legally granted by the City to any person, firm or corporation; and provided further, that any and all rights, privileges and franchises that have been heretofore or that may be hereafter granted to or held by any person, firm or corporation in the streets, alleys, sidewalks, public grounds or places in said City shall, except when such imposition by the City is prohibited by any statute now or hereafter in effect, be subject to a tax by said City in such amount as the City Council may think to be just, separate from and in addition to the other assets of such person, firm or corporation, and in addition to a license tax; and the City Council may require the rendition and assessment thereof accordingly. 
+ 
+Annotation: Kornegay v. Raleigh, 269 N.C. 155, 152 S.E.2d 186 (1967). Franchises not authorized by general law must conform to all procedures required by local law. 
+Editor's note: Subsequent to this court decision, this Charter provision was amended by 1967 Session Laws, Ch. 915. 
+</section>
+ </section>
+ <history>(S.L. 1967, Ch. 915, §1)</history>
+</law>

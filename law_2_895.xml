@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="7" order_by="7" level="2">PART 7 - SOLID WASTE SERVICES [1]</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - SOLID WASTE COLLECTION [2]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="7-2002" order_by="7-2002" level="5">Sec. 7-2002.2. - ADMINISTRATIVE FEES AND CIVIL PENALTIES.</unit>
+ </structure>
+ <section_number>7-2002</section_number>
+ <catch_line>ADMINISTRATIVE FEES AND CIVIL PENALTIES.</catch_line>
+ <order_by>7-2002</order_by>
+ <text>
+  <section prefix="(a)">	Except as otherwise stated, the owner of record and/or tenant of any building, unit, or land in the City notice of violation of any provision contained within Part 7 of the Raleigh City Code, after issuance of an initial warning, shall be subject to an administrative fee of one hundred dollars ($100.00) per violation. 
+</section>
+  <section prefix="(b)">	Except as otherwise stated, the owner of record and/or tenant of any building, unit, or land in the City shall be subject to a two hundred fifty dollar ($250.00) civil penalty upon the issuance of a second notice of violation within a twelve (12) month period. For each subsequent violation within twelve (12) months of the issuance of a notice of violation the owner of record and/or tenant of any building, unit, or land in the City shall be subject to a two hundred fifty dollar ($250.00) civil penalty. Each twenty-four (24) hour period during which a violation exists shall constitute a separate offense; a separate civil penalty shall be assessed for each twenty-four (24) hour period during which a violation exists. 
+</section>
+  <section prefix="(c)">	Upon inspection of any property any owner of record and/or tenant of any building, unit, or land in the City placing items banned from landfills, as set forth in N.C. Gen. Stat. §130A-309.10(f), in solid waste containers or contaminating recycle loads shall be subject to an administrative fee of one hundred fifty dollars ($150.00) and a civil penalty of two hundred fifty dollars ($250.00) per violation. 
+</section>
+  <section prefix="(d)">	If a person fails to pay the civil penalty within thirty (30) days after being notified of the amount due, the City may recover the penalty together with all costs by filing a civil action in the general court of justice in the nature of a suit to collect a debt. 
+(Ord. No. 2011-822, §2, 1-4-11) 
+</section>
+ </text>
+</law>

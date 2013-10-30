@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - BEER AND WINE</unit>
+  <unit label="section" identifier="2-2045" order_by="2-2045" level="5">Sec. 2-2045. - WHOLESALE TAX.</unit>
+ </structure>
+ <section_number>2-2045</section_number>
+ <catch_line>WHOLESALE TAX.</catch_line>
+ <order_by>2-2045</order_by>
+ <text>
+  <section prefix="(1)">	Where such wholesaler sells at wholesale only malt beverages or wine as defined in G.S. 18B-101, as amended, the tax shall be, per annum 	$37.50
+ 
+</section>
+  <section prefix="(2)">	Where such wholesaler sells at wholesale both malt beverages and wines as defined in G.S. 18B-101, the tax shall be, per annum 	$62.50
+ 
+</section>
+  <section prefix="(3)">	If any wholesaler maintains more than one place of business or storage warehouse from which orders are received or beverages are distributed, a separate license tax shall be paid for each separate place of business or warehouse. 
+</section>
+  <section prefix="(4)">	The owner or operator of every distributing warehouse selling, distributing or supplying to retail stores beverages enumerated in this section shall be deemed wholesale distributors within the meaning of this section and shall be liable for the tax imposed hereby. 
+(Code 1959 , §6-5; Ord. No. 1987-21, §§6, 7, 7-21-87) 
+State law reference: Related provisions, G.S. 105-113.79. 
+</section>
+ </text>
+</law>

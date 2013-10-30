@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2204" order_by="11-2204" level="5">Sec. 11-2204. - OPERATION OF PARKING METERS.</unit>
+ </structure>
+ <section_number>11-2204</section_number>
+ <catch_line>OPERATION OF PARKING METERS.</catch_line>
+ <order_by>11-2204</order_by>
+ <text>
+  <section prefix="(a)">	Except in a period of emergency determined by an officer of the Fire or Police Department, or in compliance with the directions of a police officer or traffic-control sign or signal, when any vehicle shall be parked in any parking space alongside or next to which a parking meter is located, the operator of such vehicle shall, upon entering the parking meter space, immediately deposit or cause to be deposited in that meter such proper coin of the United States of America as is required for the parking meter and as is designated by proper directions on the meter, and when required by the directions on the meter, the operator of the vehicle, after the deposit of the proper coin or coins, shall also set in operation the timing mechanism of the meter in accordance with directions properly appearing thereon, and failure to deposit the proper coin, and to set the timing mechanism in operation when so required, shall constitute a violation of this article. 
+</section>
+  <section prefix="(b)">	Upon the deposit of a coin (and the setting of the timing mechanism in operation when so required) the parking space may be lawfully occupied by the vehicle during the period of time which has been prescribed for the part of the street in which the parking space is located, provided that any person placing a vehicle in a parking meter space adjacent to a meter which indicates that unused time has been left in the meter by a previous occupant of the space shall not be required to deposit a coin so long as his occupancy of the space does not exceed the indicated unused parking time. If the vehicle shall remain parked in any parking space beyond the parking time limit set for the parking space, and if the meter shall indicate illegal parking, then, and in that event the vehicle shall be considered as parking overtime and beyond the period of legal parking time and such parking shall be deemed a violation of this article. 
+(Code 1959 , §21-47) 
+</section>
+ </text>
+</law>

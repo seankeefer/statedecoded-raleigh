@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3036" order_by="12-3036" level="5">Sec. 12-3036. - KENNEL STANDARDS.</unit>
+ </structure>
+ <section_number>12-3036</section_number>
+ <catch_line>KENNEL STANDARDS.</catch_line>
+ <order_by>12-3036</order_by>
+ <text>
+  <section prefix="(a)">	Building temperature. 
+Enclosures must be provided which shall allow adequate protection against weather extremes. Floors of buildings, runs and walls shall be of an impervious material to permit proper cleaning and disinfecting. Healthful building temperatures shall be maintained. 
+</section>
+  <section prefix="(b)">	Cages and runs. 
+Each animal shall have sufficient space to stand up, lie down and turn around without touching the sides or top of cages. Cages are to be of material and construction that permits cleaning and sanitizing. Cage floors of concrete, unless radiantly heated, shall have a resting board or some type of bedding. Runs shall provide an adequate exercise area and protection from the weather. Runs shall have an impervious surface. All animal quarters and runs are to be kept clean, dry and in a sanitary condition. 
+</section>
+  <section prefix="(c)">	Feeding. 
+The food shall be free from contamination, wholesome, palatable and of sufficient quantity and nutritive value to meet the normal daily requirements for the condition and size of the animal. 
+</section>
+  <section prefix="(d)">	Watering of animals. 
+All animals shall have fresh water available at all times. Water vessels shall be mounted or secured in a manner that prevents tipping and be of the removable type. 
+(Code 1959 , §4-19) 
+</section>
+ </text>
+</law>

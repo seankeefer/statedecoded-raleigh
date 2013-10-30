@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.13" order_by="2.13" level="3">Sec. 2.13 - GENERAL MUNICIPAL POWERS.</unit>
+ </structure>
+ <section_number>I-II-2.13</section_number>
+ <catch_line>GENERAL MUNICIPAL POWERS.</catch_line>
+ <order_by>2.13</order_by>
+ <section prefix="text">
+The City Council shall continue under existing laws to have power to make and provide for the execution of such ordinances for the City as the City Council may deem proper not inconsistent with the laws of the land, and the City of Raleigh shall have all the powers granted to municipalities by the general laws of the State of North Carolina as the same may now or hereafter be enacted. 
+Cross reference: For grant of power generally, see §1.5 
+</section>
+</law>

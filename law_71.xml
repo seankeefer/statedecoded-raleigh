@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.30" order_by="6.30" level="3">Sec. 6.30 - SAMECONNECTIONS WITH SEWERS.</unit>
+ </structure>
+ <section_number>I-VI-6.30</section_number>
+ <catch_line>SAMECONNECTIONS WITH SEWERS.</catch_line>
+ <order_by>6.30</order_by>
+ <section prefix="text">
+The City Council may require all owners of improved property which may be located upon or near any line of the sewerage system of the City, within the corporate limits, to connect with such sewerage line or system all water closets, toilets, bathtubs, lavatories, sinks, and drains upon their respective properties or premises, so that their contents may be made to empty into such sewerage system. 
+</section>
+</law>

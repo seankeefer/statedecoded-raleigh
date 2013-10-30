@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2205" order_by="11-2205" level="5">Sec. 11-2205. - PARKING TIME LIMITS.</unit>
+ </structure>
+ <section_number>11-2205</section_number>
+ <catch_line>PARKING TIME LIMITS.</catch_line>
+ <order_by>11-2205</order_by>
+ <text>
+  <section prefix="(a)">	Fifteen-minute parking meter zones. 
+Parking or standing a vehicle in a designated space in a fifteen-minute parking zone as provided in Traffic 
+Schedule No. 20, parking meter zones, shall be lawful for fifteen (15) minutes upon deposit of fifty cents ($0.50) in coins of the United States of America. 
+</section>
+  <section prefix="(b)">	Thirty-minute parking meter zones. 
+Parking or standing a vehicle in a designated space in a thirty-minute parking meter zone as provided by official Traffic Schedule No. 20, parking meter zones, shall be lawful for thirty (30) minutes upon deposit of fifty cents ($0.50) in coins of the United States of America. 
+</section>
+  <section prefix="(c)">	One-hour parking meter zones. 
+Parking or standing a vehicle in a designated space in a one-hour parking meter zone as provided by official Traffic Schedule No. 20, shall be lawful for one (1) hour upon deposit of fifty cents ($0.50) in coins of the United States of America. 
+</section>
+  <section prefix="(d)">	Two-hour parking meter zones. 
+Parking or standing a vehicle in a designated space in a two-hour parking meter zone, as provided by official Traffic Schedule No. 20, shall be lawful for two (2) hours upon deposit of fifty cents ($0.50) in coins of the United States of America. 
+(Code 1959 , §21-48(a)—(d); Ord. No. 1989-427, §1, 9-5-89; Ord. No. 2004-666A, §§9—12, 6-29-04) 
+</section>
+ </text>
+</law>

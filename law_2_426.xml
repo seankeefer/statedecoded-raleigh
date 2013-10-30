@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="11-2028" order_by="11-2028" level="5">Secs. 11-2028 — 11-2029. - RESERVED.</unit>
+ </structure>
+ <section_number>11-2028</section_number>
+ <catch_line>RESERVED.</catch_line>
+ <order_by>11-2028</order_by>
+ <text>
+Editor's note: Section 1 of Ord. No. 1984-294, adopted Feb. 21, 1984, repealed §§11-2028 and 11-2029 concerning removal of junked and abandoned motor vehicles and removal of impounded vehicles. Said §11-2028 derived from Code 1959, §21-13 and Ord. No. 1977-637, adopted Oct. 18, 1977; §11-2029 bore no history note. See Ch. 7 of Part 12 for removal of abandoned vehicles. 
+</text>
+</law>

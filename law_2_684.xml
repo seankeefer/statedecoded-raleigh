@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PAWNBROKERS [3]</unit>
+  <unit label="section" identifier="12-2105" order_by="12-2105" level="5">Sec. 12-2105. - RECORD KEEPING REQUIREMENTS.</unit>
+ </structure>
+ <section_number>12-2105</section_number>
+ <catch_line>RECORD KEEPING REQUIREMENTS.</catch_line>
+ <order_by>12-2105</order_by>
+ <text>
+  <section prefix="(a)">	Every pawnbroker shall keep consecutively numbered records of each pawn transaction. The records shall correspond in all essential particulars to a detachable pawn ticket or copy thereof attached to the record. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	A clear and accurate description of the property, including model and serial number if indicated on the property. 
+</section>
+   <section prefix="(2)">	The name, residence address, phone number, and date of birth of the pledgor. 
+</section>
+   <section prefix="(3)">	The date of the transaction.
+</section>
+   <section prefix="(4)">	The type of identification and identification number accepted from pledgor.
+</section>
+   <section prefix="(5)">	Physical description of the pledgor.
+</section>
+   <section prefix="(6)">	The amount of money advanced.
+</section>
+   <section prefix="(7)">	The date and the amount due.
+</section>
+   <section prefix="(8)">	All monthly pawn charges, including interest, annual percentage rate on interest, and total recovery fee. 
+</section>
+   <section prefix="(9)">	Agreed upon stated value between the pledgor and the pawnbroker in case of loss or destruction of pledged item. Unless otherwise noted the stated value is the same as the loan value. 
+</section>
+  </section>
+  <section prefix="(c)">
+   <section prefix="(1)">	The statement that &quot;ANY PERSONAL PROPERTY PLEDGED TO A PAWNBROKER WITHIN THIS STATE IS SUBJECT TO SALE OR DISPOSAL WHEN THERE HAS BEEN NO PAYMENT MADE ON THE ACCOUNT FOR A PERIOD OF 60 DAYS PAST MATURITY DATE OF THE ORIGINAL CONTRACT. NO FURTHER NOTICE IS NECESSARY.&quot; 
+</section>
+   <section prefix="(2)">	The statement that &quot;THE PLEDGOR OF THIS ITEM ATTESTS THAT IT IS NOT STOLEN, HAS NO LIENS OR ENCUMBRANCES, AND IS PLEDGOR'S TO SELL OR TO PAWN.&quot; 
+</section>
+   <section prefix="(3)">	The statement that &quot;THE ITEM PAWNED IS REDEEMABLE ONLY BY THE BEARER OF THIS TICKET OR BY IDENTIFICATION OF THE PERSON MAKING THE PAWN.&quot; 
+</section>
+   <section prefix="(4)">	A blank line for the pledgor's signature or initials. 
+</section>
+  </section>
+  <section prefix="(d)">	The pledgor shall sign the pawn ticket and shall receive an exact copy of the pawn ticket, which shall be signed or initialed by the pawnbroker or an employee of the pawnbroker. These records shall be available for inspection each regular workday by the Police Department. The records shall be provided to the Police Department within twenty-four (24) hours after the record is created in one of the following ways: 
+1.	Hand delivery to: 110 South McDowell Street
+Raleigh Police Department 4th floor
+Attention: pawnshop investigator
+2.	Facsimile to: (919) 890-3004 Attention: pawnshop investigator
+3.	Electronic data as set forth in the next paragraph.
+All pawnbrokers are required to utilize a reporting system that offers an electronic data transmission system that is compatible with the standard used by the local City or County law enforcement computer system. The electronic data must be provided to the appropriate law enforcement agency as designated by the Raleigh Police Department within twenty-four (24) hours after the record is created. 
+</section>
+  <section prefix="(e)">	Except as otherwise provided in this part any person presenting a pawn ticket for redemption is presumed to be entitled to redeem the property described by the ticket. 
+(Ord. No. 1992-982, §5, 6-2-92; Ord. No. 2003-410, §1, 3-18-03; Ord. No. 2007-222, §§1, 2, 5-1-07) 
+Editor's note— 
+Ord. No. 2007-222, §2, adopted May 1, 2007, shall become effective on May 4, 2008. 
+</section>
+ </text>
+</law>

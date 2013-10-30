@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.2. - SEARCH WARRANTS.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>SEARCH WARRANTS.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+If the POTW Director, City, Approval Authority, or the EPA, has been refused access to a building, structure, or property, or any part thereof, and is able to demonstrate probable cause to believe that there may be a violation of this article, or that there is a need to inspect and/or sample as part of a routine inspection and sampling program of the City designed to verify compliance with this article or any permit or order issued hereunder, or to protect the overall public health, safety and welfare of the community, then the POTW Director, City, Approval Authority, or the EPA may seek issuance of a search warrant. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</text>
+</law>

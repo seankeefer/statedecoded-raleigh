@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="I" order_by="1" level="2">ARTICLE I. - IN GENERAL</unit>
+  <unit label="section" identifier="1.4" order_by="1.4" level="3">Sec. 1.4 - FORM OF GOVERNMENT.</unit>
+ </structure>
+ <section_number>I-I-1.4</section_number>
+ <catch_line>FORM OF GOVERNMENT.</catch_line>
+ <order_by>1.4</order_by>
+ <section prefix="text">
+The form of government for the City of Raleigh shall be known as the &quot;Council-Manager Government&quot; and shall be as set forth in Plan D of Part 4 of Article 22 of Chapter 160 [Article 7, Part 2, Chapter 160A] of the General Statutes of North Carolina, as heretofore adopted by the electorate of the citizens of Raleigh, subject to the modifications set forth in this Act. All powers of the City shall be vested in an elective Council, hereinafter referred to as the &quot;City Council&quot; or as the &quot;Council&quot;; provided, however, that nothing contained in this Act shall be construed to prevent the form of government of the City of Raleigh from being determined from time to time by a vote of the people of the City of Raleigh at an election as now or hereafter provided by law. 
+</section>
+</law>

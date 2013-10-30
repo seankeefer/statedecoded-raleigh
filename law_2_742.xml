@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2185" order_by="12-2185" level="5">Sec. 12-2185. - RELATION TO OTHER LAWS.</unit>
+ </structure>
+ <section_number>12-2185</section_number>
+ <catch_line>RELATION TO OTHER LAWS.</catch_line>
+ <order_by>12-2185</order_by>
+ <text>
+Nothing in this article shall authorize or condone any violation of Federal, state, and City fair housing laws and state landlord and tenant laws. This article shall not diminish any private right of action of any person. 
+(Ord. No. 2008-415B, §1, 7-1-08)  
+</text>
+</law>

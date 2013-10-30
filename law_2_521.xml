@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2216" order_by="11-2216" level="5">Sec. 11-2216. - IMMOBILIZATION OF VEHICLES.</unit>
+ </structure>
+ <section_number>11-2216</section_number>
+ <catch_line>IMMOBILIZATION OF VEHICLES.</catch_line>
+ <order_by>11-2216</order_by>
+ <text>
+  <section prefix="(a)">	The City Manager or his designee may immobilize by the use of wheel locks and tow and impound any vehicle which is illegally parked in violation of article J or article K of Part 11 of this Code, and for which there are three (3) or more outstanding, unpaid, and overdue parking tickets for a period of ninety (90) days. For the purpose of determining whether an illegally parked vehicle has had issued against it three (3) or more outstanding, unpaid, and overdue parking tickets for a period of ninety (90) days, it shall be sufficient if the license plate number of the illegally parked vehicle and the license number of the vehicle having received the tickets are the same. 
+</section>
+  <section prefix="(b)">	If a wheel lock is attached to a vehicle, a notice shall be affixed to the windshield or other part of the vehicle so as to be readily visible. The notice shall warn that the vehicle has been immobilized and that any attempt to move the vehicle may result in damage to the vehicle. The City of Raleigh shall not be responsible for any damage to an immobilized illegally parked vehicle resulting from unauthorized attempts to free or move the vehicle. An immobilization fee of fifty dollars ($50.00) shall be charged for the removal of the wheel lock. The notice shall also state the total amount of civil penalties due for parking tickets which are overdue and unpaid and attributable to such vehicle, and the immobilization fee to be charged. The address and telephone number to be contacted to pay the charges to have the wheel lock removed shall also be listed. 
+</section>
+  <section prefix="(c)">	If civil penalties due and an immobilization fee as herein provided are not paid, or satisfactory arrangements in lieu of payment are not made, within twenty-four (24) hours of the attachment of the wheel lock, such vehicle may be towed and impounded to any public or private impoundment lot. If a private contractor tows and stores the vehicle he may impose against the vehicle his customary fees and charges for such services. 
+Once a vehicle has been impounded, the Finance Director or his designee, shall mail a notice of impoundment to the registered owner and lienholders, if any are known, at the address or addresses reported to the City by the North Carolina Department of Motor Vehicles. 
+</section>
+  <section prefix="(d)">	Upon payment of all civil penalties and overdue and unpaid parking tickets issued for the vehicle and of all other charges authorized by this section, including immobilization, towing, and impoundment fees, the vehicle shall be released to the owner or any other person legally entitled to claim possession of the vehicle. 
+</section>
+  <section prefix="(f)">	The owner or other person entitled to possession of the vehicle which has been immobilized pursuant to this section may submit a request for hearing to the Finance Director by certified mail or personal delivery within seven (7) days from the receipt of the notice provided for in subsection (c) hereinabove. If a hearing is requested, a statement shall be sent to the requesting party to inform him of the time and place of the hearing, of the basis of the vehicles immobilization and impoundment, of the rules governing conduct of the hearing, of the right to present evidence as to why the vehicle should not have been immobilized or towed, and of the right to be represented by counsel. The hearing officer shall prepare a written report of his findings within three (3) days of the hearing. The report shall state his conclusion as to whether the vehicle was properly immobilized and towed, and the reasons underlying his conclusion. If it is concluded that the vehicle was improperly immobilized or towed, then any improper charges shall be canceled, or if paid, rebated. 
+</section>
+  <section prefix="(g)">	It shall be unlawful for anyone to remove from a vehicle a wheel lock placed thereon pursuant to this section or to remove from impoundment any vehicle placed therein pursuant to this section without all civil penalties and applicable charges having first been paid or an approved payment plan having been made. 
+</section>
+  <section prefix="(h)">	The City Manager is authorized to establish guidelines to adjust the amount of civil penalties imposed pursuant to this section to promote the resolution of any claim against persons with ten (10) or more outstanding delinquent parking tickets. 
+(Ord. No. 1995-714, §1, 9-5-95) 
+</section>
+ </text>
+</law>

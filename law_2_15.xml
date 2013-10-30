@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1033" order_by="1-1033" level="5">Sec. 1-1033. - DECORUM; REQUIRED.</unit>
+ </structure>
+ <section_number>1-1033</section_number>
+ <catch_line>DECORUM; REQUIRED.</catch_line>
+ <order_by>1-1033</order_by>
+ <text>
+  <section prefix="(a)">	By Council Members: 
+While the Council is in session, the members must preserve order and decorum; and a member shall neither, by conversation or otherwise, delay or interrupt the proceedings or the peace of the Council nor disturb any member while speaking or refuse to obey the orders of the Council or its presiding officer, except as otherwise herein provided. 
+</section>
+  <section prefix="(b)">	By Other Persons: 
+Any person making personal, impertinent, or slanderous remarks or who shall become boisterous while addressing the Council shall be forthwith, by the presiding officer, barred from further audience before the Council, unless permission to continue be granted by a majority vote of the Council. 
+(Code 1959 , §2-13) 
+</section>
+ </text>
+</law>

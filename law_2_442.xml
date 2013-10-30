@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2074" order_by="11-2074" level="5">Sec. 11-2074. - THROUGH STREETS.</unit>
+ </structure>
+ <section_number>11-2074</section_number>
+ <catch_line>THROUGH STREETS.</catch_line>
+ <order_by>11-2074</order_by>
+ <text>
+It shall be unlawful for any person to fail to stop at a stop sign or yield at a yield sign, as required by Chapters 20-158 and 20-158.1 of the General Statutes and §11-2072 and §11-2073 above, before entering any of the streets or parts of streets listed in official Traffic Schedule No. 4, Through Street; provided, if any such intersections are controlled by traffic signals, stop signs, yield signs, or other traffic-control devices as provided for in §11-2071, §11-2072 or §11-2073 of this Code, such controls shall take precedence over this section. Traffic stop or yield signs shall be erected at all streets intersecting the through streets designated in official Traffic Schedule No. 4 unless otherwise provided for in this chapter. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</text>
+</law>

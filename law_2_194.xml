@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET AND SIDEWALK STANDARDS</unit>
+  <unit label="section" identifier="6-2012" order_by="6-2012" level="5">Sec. 6-2012. - CLASSIFICATION OF STREETS.</unit>
+ </structure>
+ <section_number>6-2012</section_number>
+ <catch_line>CLASSIFICATION OF STREETS.</catch_line>
+ <order_by>6-2012</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Major thoroughfares. 
+Major thoroughfares are roadways with considerable City-wide continuity. These roadways are designed to accommodate large volumes of traffic from one area of the City to another. 
+</section>
+   <section prefix="(2)">	Minor thoroughfares. 
+Minor thoroughfares are roadways leading to or connecting to arterials and major thoroughfares. These roadways are designed to accommodate large volumes of traffic, but not of major thoroughfare importance. 
+</section>
+   <section prefix="(3)">	Collector streets. 
+Streets which collect traffic from three hundred and fifty-one (351) or more dwelling units, schools, libraries, art galleries or other residential institutions with similar vehicle trip generation and peak loading characteristics. Collector streets have continuity of more than one-half (½) mile in length, or they provide a connection either between thoroughfare system roads or between major traffic generators which would encourage through traffic on any street not classified as a thoroughfare system roadway. Other streets can be regarded as a collector street if the roadway is so illustrated on the City's Comprehensive Plan. 
+</section>
+   <section prefix="(4)">	Commercial streets. 
+A street, the predominant use of which is to provide access for abutting commercial, industrial or other nonresidential properties. 
+In lieu of the above definitions, principal thoroughfares may also consist of collector streets as they appear on the &quot;Thoroughfare Plan, Raleigh, Cary, Garner.&quot; A copy of this map is on file in the office of the City Clerk and Treasurer. 
+</section>
+  </section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Residential collector streets. 
+Streets which collect traffic from more than one hundred and fifty (150) dwelling units, but less than three hundred and fifty-one (351) dwelling units or from day care facilities of more than seventy (70) enrollees; or streets which collect traffic from schools, museums, libraries, art galleries, or other residential institutions that generate traffic volumes or peak loading characteristics equivalent to less than three hundred and fifty-one (351) dwelling units. Residential collector streets have continuity of more than one-half (½) mile in length, or they provide connection between either thoroughfare system roadways or major traffic generators which would encourage through traffic on any street not classified as a thoroughfare system roadway. 
+</section>
+   <section prefix="(2)">	Residential streets. 
+Streets that collect traffic from no more than one hundred and fifty (150) dwelling units or from day care facilities with no more than seventy (70) enrollees; or streets which collect traffic from schools, museums, libraries, art galleries or other residential institutions that generate traffic volumes or peak loading characteristics equivalent to one hundred and fifty (150) dwelling units. Residential streets are not more than one-half (½) mile in length; nor do they provide a collection between thoroughfare system roadways, nor do they provide a connection between major traffic generators which would encourage through traffic movements. 
+</section>
+   <section prefix="(3)">	Minor residential streets. 
+Streets that collect traffic from no more than forty (40) dwelling units. Minor residential streets have continuity of less than one-half (½) mile in length, and they do not provide a connection either between thoroughfare system roadways or between major traffic generators which would encourage through traffic on any street not classified as a thoroughfare system roadway. 
+(Ord. No. 1982-971-TC-168, §2, 9-7-82; Ord. No. 1982-5, §1, 10-19-82; Ord. No. 1987-69, §§2, 3, 10-20-87; Ord. No. 1995-760-TC-122, §§3, 4, TC-20C-95, 11-21-95) 
+</section>
+  </section>
+ </text>
+</law>

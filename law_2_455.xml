@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TURNING MOVEMENTS</unit>
+  <unit label="section" identifier="11-2105" order_by="11-2105" level="5">Sec. 11-2105. - RIGHT TURNS ON RED TRAFFIC CONTROL SIGNAL LIGHTS PROHIBITED.</unit>
+ </structure>
+ <section_number>11-2105</section_number>
+ <catch_line>RIGHT TURNS ON RED TRAFFIC CONTROL SIGNAL LIGHTS PROHIBITED.</catch_line>
+ <order_by>11-2105</order_by>
+ <text>
+After authorized signs have been erected giving notice thereof, it shall be unlawful to proceed to turn right while facing a red traffic light at those locations specified in official Traffic Schedule No. 1, Electronic traffic control signals. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2046" order_by="12-2046" level="5">Sec. 12-2046. - RATE CARD; ISSUANCE, POSTING, COMPLYING WITH.</unit>
+ </structure>
+ <section_number>12-2046</section_number>
+ <catch_line>RATE CARD; ISSUANCE, POSTING, COMPLYING WITH.</catch_line>
+ <order_by>12-2046</order_by>
+ <text>
+For every taxicab for which an owner's permit shall be granted, the taxicab inspector shall issue a rate card stating on it the elements of the schedule of fares pertaining to premium taxi service described in this article. In addition, for every taxicab owned by a person holding a certificate of convenience and necessity to provide shared taxi service, the taxicab inspector shall issue a rate card stating on it the elements of the schedule of fares pertaining to shared taxi service described in this article, including a map depicting the zones described in §12-2043(2)e. Such rate cards shall at all times be displayed so that they will be clearly visible to the passenger or passengers using the taxicab. The print used on the rate card shall be of such size as may be determined by the taxicab inspector. No charge may be made by a taxicab driver in excess of the charge permitted by the relevant rate card displayed and, in the case of premium service, by the taximeter operating to reflect correct charges in conformity therewith. 
+(Code 1959 , §22-26; Ord. No. 1978-799, §3, 5-16-78; Ord. No. 1980-487, §19, 10-7-80) 
+</text>
+</law>

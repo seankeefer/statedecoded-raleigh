@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="8-2001" order_by="8-2001" level="5">Sec. 8-2001. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>8-2001</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>8-2001</order_by>
+ <text>
+As used in this chapter, the following terms shall have the meanings ascribed to them respectively: 
+Dedicators. 
+Dedicators shall mean and include the person owning or constructing any private utility system being dedicated to the City. 
+Gross acre. 
+Gross acre shall mean the total area contained within any lot, tract or parcel, including common areas and private streets for developments authorized by North Carolina Condominium Act or Article D, Chapter 3, Part 10 of this Code, which is derived from a map recorded with the Wake Registry notwithstanding any lien, covenant, land use restriction (such as floodway) or public or private easement which may affect the lot, tract or parcel; each lot, tract or parcel. 
+Major water and sewer mains. 
+Major water and sewer mains or major water and major sewer mains shall mean those water and/or sewer lines which are twelve (12) inches in diameter or greater. 
+Tap size. 
+Tap size shall mean the nominal diameter of the connection of the water line installed between a water meter assembly and the water main connected to the water utility system of Raleigh without regard to the configuration of that water assembly or ownership of the water meter assembly, service or water main. 
+Utility system, utility lines. 
+Utility system or utility lines shall mean and include water pipe lines and sewer pipe lines (either or both as determined by the context), and shall include all pipes, valves, valve boxes, hydrants, and other fixtures, equipment, and apparatus connected to and forming a part of the main water or sewer pipe lines and systems or both, and all appliances necessary and convenient thereto. The utility lines dedicated to the City shall include only main distribution lines, valves, hydrants and other apparatus, fixtures and equipment forming a part of the lines laid in public streets, roads, highways and alleys or across City utility or sanitary sewer easements on private property, and shall not include lines leading from mains to building connections on private property and shall not include the water or sewer lines within any residences or other privately owned building. Utility lines built in accordance with City/County contract dated January, 1985, are part of the City's utility system. 
+Water service stubs and (building sewer) sewer service stubs. 
+Water service stubs and (building sewer) sewer service stubs shall mean those portions of the water service and building sewer pipes which connect to the City's water and sewer mains and extend to the boundaries of public easements and rights-of-way. 
+(Ord. No. 1985-543, §1, 4-16-85; Ord. No. 1995-760-TC-122, §13, TC-20C-95, 11-21-95) 
+</text>
+</law>

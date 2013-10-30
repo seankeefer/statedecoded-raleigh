@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3035" order_by="12-3035" level="5">Sec. 12-3035. - PET SHOP STANDARDS.</unit>
+ </structure>
+ <section_number>12-3035</section_number>
+ <catch_line>PET SHOP STANDARDS.</catch_line>
+ <order_by>12-3035</order_by>
+ <text>
+  <section prefix="(a)">	Water. 
+There shall be available hot water at a minimum temperature of 140 degrees for washing cages and disinfecting them, and cold water easily accessible to all parts of the shop. Fresh water will be available to all species at all times. Containers are to be cleaned and disinfected each day. All water containers shall be mounted so the animal cannot turn them over, and be removable for cleaning. 
+</section>
+  <section prefix="(b)">	Room temperature. 
+The room temperature of the shop shall be maintained at a level that is healthful for every species of animal kept in the shop. 
+</section>
+  <section prefix="(c)">	Cages and enclosures. 
+All cages and enclosures are to be of a nonporous material for easy cleaning and disinfecting. Each cage must be of sufficient size that any animal will have room to stand, turn, and stretch out to his full length. 
+</section>
+  <section prefix="(d)">	Feeding. 
+All animals under three (3) months old are to be fed at least three (3) times per 24 hours. Food for all animals shall be served in a clean dish so mounted that the animals cannot readily tip it over or defecate or urinate therein. 
+</section>
+  <section prefix="(e)">	Birds. 
+Each bird must have sufficient room to sit on a perch. Perches shall be placed horizontal to each other in the same cage. Cages must be cleaned every day and cages must be disinfected when birds are sold. Parrots and other large birds shall have separate cages from smaller birds. 
+</section>
+  <section prefix="(f)">	Bedding. 
+There shall be sufficient clean, dry bedding to meet the needs of each individual animal. 
+</section>
+  <section prefix="(g)">	Fish. 
+The temperature of water in which fish are kept shall be maintained at a constant temperature that is healthful. 
+</section>
+  <section prefix="(h)">	General feeding, watering, sanitation requirements. 
+All animals must be fed, watered and cages cleaned every day, including Sundays and holidays. 
+(Code 1959 , §4-18) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2060" order_by="12-2060" level="5">Sec. 12-2060. - SUSPENSION AND REVOCATION; CAUSES, HEARING.</unit>
+ </structure>
+ <section_number>12-2060</section_number>
+ <catch_line>SUSPENSION AND REVOCATION; CAUSES, HEARING.</catch_line>
+ <order_by>12-2060</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	That the past record of the holder of the owner's permit is unsatisfactory and that it is detrimental to and not in the public interest to permit the continued operation of a taxicab business by such person; or 
+</section>
+   <section prefix="(2)">	That the owner has failed to operate the taxicab or taxicabs in accordance with the provisions of this chapter; or 
+</section>
+   <section prefix="(3)">	That the taxicab or taxicabs of the owner have been operated at a rate of fare other than that provided by this chapter; or 
+</section>
+   <section prefix="(4)">	That the holder of a permit has failed to register properly with the State, in the correct and true owner's name, any taxicab covered by the owner's permit; or 
+</section>
+   <section prefix="(5)">	That the holder of an owner's permit has been convicted of a felony; or violation of any Federal or state statute or City ordinance relating to the possession or sale of intoxicating liquors; or violation of any Federal or state statute or City ordinance relating to prostitution; or any Federal or state statute or City ordinance relating to the use, possession or sale of narcotic drugs; or repeated violations of traffic laws or ordinances; or becomes a habitual user of intoxicating liquors or narcotic drugs; or 
+</section>
+   <section prefix="(6)">	That the holder of any owner's permit has made a false or misleading statement on his application. 
+</section>
+  </section>
+  <section prefix="(b)">	An owner's permit may be temporarily suspended or revoked by the Police Chief or his designee when it is found that there has been a violation of subsection (a). Notice of suspension or revocation will be communicated in writing to the owner through registered mail. The notice shall state that the owner may have a hearing before the Chief of Police within ten (10) days upon the written request of the owner. The owner will have the right to appeal to the City Manager in writing within ten (10) days of the decision of the Police Chief. The owner may file a written appeal to the City Council within ten (10) days of the issuance of the City Manager's decision. It shall be unlawful for an owner to operate a taxicab business regulated by this article during the pendency of an appeal taken pursuant to this section. 
+(Code 1959 , §22-35; Ord. No. 1999-691, §7, 11-16-99; Ord. No. 2009-671, §27, 11-3-09) 
+</section>
+ </text>
+</law>

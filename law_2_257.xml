@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2065" order_by="8-2065" level="5">Sec. 8-2065. - CONSTRUCTION APPROVAL.</unit>
+ </structure>
+ <section_number>8-2065</section_number>
+ <catch_line>CONSTRUCTION APPROVAL.</catch_line>
+ <order_by>8-2065</order_by>
+ <text>
+After issuing of any necessary state permits, the tracings shall be resubmitted to the utilities department together with the required state permits. The tracings will then be signed and approved for construction by the utilities director. 
+(Ord. No. 1985-543, §25, 4-16-85) 
+State law references: North Carolina Drinking Water Act, G.S. 130A-216 et seq.; control of sources of water pollution; permits required, G.S. 143-215.1. 
+</text>
+</law>

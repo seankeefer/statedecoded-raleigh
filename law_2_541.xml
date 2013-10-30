@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - BICYCLES</unit>
+  <unit label="section" identifier="11-3003" order_by="11-3003" level="4">Sec. 11-3003. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>11-3003</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>11-3003</order_by>
+ <text>
+  <section prefix="(a)">	Any person, persons or corporation that wilfully violates any provision of this article shall be guilty of a misdemeanor. 
+</section>
+  <section prefix="(b)">	In the event that any person, persons, firm or corporation continually fails to comply with the provisions of this article, such continuing failure to comply shall be grounds for the Transportation Department or the Transportation Director to refuse to issue such person, persons, firm or corporation a permit to work on the public right-of-way. 
+</section>
+  <section prefix="(c)">	Site control superintendent, general contractors, or others responsible for subcontractors or their agents shall be held responsible for compliance with the provisions of this article. 
+(Code 1959 , §19-44; Ord. No. 1994-393, §§11, 12, 5-3-94; Ord. No. 1998-454, §18, 11-4-98)  
+</section>
+ </text>
+</law>

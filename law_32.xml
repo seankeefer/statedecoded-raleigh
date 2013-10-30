@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="IV" order_by="4" level="2">ARTICLE IV. - ELECTIONS [2] </unit>
+  <unit label="section" identifier="4.1" order_by="4.1" level="3">Sec. 4.1 - CONDUCT OF ELECTIONS.</unit>
+ </structure>
+ <section_number>I-IV-4.1</section_number>
+ <catch_line>CONDUCT OF ELECTIONS.</catch_line>
+ <order_by>4.1</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	All nominations, primary elections, general elections and special elections in the City shall be held, conducted, supervised and governed by and pursuant to the provisions of Chapter 163, Elections and Election Laws, and Subchapter IX thereof, Municipal Elections, of the General Statutes of North Carolina, with the exception of G.S. 163-303, relating to the nonapplicability of campaign expense regulation in nonpartisan elections and except as otherwise provided by this act. 
+</section>
+  <section prefix="(b)">	All nominations and elections in the City shall be subject to the provisions of Chapter 163, Elections and Election Laws, and Subchapter VIII thereof, Criminal Offenses, including, but not being limited to, the sections of the General Statutes numbered G.S. 163-259 through G.S. 163-278. 
+; S.L. 1975, Ch. 561, §1; S.L. 1979, Ch. 664, §1) 
+Amendment note: 1979 Session Laws, Ch. 664, §1, amended §1 of Ch. 561 Session Laws 1975 which was included in subsection (a), deleting the requirement that candidates for City office file campaign reports with the Clerk of Superior Court. 
+</section>
+ </section>
+ <history>(S.L. 1973, Ch. 319, §1(k)</history>
+</law>

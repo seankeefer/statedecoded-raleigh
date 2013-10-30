@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="11-2004" order_by="11-2004" level="5">Sec. 11-2004. - SCHEDULE OF TRAFFIC AND PARKING REGULATIONS; INCORPORATION BY REFERENCE.</unit>
+ </structure>
+ <section_number>11-2004</section_number>
+ <catch_line>SCHEDULE OF TRAFFIC AND PARKING REGULATIONS; INCORPORATION BY REFERENCE.</catch_line>
+ <order_by>11-2004</order_by>
+ <text>
+  <section prefix="(a)">	Whenever the provisions of this chapter establish specific traffic and parking regulations and restrictions which are effective only upon certain streets, parts of streets or street areas which are not generally identifiable, or at certain times or for periods of time which are not generally applicable, such traffic and parking regulations, and the locations and/or times where and when the same are effective shall be set out upon official traffic schedules, as amended from time to time by the City Council, and retained permanently in the office of the City Clerk. 
+</section>
+  <section prefix="(b)">	All official traffic schedules adopted under the authority of this chapter are hereby incorporated by reference and shall be as effective as if set out in full herein. Such traffic schedules shall be deemed to be &quot;technical ordinances&quot; under the provisions of G.S. 160A-76(b). 
+</section>
+ </text>
+</law>

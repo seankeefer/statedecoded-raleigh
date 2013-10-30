@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140. - MONITORING FACILITIES.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>MONITORING FACILITIES.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+  <section prefix="(a)">	The City requires the user to provide and operate, at the user's own expense, monitoring facilities to allow inspection, sampling, and flow measurement of the Building sewer and/or internal drainage systems. The monitoring facility should normally be situated on the user's premises, but the City may, when such a location would be impractical or cause undue hardship on the user, allow the facility to be constructed in the public street or sidewalk area and located so that it will not be obstructed by landscaping or parked vehicles. 
+</section>
+  <section prefix="(b)">	There shall be ample room in or near such sampling manhole or facility to allow accurate sampling and preparation of samples for analysis. The facility, sampling, and measuring equipment shall be maintained at all times in a safe and proper operating condition at the expense of the user. 
+</section>
+  <section prefix="(c)">	Whether constructed on public or private property, the sampling and monitoring facilities shall be provided in accordance with the City's requirements and all applicable local construction standards and specifications. Construction shall be completed within ninety (90) days following written notification by the City. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

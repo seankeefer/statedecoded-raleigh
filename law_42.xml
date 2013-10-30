@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.1" order_by="6.1" level="3">Sec. 6.1 - DEPARTMENTS ENUMERATED.</unit>
+ </structure>
+ <section_number>I-VI-6.1</section_number>
+ <catch_line>DEPARTMENTS ENUMERATED.</catch_line>
+ <order_by>6.1</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	Department of Finance, which shall be headed by the City Accountant, who shall also have the title of Director of Finance.
+</section>
+  <section prefix="(2)">	Department of Public Safety, which shall be headed by the Director of Public Safety.
+</section>
+  <section prefix="(3)">	Department of Public Works, which shall be headed by the Director of Public Works.
+</section>
+  <section prefix="(4)">	Department of Planning, which shall be headed by the director of planning.
+</section>
+  <section prefix="(5)">	Department of Public Utilities, which shall be headed by the Director of Public Utilities.
+</section>
+  <section prefix="(6)">	Department of Parks and Recreation, which shall be headed by the Director of Parks and Recreation.
+</section>
+  <section prefix="(7)">	Health Department and such other departments as may be created from time to time by ordinance adopted by the City Council. Each of the departments and the department heads shall be under the supervision of and directly responsible to the City Manager. Department or division heads need not be resident[s] of the City when appointed, except as herein specifically otherwise provided. 
+</section>
+ </section>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.36" order_by="6.36" level="3">Sec. 6.36 - HEALTH AND SANITATION; POWERS OF CITY COUNCIL.</unit>
+ </structure>
+ <section_number>I-VI-6.36</section_number>
+ <catch_line>HEALTH AND SANITATION; POWERS OF CITY COUNCIL.</catch_line>
+ <order_by>6.36</order_by>
+ <section prefix="text">
+The City Council is hereby given, within the corporate limits of the City of Raleigh (and when exercised so as not to conflict with the rules and regulations of the Wake County Health Department and health officer within one mile in all directions beyond the boundaries of the City), all the power and authority that is now or may hereafter be given by law to the County Board of Health or County Health Officer or physician, and such further powers and authority as will best preserve the health of the citizens. The City Council is hereby given power to make such rules and regulations, not inconsistent with the constitution and laws of the State, for the preservation of the health of the inhabitants of the City as to the City may seem right and proper. The City Council may establish and maintain a hospital or hospitals, or pesthouses, slaughterhouses, rendering plants, incinerators and crematories in the City of Raleigh, or within three (3) miles thereof; may stop, detain, examine, or keep in a pesthouse or houses of detention persons having or suspected of having any infectious, contagious, or other communicable disease; may quarantine the City or any part thereof; may cause all persons in the City limits to be vaccinated; may, without incurring liability to the owner, remove, fumigate or destroy furniture, bedding, clothing, or other property which may be found to be tainted or infected with any contagious or infectious disease, and may do all other proper and reasonable things to prevent or stamp out any contagious or infectious disease, and to better preserve the health of the citizens; and all expenses incurred by the City in disinfecting or caring for any person or persons, by authority of this section, may be recovered by it from the person, persons, or property cared for; and when expense is incurred in caring for property, same shall become a lien on said property. Any person who shall attempt by force, or by threat of violence, to prevent his removal, or that of any other person, to the pesthouse, house of detention, or hospital, or who shall in any way interfere with any officer while performing any of the duties allowed by this act, shall be guilty of a misdemeanor. 
+Cross reference: For jurisdiction outside City, see §2.15 
+</section>
+</law>

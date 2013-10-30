@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="8-2012" order_by="8-2012" level="5">Sec. 8-2012. - ACCESS TO AND OBSTRUCTIONS OF MANHOLES AND EASEMENTS.</unit>
+ </structure>
+ <section_number>8-2012</section_number>
+ <catch_line>ACCESS TO AND OBSTRUCTIONS OF MANHOLES AND EASEMENTS.</catch_line>
+ <order_by>8-2012</order_by>
+ <text>
+  <section prefix="(a)">	No person shall open, enter into, place, or allow anything to be placed in a manhole of the City's water or sanitary sewer system without written approval from the Director of Public Utilities or his designee. 
+</section>
+  <section prefix="(b)">	No person shall damage, obstruct, or cover a manhole of the City's water or sanitary sewer system. 
+</section>
+  <section prefix="(c)">	No person shall plant trees, shrubs, or other plants within a water or sewer easement without prior written approval from the Director of the Public Utilities Department. 
+</section>
+  <section prefix="(d)">	No person shall place any part of a structure or any permanent equipment within a water or sewer easement without prior written approval from the Director of the Public Utilities Department. Prohibited structures include buildings, houses, decks, garages, tool or storage sheds, swimming pools, walls, and fences. Prohibited permanent equipment includes air conditioning units and heat pumps. 
+</section>
+  <section prefix="(e)">	Violation of this section is a misdemeanor and in addition may be punished under §8-2014 of the City Code. 
+(Ord. No. 1985-543, §11, 4-16-85; Ord. No. 1999-658, §1, 10-19-99) 
+</section>
+ </text>
+</law>

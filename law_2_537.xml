@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2244" order_by="11-2244" level="5">Sec. 11-2244. - DURATION OF SIGNING, SIGNALLING AND CHANNELIZATION REQUIREMENTS; CLEANING STREET.</unit>
+ </structure>
+ <section_number>11-2244</section_number>
+ <catch_line>DURATION OF SIGNING, SIGNALLING AND CHANNELIZATION REQUIREMENTS; CLEANING STREET.</catch_line>
+ <order_by>11-2244</order_by>
+ <text>
+The requirements for signing, signalling and channelizing traffic in the event of an obstruction apply throughout the existence of the obstruction. An obstruction exists as long as any impediment to the free passage of motor vehicle, vehicle, or pedestrian traffic exists. Any permittee who obstructs a street, and any person, persons, firm or corporation not having a permit who works to remove an obstruction shall, before removing the signs, signals, and channelization devices, clean the street and leave the street in a condition to handle the type of traffic that the portion so obstructed was designed to handle. All spoil and excess material shall be hauled away. Such cleaning and repair shall be done as soon as possible. 
+(Code 1959 , §19-44) 
+</text>
+</law>

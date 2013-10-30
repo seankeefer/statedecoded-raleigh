@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2184" order_by="11-2184" level="5">Sec. 11-2184. - TAXI ZONES.</unit>
+ </structure>
+ <section_number>11-2184</section_number>
+ <catch_line>TAXI ZONES.</catch_line>
+ <order_by>11-2184</order_by>
+ <text>
+When signs are erected giving notice thereof, no person shall stop, stand or park any vehicle except officially licensed taxis in taxi zones described in official Traffic Schedule No. 22. Taxi operators may park in such zones while waiting for riders provided that they remain within five feet of their cab at all times unless expeditiously assisting a passenger. 
+(Ord. No. 1989-467, §1, 12-5-89; Ord. No. 2003-390, §1, 2-18-03) 
+</text>
+</law>

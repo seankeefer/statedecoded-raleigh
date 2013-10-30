@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.18" order_by="6.18" level="3">Sec. 6.18 - INSPECTION DIVISION.</unit>
+ </structure>
+ <section_number>I-VI-6.18</section_number>
+ <catch_line>INSPECTION DIVISION.</catch_line>
+ <order_by>6.18</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	The Chief Building Inspector shall be the administrative head of the division and shall have control of the other inspectors and employees of said division under such rules and regulations as may be prescribed or authorized by the City Council, and all inspectors shall take an oath for the faithful discharge of their respective offices. 
+</section>
+  <section prefix="(2)">	It shall be the duty of the Inspection Division to inspect all buildings which may be in the course of erection, alteration or repair and require inspection according to the building ordinances of the City; to examine and report on the condition of old buildings in said City; to supervise and inspect all electrical works and appliances used or intended for the use in the manufacture or supplying or receiving of electricity within the City, either for light, heat or power; to inspect all plumbing work, water fixtures and sewer connections constructed or being constructed in said City, or outside the City, where same is connected either to the water or sewer system of the City of Raleigh, and to require the same to conform with the ordinances of the City. No building or other structures shall be constructed or repaired within the limits of the City, unless and until a permit therefor has been issued by the Chief Building Inspector; provided, that the City Council may, by ordinance, regulate the requirements for building permits with reference to the construction or repair of buildings or other structures as to cost thereof. The City Council may require the payment of reasonable fees for the issuance and procurement of such permits which shall be payable at the time of the issuance of same. 
+</section>
+  <section prefix="(3)">	The Chief Building Inspector and his assistants shall perform such other duties as may be required by the City Council, and they shall be vested with all the power now or hereafter granted by the general laws of the State of North Carolina to such municipal inspectors, and they shall see that all ordinances enacted by the City Council are complied with, with respect to this division. 
+</section>
+  <section prefix="(4)">	Examinations for licensing of plumbers, electricians and other trades connected with the building industry shall be as prescribed by ordinances of the City Council, and the Inspection Division shall collect the application fees and shall deposit such funds according to the rules and regulations as given by the City Manager and City Accountant. 
+</section>
+ </section>
+</law>

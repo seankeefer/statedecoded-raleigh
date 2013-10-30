@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2013" order_by="5-2013" level="5">Sec. 5-2013. - FALSE FIRE ALARMS.</unit>
+ </structure>
+ <section_number>5-2013</section_number>
+ <catch_line>FALSE FIRE ALARMS.</catch_line>
+ <order_by>5-2013</order_by>
+ <text>
+It shall be unlawful for any person to turn in or aid or abet in turning in any false fire alarm in the City. 
+(Code 1959 , §10-12) 
+State law reference: Giving false fire alarms, G.S. 14-286. 
+</text>
+</law>

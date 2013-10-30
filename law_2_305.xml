@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2137" order_by="8-2137" level="5">Sec. 8-2137. - ANALYTICAL REQUIREMENTS.</unit>
+ </structure>
+ <section_number>8-2137</section_number>
+ <catch_line>ANALYTICAL REQUIREMENTS.</catch_line>
+ <order_by>8-2137</order_by>
+ <text>
+All pollutant analyses, including sampling techniques, to be submitted as part of a waste water discharge permit application or report shall be performed by a laboratory certified by the State of North Carolina Laboratory Certification Program, and in accordance with the techniques prescribed in 40 CFR Part 136, unless otherwise specified in an applicable categorical pretreatment standard. If 40 CFR Part 136 does not contain sampling or analytical techniques for the pollutant in question, sampling and analyses must be performed in accordance with procedures approved by the EPA. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</text>
+</law>

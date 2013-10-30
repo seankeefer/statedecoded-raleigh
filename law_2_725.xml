@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2166" order_by="12-2166" level="5">Sec. 12-2166. - COMPLIANCE WITH PROVISIONS.</unit>
+ </structure>
+ <section_number>12-2166</section_number>
+ <catch_line>COMPLIANCE WITH PROVISIONS.</catch_line>
+ <order_by>12-2166</order_by>
+ <text>
+  <section prefix="(a)">	Any person required by this article to have a permit for a probationary rental residential dwelling who files a complete application for any required permit within ten (10) days following notice from the Inspections Department that this article applies to the dwelling shall be deemed compliant with this article unless and until the application is denied. 
+</section>
+  <section prefix="(b)">	It shall be unlawful to rent, to receive rental income from, or to offer for rent a dwelling subject to the permit requirements of this article beginning ten (10) days after service of notice by the Inspections Department that a permit is required under this part unless a complete application for a §12-2164(a) permit has been submitted for the dwelling. 
+</section>
+  <section prefix="(c)">	Any person who holds a N.C. Gen. Stat. 105-41(a)(8) or (9) privilege license as a rental agency and is not the record owner of the probationary rental residential dwelling shall be deemed compliant with this article upon filing with the Inspections Department an affidavit or other notarized statement that the agency relationship has been terminated and that the failure to comply with the noticed violations was caused by the record owner's refusal to comply with the article. 
+</section>
+  <section prefix="(d)">	Any person who has been designated as a process service agent and is not the record owner of the probationary rental residential dwelling shall be deemed compliant with this article upon promptly notifying the Inspections Department that the notice or order delivered for service cannot be delivered to the owner and upon filing with the Inspections Department an affidavit or other notarized statement that the agency relationship has been terminated and that all prior notices and orders were delivered to the owner. 
+</section>
+  <section prefix="(e)">	If the activities, violations or abatements which individually or cumulatively could cause a property or dwelling to be deemed a probationary rental residential dwelling under §12-2163(l) are the result of tenant behavior or actions, an owner shall be entitled to relief from any such violation(s) [i.e. the violation(s) shall not be counted as a strike against the owner] by evicting or removing the tenant, so long as the owner can show that the tenant behavior or action is the basis of the eviction or removal of the tenant. No owner may obtain relief for more than two (2) violations in any three (3) year period per dwelling under this subsection. Any owner who evicted or removed the tenant as a result of the tenant causing such violation(s), whether such removal is the result of a tenant voluntarily vacating the dwelling or as a result of court action, shall be deemed compliant with this Article upon filing with the Inspections Department an affidavit or other notarized statement stating that (1) the tenant cited for the violation no longer resides at the dwelling, or (2) the attached complaint was filed to evict the tenant and listing the actions showing diligence in effecting the eviction and attaching a copy of the signed lease with the required right to evict. An owner shall also be entitled to relief from any subsequent violation(s) that occur while the action to evict the tenant is pending upon a similar showing to the Inspections Department. 
+If the court has denied the owner's diligent pursuit to evict the tenant, it shall be sufficient if the owner does not renew the tenant's lease at the end of the then current term and instead terminates the lease. 
+When an owner shows an inability to access to dwelling for purposes of effecting remedial activity as ordered by the Inspections Department pursuant to §10-6058 or §10-6137 due to a court order in an eviction proceeding, the failure to complete the required remedial activity as previously ordered by the Inspections Department is not a violation for purposes of determining whether the dwelling is a probationary rental residential dwelling until thirty (30) days after the expiration of the court order barring access or within such additional time for compliance as is provided by the Inspections Department. 
+</section>
+  <section prefix="(f)">	Any mortgagee of record, not otherwise defined as an owner, shall be deemed compliant with this article unless and until the other owners of the probationary rental residential dwelling fail to comply with notices of violations or orders, including for the payment of civil penalties. A mortgagee of record, not otherwise defined as an owner, shall not be liable for civil penalties or administrative fees in excess of the liability of the other owners. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §§10, 14, 15, 7-11-06) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2187" order_by="11-2187" level="5">Sec. 11-2187. - NO PARKING TOW AWAY ZONE.</unit>
+ </structure>
+ <section_number>11-2187</section_number>
+ <catch_line>NO PARKING TOW AWAY ZONE.</catch_line>
+ <order_by>11-2187</order_by>
+ <text>
+No person shall stop, stand or park a vehicle in a No Parking Tow Away Zone. All such zones shall be clearly marked as such by uniform signage. Parking in such a zone will subject the vehicle to being immediately towed. The owner of the vehicle shall be notified of the tow pursuant to the provisions for post towing remedies found in G.S. 20, Article 7A. The City Council shall designate each zone and the designated zones will be placed into the Official Traffic Schedule and will be denominated as such. 
+(Ord. No. 2007-179, §1, 3-6-07) 
+</text>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2093" order_by="12-2093" level="5">Sec. 12-2093. - EXPIRATION, RENEWAL.</unit>
+ </structure>
+ <section_number>12-2093</section_number>
+ <catch_line>EXPIRATION, RENEWAL.</catch_line>
+ <order_by>12-2093</order_by>
+ <text>
+  <section prefix="(a)">	All driver's permits shall automatically expire and be null and void on the driver's birthday after two (2) years from the date of issue. 
+</section>
+  <section prefix="(b)">	A driver's permit may be; renewed for successive periods of twenty-four (24) months by the taxicab inspector upon application and compliance with the same terms and conditions as are prescribed for original applications and the issuance of original driver's permits; provided, the taxicab inspector may permit the filing of an abbreviated application for renewal which shall update the information required in the original application as specified by the taxicab inspector. 
+</section>
+  <section prefix="(c)">	Each renewed driver's permit shall be applied for not less than ten (10) days before the expiration of his current permit. 
+</section>
+  <section prefix="(d)">	The fee of two dollars ($2.00) for the renewal of a driver's permit shall be attached to the application for renewal. Beginning on January 1, 2011,, the cost of driver's renewal fee will increase to ten dollars ($10.00), and then on January 1, 2012, the amount will cap at twenty dollars ($20.00). 
+(Code 1959 , §22-55; Ord. No. 2009-671, §§45, 46, 11-3-09) 
+</section>
+ </text>
+</law>

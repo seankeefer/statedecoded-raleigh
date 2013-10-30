@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - STREET OBSTRUCTIONS AND ENCROACHMENTS</unit>
+  <unit label="section" identifier="12-1002" order_by="12-1002" level="5">Sec. 12-1002. - BRIDGES OVER GUTTERS.</unit>
+ </structure>
+ <section_number>12-1002</section_number>
+ <catch_line>BRIDGES OVER GUTTERS.</catch_line>
+ <order_by>12-1002</order_by>
+ <text>
+No person shall erect or maintain any platform or bridge over the gutters within the limits of the City; provided, this shall not prevent the installation of drainage pipes for walkways or driveways where there is no paved curb and gutter. The installation of such drainage pipe shall be as approved by the Director of Transportation. 
+(Code 1959 , §19-3; Ord. No. 1998-454, §19, 11-4-98) 
+Cross reference: Public works, Part 7. 
+</text>
+</law>

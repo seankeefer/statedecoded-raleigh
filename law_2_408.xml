@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="11-2002" order_by="11-2002" level="5">Sec. 11-2002. - DEFINITIONS SUPPLEMENTAL TO GENERAL STATUTES.</unit>
+ </structure>
+ <section_number>11-2002</section_number>
+ <catch_line>DEFINITIONS SUPPLEMENTAL TO GENERAL STATUTES.</catch_line>
+ <order_by>11-2002</order_by>
+ <text>
+Words and phrases used in this chapter and not specifically defined in §11-2001 above shall have the meaning respectively ascribed to them by Chapter 20 of the General Statutes of North Carolina. 
+(Code 1950, §29.1) 
+State law reference: Definitions in state motor vehicle act, G.S. 20-4-01. 
+</text>
+</law>

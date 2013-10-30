@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2170" order_by="8-2170" level="5">Sec. 8-2170. - MAJOR WATER USERS.</unit>
+ </structure>
+ <section_number>8-2170</section_number>
+ <catch_line>MAJOR WATER USERS.</catch_line>
+ <order_by>8-2170</order_by>
+ <text>
+All major water users are required to develop a conservation program and an emergency water usage reduction plan to focus on reducing water consumption, to include BMPs or policy for their specific uses of water in their business/commercial applications or manufacturing processes. The program shall be designed to reduce water consumption when the City implements water conservation measures in Stage 1, Stage 2, and Stage 3. The conservation program shall be submitted to Public Utilities for review and approval within one hundred and eighty (180) days of notification by the City. Programs shall be implemented in accordance with the implementation of the City's water conservation ordinances. Each conservation program shall be updated by the major water user as required by the Public Utilities Director. In addition, all major water users will conduct an American Water Works Association industrial water audit, or equal, upon request by the Public Utilities Department. This audit will be submitted to the Public Utilities Department, and subsequently updated every 5 years. 
+(Ord. No. 2007-235, §1, 5-15-07; Ord. No. 2010-688, §1, 1-19-10) 
+</text>
+</law>

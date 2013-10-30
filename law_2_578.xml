@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - STREET OBSTRUCTIONS AND ENCROACHMENTS</unit>
+  <unit label="section" identifier="12-1003" order_by="12-1003" level="5">Sec. 12-1003. - CELLAR DOORS, GRATINGS AND MANHOLES IN SIDEWALKS.</unit>
+ </structure>
+ <section_number>12-1003</section_number>
+ <catch_line>CELLAR DOORS, GRATINGS AND MANHOLES IN SIDEWALKS.</catch_line>
+ <order_by>12-1003</order_by>
+ <text>
+It shall be unlawful for any person to construct any cellar door, grating or manhole on the sidewalks of the City without approval of the Council. Cellar doors, gratings or manholes shall be on a level with the sidewalk and shall be kept in good repair by the owner of such structures. Doors, gratings and manhole covers shall be constructed of iron or other material as approved by the Director of Transportation. All such openings shall be kept closed at all times when not in use, and when in use proper guards shall be provided to warn and protect the public. 
+(Code 1959 , §19-4; Ord. No. 1998-454, §19, 11-4-98) 
+</text>
+</law>

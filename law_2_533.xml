@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2240" order_by="11-2240" level="5">Sec. 11-2240. - DIRECTOR OF THE DEPARTMENT OF TRANSPORTATION TO PUBLISH AND MAINTAIN MANUAL; CONTENTS OF MANUAL; COPIES ON FILE.</unit>
+ </structure>
+ <section_number>11-2240</section_number>
+ <catch_line>DIRECTOR OF THE DEPARTMENT OF TRANSPORTATION TO PUBLISH AND MAINTAIN MANUAL; CONTENTS OF MANUAL; COPIES ON FILE.</catch_line>
+ <order_by>11-2240</order_by>
+ <text>
+The director of the Department of Transportation shall publish and maintain, with the approval of the Council, a manual entitled &quot;Traffic Control Manual for Construction and Maintenance, City of Raleigh.&quot; This manual shall contain a clear description of the various signs, signals and devices referred to in this article. This manual may refer to and incorporate by reference provisions contained in certain texts providing nationally accepted standards and specifications for traffic-control devices and procedures. This manual shall contain or incorporate by proper reference, illustrations and drawings of examples of properly signed, signalled, and channelized obstructions. This manual and all materials incorporated by reference or referred to in said manual shall be kept on file at all times in the City Clerk's office. A copy of the manual and the incorporated and referred-to materials shall be available for public inspection at all times during the regular office hours of the City Clerk. 
+(Code 1959 , §19-40) 
+</text>
+</law>

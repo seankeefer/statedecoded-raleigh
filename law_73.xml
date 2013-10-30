@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.32" order_by="6.32" level="3">Sec. 6.32 - SUFFICIENCY OF CHARGES; ACCOUNTING PRACTICES.</unit>
+ </structure>
+ <section_number>I-VI-6.32</section_number>
+ <catch_line>SUFFICIENCY OF CHARGES; ACCOUNTING PRACTICES.</catch_line>
+ <order_by>6.32</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The City Council shall fix and prescribe such rates and charges as will provide annually for the payment of the annual debt service requirements on existing bonded debt for such waterworks system, sewerage system and lighting system, and repairs, maintenance, enlargement, extension, and operation of any such system or systems. 
+</section>
+  <section prefix="(b)">	It shall be the duty of the City Council and the City Accountant, the City Treasurer and other officers and employees handling moneys derived from the operation of the public utilities of the City, to keep a separate statement and account of the moneys received by the City from the waterworks system, sewerage system, and any other utility system operated by the City; and it shall be the duty of the City Council to give preference to the waterworks, sewerage, and other City utility systems over the other departments of the City in such fund; provided, however, that the City Council may take reasonable appropriations annually from the revenues received from the operation of the water, sewer, and other utilities of the City to the General Fund account of the City, based, however, upon services rendered to the Department of Public Utilities by the various officials, employees, and departments whose compensation and operating costs and expenses are payable from General Fund revenues of the City, as determined by the City Council. 
+</section>
+ </section>
+</law>

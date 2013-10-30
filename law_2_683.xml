@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PAWNBROKERS [3]</unit>
+  <unit label="section" identifier="12-2104" order_by="12-2104" level="5">Sec. 12-2104. - REVOCATION OF PAWNBROKER'S LICENSE.</unit>
+ </structure>
+ <section_number>12-2104</section_number>
+ <catch_line>REVOCATION OF PAWNBROKER'S LICENSE.</catch_line>
+ <order_by>12-2104</order_by>
+ <text>
+A license issued pursuant to §12-2103 may be revoked by action of the Council for substantial abuses of this article or G.S. 91A-1-22. Before the Council revokes a license pursuant to this chapter, and before the Council considers an application for a license pursuant to this chapter, a written notice shall be sent to the licensee or applicant affected, by certified mail, return receipt requested, to the address listed on the application. The notice shall advise the affected party of a right to appear before the Council, with or without legal counsel, at a stated time and place at least ten (10) days following the date of the notice for the purpose of presenting any evidence relevant to such revocation or application and for the purpose of cross-examining any person providing evidence against the respondent. A revocation hearing can be initiated by the Chief of Police or by the City Council. 
+(Ord. No. 1992-982, §4, 6-2-92) 
+</text>
+</law>

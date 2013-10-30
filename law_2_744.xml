@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3002" order_by="12-3002" level="5">Sec. 12-3002. - GENERAL RESPONSIBILITIES OF DIVISION; PERSONAL LIABILITY OF MUNICIPAL OFFICERS, AGENTS, EMPLOYEES.</unit>
+ </structure>
+ <section_number>12-3002</section_number>
+ <catch_line>GENERAL RESPONSIBILITIES OF DIVISION; PERSONAL LIABILITY OF MUNICIPAL OFFICERS, AGENTS, EMPLOYEES.</catch_line>
+ <order_by>12-3002</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Seeing that all dogs in the City are adequately inoculated against rabies; 
+</section>
+   <section prefix="(2)">	Cooperating with the health director and County health officers and assisting in the enforcement of the laws of the State with regard to the control of animals and especially with regard to the vaccination of dogs against rabies and the confinement of vicious dogs; 
+</section>
+   <section prefix="(3)">	Investigating all complaints with regard to animals covered by this chapter;
+</section>
+   <section prefix="(4)">	Making such canvasses of the City, including the homes in the City as it deems necessary and practical, for the purpose of ascertaining that all dogs are vaccinated against rabies; 
+</section>
+   <section prefix="(5)">	Enforcing within the City all of the State laws and City ordinances for the care, control and custody of animals covered by this chapter. 
+</section>
+  </section>
+  <section prefix="(b)">	Except as may be otherwise provided by statute or local law or ordinance, no officer, agent or employee of the municipality charged with the duty of enforcing the provisions of this chapter or other applicable law shall be personally liable for any damage that may accrue to persons or property as a result of any act required or permitted in the discharge of such duties. 
+(Code 1959 , §4-2; Ord. No. 1991-850, §1, 10-1-91; Ord. No. 2012-59, §1, 6-5-12, eff. 1-1-13) 
+</section>
+ </text>
+</law>

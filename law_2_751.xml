@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - DOGS AND CATS [9]</unit>
+  <unit label="section" identifier="12-3009" order_by="12-3009" level="5">Sec. 12-3009. - ADEQUATE FEED, WATER AND SHELTER.</unit>
+ </structure>
+ <section_number>12-3009</section_number>
+ <catch_line>ADEQUATE FEED, WATER AND SHELTER.</catch_line>
+ <order_by>12-3009</order_by>
+ <text>
+  <section prefix="(a)">	All dogs and cats shall be given adequate feed, adequate water and adequate shelter. Adequate shelter is defined as an enclosure of at least three (3) sides, a roof and a floor. The enclosure shall be ventilated and must have sufficient room for the animal(s) to move around freely and to lie down comfortably. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Underneath outside steps, decks and stoops; or
+</section>
+   <section prefix="(2)">	Inside of vehicles; or
+</section>
+   <section prefix="(3)">	Underneath vehicles; or
+</section>
+   <section prefix="(4)">	Inside metal or plastic barrels or cardboard boxes; or
+</section>
+   <section prefix="(5)">	Rooms, sheds or other buildings without windows or proper ventilation.
+(Ord. No. 2003-411, §1, 3-18-03) 
+</section>
+  </section>
+ </text>
+</law>

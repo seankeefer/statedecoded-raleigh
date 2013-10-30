@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VII" order_by="7" level="2">ARTICLE VII. - MISCELLANEOUS PROVISIONS</unit>
+  <unit label="section" identifier="7.3" order_by="7.3" level="3">Sec. 7.3 - CONSOLIDATION OF DEPARTMENTS.</unit>
+ </structure>
+ <section_number>I-VII-7.3</section_number>
+ <catch_line>CONSOLIDATION OF DEPARTMENTS.</catch_line>
+ <order_by>7.3</order_by>
+ <section prefix="text">
+The City Council of the City of Raleigh is hereby authorized and empowered, in its discretion, to combine and consolidate, any two or more departments, or to discontinue any department, herewith provided for when deemed wise or expedient for saving or efficiency. 
+</section>
+</law>

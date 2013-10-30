@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2038" order_by="5-2038" level="5">Sec. 5-2038. - REGULATION OF LIQUID PROPANE GAS TANKS.</unit>
+ </structure>
+ <section_number>5-2038</section_number>
+ <catch_line>REGULATION OF LIQUID PROPANE GAS TANKS.</catch_line>
+ <order_by>5-2038</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	L.P. (liquefied petroleum) gas shall mean and include any materials having a vapor pressure not exceeding that allowed for commercial propane composed predominantly of the following hydrocarbons, either by themselves or as mixtures: propane, propylene, butane (normal butane or isobutane) and butylene (including isomers). 
+</section>
+   <section prefix="(2)">	L.P. tank shall mean container; any tank or container ranging from forty (40) pounds normal L.P. gas capacity to two thousand (2,000) gallons used for the storage or handling of L.P. gas. 
+</section>
+   <section prefix="(3)">	Permit shall mean a fire prevention permit issued by the Fire Prevention Bureau. 
+</section>
+   <section prefix="(4)">	N.F.P.A. 58 shall mean the current edition of Pamphlet No. 58 as written by the National Fire Protection Association. 
+</section>
+   <section prefix="(5)">	Standard or Code shall mean the current edition of N.F.P.A. No. 58 &quot;Storage and Handling of Liquefied Petroleum Gases&quot;. 
+</section>
+  </section>
+  <section prefix="(b)">
+   <section prefix="(1)">	N.C. Administration Code, Title 2, Chapter 38, Section .0700, paragraph or rule .0701(1) as it pertains to installation and maintenance of L.P. gas containers from one (1) pound nominal L.P. gas capacity to two thousand (2,000) gallons L.P. gas capacity. 
+</section>
+   <section prefix="(2)">	National Fire Protection Association, Pamphlet No. 58, current edition of &quot;Storage and Handling of Liquefied Petroleum Gases,&quot; with the following exceptions: 
+a.	When two (2) or more containers are manifold to a single service, each container shall be considered independent of the other and all ruler and regulations relating to a single container shall apply. 
+b.	All cutoff valves and regulating equipment exposed to rain, sleet, or snow shall be protected against such elements either by design or by a hood. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</section>
+  </section>
+ </text>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2088" order_by="12-2088" level="5">Sec. 12-2088. - GRANTING.</unit>
+ </structure>
+ <section_number>12-2088</section_number>
+ <catch_line>GRANTING.</catch_line>
+ <order_by>12-2088</order_by>
+ <text>
+  <section prefix="(a)">	After full consideration of the application and investigation of the applicant, and upon determination that the applicant has satisfactorily complied with the conditions and requirements of this division and that the applicant is entitled to a driver's permit in the light of the provisions of this division, the taxicab inspector shall issue the applicant a driver's permit pursuant to this division in such form as he shall prescribe. 
+</section>
+  <section prefix="(b)">	The issuance of a driver's permit shall be dependent upon a determination by the taxicab inspector, after a careful check of the applicant's conduct during the probationary period of the applicant, that such conduct warrants the approval of a driver's permit. 
+(Code 1959 , §22-50) 
+</section>
+ </text>
+</law>

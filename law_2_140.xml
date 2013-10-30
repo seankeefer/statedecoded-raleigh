@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2010" order_by="5-2010" level="5">Sec. 5-2010. - FIRE APPARATUS TO HAVE RIGHT-OF-WAY.</unit>
+ </structure>
+ <section_number>5-2010</section_number>
+ <catch_line>FIRE APPARATUS TO HAVE RIGHT-OF-WAY.</catch_line>
+ <order_by>5-2010</order_by>
+ <text>
+In the event of an alarm of fire, the apparatus of the Fire Department shall have the right-of-way in and upon the streets, or railroad crossings in going to any fire, or being upon such streets, or railroad crossings. It shall be unlawful for any person to obstruct or willfully fail or refuse to make way for any of such apparatus. 
+(Code 1959 , §10-9) 
+State law reference: Exceptions to right-of-way rules for emergency vehicles, G.S. 20-156. 
+</text>
+</law>

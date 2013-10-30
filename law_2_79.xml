@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - BEER AND WINE</unit>
+  <unit label="section" identifier="2-2042" order_by="2-2042" level="5">Sec. 2-2042. - APPLICATION PROCEDURE; ISSUANCE.</unit>
+ </structure>
+ <section_number>2-2042</section_number>
+ <catch_line>APPLICATION PROCEDURE; ISSUANCE.</catch_line>
+ <order_by>2-2042</order_by>
+ <text>
+  <section prefix="(a)">	Application for a license shall be made upon forms provided by the Revenue Collector and shall be verified by the affidavit of the applicant made before a notary public or other person duly authorized by law to administer oaths. The application shall contain the information required under G.S. 105-113.70, and shall require the applicant to state whether he has, during the preceding license year, committed any act or permitted any condition for which his license was, or might have been, revoked or suspended. 
+</section>
+  <section prefix="(b)">	If from the statements and information provided in the application the applicant appears to possess all requisite qualifications under law, including a statement that he has not during the preceding license year, committed any act or permitted any condition for which his license was, or could have been revoked or suspended, thereby making issuance of the license mandatory pursuant to G.S. 105-113.70, the Revenue Collector shall issue the applicant a license. 
+(Code 1959 , §6-2; Ord. No. 1987-21, §§2—4, 7-21-87) 
+State law reference: Issuance of licenses, G.S. 105-113.70, 105-113.71. 
+</section>
+ </text>
+</law>

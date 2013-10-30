@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2124" order_by="12-2124" level="5">Sec. 12-2124. - PENALTIES.</unit>
+ </structure>
+ <section_number>12-2124</section_number>
+ <catch_line>PENALTIES.</catch_line>
+ <order_by>12-2124</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	First offense in any
+twelve-month period .....$500.00 
+</section>
+   <section prefix="(2)">	Second offense in any
+twelve-month period .....1,000.00 
+</section>
+   <section prefix="(3)">	Third offense in any
+twelve-month period .....5,000.00 
+</section>
+   <section prefix="(4)">	Fourth offense in any twelve-month period .....One
+year 
+suspension 
+</section>
+  </section>
+  <section prefix="(b)">	In addition to the above fines and suspension, a violation of this article is also a misdemeanor and may also be enforced through injunctive or other equitable relief. 
+</section>
+  <section prefix="(c)">	All violations set out in subsection (a) above shall be assessed by the City Zoning Inspector. An appeal of the Zoning Inspector's decision may be made to the City Council. The scope of the City Council's review shall be limited to verifying the findings of fact made by the Zoning Inspector. If the City Council finds that the facts as found by the Zoning Inspector are correct, the fine or suspension shall not be disturbed. 
+(Ord. No. 1999-539, §1, 4-6-99) 
+</section>
+ </text>
+</law>

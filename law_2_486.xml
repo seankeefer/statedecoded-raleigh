@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2172" order_by="11-2172" level="5">Sec. 11-2172. - NO PARKING ZONES.</unit>
+ </structure>
+ <section_number>11-2172</section_number>
+ <catch_line>NO PARKING ZONES.</catch_line>
+ <order_by>11-2172</order_by>
+ <text>
+When signs are erected or painted on the street giving notice thereof, no person shall at any time, except during church services on Sundays, or other times designated in official Traffic Schedule No. 13, park any vehicle within the areas designated as &quot;no parking&quot; zones; provided, use of such areas for church services on Sunday shall not be construed to permit parking where parking is otherwise prohibited by this article. The Transportation Department shall erect or paint signs at locations designated as &quot;no parking&quot; zones. Locations designed as &quot;no parking&quot; zones shall be as set out in official Traffic Schedule No. 13, &quot;No Parking Zones.&quot; 
+(Code 1959 , §21-34(e)) 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</text>
+</law>

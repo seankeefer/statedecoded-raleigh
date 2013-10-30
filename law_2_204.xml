@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - ASSESSMENT CHARGES</unit>
+  <unit label="section" identifier="6-2024" order_by="6-2024" level="5">Sec. 6-2024. - ASSESSMENT FOR RESURFACING EXISTING PAVED STREETS.</unit>
+ </structure>
+ <section_number>6-2024</section_number>
+ <catch_line>ASSESSMENT FOR RESURFACING EXISTING PAVED STREETS.</catch_line>
+ <order_by>6-2024</order_by>
+ <text>
+  <section prefix="(a)">	The base of the street meets or exceeds the standards of the City. 
+</section>
+  <section prefix="(b)">	The stormwater does not damage properties adjoining the street or undermine the street. 
+</section>
+  <section prefix="(c)">	The abutting properties are substantially developed. 
+</section>
+  <section prefix="(d)">	The street must serve a predominantly single family area. 
+</section>
+  <section prefix="(e)">	The street by actual count does not carry more than five thousand (5,000) vehicles per day. 
+</section>
+  <section prefix="(f)">	The abutting properties have driveways and available off-street parking.
+</section>
+  <section prefix="(g)">
+   <section prefix="(1)">	If resurfacing is done simultaneously to both streets on which a lot abuts, assessment of the costs of the resurfacing shall be based upon the entire frontage of one (1) street (short side) plus the frontage of the other street in excess of one hundred fifty (150) feet. 
+</section>
+   <section prefix="(2)">	If the lot is already served by a street which meets all City standards, any resurfacing to another abutting street shall be assessed against the lot owner to the extent that the frontage to be assessed exceeds one hundred fifty (150) feet in length. 
+</section>
+   <section prefix="(3)">	If the lot is already served by a street that has been previously assessed a full prevailing assessment for street resurfacing, resurfacing to another abutting street shall be assessed against the lot owner to the extent that the frontage to be assessed exceeds one hundred fifty (150) feet in length. 
+</section>
+   <section prefix="(4)">	If a lot abuts on a street or road to be resurfaced but physical or topographic restrictions prevent reasonable access thereto from the lot, then no assessment shall be made. In the event that such a lot later gains access formerly thought impossible to the street which was resurfaced, no driveway permit shall be issued until the lot owner has paid a fee equivalent to the amount the lot would have been previously assessed. 
+</section>
+   <section prefix="(5)">	Resurfacing within redevelopment areas as delineated pursuant to G.S. 160A-500 et seq. provided the cost of such work is exclusively paid from community development funds. 
+Streets resurfaced under this section which are later improved, resurfaced again pursuant to the provisions of this section, rebuilt, or reconstructed to the standards of either chapter 3, part 10 or chapter 2, part 6 of this Code shall be assessed the full prevailing assessment for such subsequent improvements. 
+(Ord. No. 1987-69, §7, 10-20-87; Ord. No. 1996-814, §2, 2-6-96; Ord. No. 1998-315, §§1, 2, 4-21-98; Ord. No. 1998-377, §§1—3, 7-21-98; Ord. No. 1998-430, §1, 10-6-98; Ord. No. 2000-830, 7-5-00; Ord. No. 2008-463, §1, 10-7-08) 
+</section>
+  </section>
+ </text>
+</law>

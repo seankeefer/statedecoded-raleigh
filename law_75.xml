@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.34" order_by="6.34" level="3">Sec. 6.34 - DEPARTMENT OF PARKS AND RECREATION.</unit>
+ </structure>
+ <section_number>I-VI-6.34</section_number>
+ <catch_line>DEPARTMENT OF PARKS AND RECREATION.</catch_line>
+ <order_by>6.34</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created a Department of Parks and Recreation of the City of Raleigh which shall consist of a Director of Parks and Recreation and other such officers and employees and divisions as may be deemed necessary by the City Council, and whose salaries shall be fixed by the City Council, such officers and employees may include persons appointed to enforce ordinances of the City of Raleigh and Statutes of the State of North Carolina on those properties under control of the Department of Parks and Recreation; and on said property said employees when duly appointed and sworn shall have the same power and duty as would any peace officer. There may be such divisions as established from time to time by the City Council in its discretion. 
+</section>
+  <section prefix="(b)">	Subject to the direction and supervision of the City Manager, and subject to the legislative control of the City Council, the Director of Parks and Recreation and his said department shall have the following powers and duties: To control, manage, and operate the amusement and recreation parks and playgrounds of the City in accordance with the rules, regulations and ordinances adopted by the City Council; to plan, organize, supervise, and sponsor programs of public recreation for the best interests of the City and its citizens; and to operate swimming pools, baseball grounds, tennis courts, and such other facilities for recreation or play as may be authorized and directed by the City Council; and to have such other powers and perform such other duties as may be authorized and directed by the City Council or as otherwise by law provided. 
+</section>
+  <section prefix="(c)">	The City Council shall have power to create and appoint members to a parks and recreation advisory commission or committee, which shall have such powers and functions and be constituted as to membership, terms and organization, as may be prescribed by the City Council by ordinance or resolution. 
+) 
+Amendment note: 1971 Session Laws, Ch. 1209, §1(c), amended §6.34 by adding to the first sentence the words beginning, &quot;such officers and employees . . . &quot;. 
+</section>
+ </section>
+ <history>(S.L. 1971, Ch. 1209, §1(c)</history>
+</law>

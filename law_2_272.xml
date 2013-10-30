@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2091" order_by="8-2091" level="5">Sec. 8-2091. - UTILITY MAIN POLICY.</unit>
+ </structure>
+ <section_number>8-2091</section_number>
+ <catch_line>UTILITY MAIN POLICY.</catch_line>
+ <order_by>8-2091</order_by>
+ <text>
+It shall be the utility main policy of the City, subject to the conditions and limitations set forth herein, to reimburse developers who install major water and sewer mains either inside or outside the corporate limits the proportionate cost of any installation made in excess of a six-inch water main or an eight-inch sanitary sewer main from acreage fees collected in the same acreage fee area of the installation, with an opportunity for reimbursements not to exceed ten (10) years; but nothing herein shall prevent the opportunity for full reimbursement of major sewer lines fifteen (15) inches or greater in size. The City will not apply for any reimbursements for installations made by it for mains greater than twenty-four (24) inches in diameter, unless another unit of government, sharing with the City in the funding of such an installation, applies for reimbursement on a particular project. 
+(Ord. No. 1984-338, §8, 4-17-84; Ord. No. 1984-470, §3, 12-18-84; Ord. No. 1985-543, §28, 4-16-85) 
+</text>
+</law>

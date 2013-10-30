@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2084" order_by="12-2084" level="5">Sec. 12-2084. - EXAMINATION AND INVESTIGATION.</unit>
+ </structure>
+ <section_number>12-2084</section_number>
+ <catch_line>EXAMINATION AND INVESTIGATION.</catch_line>
+ <order_by>12-2084</order_by>
+ <text>
+  <section prefix="(a)">	Each applicant for a new or renewed taxicab driver's permit may be examined orally, in writing, or both, by the taxicab inspector as to his knowledge of the provisions of this division, the traffic regulations of the State and the City, and the geography of the City. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Whether or not the information stated in the original application is true.
+</section>
+   <section prefix="(2)">	Whether or not the applicant is a person meeting the qualifications required herein. 
+</section>
+   <section prefix="(3)">	Whether, as to the particular applicant, there is any basis for refusing to grant or renew a taxicab driver's permit as prescribed herein. 
+</section>
+  </section>
+  <section prefix="(c)">	The applicant is required to provide his/her fingerprints which will be submitted to State and national criminal history checks of his/her criminal record. City/County Bureau of Identification (CCBI) shall forward the applicant's fingerprints to the State Bureau of Investigation (SBI) for a search of the State's criminal history records file and the SBI shall forward a set of the fingerprints to the Federal Bureau of Investigation (FBI) for a national criminal history records check in accordance with G.S. 160A-304. This information shall be kept privileged and private and shall not be a public record under G.S. Chapter 132. The receipt by the taxicab inspector of the criminal history records check shall be used solely to determine eligibility for a permit. 
+(Code 1959 , §22-46; Ord. No. 2001-44, §1, 7-17-01; Ord. No. 2009-671, §33, 11-3-09) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2011" order_by="2-2011" level="5">Sec. 2-2011. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>2-2011</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>2-2011</order_by>
+ <text>
+  <section prefix="(a)">	Business. 
+The term business means any trade, occupation, profession, business, franchise, or calling of any kind, subject by the provisions of this article to a license tax. 
+</section>
+  <section prefix="(b)">	Engaged (or engaging) in business within the City. 
+A person is engaged in business within the City when he engages in business activity of any type, either as owner or operator of such business, (i) by maintaining a business location within the City; (ii) by soliciting business within the City; or (iii) by picking up or delivering merchandise or performing services within the City. 
+</section>
+  <section prefix="(c)">	Person. 
+The term person includes any individual, trustee, executor, other fiduciary, corporation, association, partnership, company, firm, or other legal entity or agent thereof. 
+</section>
+  <section prefix="(d)">	Seasonal in nature. 
+A business is seasonal in nature when it is taxed by this article on an annual basis, but is operated within the City for less than six (6) months of the year. 
+</section>
+ </text>
+</law>

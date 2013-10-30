@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2176" order_by="11-2176" level="5">Sec. 11-2176. - TRUCK PARKING.</unit>
+ </structure>
+ <section_number>11-2176</section_number>
+ <catch_line>TRUCK PARKING.</catch_line>
+ <order_by>11-2176</order_by>
+ <text>
+All motor truck carriers operating as either common or contract carriers over regular or irregular routes, all passenger bus carriers, and all other owners of motor trucks or trailers of any kind, including house trailers, whose trucks, truck-trailers, trailers, semi-trailers, house trailers or buses at any time are operated into, out of, through, or within the corporate limits of the City and the drivers and operators of any such vehicles shall use private property for parking and storing those vehicles within the corporate limits, and they are hereby prohibited from using the public streets of the City except for the purposes of travel and transporting, loading and unloading passengers and except for temporary parking in cases of emergency involving a mechanical breakdown necessitating repairs to any such vehicle. Provided that the provisions of this section shall not apply to mass transit buses owned by the City, trucks of three-fourths-ton capacity or less, nor shall it apply to school buses parked in conformity with permits issued by the Police Department. 
+(Code 1959 , §21-36; Ord. No. 1977-420, §1, 1-4-77) 
+</text>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2155" order_by="12-2155" level="5">Sec. 12-2155. - DECLARATION OF NECESSITY.</unit>
+ </structure>
+ <section_number>12-2155</section_number>
+ <catch_line>DECLARATION OF NECESSITY.</catch_line>
+ <order_by>12-2155</order_by>
+ <text>
+  <section prefix="(a)">	Reduce the likelihood that these residential housing accommodations will become public nuisances in violation of G.S. 19-1(b). 
+</section>
+  <section prefix="(b)">	Promote responsible management of these housing accommodations.
+</section>
+  <section prefix="(c)">	Assist in providing a safe habitat for residents and neighbors of these facilities.
+</section>
+  <section prefix="(d)">	Safeguard property values. 
+(Ord. No. 1992-31, §1, 8-4-92) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2036" order_by="8-2036" level="5">Sec. 8-2036. - ADDITIONAL CONDITIONS ON ASSESSMENTS.</unit>
+ </structure>
+ <section_number>8-2036</section_number>
+ <catch_line>ADDITIONAL CONDITIONS ON ASSESSMENTS.</catch_line>
+ <order_by>8-2036</order_by>
+ <text>
+  <section prefix="(a)">	The term &quot;lot&quot; as used in this section is defined as a parcel of land owned by one (1) owner without regard to whether or not shown on any subdivision map as separate lots and without regard to how or when acquired, except that when as assessment is made on a per lot basis in a subdivision, the term &quot;lot&quot; shall apply to each separate subdivided lot or a combination of subdivided lots where a single building unit is constructed on a portion of all the lots. Provided, however, that when a lot in a subdivision is already served by a water or sewer line and the lots in the subdivision are assessed on a per lot basis, the lot so served shall not be assessed a greater amount than the amount which would be assessed against the lot on a linear foot basis after giving credit for the exemptions contained in this section. 
+</section>
+  <section prefix="(b)">	The exemptions provided for in §§8-2034 and 8-2035 shall apply only if the cost of the existing water and sewer service main has been assessed against the property for which a duplicating service is provided, or if the existing water or sewer main, including major mains, was installed by a subdivider of property without cost to the City, or if the cost of the existing water or sewer service main has been paid from community development funds and such mains are located within redevelopment areas as delineated pursuant to Article 22 of Chapter 160A of the General Statutes of North Carolina, as amended. 
+(Code 1959 , §23-9(4), (5); Ord. No. 1977-586, 7-19-77; Ord. No. 1985-543, §16, 4-16-85; Ord. No. 1989-417, §1, 9-5-89; Ord. No. 1992-75, §1, 10-20-92) 
+</section>
+ </text>
+</law>

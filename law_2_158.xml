@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2043" order_by="5-2043" level="5">Sec. 5-2043. - NEW CONSTRUCTION INSPECTION, PERMITS AND FEES.</unit>
+ </structure>
+ <section_number>5-2043</section_number>
+ <catch_line>NEW CONSTRUCTION INSPECTION, PERMITS AND FEES.</catch_line>
+ <order_by>5-2043</order_by>
+ <text>
+  <section prefix="(a)">	Construction Permits. 
+In addition to any other fees and permits required by the City Code, a construction permit must be obtained from the City of Raleigh Inspections Department through the Fire Protection Division of the Office of the Fire Marshal in the following situations: 
+Construction Permits1 
+Description	Reference #	Fee
+Automatic Fire-Extinguishing Systems (per sq. ft. for each system) (based on gross floor area)2 	105.7.1	$0.015
+Alternative Fire Extinguishing Systems	105.7.1	$157.00
+Battery Systems with a liquid capacity in excess of 50 gallons	105.7.2	$157.00
+Compressed Gases (Where applicable)	105.7.3	$157.00
+Fire Alarm and Detection Systems and Related Equipment (per sq. ft. for each system) (based on gross floor area)2 	105.7.4	$0.015
+Fire Pumps and Related Equipment	105.7.5	$592.00
+Flammable and Combustible Liquids 	105.7.6	$157.00
+ 1.  To repair or modify a pipeline for the transportation of flammable and combustible liquids	105.7.6(1)	$157.00
+ 2.  To install, construct or alter facilities where flammable and combustible liquids are produced, processed, transported, stored, dispensed or used 	105.7.6(2)	$157.00
+ 3.  To install, alter, remove, abandon or otherwise dispose of a flammable and combustible liquids tank (per tank)	105.7.6(3)	$157.00
+Hazardous Materials	105.7.7	$157.00
+Industrial Ovens	105.7.8	$157.00
+Private Fire Hydrants	105.7.10	$157.00
+Spraying and Dipping	105.7.11	$157.00
+Standpipe Systems without Sprinklers2 	105.7.12	$334.00
+ 1.  Additional Standpipes (each)	105.7.12(1)	$112.00
+ 2.  All Pressure Reducing Vales (per valve)	105.7.12(2)	$10.00
+Membrane Structures, tents, and air-supported structures (&gt;180 days)	105.7.13	$157.00
+ 
+  1  For multiple buildings owned by the same owner(s), permit fees are per building as defined by the NC Building Code, Volume I. 
+  2  These fees are also set forth in §10-6039(d), and are repeated here for the reader's convenience. 
+All Fees appearing in §5-2043 will be adjusted annually on July 4 based on the average annual prior calendar year United States Department of Labor Consumer Price Index - All Urban Consumers. 
+</section>
+  <section prefix="(b)">	Applications. 
+An application for a permit shall be filed with the Office of the Fire Marshal on a form furnished for that purpose, provided by the City and shall include the applicant's answers in full to inquiries set forth in such forms. Applications for permits shall be accompanied by appropriate fees and such data as may be required by the Office of the Fire Marshal and/or Development Services Team. The Office of the Fire Marshal may require details, computations, stress diagrams, professional certification and other data necessary to describe the construction or installation of a system or process. 
+</section>
+  <section prefix="(c)">	Contractor's License Required. 
+When the North Carolina General Statutes requires that general construction, plumbing, mechanical, electrical, fire protection, or gas work be performed by the appropriately licensed individual(s), no permit for such type work shall be issued to an unlicensed person or firm. 
+</section>
+  <section prefix="(d)">	Plan Review. 
+No construction permit required in this section shall be issued until a review of the plans is first conducted to determine compliance with both the North Carolina Building Code, - including the Fire Prevention Code - and the City Code, including all permits required by the City Code. No permit will be issued until all omitted required permits are acquired and all corrections are made. The charge for plan review shall be in accordance with §10-6039(h). 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11; Ord. No. 2011-918, §1, 6-21-11, eff. 7-4-11; Ord. No. 2012-65, §1, 6-18-12, eff. 7-1-12) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="11-2023" order_by="11-2023" level="5">Sec. 11-2023. - TRAFFIC REGULATION AND PEDESTRIAN SAFETY.</unit>
+ </structure>
+ <section_number>11-2023</section_number>
+ <catch_line>TRAFFIC REGULATION AND PEDESTRIAN SAFETY.</catch_line>
+ <order_by>11-2023</order_by>
+ <text>
+In the event that it becomes immediately necessary to protect the safety of motorists and pedestrians, the law enforcement officers of the City may direct traffic as required and may place temporary official traffic-control devices without regard to the other provisions of this chapter. No person may refuse to comply with a lawful order of a law enforcement officer when the order is given under the authority of this section. 
+</text>
+</law>

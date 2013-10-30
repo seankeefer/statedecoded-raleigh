@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2234" order_by="11-2234" level="5">Sec. 11-2234. - USE OF WARNING SIGNS GENERALLY.</unit>
+ </structure>
+ <section_number>11-2234</section_number>
+ <catch_line>USE OF WARNING SIGNS GENERALLY.</catch_line>
+ <order_by>11-2234</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Advance warning signs stating that work is being performed ahead shall be posted a minimum of 500 feet from the nearest point where the work is being carried on. Such signs shall be placed in either direction from the site of such work. 
+</section>
+   <section prefix="(2)">	Specified warning signs stating what portion of the street is obstructed or, the extent of the obstruction, or, otherwise the nature of the work that is being done, shall be placed at a minimum of 150 feet proceeding in either direction from the nearest point of obstruction. 
+</section>
+   <section prefix="(3)">	A flag tree warning device set forth in the manual provided for in this article shall be located adjacent to the location of the obstruction, in either direction of traffic, in the direct line of sight of any motorists approaching the obstruction from either direction. 
+</section>
+   <section prefix="(4)">	The flow of traffic in either direction shall be channelized around obstruction by means of traffic cones and/or barricades set up in the roadway. 
+</section>
+   <section prefix="(5)">	Minimum specifications for such signs, signals, and warning devices, and illustrative examples of properly placed signs, signals and warning devices shall be maintained in the manual. 
+</section>
+  </section>
+  <section prefix="(b)">	Failure to comply with the provisions of this section shall be a misdemeanor. 
+(Code 1959 , §19-36; Ord. No. 1994-393, §7, 5-3-94) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2125" order_by="11-2125" level="5">Sec. 11-2125. - DRIVING UNDER HAZARDOUS CONDITIONS.</unit>
+ </structure>
+ <section_number>11-2125</section_number>
+ <catch_line>DRIVING UNDER HAZARDOUS CONDITIONS.</catch_line>
+ <order_by>11-2125</order_by>
+ <text>
+It shall be unlawful for any person to operate a motor vehicle upon public streets on which there is an accumulation of ice or snow unless the vehicle is equipped adequately to insure the continued, controlled mobility of the vehicle under the existing conditions; provided, the failure of an operator to maintain the continued, controlled mobility of his vehicle under the above conditions or the abandonment of a motor vehicle under §11-2028 under the above conditions, shall be deemed to be a failure to properly equip such vehicle as required by this section. It shall be unlawful to allow or cause a motor vehicle to stand or remain standing on the main traveled way of a street or highway in the City in violation of §11-2171 or otherwise. 
+(Code 1959 , §21-33.1) 
+</text>
+</law>

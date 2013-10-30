@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - ONE-WAY STREETS</unit>
+  <unit label="section" identifier="11-2111" order_by="11-2111" level="5">Sec. 11-2111. - ONE-WAY STREETS.</unit>
+ </structure>
+ <section_number>11-2111</section_number>
+ <catch_line>ONE-WAY STREETS.</catch_line>
+ <order_by>11-2111</order_by>
+ <text>
+Upon those streets designated as one-way streets, vehicular traffic shall move only in the indicated direction when signs indicating the direction of traffic are erected and maintained at every intersection where movement in the opposite direction is prohibited. Designated one-way streets shall be as specified in official Traffic Schedule No. 9, One-way streets. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+State law reference: One-way traffic, G.S. §20-165.1. 
+</text>
+</law>

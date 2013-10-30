@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2034" order_by="5-2034" level="5">Sec. 5-2034. - RESPONSIBILITY FOR ENFORCEMENT; FIRE PREVENTION BUREAU.</unit>
+ </structure>
+ <section_number>5-2034</section_number>
+ <catch_line>RESPONSIBILITY FOR ENFORCEMENT; FIRE PREVENTION BUREAU.</catch_line>
+ <order_by>5-2034</order_by>
+ <text>
+  <section prefix="(a)">	The Fire Prevention Code shall be enforced by the Fire Prevention Bureau within the Fire Department of the City, which shall be operated under the supervision of the Fire Chief. 
+</section>
+  <section prefix="(b)">	The Chief in charge of the Fire Prevention Bureau, also known as the Fire Marshal, shall be appointed by the Chief of the Fire Department on the basis of the merit principle, and shall serve at the pleasure of the Fire Chief. 
+</section>
+  <section prefix="(c)">	The Chief of the Fire Department may detail such members of Fire Department as fire prevention inspectors as he may determine necessary. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</section>
+ </text>
+</law>

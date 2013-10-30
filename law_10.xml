@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.4" order_by="2.4" level="3">Sec. 2.4 - MEETINGS OF THE CITY COUNCIL.</unit>
+ </structure>
+ <section_number>I-II-2.4</section_number>
+ <catch_line>MEETINGS OF THE CITY COUNCIL.</catch_line>
+ <order_by>2.4</order_by>
+ <section prefix="text">
+The City Council shall fix a suitable time for its regular meetings. The Mayor, the Mayor pro tempore of the City Council, or any two (2) members thereof, may at any time call special meetings by causing a written notice setting the time, place and purpose of holding such meeting, and signed by the person or persons calling the same, to be delivered in hand to each member of the City Council, or if he cannot be found to be served personally, by leaving a copy thereof at his place of business, if the notice is to be served on any business day during business hours; or if the notice is not to be served on a business day during business hours, then by leaving a copy of said notice at his place of residence. If there is an adult person at the place of residence at the time of service, such notice shall be left in the hands of such person. Monday through Friday between the hours of 9:00 a.m. and 5:00 p.m. and Saturday between the hours of 9:00 a.m. and 1:00 p.m., except legal holidays, shall constitute business days and business hours. Such notices shall be served at least six (6) hours before the time of such meeting. No business may be transacted by the City Council at such special meeting except the business set forth in the notice as being the business for which the meeting is called. Meetings of the City Council may also be held at any time when all the members of the Council are present and consent thereto. The City Council shall have the power at any regular, special or adjourned meeting of the Council to adjourn any such meeting to a specific date, hour and place set forth in the motion or resolution for adjournment and without further notice such adjourned meeting may be reconvened and held, and all action taken and matters transacted at such adjourned meeting shall be valid as if taken and transacted at the original meeting. 
+ 
+</section>
+ <history>(S.L. 1957, Ch. 970; S.L. 1959, Ch. 260, §1)</history>
+</law>

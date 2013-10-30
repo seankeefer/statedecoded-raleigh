@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - PUBLIC TRANSIT</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - TRANSIT AUTHORITY</unit>
+  <unit label="section" identifier="11-4002" order_by="11-4002" level="5">Sec. 11-4002. - MEMBERSHIP.</unit>
+ </structure>
+ <section_number>11-4002</section_number>
+ <catch_line>MEMBERSHIP.</catch_line>
+ <order_by>11-4002</order_by>
+ <text>
+The Raleigh Transit Authority (hereinafter referred to as the &quot;authority&quot;) shall be composed of nine (9) members, including a Chairman, such members and Chairman to be named by the City Council. In addition to these nine (9) members the City Council may also appoint two (2) alternate members to the authority. The alternate members may only participate in the deliberations of the authority in the event that enough regular authority members are absent to cause the authority to lack a quorum. Service as an alternate member will not count against the member for purposes of the rules against consecutive service on boards and commissions. 
+(Ord. 1975-1, §2; Ord. No. 2002-235, §1, 6-18-02) 
+</text>
+</law>

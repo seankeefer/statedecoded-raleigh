@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ENVIRONMENTAL ADVISORY BOARD</unit>
+  <unit label="section" identifier="1-4013" order_by="1-4013" level="5">Sec. 1-4013. - ORGANIZATION.</unit>
+ </structure>
+ <section_number>1-4013</section_number>
+ <catch_line>ORGANIZATION.</catch_line>
+ <order_by>1-4013</order_by>
+ <text>
+The Board shall organize and adopt administrative rules and procedures necessary to accomplish its purposes, and elect from its members a chairperson and a vice-chairperson. 
+All regular and special meetings of the Board shall be open to the public as governed by North Carolina General Statute Section 143-318(1), Meetings of Governmental Bodies. Any person shall be entitled and encouraged to appear and be heard on any matter pertaining to environmental management issues referred by the Council to the Board. 
+Regular Board meetings shall be held quarterly. The chairperson or, in his/her absence, the vice-chairperson may call a special meeting of the Board at any time giving oral or written notice, in compliance with North Carolina General Statutes governing meetings, to all members. Special meetings shall be scheduled upon request of four (4) or more Board members. Notice of special meetings shall comply with open meeting laws. 
+(Ord. No. 2006-56, §1, 6-20-06) 
+</text>
+</law>

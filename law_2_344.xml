@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2166" order_by="8-2166" level="5">Sec. 8-2166. - INSPECTION OF PROPERTY.</unit>
+ </structure>
+ <section_number>8-2166</section_number>
+ <catch_line>INSPECTION OF PROPERTY.</catch_line>
+ <order_by>8-2166</order_by>
+ <text>
+It shall be the duty, upon request of the Public Utilities Director, for designated Public Utilities Department staff to observe and determine if the uses of water by Raleigh water supply system customers are compliant with the provisions of this article. 
+(Ord. No. 2007-235, §1, 5-15-07) 
+</text>
+</law>

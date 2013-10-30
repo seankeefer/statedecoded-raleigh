@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TRANSIENT OCCUPANCY TAX; CONVENTION AND VISITORS BUREAU</unit>
+  <unit label="section" identifier="2-2085" order_by="2-2085" level="5">Sec. 2-2085. - MISDEMEANOR FOR WILLFUL VIOLATION.</unit>
+ </structure>
+ <section_number>2-2085</section_number>
+ <catch_line>MISDEMEANOR FOR WILLFUL VIOLATION.</catch_line>
+ <order_by>2-2085</order_by>
+ <text>
+Any person, firm, corporation, or association which willfully attempts in any manner to evade the occupancy tax or to make a return, and who willfully fails to pay such tax or make and file such return, shall, in addition to the penalties prescribed in §§ 2-2083 and 2-2084 of this division, be guilty of a misdemeanor, and shall be punished by a fine not to exceed one thousand dollars ($1,000.00) or by imprisonment not to exceed six (6) months or by both such fine and imprisonment. 
+(Ord. No. 1986-825A, §1, 7-15-86) 
+</text>
+</law>

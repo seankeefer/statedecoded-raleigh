@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="V" order_by="5" level="2">ARTICLE V. - POWERS AND DUTIES OF MAYOR, CITY CLERK AND TREASURER, AND CITY ATTORNEY</unit>
+  <unit label="section" identifier="5.4" order_by="5.4" level="3">Sec. 5.4 - SAME; DUTIES OF CITY TREASURER.</unit>
+ </structure>
+ <section_number>I-V-5.4</section_number>
+ <catch_line>SAME; DUTIES OF CITY TREASURER.</catch_line>
+ <order_by>5.4</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	The City Treasurer shall be the custodian of all funds of the City of Raleigh and shall cause to be kept a proper record showing the source from which said funds are derived and shall disburse the same in accordance with due authority given by the City Council, or otherwise by law. 
+</section>
+  <section prefix="(2)">	He shall see and require that all departments of the City of Raleigh which receive funds for said City make or cause to be made daily deposits of same to credit of the City of Raleigh in a depository approved and designated by the City Council, and he shall require that duplicate deposit slips be presented to him by the official or officials having responsibility for making such deposits upon the same day upon which the deposit is made. 
+</section>
+  <section prefix="(3)">	He shall sign all checks issued for disbursement of funds of the City of Raleigh which are by this charter or otherwise required to be deposited to the credit of said City and require that due authority be given for the execution of such checks and only after the same have been duly audited. 
+</section>
+  <section prefix="(4)">	He shall execute all notes, bonds or other evidences of indebtedness for the City of Raleigh where the same are required by private or public law to be executed by the City Treasurer. 
+</section>
+  <section prefix="(5)">	He shall see that all depositories designated by the City Council post depository bonds, keep the same in force and on file with the City Clerk, or in lieu thereof place sufficient and proper collateral as may be allowed by law or action of the City Council; and he is specifically charged with the duties imposed by G.S. 159-28. 
+</section>
+  <section prefix="(6)">	He shall assist the City Manager and the City Accountant in the preparation of the budget for the City of Raleigh and shall advise with them and with the City Council upon the finances and issuance of bonds and other obligations of the City. 
+</section>
+  <section prefix="(7)">	He shall pass upon the sufficiency of the surety of all bonds required to be deposited with the City of Raleigh by contract, ordinances or otherwise. 
+</section>
+  <section prefix="(8)">	He shall attend to all duties as may be required of him by ordinances or laws heretofore or hereafter enacted.
+</section>
+  <section prefix="(9)">	He shall attend to such other duties as may be required of him by the City Council.
+</section>
+ </section>
+</law>

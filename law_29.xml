@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.7" order_by="3.7" level="3">Sec. 3.7 - SALARIES.</unit>
+ </structure>
+ <section_number>I-III-3.7</section_number>
+ <catch_line>SALARIES.</catch_line>
+ <order_by>3.7</order_by>
+ <section prefix="text">
+Every officer, agent, employee and assistant of the City government (except the Mayor and members of the City Council whose salaries are otherwise provided for), shall receive such salary or compensation as the City Council shall by budget appropriation or other appropriate action provide, payable in equal semi-monthly installments, unless the City Council shall order payments to be made at other intervals. 
+</section>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - WATER CONSERVATION PLAN [6]</unit>
+  <unit label="section" identifier="8-2162" order_by="8-2162" level="5">Sec. 8-2162. - OBJECTIVE.</unit>
+ </structure>
+ <section_number>8-2162</section_number>
+ <catch_line>OBJECTIVE.</catch_line>
+ <order_by>8-2162</order_by>
+ <text>
+The objectives of the Water Conservation policy are to establish a program that will educate consumers of the importance of water conservation, set goals for reduction of water use on a day to day basis and during times of drought, and reduce per capita water consumption in a manner that is fair and equitable to all consumers/users. 
+(Ord. No. 2007-235, §1, 5-15-07) 
+</text>
+</law>

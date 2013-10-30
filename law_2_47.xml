@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ENVIRONMENTAL ADVISORY BOARD</unit>
+  <unit label="section" identifier="1-4014" order_by="1-4014" level="5">Sec. 1-4014. - PURPOSE.</unit>
+ </structure>
+ <section_number>1-4014</section_number>
+ <catch_line>PURPOSE.</catch_line>
+ <order_by>1-4014</order_by>
+ <text>
+  <section prefix="(1)">	Advise the Council regarding comments to other governmental units and agencies on the position of the City of Raleigh with regard to environmental matters. 
+</section>
+  <section prefix="(2)">	Advise the City Council on matters relating to fuel efficiency. 
+</section>
+  <section prefix="(3)">	Advise the City Council on matters relating to environmental education and awareness. 
+</section>
+  <section prefix="(4)">	Advise the City Council on matters relating to environmental awards and recognition programs. 
+</section>
+  <section prefix="(5)">	Advise the City Council on policies that the City of Raleigh should implement or amend as requested by Council. 
+</section>
+  <section prefix="(6)">	Advise the City Council on such other matters related to environmental quality and safety as the Council shall refer to said Board. 
+(Ord. No. 2006-56, §1, 6-20-06)  
+</section>
+ </text>
+</law>

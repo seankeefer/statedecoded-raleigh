@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2184" order_by="12-2184" level="5">Sec. 12-2184. - METHODS OF SERVICE.</unit>
+ </structure>
+ <section_number>12-2184</section_number>
+ <catch_line>METHODS OF SERVICE.</catch_line>
+ <order_by>12-2184</order_by>
+ <text>
+  <section prefix="(a)">	Notices, orders or other documents issued pursuant to this article shall be served upon persons either personally or by first class regular mail. Service shall be deemed sufficient if regular mail is not returned by the post office within ten (10) days after the mailing. If regular mail is used, a notice of the pending proceedings shall be posted in a conspicuous place on the premises affected. 
+</section>
+  <section prefix="(b)">	If the identities of any owners or whereabouts of persons are unknown and the same cannot be ascertained by the Inspections Department in the exercise of reasonable diligence, or if the owners are known but have refused to accept service by registered or certified mail, and the Inspections Department shall make an affidavit to that effect, stating the steps taken to determine and locate the persons in interest, then the serving of such complaint or order upon such owners or persons may be made by publication in a newspaper having general circulation in the City at least once no later than time at which personal service would be required under this article. Where such service is by publication, a notice of the pending proceedings shall be posted in a conspicuous place on the premises thereby affected. 
+(Ord. No. 2008-415B, §1, 7-1-08) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2075" order_by="11-2075" level="5">Sec. 11-2075. - EMERGING FROM ALLEY OR PRIVATE DRIVEWAY.</unit>
+ </structure>
+ <section_number>11-2075</section_number>
+ <catch_line>EMERGING FROM ALLEY OR PRIVATE DRIVEWAY.</catch_line>
+ <order_by>11-2075</order_by>
+ <text>
+The driver of a vehicle emerging from an alley, driveway, or building shall stop that vehicle immediately prior to driving on to a sidewalk or into a sidewalk area across any alleyway, and upon entering the roadway shall yield the right-of-way to all vehicles approaching on the roadway. 
+(Code 1959 , §21-18) 
+</text>
+</law>

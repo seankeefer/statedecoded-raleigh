@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2127" order_by="8-2127" level="5">Sec. 8-2127. - WASTE WATER PERMITS.</unit>
+ </structure>
+ <section_number>8-2127</section_number>
+ <catch_line>WASTE WATER PERMITS.</catch_line>
+ <order_by>8-2127</order_by>
+ <text>
+  <section prefix="(i)">	limits on the average and/or maximum rate of discharge, and/or requirements for flow regulation and equalization; 
+(ii)	limits on the instantaneous, daily and/or monthly average and/or maximum concentration, mass, or other measure of identified waste water pollutants or properties; 
+(iii)	requirements for the installation of pretreatment technology or construction of appropriate containment devices, etc., designed to reduce, eliminate, or prevent the introduction of pollutants into the treatment works; 
+(iv)	development and implementation of waste minimization plans to reduce the amount of pollutants discharged to the municipal waste water system; 
+</section>
+  <section prefix="(v)">	the unit charge or schedule of user charges and fees for the management of the waste water discharged to the system; 
+(vi)	requirements for installation and maintenance of inspection and sampling facilities and equipment;
+(vii)	specifications for monitoring programs which may include sampling locations, frequency of sampling, number, types, and standards for tests, and reporting schedules; 
+(viii)	requirements for immediate reporting of any instance of noncompliance and for automatic resampling and reporting within thirty (30) days where self-monitoring indicates a violation(s); 
+(ix)	compliance schedules for meeting pretreatment standards and requirements; 
+</section>
+  <section prefix="(x)">
+   <section prefix="(11)">	Permits duration. 
+Permits shall be issued for a specified time period, not to exceed five (5) years. A permit may be issued for a period less than a year or may be stated to expire on a specific date. 
+</section>
+   <section prefix="(12)">	Permit transfer. 
+Waste water permits are issued to a specific user for a specific operation. A waste water discharge permit shall not be reassigned or transferred or sold to a new owner, new user, different premises, or a new or changed operation. 
+</section>
+   <section prefix="(13)">	Permit reissuance. 
+A significant industrial user shall apply for permit reissuance by submitting a complete permit application in accordance with §8-2127 a minimum of one hundred eighty (180) days prior to the expiration of the existing permit. 
+(Ord. No. 2011-981, §1, 12-6-11)  
+DIVISION 5. - REPORTING REQUIREMENTS
+</section>
+  </section>
+ </text>
+</law>

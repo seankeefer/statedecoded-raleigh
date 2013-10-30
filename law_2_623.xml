@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2026" order_by="12-2026" level="5">Sec. 12-2026. - OWNER INFORMATION FILE.</unit>
+ </structure>
+ <section_number>12-2026</section_number>
+ <catch_line>OWNER INFORMATION FILE.</catch_line>
+ <order_by>12-2026</order_by>
+ <text>
+Every owner shall maintain on file with the taxicab inspector, his name, business address, garage address, all business telephone numbers listed in his name, and the names of all drivers, their license numbers and addresses, and shall, within forty-eight (48) hours after any change in connection therewith report such change or changes to the taxicab inspector in writing. In case more than one owner operates under the same name, the owner of the name may keep the records and make the reports required by this article in behalf of all owners operating under his name; but his failure to do so shall not relieve such other owners of responsibility for such records and reports with respect to taxicabs owned by them, it being the intention of this article to impose such responsibilities upon each owner. 
+(Code 1959 , §22-6; Ord. No. 1980-487, §7, 10-7-80) 
+</text>
+</law>

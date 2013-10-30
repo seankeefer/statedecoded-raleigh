@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2232" order_by="11-2232" level="5">Sec. 11-2232. - CERTAIN OBSTRUCTIONS PROHIBITED; EXCEPTIONS.</unit>
+ </structure>
+ <section_number>11-2232</section_number>
+ <catch_line>CERTAIN OBSTRUCTIONS PROHIBITED; EXCEPTIONS.</catch_line>
+ <order_by>11-2232</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Any street within the City having a marked centerline, or having marked lanes, between the hours of 7:00 a.m. and 9:00 a.m. and between the hours of 4:00 p.m. and 6:00 p.m. 
+</section>
+   <section prefix="(2)">	All streets with five (5) or more traffic lanes at the point of work, all streets with two (2) traffic lanes in each direction divided by a median, and all streets within the &quot;Central Business District&quot; (CBD), the area bounded by East Street, West Street, South Street and Peace Street, between the hours of 7:00 a.m. and 6:00 p.m. 
+</section>
+   <section prefix="(3)">	Any street which is totally closed to through traffic. 
+</section>
+  </section>
+  <section prefix="(b)">	Special permission to obstruct a portion of the above specified streets shall be obtained by having the transportation director or his agent endorse the work permit for working within the street right-of-way issued by the Department of Public Works pursuant to §7-2001. This permit shall be maintained at the work site at all times while work is being performed. 
+</section>
+  <section prefix="(c)">	Special permission to obstruct a lane may be revoked if permittee continues to violate any portion of this article. Permittee must reapply for permission to obstruct a lane if original endorsement is revoked. 
+</section>
+  <section prefix="(d)">
+   <section prefix="(1)">	The location of the planned work;
+</section>
+   <section prefix="(2)">	The time that the planned work is to be done; and
+</section>
+   <section prefix="(3)">	The nature and extent of the planned work.
+</section>
+  </section>
+  <section prefix="(e)">	Any person, persons, agency or corporation obstructing any portion of any of the above defined streets or working to remove or repair the cause of any obstruction in any such street shall at all times use the appropriate signs, signals and warning devices required by the manual providing for by this article. Such person, persons, agency or corporation so working shall remove all signs, signals and warning devices. When the street is not in fact obstructed. 
+</section>
+  <section prefix="(f)">	Failure to comply with the provisions of this section shall be a misdemeanor. 
+(Code 1959 , §19-34; Ord. No. 1980-416, §§1—3, 7-15-80; Ord. No. 1994-393, §§1—4, 5-3-94) 
+</section>
+ </text>
+</law>

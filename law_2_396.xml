@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="9" order_by="9" level="2">PART 9 - PARKS, RECREATION AND CULTURAL AFFAIRS</unit>
+  <unit label="chapter" identifier="10" order_by="10" level="3">CHAPTER 10. - ARTS COMMISSION [8]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="9-10004" order_by="9-10004" level="5">Sec. 9-10004. - PURPOSES.</unit>
+ </structure>
+ <section_number>9-10004</section_number>
+ <catch_line>PURPOSES.</catch_line>
+ <order_by>9-10004</order_by>
+ <text>
+  <section prefix="(a)">	To advise the City Council on ways in which City government might best serve the public with regard to matters involving the arts. 
+</section>
+  <section prefix="(b)">	To encourage and aid the appreciation and awareness of, and participation in, the arts among all citizens of Raleigh.
+</section>
+  <section prefix="(c)">	To encourage cooperation and coordination among individuals, organizations and institutions concerned with the arts in Raleigh.
+</section>
+  <section prefix="(d)">	To promote and expand the cultural resources of Raleigh, thereby facilitating employment for artists and the development of self-sustaining arts programs. 
+</section>
+  <section prefix="(e)">	To formulate in cooperation with other City agencies a longrange plan for the development of a thriving cultural climate in Raleigh. 
+(Ord. No. 1977-578, §4, 7-5-77) 
+</section>
+ </text>
+</law>

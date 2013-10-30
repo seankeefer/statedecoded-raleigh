@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.23" order_by="6.23" level="3">Sec. 6.23 - COMMITMENTS TO COUNTY JAIL.</unit>
+ </structure>
+ <section_number>I-VI-6.23</section_number>
+ <catch_line>COMMITMENTS TO COUNTY JAIL.</catch_line>
+ <order_by>6.23</order_by>
+ <section prefix="text">
+The keeper of the common jail of Wake County may receive into the common jail of said County, without a mittimus, any person taken up in the nighttime by the City police force, and to keep such person safely until the following morning, when such offender shall be brought out for trial; and for such services the jailer shall be entitled to have such fees as are allowed him by law in like cases; provided, the City may provide and use a prison for the confinement of prisoners as provided by law. 
+</section>
+</law>

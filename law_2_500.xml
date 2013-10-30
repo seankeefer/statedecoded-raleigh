@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2186" order_by="11-2186" level="5">Sec. 11-2186. - VALET PARKING.</unit>
+ </structure>
+ <section_number>11-2186</section_number>
+ <catch_line>VALET PARKING.</catch_line>
+ <order_by>11-2186</order_by>
+ <text>
+  <section prefix="(a)">	[Valet parking.] 
+Valet parking means the business of using the streets for the purposes of loading and unloading passengers to and from vehicles and for the parking of those vehicles. Valet parking shall only be operated in connection with a designated valet parking zone. 
+</section>
+  <section prefix="(b)">	[Permit required.] 
+No person shall engage in the business of operating valet parking service in the City without first obtaining a permit pursuant to this section. The operator shall also be required to obtain a valid privilege license from the City but the Revenue Collector cannot issue such privilege license until the valet parking permit has been obtained. 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	The name, age, business address and residence of the applicant if a natural person; if a corporation, its name, address of its principal office, and the names of its principal officers together with their respective addresses; if a partnership, association, or other unincorporated entity, the names of the partners, or the names of those comprising the association or company with the address of each. 
+</section>
+   <section prefix="(2)">	The experience of the applicant in the provision of such services and whether any similar permit in any jurisdiction has ever been revoked, and if so, the circumstances of such revocation. 
+</section>
+   <section prefix="(3)">	The uniform or insignia to be used to designate the applicant's employees.
+</section>
+   <section prefix="(4)">	The street and sidewalk locations and the times during which applicant intends to provide valet service. 
+</section>
+   <section prefix="(5)">	Whether the applicant or any of its principal officers or employees has ever been convicted of a felony or a violation of any narcotic law, or a crime involving moral turpitude. 
+</section>
+   <section prefix="(6)">	Such other information that the Public Works Director or his designee believes necessary to assure that the public streets can meet their main purpose of carrying motor vehicular traffic. 
+</section>
+  </section>
+  <section prefix="(d)">	Insurance. 
+No permit shall be issued or continued in operation, and no person shall operate a valet parking service unless and until there is in full force and effect a motor vehicle liability insurance policy insuring such owner and each employee thereof, and unless and until such owner shall file with the City Clerk a written certificate of insurance showing that the policy or policies are in effect and that they cannot be cancelled without thirty (30) days written notice to the City Clerk. The policies shall have coverage limits of not less that one million dollars ($1,000,000.00) for death or injury in any one occurrence, and property damage coverage of not less than one hundred thousand dollars ($100,000.00). In addition, the owner shall also furnish the insurance coverage required by §11-6001(b) herein. 
+</section>
+  <section prefix="(e)">	Issuance. 
+Upon receipt of the completed application and fee, the Public Works Director or his designee shall conduct any investigation deemed appropriate to determine whether a permit should issue. In making the determination, the number of services already operating in an area, the number of zones already in the area requested, the hours of operation being proposed, and the probable effect of the service of local traffic conditions. 
+</section>
+  <section prefix="(f)">	Authority of the City . 
+The City reserves the right to determine and designate appropriate street locations and times for the operation of valet parking services. Once the City has determined and designated appropriate street locations and times for the operating of valet services, the service shall be limited to parking or unloading vehicles only at those street locations and times. No cars will be parked in on street parking areas. The City reserves the right to add, modify or eliminate street locations and times at any time in order to protect pedestrian traffic and improve conditions for the flow of motor vehicular traffic. 
+</section>
+  <section prefix="(g)">	Suspension and revocation. 
+Any permit issued hereunder may be suspended or revoked for any reason that would justify a refusal to issue the permit originally or by reason of any failure by the permitee to comply with the provisions of this code, or any condition imposed by the Public Works Director or his designee upon issuance of the permit. The permit may be suspended if the sidewalk or street area is needed for parades, festivals or other such special events. Except for temporary suspensions for special events as set out above, the permittee is entitled to prompt notice of the City's intent to suspend or revoke and is entitled to a hearing before the Public Works Director or his designee. The permittee may appeal the decision of the Public Works Director or his designee to the City Council. 
+</section>
+  <section prefix="(h)">	Penalties. 
+Violations of the permit requirements are a misdemeanor punishable by a fine of up to five hundred dollars ($500.00) and by any civil remedy available under North Carolina law, G.S. 160A-75. Violations are also grounds for the revocations of the required business privilege license. 
+(Ord. No. 2007-159, §1, 1-23-07) 
+</section>
+ </text>
+</law>

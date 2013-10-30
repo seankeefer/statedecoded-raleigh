@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.5" order_by="3.5" level="3">Sec. 3.5 - CITY COUNCIL APPOINTMENTS.</unit>
+ </structure>
+ <section_number>I-III-3.5</section_number>
+ <catch_line>CITY COUNCIL APPOINTMENTS.</catch_line>
+ <order_by>3.5</order_by>
+ <section prefix="text">
+The City Council shall appoint and employ and may discharge and remove the City Clerk, the City Treasurer, the City Clerk and Treasurer (when duties of City Clerk and City Treasurer are combined and conferred and imposed upon one (1) officer), the City Attorney, and the auditor of such public accountant as may be deemed proper for the auditing of the accounts of the City; and the City Council shall likewise fill vacancies on or make appointments to such boards, commissions, or committees as the governing body of the City of Raleigh is authorized or permitted by law or ordinance to fill or appoint; provided, that the officers named in this section, when appointed by the City Council and qualified, shall hold office and serve at the pleasure of the City Council. 
+) 
+</section>
+ <history>(S.L. 1973, Ch. 319, §1(i)</history>
+</law>

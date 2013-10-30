@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2181" order_by="11-2181" level="5">Sec. 11-2181. - TEMPORARY PARKING RESTRICTIONS BY CHIEF OF POLICE.</unit>
+ </structure>
+ <section_number>11-2181</section_number>
+ <catch_line>TEMPORARY PARKING RESTRICTIONS BY CHIEF OF POLICE.</catch_line>
+ <order_by>11-2181</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Along parade routes permitted by the Police Department of the City for a period of two (2) hours before a parade begins until one (1) hour after the end thereof along streets having parking meters or any other streets within the City. 
+</section>
+   <section prefix="(2)">	Adjacent to curbs where street or public utility repairs are being made or are to be made if the parking at those curbs would interfere with the repair work. 
+</section>
+   <section prefix="(3)">,	(4) Reserved.
+</section>
+   <section prefix="(5)">	Adjacent to the curb where parking would interfere with special events which may be lawfully conducted on the streets or sidewalks of the City. 
+</section>
+  </section>
+  <section prefix="(b)">	It shall be unlawful to park a motor vehicle in the prohibited areas after signs, traffic cones, or other devices have been conspicuously placed to give notice that parking is prohibited. 
+(Ord. No. 1984-452, §4, 12-4-84) 
+Cross references: Parade regulations generally, §12-1051 et seq.; parking meter zones and restrictions applicable thereto, §11-2200 et seq.; reservation or encumbrance of parking spaces, §11-2207 
+Annotation: Traffic schedules for residential parking access are found in Traffic Schedule 21. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2176" order_by="12-2176" level="5">Sec. 12-2176. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>12-2176</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>12-2176</order_by>
+ <text>
+  <section prefix="(a)">	Apartment house: Any dwelling containing three (3) or more dwelling units. 
+</section>
+  <section prefix="(b)">	Apartment project: A systematically built group of apartment houses. 
+</section>
+  <section prefix="(c)">	Business affiliate: A person who directly or indirectly owns or controls, is owned or controlled by, or is under common ownership or control with, the owner of a probationary residential rental dwelling of any property. Solely for purposes of this definition, the terms &quot;owns,&quot; &quot;is owned,&quot; and &quot;ownership&quot; mean ownership of an equity interest, or the equivalent thereof, of ten (10) per cent of [or] more. 
+</section>
+  <section prefix="(d)">	Dwelling: A dwelling unit used for residential purposes other than a dwelling unit in a bed and breakfast inn; hotel or motel; guest house; rest home; rooming house, boarding house, lodging house; or a tourist home. 
+</section>
+  <section prefix="(e)">	Dwelling unit: One (1) or more rooms physically arranged as to create an independent housekeeping establishment with separate facilities for cooking, sleeping, and toilet. A dwelling unit can be occupied by only one (1) family. A dwelling unit can also contain a utility apartment or rented rooms in accordance with §10-2072(b). 
+</section>
+  <section prefix="(f)">	Inspections Department: The Inspections Department of the City of Raleigh. 
+</section>
+  <section prefix="(g)">	Manager: Any person who has been hired and is paid by the owner to manage any dwelling or dwelling unit which is rented or offered for rent as a residential dwelling. 
+</section>
+  <section prefix="(h)">
+   <section prefix="(1)">	Shall have title to any dwelling or dwelling unit, with or without accompanying actual possession thereof; or 
+</section>
+   <section prefix="(2)">	Shall have charge, care or control of any dwelling or dwelling unit, as owner or agent of the owner, or as executor, executrix, administrator, administratrix, trustee or guardian of the estate of the owner. Any such person thus representing the actual owner shall be bound to comply with the provisions of this article, and of rules and regulations adopted pursuant thereto, to the same extent as if the person were the owner. 
+</section>
+  </section>
+  <section prefix="(i)">	Person: Associations, corporations, limited liability companies, company, firm, partnerships, joint ventures, public or private institutions, corporations, trusts, estates, utilities, cooperatives, commissions, boards, condominiums, interstate bodies and bodies politic and corporate as well as to individuals or other legal entities. 
+</section>
+  <section prefix="(j)">	Property: A parcel of land, either vacant or occupied by one or more principal buildings, as identified by the Wake County Register of Deeds tax records. 
+(Ord. No. 2008-415B, §1, 7-1-08; Ord. No. 2011-980, §1, 11-15-11) 
+</section>
+ </text>
+</law>

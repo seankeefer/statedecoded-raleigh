@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2209" order_by="11-2209" level="5">Sec. 11-2209. - CONTENTS OF APPLICATION; FORM.</unit>
+ </structure>
+ <section_number>11-2209</section_number>
+ <catch_line>CONTENTS OF APPLICATION; FORM.</catch_line>
+ <order_by>11-2209</order_by>
+ <text>
+  <section prefix="(a)">	Written authorization. 
+The application for a permit shall be made in writing on a form supplied by the Inspections Department. The application will show the name of the business or applicant's name; the reason for the encumbrance of the parking space or spaces; any certification required by this section; and the location of the proposed activity and the number of spaces desired to be encumbered and the day or dates needed and such other information as may be required by the Police Department. 
+</section>
+  <section prefix="(b)">	Exhibit of permit. 
+In all cases, any permit issued hereunder shall be displayed by the permittee (or his agent) at the location of the parking spaces authorized to be encumbered and shall be exhibited to any officer or employee of the City upon demand. 
+(Code 1959 , §21-48.1; Ord. No. 1984-452, §2, 12-4-84) 
+</section>
+ </text>
+</law>

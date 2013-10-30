@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VII" order_by="7" level="2">ARTICLE VII. - MISCELLANEOUS PROVISIONS</unit>
+  <unit label="section" identifier="7.5" order_by="7.5" level="3">Sec. 7.5 - CONFLICTING LAWS REPEALED.</unit>
+ </structure>
+ <section_number>I-VII-7.5</section_number>
+ <catch_line>CONFLICTING LAWS REPEALED.</catch_line>
+ <order_by>7.5</order_by>
+ <section prefix="text">
+Except as specifically incorporated into the provisions of this act, the following laws are hereby repealed; Chapter 59 of the Private Laws of North Carolina 1913; Chapter 60 of the Private Laws of North Carolina 1913; Chapter 63 of the Private Laws of North Carolina 1923; Chapter 207 of the Private Laws of North Carolina, 1927; Chapter 11 of the Private Laws of North Carolina 1933; Chapter 112, Private Laws 1935; Chapter 552 of the Session Laws of North Carolina 1945; and all other laws and clauses of laws in conflict with provisions of this act are hereby repealed; provided that nothing in this act shall authorize or empower the City to fix, supervise or control the rates and services of any public utility which are now, or may hereafter be subject to jurisdiction of the North Carolina Utilities Commission, and provided that nothing in this act shall have the effect of authorizing or empowering the City to assess, levy or collect any franchise, license or privilege tax which the City is now, or may hereafter be, prohibited from assessing, levying or collecting under and by virtue of the provisions of the North Carolina Revenue Act or other public laws; provided, further, that the provisions of Chapter 246 of the Public-Local Laws of North Carolina, Extra Session 1921, insofar as applicable to the City of Raleigh, are hereby repealed; provided, however, that all powers, duties, functions and authority vested by any statute not hereby repealed, in the Board of Commissioners of the City of Raleigh, howsoever designated, or in the several commissioners of the City of Raleigh, howsoever designated, shall be vested in the City Council of the City of Raleigh and shall be performed, exercised and administered by the City Council or the City Manager of the City of Raleigh in accordance with the terms and provisions of this act. 
+</section>
+</law>

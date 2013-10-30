@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.31" order_by="6.31" level="3">Sec. 6.31 - CHARGES FOR UTILITY SERVICES.</unit>
+ </structure>
+ <section_number>I-VI-6.31</section_number>
+ <catch_line>CHARGES FOR UTILITY SERVICES.</catch_line>
+ <order_by>6.31</order_by>
+ <section prefix="text">
+The City Council is hereby authorized to fix and prescribe such rates of charges for water, light and sewerage service, and for connections with any water or sewer line, forming a part of or connected with the water or sewerage system of the City, and for inspection services, such rates of charges to be prescribed in the discretion of the City Council; provided that the rates may be graduated according to classes of service, quantity of consumption, or otherwise, as determined by the City Council, but the rates within any particular classification shall be uniform and applicable alike to all consumers within any such classification; provided, further, however, that for connections, inspections and/or service supplied to persons, firms and corporations outside the corporate limits of the City, the City Council may fix and prescribe a different and higher rate and charge from that charged within the corporate limits. 
+</section>
+</law>

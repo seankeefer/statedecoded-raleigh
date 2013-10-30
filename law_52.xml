@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.11" order_by="6.11" level="3">Sec. 6.11 - PUBLIC CONTRACTS AND PURCHASES; PROCEDURE.</unit>
+ </structure>
+ <section_number>I-VI-6.11</section_number>
+ <catch_line>PUBLIC CONTRACTS AND PURCHASES; PROCEDURE.</catch_line>
+ <order_by>6.11</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	No construction or repair work or purchase of apparatus, supplies, materials or equipment shall be performed by the City of Raleigh unless the applicable provisions of Article 8 of Chapter 143 of the General Statutes of North Carolina or any amendment thereof shall have been complied with. 
+</section>
+  <section prefix="(b)">	Notwithstanding the provisions of said Article 8 or any other act in the purchase of apparatus, supplies, materials or equipment for the City of Raleigh, any personal property owned by the City of Raleigh may be exchanged or traded in as a condition of such purchase, provided the advertisement for bids shall specify the property to be exchanged or traded. 
+ 
+Amendment note: Sections 6.11 and 6.12 were revised and amended by S.L. 1965, Ch. 218, §1, to conform to Art. 8 of Ch. 143 of the General Statutes regarding public building contracts. Previous §§72, prohibiting evasion, and 73, referring to G.S. 160-280, were repealed. 
+</section>
+ </section>
+ <history>(S.L. 1953, Ch. 193, §1; S.L. 1965, Ch. 218, §1)</history>
+</law>

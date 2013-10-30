@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2039" order_by="5-2039" level="5">Sec. 5-2039. - ISSUANCE OF BLASTING PERMITS; REQUIREMENTS.</unit>
+ </structure>
+ <section_number>5-2039</section_number>
+ <catch_line>ISSUANCE OF BLASTING PERMITS; REQUIREMENTS.</catch_line>
+ <order_by>5-2039</order_by>
+ <text>
+  <section prefix="(a)">	The responsibility for issuance of permits to be used or blasting agents within the City and its area of extraterritorial jurisdiction, as provided under applicable provisions of the Fire Prevention Code shall be with the Chief of the Fire Prevention Bureau. For each instance of blasting within the City and the extraterritorial area, the person or entity securing a permit shall post with the City a bond or liability insurance policy of not less than three hundred thousand dollars ($300,000.00) for bodily injury or death, one (1) person, each accident; five hundred thousand dollars ($500,000.00) for bodily injury or death, more than one (1) person, each accident; and three hundred thousand dollars ($300,000.00) for property damage, each accident, and maintain such insurance continuously during the effective period of the permit. A blasting permit fee shall be imposed in an amount established periodically by action of the City Council. 
+</section>
+  <section prefix="(b)">	The blasting permit referenced herein shall remain in effect for a period not to exceed three (3) months. It shall be unlawful to engage or permit the further use of explosives or blasting agents on a project for which an expired permit was issued, without securing a new permit. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</section>
+ </text>
+</law>

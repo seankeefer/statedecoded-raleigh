@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VII" order_by="7" level="2">ARTICLE VII. - MISCELLANEOUS PROVISIONS</unit>
+  <unit label="section" identifier="7.1" order_by="7.1" level="3">Sec. 7.1 - CIVIL ACTIONS AGAINST CITY; NOTICE TO CITY COUNCIL BEFORE BRINGING SUIT.</unit>
+ </structure>
+ <section_number>I-VII-7.1</section_number>
+ <catch_line>CIVIL ACTIONS AGAINST CITY; NOTICE TO CITY COUNCIL BEFORE BRINGING SUIT.</catch_line>
+ <order_by>7.1</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	No action shall be instituted or maintained against the City of Raleigh upon any claim or demand whatsoever, of any kind or character, until the claimant shall have first presented his or her claim or demand in writing to the City Council, who shall have declined to pay or settle the same as presented or for ten days after such presentation neglected to enter or cause to be entered upon its minutes its determination in regard thereto; but nothing herein contained shall be construed to prevent any statute of limitation from commencing to run at the time such claim accrued or demand arose, or in any manner interfere with its running. 
+</section>
+  <section prefix="(b)">	No action for damages against the City of any character whatever, to either person or property, real or personal, including damages for the taking and/or appropriation of private property of any kind, shall be instituted against the City of Raleigh, unless within ninety days after the happening, or the infliction of injury or damage to person or property, or the taking or appropriation of property, or other act of the City complained of, the complainant, his executors or administrators, shall have given notice in writing to the City Council of the City of Raleigh of such injury, damage, taking, appropriation, or other act complained of, stating in such notice the date and place of such injury or damage, the taking and appropriation of property, the manner of such infliction or other action complained of, the character of the injury or damage, and the amount of damages claimed therefor; but this shall not prevent any time of limitation prescribed by law from commencing to run at the date of the happening of such injury or damage, taking or appropriation of property, or other act complained of, or in any manner interfere with its running. 
+</section>
+ </section>
+</law>

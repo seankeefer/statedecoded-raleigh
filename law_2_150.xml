@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2035" order_by="5-2035" level="5">Sec. 5-2035. - PRIMARY AND SECONDARY FIRE DISTRICTS.</unit>
+ </structure>
+ <section_number>5-2035</section_number>
+ <catch_line>PRIMARY AND SECONDARY FIRE DISTRICTS.</catch_line>
+ <order_by>5-2035</order_by>
+ <text>
+  <section prefix="(a)">	The Primary Fire District. 
+The primary fire district of the City is described as follows: 
+Beginning at a point in the center of South Dawson Street and West Morgan Street; thence east to the center of the intersection of West Morgan Street and South McDowell Street; thence south to the intersection of South McDowell Street and West Hargett Street; thence west along the center of West Hargett Street, to the point and place of beginning. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The secondary fire district of the City is described as follows: 
+Beginning at a point in the center of the intersection of South Blount Street and East Morgan Street; thence south to the intersection of South Blount Street and East Cabarrus Street; thence west to the center of the intersection of East Cabarrus Street and South Wilmington Street; thence south to the center of the intersection of South Wilmington Street and East South Street; thence west to the center of South Dawson Street and the east right-of-way of the southern railroad; thence northwest along the east right-of-way of the southern railroad to the center of South Dawson Street; thence north to the center of the intersection of South Dawson Street and West Hargett Street; thence west to the center of the intersection of West Hargett Street and South Harrington Street; thence north to the center of the intersection of Hillsborough Street and South Harrington Street; thence east along the center of Hillsborough Street to the intersection of Hillsborough Street and North Salisbury Street, thence east to the point and place of beginning, excluding that area described as the Primary Fire District in §5-2035. 
+</section>
+   <section prefix="(2)">	Within the secondary fire district new wood frame structures shall be permitted to be constructed or enlarged when complying with all the following: 
+a.	Constructed in compliance with the N.C. Building Code, and
+b.	Building shall be fully sprinkled in compliance with standards set forth in the North Carolina Building Code, and 
+c.	That exterior cladding and exterior components (stairs, balconies excluding trim) when intended shall be constructed of non-combustible materials. 
+</section>
+   <section prefix="(3)">	Within the secondary fire district all structures existing on the date of the adoption of Ordinance No. 2003-477 (July 15, 2003), may be repaired or altered, provided that when any proposed repair or alteration exceeds twenty-five (25) percent of the value of the structure, as determined by the Inspections Director, or when the occupancy use of the building is changed to a higher hazard group, the building shall be required to have either of the following: 
+a.	A fire alarm system, or
+b.	A fully sprinkled building, or
+c.	All structural components provide a one-hour fire protected construction. Exception: Type IV (Heavy Timber) construction, parking structures and those surrounded on all sides by a minimum of thirty (30) feet. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+State law reference: G.S. 160A-435 through 437. 
+</section>
+  </section>
+ </text>
+</law>

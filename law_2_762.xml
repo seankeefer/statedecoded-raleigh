@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3034" order_by="12-3034" level="5">Sec. 12-3034. - MANURE, REFUSE BINS.</unit>
+ </structure>
+ <section_number>12-3034</section_number>
+ <catch_line>MANURE, REFUSE BINS.</catch_line>
+ <order_by>12-3034</order_by>
+ <text>
+Every person owning or controlling any stable or stable yard in the City on a lot less than one (1) acre in size shall provide and maintain, in connection therewith, a bin or pit which is watertight, flyproof and otherwise constructed and maintained so as to prevent the entrance or egress of flies and so as to be easily emptied and cleaned. All droppings, manure, and other refuse accumulating each day shall be placed in such containers; and the accumulation must be sterilized each day. Authorized agents of the City may immediately remove the contents and assess the actual and reasonable costs of such removal to the owner, upon discovering fly maggots in any such receptacle. 
+(Code 1959 , §4-17) 
+</text>
+</law>

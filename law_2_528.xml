@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2235" order_by="11-2235" level="5">Sec. 11-2235. - WARNING DEVICES FOR NIGHTTIME OBSTRUCTION.</unit>
+ </structure>
+ <section_number>11-2235</section_number>
+ <catch_line>WARNING DEVICES FOR NIGHTTIME OBSTRUCTION.</catch_line>
+ <order_by>11-2235</order_by>
+ <text>
+  <section prefix="(a)">	In the event that an obstruction remains in any portion of any street after sunset, the obstruction shall be clearly defined by reflective signs as specified by §11-2234 and by barricades with flashing lights and reflective qualities, and by placing a flashing light on the high level warning devices at the obstruction. Such devices with flashing lights shall remain so placed until sunrise of the following day. 
+</section>
+  <section prefix="(b)">	Failure to comply with the provisions of this section shall be a misdemeanor. 
+(Code 1959 , §19-37) 
+</section>
+ </text>
+</law>

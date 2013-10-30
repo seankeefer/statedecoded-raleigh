@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2181" order_by="12-2181" level="5">Sec. 12-2181. - ENFORCEMENT.</unit>
+ </structure>
+ <section_number>12-2181</section_number>
+ <catch_line>ENFORCEMENT.</catch_line>
+ <order_by>12-2181</order_by>
+ <text>
+  <section prefix="(a)">	Fifty dollars ($50.00) for a first violation, and each continuing day of noncompliance following written notice thereof shall result in the assessment of an additional civil penalty of fifty dollars ($50.00) per day; 
+</section>
+  <section prefix="(b)">	Equitable remedies, including injunctions. As authorized by the City Council, the City may apply to the courts for any appropriate equitable remedy to enforce the provisions of this article, including mandatory or prohibitory injunctions commanding the party to correct the unlawful condition or cease the unlawful use of the business. 
+</section>
+  <section prefix="(c)">	Not a criminal violation. Any person violating any of the provisions of this article shall be subject to the civil penalties and permit revocations set forth. Any violation of this article shall be deemed a non-criminal violation and shall not be a misdemeanor or infraction pursuant to G.S. 14-4 or §14-1005(a) of this Code of Ordinances. 
+(Ord. No. 2008-415B, §1, 7-1-08) 
+</section>
+ </text>
+</law>

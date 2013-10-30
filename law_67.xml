@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.26" order_by="6.26" level="3">Sec. 6.26 - DEPARTMENT OF PUBLIC UTILITIES; CREATED; PERSONNEL; FUNCTION.</unit>
+ </structure>
+ <section_number>I-VI-6.26</section_number>
+ <catch_line>DEPARTMENT OF PUBLIC UTILITIES; CREATED; PERSONNEL; FUNCTION.</catch_line>
+ <order_by>6.26</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created a Department of Public Utilities of the City of Raleigh, which shall consist of a Director of Public Utilities, who shall be its administrative head, and such other officers and employees as may be deemed necessary by the City Council and whose salaries shall be fixed by the City Council. 
+</section>
+  <section prefix="(b)">	The Director of Public Utilities shall have the management, and supervision of, and shall be responsible for the proper operation and control of, the entire waterworks system and sewerage system of the City of Raleigh, and any and all other public utility systems which the City may lawfully acquire, construct, maintain and operate. 
+</section>
+  <section prefix="(c)">	He shall have charge of the watersheds from which the City takes its supply of water, pumping stations, pipe lines, filtering apparatus, and all other things connected with or incident to the proper supply of water and the disposal of sewage for the City of Raleigh. It shall be his duty to act for the City, subject to the legislative control of the City Council, in securing all lands, streams, and rights-of-way and easements connected with and necessary to the supply of water and to the disposal of sewage for the City. He shall have supervision and control of all buildings, grounds, and apparatus connected therewith and incident to the furnishing of water for the City and the operation of the sewerage system. 
+</section>
+  <section prefix="(d)">	He shall superintend the erection of water tanks, and laying of water lines and sewer lines and the operation thereof.
+</section>
+  <section prefix="(e)">	The Director of Public Utilities and the other officers and employees of the department and of the various divisions thereof shall have such other powers and duties and functions as may be provided and required by the City Council and as may be otherwise provided by law. 
+</section>
+ </section>
+</law>

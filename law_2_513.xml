@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2208" order_by="11-2208" level="5">Sec. 11-2208. - PARKING EXCEPTIONS AND SPACE RESERVATIONS AUTHORIZED BY CITY COUNCIL.</unit>
+ </structure>
+ <section_number>11-2208</section_number>
+ <catch_line>PARKING EXCEPTIONS AND SPACE RESERVATIONS AUTHORIZED BY CITY COUNCIL.</catch_line>
+ <order_by>11-2208</order_by>
+ <text>
+  <section prefix="(a)">	The proposed use and necessity of reservation of spaces is of a temporary and not regularly occurring nature;
+</section>
+  <section prefix="(b)">	The proposed use and necessity of reservation of spaces is for a lawful purpose;
+</section>
+  <section prefix="(c)">	The reservation of spaces will not significantly impede pedestrian or vehicular traffic;
+</section>
+  <section prefix="(d)">	The proposed use will not endanger pedestrians, motorists, or occupants of adjacent buildings;
+</section>
+  <section prefix="(e)">	The purpose of which reservation of spaces is requested cannot be accomplished otherwise without risk of personal injury or property damage, or without excessive expense; and 
+</section>
+  <section prefix="(f)">	The proposed use and reservation of spaces will not be injurious to the public peace, health, safety, and welfare.
+(Code 1959 , §21-48.1; Ord. No. 1983-83, §1, 3-15-83) 
+</section>
+ </text>
+</law>

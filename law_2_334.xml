@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2153" order_by="8-2153" level="5">Sec. 8-2153. - CONSUMER RESPONSIBILITIES.</unit>
+ </structure>
+ <section_number>8-2153</section_number>
+ <catch_line>CONSUMER RESPONSIBILITIES.</catch_line>
+ <order_by>8-2153</order_by>
+ <text>
+  <section prefix="(a)">	The consumer shall, upon notification, as defined in §8-2151 of this Code, install the hazard containment device(s) as required within ninety (90) days from the date of notification. 
+</section>
+  <section prefix="(b)">	If, after expiration of ninety (90) days, the containment device(s) has not been installed in conformance with standards set by the Director of Public Utilities, in a proper working condition, the Director of Public Utilities may discontinue the public water supply service at that premises, and service shall not be restored until such devices have been installed. The Director of Public Utilities may permit an extension of up to ninety (90) additional days if compliance efforts are underway and the existence of hardship can be demonstrated. 
+</section>
+  <section prefix="(c)">	The City shall bear no liability for direct or consequential damages proximately caused by the discontinuance of service pursuant to this section. 
+(Ord. No. 1987-20, §1, 7-21-87) 
+</section>
+ </text>
+</law>

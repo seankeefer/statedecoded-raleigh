@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - ADMINISTRATIVE OFFICES [3]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - CITY ATTORNEY</unit>
+  <unit label="section" identifier="1-2011" order_by="1-2011" level="5">Sec. 1-2011. - DUTIES AND RESPONSIBILITIES.</unit>
+ </structure>
+ <section_number>1-2011</section_number>
+ <catch_line>DUTIES AND RESPONSIBILITIES.</catch_line>
+ <order_by>1-2011</order_by>
+ <text>
+It shall be the duty of the City Attorney to prosecute and to defend all suits-at-law or in equity in which the City may become the plaintiff or defendant in any such suit; to render advisory opinions to the Mayor, the Council, the City Manager, and the heads of the various departments of the City; and it shall be the City Attorney's duty, when required to do so, to attend the meetings of the Council and to prepare such deeds, contracts, bonds and other legal papers as may be required for the City's business, and to perform such other services of a legal nature as required by the Council. It shall be the duty of the City Attorney and the Associate City Attorneys to institute and litigate all civil actions and proceedings required for the foreclosure of liens against real estate on account of delinquent taxes and/or assessments for special improvements, when requested to take such action by the Director of Finance or by the Council. The Council shall have power and authority to employ additional counsel in special cases when considered expedient by a majority of the Council. 
+Charter reference: Appointment and duties, §§5.2, 5.6 
+State law reference: Duties of City Attorney, G.S. 160A-173. 
+</text>
+</law>

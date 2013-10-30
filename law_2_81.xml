@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - BEER AND WINE</unit>
+  <unit label="section" identifier="2-2044" order_by="2-2044" level="5">Sec. 2-2044. - RETAIL TAX.</unit>
+ </structure>
+ <section_number>2-2044</section_number>
+ <catch_line>RETAIL TAX.</catch_line>
+ <order_by>2-2044</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	For &quot;on-premises&quot; malt beverages	$15.00
+ 
+</section>
+   <section prefix="(2)">	For &quot;off-premises&quot; malt beverages	5.00
+ 
+</section>
+  </section>
+  <section prefix="(b)">
+   <section prefix="(1)">	For &quot;on-premises&quot; unfortified wine, &quot;on premise&quot; fortified wine, or both	$15.00
+ 
+</section>
+   <section prefix="(2)">	For &quot;off-premises&quot; unfortified wine, &quot;off-premises&quot; fortified wine, or both	10.00
+ 
+</section>
+  </section>
+  <section prefix="(c)">	The tax levied in this section is the tax for the first license issued to a person. The tax for each additional license of the same type issued to that person for the same year is one hundred ten (110) per cent of the base license tax, such increase to apply progressively for each additional license. There shall be no proration of license taxes. 
+(Code 1959 , §6-4; Ord. No. 1987-21, §5, 7-21-87) 
+State law reference: Related provisions, G.S. 105-113.77. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2111" order_by="12-2111" level="5">Sec. 12-2111. - THEATERS AND SHOWS; ADVANCE APPLICATION FOR LICENSE, ISSUANCE DISCRETIONARY; TYPES OF SHOWS PROHIBITED.</unit>
+ </structure>
+ <section_number>12-2111</section_number>
+ <catch_line>THEATERS AND SHOWS; ADVANCE APPLICATION FOR LICENSE, ISSUANCE DISCRETIONARY; TYPES OF SHOWS PROHIBITED.</catch_line>
+ <order_by>12-2111</order_by>
+ <text>
+  <section prefix="(a)">	Before any license or permit shall be issued to any carnival company and shows of like character, moving picture and vaudeville shows, museums and menageries, merry-go-rounds and ferris wheels, and other like amusement enterprises, conducted for profit and filling week-stand engagements, or in giving week-stand exhibitions, application shall be made therefor for a period of thirty (30) days before any license or permit shall be issued to such company or enterprise, and it shall be in the discretion of the Council as to whether any license or permit shall be issued to such company or enterprise. 
+</section>
+  <section prefix="(b)">	It shall be unlawful for any person within the City limits to exhibit or show, for profit, in a tent or tents or other temporary structures, any circus, carnival or other show of like kind or description, including side shows, vaudeville shows, museums, menageries, and like amusements or exhibitions; or to operate merry-go-rounds, ferris wheels or other riding devices of like character for private profit. 
+(Code 1959 , §3-1) 
+State law reference: Authority to regulate and prohibit amusements, G.S. 160A-181. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.19" order_by="6.19" level="3">Sec. 6.19 - DEPARTMENT OF PUBLIC SAFETY; CREATED; PERSONNEL; FUNCTION.</unit>
+ </structure>
+ <section_number>I-VI-6.19</section_number>
+ <catch_line>DEPARTMENT OF PUBLIC SAFETY; CREATED; PERSONNEL; FUNCTION.</catch_line>
+ <order_by>6.19</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created a Department of Public Safety of the City of Raleigh, and said department shall consist of a Director of Public Safety, who shall be its administrative head, and such other officers and employees as may be deemed necessary by the City Council and whose salaries shall be fixed by the City Council, and there shall be such divisions within the department as may be established by this act and by the City Council. 
+</section>
+  <section prefix="(b)">	Subject to the legislative control of the City Council, the Director of Public Safety, under the supervision and direction of the City Manager, shall have control, management and direction of: the Police Division, which may continue to be known as the Police Department; the Identification Bureau; the Fire Division, which may continue to be known as the Fire Department; and such other divisions as may be established by law or by the City Council. The Chief of Police, the Chief of the Fire Department, and the head of any other division within the Department of Public Safety shall be subject to the immediate direction and supervision of the Director of Public Safety. 
+</section>
+  <section prefix="(c)">	If the City Council shall so determine by resolution or otherwise, the City Manager may exercise and perform the powers and duties of the Director of Public Safety, and that position shall not otherwise be filled until further authorized by the City Council. 
+</section>
+ </section>
+</law>

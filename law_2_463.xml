@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2123" order_by="11-2123" level="5">Sec. 11-2123. - USE OF ROADWAY BY NONMOTORIZED OR TOY VEHICLES.</unit>
+ </structure>
+ <section_number>11-2123</section_number>
+ <catch_line>USE OF ROADWAY BY NONMOTORIZED OR TOY VEHICLES.</catch_line>
+ <order_by>11-2123</order_by>
+ <text>
+It shall be unlawful for any person to go upon any roadway while moving or riding in or by means of roller skates, coaster, sled or any other nonmotorized or toy vehicle or other similar device; except, while crossing a street at a crosswalk, upon streets and portions thereof properly designated as play or sledding streets, or when such vehicle is a bicycle. 
+(Code 1959 , §21-21) 
+Cross reference: Sledding streets listed, §9-2001 
+</text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2024" order_by="2-2024" level="5">Sec. 2-2024. - ASSIGNMENTS.</unit>
+ </structure>
+ <section_number>2-2024</section_number>
+ <catch_line>ASSIGNMENTS.</catch_line>
+ <order_by>2-2024</order_by>
+ <text>
+A license may be assigned if (i) a business licensed under this article and carried on at a fixed place is sold as a unit to any person, and (ii) the purchaser is to carry on the same business at the same place. Such a change shall be reported to the Revenue Collector pursuant to §2-2013 of this article. Otherwise, each license issued under this article is a personal privilege and is not assignable; provided, any license issued under this article to bondsmen engaged in the business of writing appearance, compliance or bail bonds required in connection with criminal proceedings in any courts; collection agencies, contractors and construction companies, companies engaged in the business of selling or installing automatic sprinkler systems, gypsies, lightning rod agents, and peddlers, constitutes a personal privilege to conduct the business named in the license and shall not be transferred or assigned to any other person. 
+</text>
+</law>

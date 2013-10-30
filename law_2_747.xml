@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3005" order_by="12-3005" level="5">Sec. 12-3005. - BIRD SANCTUARY; AREA DESIGNATED; HUNTING, TRAPPING, SHOOTING THEREIN; POSTING OF REGULATIONS.</unit>
+ </structure>
+ <section_number>12-3005</section_number>
+ <catch_line>BIRD SANCTUARY; AREA DESIGNATED; HUNTING, TRAPPING, SHOOTING THEREIN; POSTING OF REGULATIONS.</catch_line>
+ <order_by>12-3005</order_by>
+ <text>
+  <section prefix="(a)">	The area embraced within the corporate limits of the City and all land owned or leased by the City outside the corporate limits is hereby designated as a bird sanctuary. 
+</section>
+  <section prefix="(b)">	It shall be unlawful intentionally to trap, hunt, shoot, or otherwise kill, within the sanctuary hereby established, any native wild bird; provided, it shall be lawful to trap starlings or similar birds or fowl specifically declared a nuisance by the City Council when such birds or fowl are found to be congregating in such number in a particular locality that they constitute a nuisance or a menace to health or property. 
+</section>
+  <section prefix="(c)">	The bird clubs of the City are hereby granted permission to erect artistic signs, giving notice of the regulations therein provided, at such places and of such design as may be approved by the City Manager. 
+(Code 1959 , §4-5) 
+State law reference: Bird sanctuary establishment, G.S. 160A-188. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2121" order_by="8-2121" level="5">Sec. 8-2121. - HAULED WASTE WATER.</unit>
+ </structure>
+ <section_number>8-2121</section_number>
+ <catch_line>HAULED WASTE WATER.</catch_line>
+ <order_by>8-2121</order_by>
+ <text>
+  <section prefix="(a)">	Septic tank waste may be introduced into the POTW only at locations designated by the POTW Director, and at such times as are established by the POTW Director. Such waste shall not violate Division 2 of this article or any other requirements established by the City. The POTW Director may require septic tank waste haulers to obtain waste water discharge permits. 
+</section>
+  <section prefix="(b)">	The POTW Director shall require haulers of industrial waste to obtain waste water discharge permits. The POTW Director may require generators of hauled industrial waste to obtain waste water discharge permits. The POTW Director also may prohibit the disposal of hauled industrial waste. The discharge of hauled industrial waste is subject to all other requirements of this article. 
+</section>
+  <section prefix="(c)">	Industrial waste haulers may discharge loads only at locations designated by the POTW Director. No load may be discharged without prior consent of the POTW Director. The POTW Director may collect samples of each hauled load to ensure compliance with applicable standards. The POTW Director may require the industrial waste hauler to provide a waste analysis of any load prior to discharge. 
+</section>
+  <section prefix="(d)">	Industrial waste haulers must provide a waste tracking form for every load. This form shall include, at a minimum, the name and address of the industrial waste hauler, permit number, truck identification, names and addresses of sources of waste, and volume and characteristics of waste. The form shall identify the type of industry, known or suspected waste constituents, and whether any wastes are RCRA hazardous wastes. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

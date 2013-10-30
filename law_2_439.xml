@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2071" order_by="11-2071" level="5">Sec. 11-2071. - ELECTRONIC TRAFFIC-CONTROL SIGNALS.</unit>
+ </structure>
+ <section_number>11-2071</section_number>
+ <catch_line>ELECTRONIC TRAFFIC-CONTROL SIGNALS.</catch_line>
+ <order_by>11-2071</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Green light. 
+Vehicular traffic facing the signals may proceed straight through, or unless a sign prohibits such turn, may turn right or left. Vehicular traffic shall yield the right-of-way to other vehicles and to pedestrians lawfully within the intersection at the time such signal is exhibited. 
+</section>
+   <section prefix="(2)">	Yellow or amber light, when appearing immediately after, or coincidentally with, a green light. 
+Such yellow or amber light shall serve as a warning that a red light and the applicable stop restrictions shall be exhibited immediately following. 
+</section>
+   <section prefix="(3)">	Red light. 
+Any person operating a vehicle facing such light shall bring the same to a stop before entering the nearest crosswalk or boundary of an intersection or at such other point as may be indicated by a limit line, and shall remain standing until a plain green light or green arrow is shown illuminated alone; provided, however, that a right turn may be made after bringing the vehicle to a complete stop and after yielding to pedestrians and other vehicles, unless otherwise prohibited by this chapter. 
+</section>
+  </section>
+  <section prefix="(b)">	The electronic traffic-control signals described in this section shall be located, and the regulations provided in this section shall be effective, as designated in official Traffic Schedule No. 1, &quot;Electronic Traffic Control Signals.&quot; 
+Cross references: Right turns on red light prohibited, §11-2105, Traffic Schedule No. 1; pedestrian crossings at signalized intersections, §11-2153; schedules incorporated by reference, §11-2004 
+State law reference: Vehicle control signs and signals, G.S. 20-158. 
+</section>
+ </text>
+</law>

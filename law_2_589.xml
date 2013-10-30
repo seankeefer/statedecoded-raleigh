@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET USE AND CLEANLINESS</unit>
+  <unit label="section" identifier="12-1026" order_by="12-1026" level="5">Sec. 12-1026. - SOLICITING BUSINESS OR EMPLOYMENT.</unit>
+ </structure>
+ <section_number>12-1026</section_number>
+ <catch_line>SOLICITING BUSINESS OR EMPLOYMENT.</catch_line>
+ <order_by>12-1026</order_by>
+ <text>
+  <section prefix="(a)">	Business. 
+It shall be unlawful for any person to solicit or attempt to solicit business of any kind on the streets or sidewalks of the City. 
+</section>
+  <section prefix="(b)">	Employment near Nash Square. 
+Loitering for the purpose of seeking employment or the seeking thereof or the solicitation by any prospective employer of any person for hire within or upon any of the streets or sidewalks contiguous to Nash Square is declared to be a public nuisance and such practices are prohibited. 
+</section>
+  <section prefix="(c)">	Employment, generally. 
+Loitering for the purpose of seeking employment or the seeking thereof or the solicitation by any prospective employer of any person for hire within or upon any of the streets or sidewalks of the City is declared to be a public nuisance and such practices are prohibited. 
+</section>
+  <section prefix="(d)">	Approaching motor vehicles. 
+No person shall stand, sit, or loiter in the right-of-way of any streets in the City with the intent to approach any motor vehicle for the purpose of soliciting employment, business or contribution from the driver or occupant of the motor vehicle; provided, that the provisions of this section shall not apply to licensees, employees or contractors of the Department of Transportation or City employees engaged in construction or maintenance or in making traffic or engineering surveys. 
+(Code 1959 , §19-16; Ord. No. 1994-447, §1, 7-19-94; Ord. No. 1995-678, §1, 7-5-95) 
+State law reference: Authority to regulate solicitation, G.S. 160A-178. 
+</section>
+ </text>
+</law>

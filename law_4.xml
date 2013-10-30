@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="I" order_by="1" level="2">ARTICLE I. - IN GENERAL</unit>
+  <unit label="section" identifier="1.5" order_by="1.5" level="3">Sec. 1.5 - GENERAL RIGHTS AND POWERS.</unit>
+ </structure>
+ <section_number>I-I-1.5</section_number>
+ <catch_line>GENERAL RIGHTS AND POWERS.</catch_line>
+ <order_by>1.5</order_by>
+ <section prefix="text">
+The City of Raleigh is hereby vested with all the property and rights of property which now belong to the said municipal corporation, and the City of Raleigh shall have all the powers granted to municipal corporations and to cities by the Constitution and by the General Laws of the State of North Carolina and by this Act, together with all the implied powers necessary to carry into execution all the powers granted. The City may acquire real or personal property within or without its corporate limits for the government welfare, benefit or improvement of the City and its citizens, in fee simple or any lesser interest or estate, by purchase, gift, devise, bequest, lease, condemnation, dedication or otherwise, and may acquire, sell, lease, mortgage, hold, manage and control, such property, real or personal, as its interest may require and as shall be deemed advisable by the governing body of the City of Raleigh and as shall be in conformity with the provisions of this Charter and the General Laws of the State of North Carolina. The City of Raleigh shall have the power to adopt a corporate seal, to contract and be contracted with, to sue and be sued, and plead and be impleaded. Except as prohibited by the Constitution and the General Laws of the State of North Carolina or restricted by this Charter and other statutes applicable to the City of Raleigh, the City shall have and may exercise all municipal powers, functions, rights, privileges and immunities of every kind and nature whatsoever, as may be necessary, proper, or usually appertaining to municipal corporations. The enumeration of particular powers by this Charter shall not be deemed to be exclusive, and in addition to the powers enumerated herein or implied hereby, or appropriate to the exercise of such powers, it is intended that the City of Raleigh shall have and may exercise all powers which, under the Constitution and the laws of the State of North Carolina, it would be competent for this Charter specifically to enumerate. 
+ 
+Cross references: For additional grant of general power, see §2.13; for enumeration of express powers, see §2.14 
+</section>
+ <history>(S.L. 1967, Ch. 26, §1)</history>
+</law>

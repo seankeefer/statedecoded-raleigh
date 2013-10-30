@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF CENTRAL ENGINEERING</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - DEPARTMENT OF CENTRAL ENGINEERING</unit>
+  <unit label="section" identifier="6-1002" order_by="6-1002" level="5">Sec. 6-1002. - FUNCTIONS AND DUTIES OF THE DEPARTMENT.</unit>
+ </structure>
+ <section_number>6-1002</section_number>
+ <catch_line>FUNCTIONS AND DUTIES OF THE DEPARTMENT.</catch_line>
+ <order_by>6-1002</order_by>
+ <text>
+  <section prefix="(a)">	Performing field surveys and engineering design services as required for the expansion and improvement of the City water and sanitary sewer systems, streets, storm sewers, parks and other facilities of the City. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Street construction (annual paving program and topics program.) 
+</section>
+   <section prefix="(2)">	Water main installations.
+</section>
+   <section prefix="(3)">	Sanitary sewer main installations.
+</section>
+   <section prefix="(4)">	New sidewalk construction.
+</section>
+   <section prefix="(5)">	Construction of stormwater management system.
+</section>
+   <section prefix="(6)">	Manage the stormwater services of the City. 
+</section>
+   <section prefix="(7)">	Review and approve construction plans for subdivisions and site plans.
+</section>
+   <section prefix="(8)">	Inspect construction work in all subdivisions and site plans including streets, utilities, sidewalks, driveways and storm drainage system, and the construction, reconstruction, extending and otherwise building or improving storm sewer and drainage systems. 
+</section>
+   <section prefix="(9)">	Inspect all construction work done by City contract including streets, utilities, new sidewalks, sidewalk repairs and construction of park facilities. 
+(10)	Compute and prepare assessment rolls containing the cost to be assessed against properties benefitted by the construction of new streets, utilities, new sidewalks and sidewalk repairs. 
+</section>
+   <section prefix="(11)">	Enforce the following: soil erosion and sedimentation control (Part 10 Chapter 5), floodprone area regulations (Part 10 Chapter 4), sidewalks, and driveways (Part 10 Chapter 7) and stormwater control and watercourse buffer regulations (Part 10 Chapter 9). 
+</section>
+   <section prefix="(12)">	Compute and prepare monthly estimates and final estimates for paving contracts, resurfacing contracts, sidewalk contracts and water and sanitary sewer contracts. 
+</section>
+   <section prefix="(13)">	Compute fee in lieu payments and project cost reimbursements for site plan and subdivisions.
+</section>
+  </section>
+  <section prefix="(c)">	Interpreting floodprone area boundaries interpretations.
+</section>
+  <section prefix="(d)">	Assisting in the review of proposed engineering surveys and engineering works used in the planning, evaluation, and design of soil erosion and sedimentation control measures. 
+(Ord. No. 1995-760-TC-122, §2, TC-20C-95, 11-21-95; Ord. No. 1998-454, §8, 11-4-98; Ord. No. 2003-537, §1, 11-5-03) 
+Editor's note: The Central Engineering Department is responsible for inspections with regard to sidewalk and driveway construction to ensure compliance with construction specifications. This includes inspections of construction materials and methods, including the location and number of driveways and width of driveways. 
+Cross references: Paving policies of the City, including assessments, see Resolution No. 280, adopted 8-20-56, as amended; floodprone area regulations, Part 10, Ch. 4; soil erosion and sedimentation control, Part 10, Ch. 5; sidewalk and driveway provisions, Part 10, Ch. 7; use of streets and sidewalks, Part 12, Ch. 1. 
+</section>
+ </text>
+</law>

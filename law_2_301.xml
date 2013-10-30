@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2133" order_by="8-2133" level="5">Sec. 8-2133. - REPORTS OF POTENTIAL PROBLEMS.</unit>
+ </structure>
+ <section_number>8-2133</section_number>
+ <catch_line>REPORTS OF POTENTIAL PROBLEMS.</catch_line>
+ <order_by>8-2133</order_by>
+ <text>
+  <section prefix="(a)">	In the case of any discharge, including, but not limited to, accidental discharges, discharges of a non-routine, episodic nature, a non-customary batch discharge, or a slug load as defined in 8-2112 of this article, that may cause potential problems for the POTW, the user shall immediately telephone and notify the POTW Director of the incident. This notification shall include the location of the discharge, type of waste, concentration and volume, if known, and corrective actions taken by the user. 
+</section>
+  <section prefix="(b)">	Within five (5) days following such discharge, the user shall, unless waived by the POTW Director, submit a detailed written report describing the cause(s) of the discharge and the measures to be taken by the user to prevent similar future occurrences. Such notification shall not relieve the user of any expense, loss, damage, or other liability which may be incurred as a result of damage to the POTW, natural resources, or any other damage to person or property; nor shall such notification relieve the user of any fines, penalties, or other liability which may be imposed pursuant to this article. 
+</section>
+  <section prefix="(c)">	A notice shall be permanently posted on the user's bulletin board or other prominent place advising employees whom to call in the event of a discharge described in subsection (a) above. Employers shall ensure that all employees, who may cause such a discharge to occur, are advised of the emergency notification procedure. 
+</section>
+  <section prefix="(d)">	All SIUs are required to notify the POTW immediately of any changes at its facility affecting the potential for spills and other accidental discharges, discharges of a non-routine, episodic nature, a non-customary batch discharge, or a slug load as defined in §8-2112 of this article. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

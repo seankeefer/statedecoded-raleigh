@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - MASSAGES [6]</unit>
+  <unit label="section" identifier="12-2136" order_by="12-2136" level="5">Sec. 12-2136. - LICENSING OF MASSAGISTS.</unit>
+ </structure>
+ <section_number>12-2136</section_number>
+ <catch_line>LICENSING OF MASSAGISTS.</catch_line>
+ <order_by>12-2136</order_by>
+ <text>
+  <section prefix="(a)">	No person shall engage in the business or profession of massage unless such person shall have first applied for and received the regulatory license provided by this section. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The name, age, social security number, and current business and residence addresses of the applicant; 
+</section>
+   <section prefix="(2)">	The applicant's North Carolina Massage license number; and 
+</section>
+   <section prefix="(3)">	A statement that the applicant is in good standing with the North Carolina Board of Massage and Bodywork Therapy. 
+The applicant shall submit a copy of the applicant's current North Carolina massage license with the application. 
+</section>
+  </section>
+  <section prefix="(c)">	The application shall be approved if it is determined that the applicant possesses a current, valid license to practice massage and bodywork therapy issued by the State of North Carolina and has not been previously convicted of any violation of any provision of this article or misstated any information submitted in the application. Upon approval of the application and upon receipt of a twenty-five dollar ($25.00) license fee, the collector of revenue shall issue a regulatory license to the applicant. 
+(Ord. No. 2001-935, §3, 2-6-01) 
+</section>
+ </text>
+</law>

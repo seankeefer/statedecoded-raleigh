@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="9" order_by="9" level="2">PART 9 - PARKS, RECREATION AND CULTURAL AFFAIRS</unit>
+  <unit label="chapter" identifier="10" order_by="10" level="3">CHAPTER 10. - ARTS COMMISSION [8]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PUBLIC ART</unit>
+  <unit label="section" identifier="9-10010" order_by="9-10010" level="5">Sec. 9-10010. - FORM AND MEDIUM.</unit>
+ </structure>
+ <section_number>9-10010</section_number>
+ <catch_line>FORM AND MEDIUM.</catch_line>
+ <order_by>9-10010</order_by>
+ <text>
+Any art acquired pursuant to this policy shall be designed and created by visual artists. In addition to the traditional forms of art such as sculpture, painting, fresco, glass, mosaic and others the public art requirement may also be met by incorporating artistic elements into the overall architectural design if created by a visual artist. Any art installed pursuant to this program shall become and remain the property of the City of Raleigh. 
+(Ord. No. 2009-563, §2, 3-17-09, eff. 7-1-09) 
+</text>
+</law>

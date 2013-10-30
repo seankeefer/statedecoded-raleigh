@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.35" order_by="6.35" level="3">Sec. 6.35 - HEALTH DEPARTMENT.</unit>
+ </structure>
+ <section_number>I-VI-6.35</section_number>
+ <catch_line>HEALTH DEPARTMENT.</catch_line>
+ <order_by>6.35</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The City is hereby authorized to create, pursuant to the general laws of North Carolina, a Health Department, which when created shall have as its administrative head a Chief Health Officer, and such other officers and employees as may be deemed necessary by the City Council, and whose salaries shall be fixed by the City Council. 
+</section>
+  <section prefix="(b)">	The Chief Health Officer shall have in his charge all matters pertaining to the health of the City and shall perform the duties required of him under such general rules and regulations as may be prescribed by the City Council, and he, and any members of his department, shall have full power and authority to enter all premises affecting the health of the citizens of Raleigh, within or without the corporate limits of the City of Raleigh, and he shall be responsible for enforcing the laws and ordinances made for the general public health of the City. 
+</section>
+  <section prefix="(c)">	The Chief Health Officer, the Chief of Police, or other officer or officers who may be designated for this purpose by the City Council or the City Manager, shall have power summarily to remove, abate, or remedy, or cause to be removed, abated, or remedied, everything within or without the City limits which is dangerous or prejudicial to the public health of the citizens of the City of Raleigh, and the expenses of such action shall be paid by the person in default, and if not paid shall be a lien upon the land or premises where the trouble arose, and shall be collected as unpaid taxes. 
+</section>
+  <section prefix="(d)">	The Chief Health Officer of the City of Raleigh shall also perform such other duties as may be required by the City Council, and he is hereby vested with the powers and obligations conferred and imposed upon municipal officials by the general laws of the State of North Carolina as the same now are or may be hereafter enacted. 
+</section>
+ </section>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2210" order_by="11-2210" level="5">Sec. 11-2210. - ISSUANCE OF PERMITS.</unit>
+ </structure>
+ <section_number>11-2210</section_number>
+ <catch_line>ISSUANCE OF PERMITS.</catch_line>
+ <order_by>11-2210</order_by>
+ <text>
+When the application has been approved by the Inspections Department, a permit will be issued for the date or dates requested; provided, however, that no permit issued hereunder shall be for a period in excess of thirty (30) days, and provided further, nothing herein contained shall prohibit the reapplication and reissuance of permits for successive periods not to exceed thirty (30) days each. The holder of the permit shall be authorized to place traffic type signs, barricades, or cones at the metered or unmetered parking spaces to secure or maintain these spaces during the term of the permit. 
+(Code 1959 , §21-48.1; Ord. No. 1984-452, §3, 12-4-84) 
+</text>
+</law>

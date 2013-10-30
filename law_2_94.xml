@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - MOTOR VEHICLES REGISTRATION [2]</unit>
+  <unit label="section" identifier="2-2074" order_by="2-2074" level="5">Sec. 2-2074. - TAXICABS.</unit>
+ </structure>
+ <section_number>2-2074</section_number>
+ <catch_line>TAXICABS.</catch_line>
+ <order_by>2-2074</order_by>
+ <text>
+Every person engaged in the business of operating taxicabs and required to be licensed under part 12 of this Code shall pay an annual license fee for each vehicle so operated in the amount of fifteen dollars ($15.00) in addition to the sum required by §2-2071. No license shall be issued under this section until an application for an owner's permit has been made pursuant to part 12 of this Code and until such permit has been issued. 
+(Ord. No. 1988-240, §2, 9-6-88) 
+Cross reference: Regulations applicable to vehicles for hire, §12-2021 et seq. 
+</text>
+</law>

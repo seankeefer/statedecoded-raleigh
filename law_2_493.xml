@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2179" order_by="11-2179" level="5">Sec. 11-2179. - STOPPING, STANDING OR PARKING CLOSE TO CURB.</unit>
+ </structure>
+ <section_number>11-2179</section_number>
+ <catch_line>STOPPING, STANDING OR PARKING CLOSE TO CURB.</catch_line>
+ <order_by>11-2179</order_by>
+ <text>
+  <section prefix="(a)">	No person shall stop, stand or park in a roadway upon which the boundaries of individual parking spaces are marked on the pavement other than parallel with the front of the curb or edge of the roadway , headed in the direction of traffic and completely within the boundaries of the delineated parking space. When no parking space boundaries are marked on the roadway the vehicle shall be parked as above except that it may not be farther than twelve (12) inches from the curb or edge of the roadway if there is no curb. On streets which have been marked or signed for angle parking vehicles shall be parked at the angle to the curb indicated by such marks or signs. The requirement that the vehicle be headed in the direction of traffic is not applicable if the parking space in question is on a street of two (2) lanes or less, without a marked center line, and located in a residentially zoned area. 
+</section>
+  <section prefix="(b)">	For the purposes of this section &quot;front of the curb&quot; shall mean the roadside of the curb that is raised above and perpendicular to the gutter. 
+</section>
+  <section prefix="(c)">	For the purposes of this section &quot;edge of the roadway&quot; shall mean the portion of the right-of-way where the improved area designed and ordinarily used for vehicular traffic meets the unimproved area not designed or ordinarily used for vehicular traffic. 
+(Ord. No. 1995-607, §1, 4-18-95; Ord. No. 2010-705, §1, 2-16-10) 
+</section>
+ </text>
+</law>

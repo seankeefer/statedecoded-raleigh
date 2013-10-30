@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2091" order_by="12-2091" level="5">Sec. 12-2091. - REVOCATION.</unit>
+ </structure>
+ <section_number>12-2091</section_number>
+ <catch_line>REVOCATION.</catch_line>
+ <order_by>12-2091</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	If he finds that the person holding the permit has made a material false statement in the application for the permit or attachments to it; 
+</section>
+   <section prefix="(2)">	If he finds that the person holding the permit is not qualified for or has not been issued a state driver's license; 
+</section>
+   <section prefix="(3)">	If he finds that the person holding the permit is physically or mentally incapable of operating a taxicab in a safe manner; 
+</section>
+   <section prefix="(4)">	If he finds that the permit holder, while driving a taxicab is not clean in dress and person; 
+</section>
+   <section prefix="(5)">	If he finds the driver has become addicted to alcohol or drugs; 
+</section>
+   <section prefix="(6)">	If he finds that the State driver's license of the permit holder has been revoked; 
+</section>
+   <section prefix="(7)">	If he finds that the permit holder has accumulated enough points for the taxicab inspector to review the totality of the driver's driving record (eight (8) or more points). 
+a.	The occurrence of three (3) successive violations of any section of this ordinance within a twelve (12) month period pertaining to the operation of a taxicab will result in suspension or revocation of the driver's permit for the duration of one (1) year. 
+</section>
+   <section prefix="(8)">	If he finds that the person holding the permit has been convicted of or has entered a plea of guilty of nolo contendere to: 
+a.	A felony;
+b.	A crime involving the driving of an automobile resulting in death;
+c.	Driving a motor vehicle while intoxicated;
+d.	A violation of any Federal or state statute relating to the use, possession, sale of intoxicating liquors, alcoholic beverages, beer or wine, narcotic, barbituric or other habit-forming drugs; 
+e.	A violation of any state or Federal statute relating to prostitution or lotteries;
+f.	Any crime which is so offensive to the public safety or morals and/or so recent as to justify a finding that the applicant does not possess a good moral character. 
+</section>
+   <section prefix="(9)">	If found after investigation and review that the permit holder has given reason to believe he/she has engaged in conduct that is detrimental to the health and safety of another person that renders the holder unfit to operate a taxicab in the City of Raleigh. 
+(10)	If found after investigation and review that the permit holder knowingly transported a passenger for the purpose of committing a crime. 
+</section>
+  </section>
+  <section prefix="(b)">	No revocation shall become permanently effective until the person whose permit is being revoked is given reasonable notice and an opportunity to appeal, successively, to the Chief of Police, the City Manager, and to the Council, as provided in §12-2087 herein. The City Manager may affirm the action of the Chief of Police in revoking a permit; or, may make the revocation effective for a fixed period of time not to be less than thirty (30) days; or, may suspend a revocation upon condition that the revocation shall become effective if another violation of this part occurs within one (1) year from the date of the first violation. Upon revocation, a notice thereof shall be served upon the person holding the permit, who shall immediately surrender the permit. The permit shall be retained by the Police Chief or his designee pending a failure to appeal or a final decision as to revocation. 
+</section>
+  <section prefix="(c)">	The Council may revoke a driver's permit for any of the reasons permitting a revocation by the Police Chief or his designee. 
+(Code 1959 , §22-53; Ord. No. 1993-146, §1, 3-16-93; Ord. No. 1999-691, §14, 11-16-99; Ord. No. 2009-671, §§36, 41—43, 11-3-09) 
+</section>
+ </text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="V" order_by="5" level="2">ARTICLE V. - POWERS AND DUTIES OF MAYOR, CITY CLERK AND TREASURER, AND CITY ATTORNEY</unit>
+  <unit label="section" identifier="5.2" order_by="5.2" level="3">Sec. 5.2 - CITY CLERK, CITY TREASURER AND CITY ATTORNEYAPPOINTMENT.</unit>
+ </structure>
+ <section_number>I-V-5.2</section_number>
+ <catch_line>CITY CLERK, CITY TREASURER AND CITY ATTORNEYAPPOINTMENT.</catch_line>
+ <order_by>5.2</order_by>
+ <section prefix="text">
+At the first meeting of the City Council after their election, or as soon thereafter as practicable, the City Council shall appoint the following officers, who shall each serve at the pleasure of the City Council and at a compensation to be fixed by the Council, and who may be required to furnish bond in such amount and with such surety as ordered by the City Council, in accordance with the provisions of this act relating to the bonds of public officials, and whose duties shall be as prescribed by this act and by the general laws of North Carolina, a City Clerk and a City Treasurer, or in lieu thereof, a City Clerk and Treasurer, and a City Attorney. 
+</section>
+</law>

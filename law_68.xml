@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.27" order_by="6.27" level="3">Sec. 6.27 - DIVISIONS.</unit>
+ </structure>
+ <section_number>I-VI-6.27</section_number>
+ <catch_line>DIVISIONS.</catch_line>
+ <order_by>6.27</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There shall be such divisions within the Department of Public Utilities as may be authorized by the City Council, including but not limited to the following divisions: administrative, engineering, water operations, sewer operations, water and sewer collections, and such other divisions as may be deemed necessary or expedient by the City Council; provided, that any division may be eliminated or may be combined with any one or more of the other divisions by appropriate action by the City Council. 
+</section>
+  <section prefix="(b)">	In the event the City Council shall provide for a special collector to collect and receive fees, charges, rents and other revenues payable to the City in connection with the operation of the public utilities of the City, as authorized by §68 [6.9] of this Act, then such special collector shall be the administrative head of the Collections Division of the Department of Public Utilities and he and the employees of the division shall be under the direction and supervision of the Director of Public Utilities. 
+</section>
+ </section>
+</law>

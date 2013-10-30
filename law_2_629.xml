@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2032" order_by="12-2032" level="5">Sec. 12-2032. - MAINTENANCE.</unit>
+ </structure>
+ <section_number>12-2032</section_number>
+ <catch_line>MAINTENANCE.</catch_line>
+ <order_by>12-2032</order_by>
+ <text>
+When an owner shall find any taxicab to be in unsafe or improper condition for operation, he shall have such repairs and alterations made as may be required and shall not operate, or cause or permit to be operated, any such taxicab until all such repairs and alterations have been completed. 
+Every owner shall institute a system of regular monthly inspection of taxicabs and equipment owned and operated by such owner. A record of these inspections shall be kept by each owner and shall be available to the taxicab inspector upon request. 
+The [taxicab] inspector shall reserve the right, at any time, after displaying proper identification, to enter into or upon any licensed taxicab/vehicle for hire for the purpose of ascertaining whether or not any of the provisions of this article are being violated. It shall be unlawful for any person who owns or is in control of a taxicab to refuse, upon the [taxicab] inspector's request, to present the taxicab or any issued permits to the inspector for the purpose of inspection or the removal of any issued permits. 
+(Code 1959 , §22-12; Ord. No. 1980-487, §14, 10-7-80; Ord. No. 2009-671, §20, 11-3-09) 
+</text>
+</law>

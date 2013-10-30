@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="4" order_by="4" level="2">PART 4 - COMMUNITY SERVICES [1]</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF COMMUNITY SERVICES</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="4-1003" order_by="4-1003" level="5">Sec. 4-1003. - FUNCTIONS AND DUTIES OF THE DEPARTMENT.</unit>
+ </structure>
+ <section_number>4-1003</section_number>
+ <catch_line>FUNCTIONS AND DUTIES OF THE DEPARTMENT.</catch_line>
+ <order_by>4-1003</order_by>
+ <text>
+  <section prefix="(a)">	Documenting the needs of the citizens of Raleigh in terms of human services.
+</section>
+  <section prefix="(b)">	Documenting the services and opportunities that are presently available.
+</section>
+  <section prefix="(c)">	Determining what additional services and opportunities are needed and to propose appropriate and feasible new programs for meeting these needs. 
+</section>
+  <section prefix="(d)">	Identifying those individuals within the community who are most likely going to benefit from the services and opportunities that are needed. 
+</section>
+  <section prefix="(e)">	Providing a means for making all persons aware of the services and opportunities that are available. 
+</section>
+  <section prefix="(f)">	Identifying and recommending responsible agents, including the State, County, private agencies, the City Community Services Department, and others to implement and coordinate the programs for the provision of services. 
+</section>
+  <section prefix="(g)">	Administering human service programs as designated by Council including the delivery and evaluation of services based on assessed needs and provisions for citizen participation in planning and delivery of services. 
+</section>
+  <section prefix="(h)">	Performing other functions and duties as prescribed by the City Manager.
+Charter reference: Authority to engage in socio-economic programs, §2.14(70). 
+State law reference: Human relations programs, community action and manpower development, G.S. 160A-492. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2034" order_by="8-2034" level="5">Sec. 8-2034. - ASSESSMENTS; CORNER LOT PROVISIONS.</unit>
+ </structure>
+ <section_number>8-2034</section_number>
+ <catch_line>ASSESSMENTS; CORNER LOT PROVISIONS.</catch_line>
+ <order_by>8-2034</order_by>
+ <text>
+  <section prefix="(a)">	If water or sewer service mains or both are installed simultaneously on both streets on which the lot abuts, assessment of the cost of the installations shall be based upon the entire frontage on one street (short side) plus the frontage on the other street (long side) in excess of one hundred fifty (150) feet. 
+</section>
+  <section prefix="(b)">	If the lot is already served by adequate (eight-inch sewer, six-inch water) or larger size water or sewer mains in a street on which the lot abuts and a water or sewer main providing a duplicating service is installed in the other abutting street, the cost of the new installation shall be assessed against the lot to the extent that the lot abutting the street in which the new main is installed exceeds one hundred fifty (150) feet. 
+</section>
+  <section prefix="(c)">	If water or sewer service is installed in a street abutting a corner lot, and the lot is not served by adequate (eight-inch sewer or six-inch water) or larger size water or sewer mains in the other abutting street, and the method of assessment used is the street frontage method, the cost of the installation shall be assessed against the side of the lot abutting the installation. A credit will be provided for the distance, if any, that the side of the lot abutting the street in which no improvement is made is less than one hundred fifty (150) feet. 
+</section>
+  <section prefix="(d)">	If the lot is already served by adequate (eight-inch sewer or six-inch water) or larger size water or sewer mains in two (2) or more streets on which the lot abuts and a water or sewer main providing a duplicating service is installed in other abutting streets, the cost of the new installation shall not be assessed against the lot if that lot cannot be subdivided in any manner which would benefit from the installation. 
+</section>
+  <section prefix="(e)">	A property parcel which is residentially zoned, developed with an existing single-family residence at the time of project direction by City Council, and is adequately served by an existing six-inch water main and/or an eight-inch sewer main of the City of Raleigh is hereby exempted from any duplicating water and/or sewer assessment by the City of Raleigh. 
+(Code 1959 , §23-9(2); Ord. No. 1980-328, 3-4-80; Ord. No. 1985-543, §16, 4-16-85; Ord. No. 1999-683, §1, 11-16-99) 
+</section>
+ </text>
+</law>

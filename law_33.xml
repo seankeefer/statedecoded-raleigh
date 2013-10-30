@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="IV" order_by="4" level="2">ARTICLE IV. - ELECTIONS [2] </unit>
+  <unit label="section" identifier="4.2" order_by="4.2" level="3">Sec. 4.2 - RECALL OF OFFICIALS BY THE PEOPLE.</unit>
+ </structure>
+ <section_number>I-IV-4.2</section_number>
+ <catch_line>RECALL OF OFFICIALS BY THE PEOPLE.</catch_line>
+ <order_by>4.2</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	A petition signed by electors entitled to vote for a successor to the incumbent sought to be removed, equal in number of at least twenty-five (25) per centum of the entire number of voters casting votes at the last preceding general municipal election, demanding an election of a successor of the person sought to be removed, shall be filed with the Clerk, which petition shall contain a general statement of the grounds on which the removal is sought. The signatures to the petition need not all be appended to one paper, but each signer shall add to his signature his place of residence, giving the street and number. One (1) of the signers of each such paper shall make oath before an officer competent to administer oaths that the statements therein made are true as he believes, and that each signature to the paper appended is the genuine signature of the person whose name it purports to be. Within ten days from the date of filing such petition, the City Clerk shall examine and from the voters' register ascertain whether or not said petition is signed by the requisite number of qualified electors, and he shall attach to said petition his certificate showing the results of such examination. 
+</section>
+  <section prefix="(2)">	If, by the Clerk's certificate, the petition is shown to be insufficient, it may be amended within ten days from the date of said certificate. The Clerk shall, within ten days after such amendment, make like examination of the amended petition, and if his certificate shall show the same to be insufficient, it shall be returned to the person filing the same; without prejudice, however, to the filing of a new petition to the same effect. 
+</section>
+  <section prefix="(3)">	If the petition shall be found to be sufficient, the Wake County Board of Elections shall order and fix a date for holding a primary, as provided for in cases preceding regular municipal elections, the said primary to be held not more than sixty days from the date of the Clerk's certificate to the Wake County Board of Elections that a sufficient petition is filed. If in the primary election any candidate receives a majority of all the votes cast, he shall be declared to be elected to fill out the remainder of the term of the officer who is sought to be recalled. If there be more than two candidates in such primary, and no one receives a majority of all the votes cast therein, then there shall be an election held within twenty days from the date of the primary, at which election the two candidates receiving the highest vote in the primary shall be voted for. Candidates named shall be placed on the ticket in the primary and election held and the results canvassed, under the same rules, conditions, and regulations as are prescribed for the primaries preceding a regular municipal election in the City of Raleigh. 
+</section>
+  <section prefix="(4)">	The Wake County Board of Elections shall make, or cause to be made, publication for ten days of notice and all arrangements for holding such election, and the same shall be conducted, returned, and the results thereof declared in all respects as other City elections in the City of Raleigh. The successor of any officer so removed shall hold office during the unexpired term of his predecessor. Any person sought to be removed may be a candidate to succeed himself, and unless he requests otherwise in writing, his name shall be placed on the official ballot without nomination. At such election, if some other person than the incumbent is elected, the incumbent shall thereupon be deemed removed from the office upon qualification of his successor. 
+</section>
+  <section prefix="(5)">	In case the person elected should fail to qualify within ten days after receiving notification of election, the office shall be filled by election by the City Council, but the officer or councilor removed shall not be eligible to election by the City Council, and the person so elected by the City Council shall be subject to recall as other officers and councilors. If the incumbent received a majority of votes in the primary or the election, he shall continue in office. The said method of removal shall be cumulative and additional to any other method provided by law. The expense of calling and conducting any such election shall be paid by the City of Raleigh. 
+) 
+</section>
+ </section>
+ <history>(S.L. 1953, Ch. 347, Art. 2; S.L. 1973, Ch. 319, §1(1)</history>
+</law>

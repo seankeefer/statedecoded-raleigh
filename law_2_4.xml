@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1022" order_by="1-1022" level="5">Sec. 1-1022. - SPECIAL MEETINGS, CALLING, NOTICE, PUBLICIZING.</unit>
+ </structure>
+ <section_number>1-1022</section_number>
+ <catch_line>SPECIAL MEETINGS, CALLING, NOTICE, PUBLICIZING.</catch_line>
+ <order_by>1-1022</order_by>
+ <text>
+Special meetings of the Council may be called at any time by the Mayor, the Mayor Pro Tem, or by any two (2) members of the Council, by causing a written notice, setting the time, place and purpose of holding such meeting and signed by the person or persons calling the meeting, to be served as provided in §2.4 of the Charter. The City Clerk shall prepare or cause to be prepared written notices of all special meetings of the Council, upon appropriate request; and at the time of making delivery of such notices to the members of the Council, a copy of such notice of special meetings shall be delivered to representatives of the news media in order that the citizens of the City may be advised of all such special meetings. 
+(Code 1959 , §2-2) 
+Charter reference: Meetings of the Council, §2.4 
+State law reference: Procedures for the holding of regular and special meetings, G.S. 160A-71. 
+</text>
+</law>

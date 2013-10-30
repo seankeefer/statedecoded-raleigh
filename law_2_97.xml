@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TRANSIENT OCCUPANCY TAX; CONVENTION AND VISITORS BUREAU</unit>
+  <unit label="section" identifier="2-2081" order_by="2-2081" level="5">Sec. 2-2081. - PAYMENT OF TAX.</unit>
+ </structure>
+ <section_number>2-2081</section_number>
+ <catch_line>PAYMENT OF TAX.</catch_line>
+ <order_by>2-2081</order_by>
+ <text>
+Every person, liable for the tax imposed by this division shall, on or before the fifteenth day of each month after the effective date of this division [September 1, 1986], prepare and render a return based upon the previous month's collections, on a form prescribed by and available from the City Revenue Collector the amount of the tax then due. 
+An operator of a business who collects the occupancy tax may deduct from the amount remitted to the City a discount of one (1) per cent of the total amount collected pursuant to this division as reimbursement for the expenses incurred in collecting the tax. 
+(Ord. No. 1986-825A, §1, 7-15-86) 
+</text>
+</law>

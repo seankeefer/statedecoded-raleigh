@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2036" order_by="5-2036" level="5">Sec. 5-2036. - ELECTRIC SERVICE ENTRANCES IN FIRE DISTRICTS.</unit>
+ </structure>
+ <section_number>5-2036</section_number>
+ <catch_line>ELECTRIC SERVICE ENTRANCES IN FIRE DISTRICTS.</catch_line>
+ <order_by>5-2036</order_by>
+ <text>
+All electric service entrance conductors within the primary and secondary fire districts as described in §5-2035 shall be placed underground in conduit. The conductors and conduit must be of approved materials as determined by the City Inspections Department. This provision shall apply to all newly constructed buildings, to enlarged electrical services in existing buildings, and to existing buildings undergoing major renovations. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</text>
+</law>

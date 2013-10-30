@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2141" order_by="8-2141" level="5">Sec. 8-2141. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>8-2141</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>8-2141</order_by>
+ <text>
+As used in this article, the following terms shall have the meanings provided in this section unless the context clearly indicates otherwise. 
+Air-gap separation. An unobstructed vertical distance through the atmosphere between the lowest opening from any pipe or faucet supplying water to a tank, plumbing fixture, or other device and the flood level rim of the receptacle. An approved air-gap vertical separation shall be at least double the diameter of the supply pipe. In no case shall the air-gap be less than one (1) inch. 
+Approved. Certified in writing by the Director of Public Utilities as an acceptable device or methodology for the purpose of backflow prevention. 
+Auxiliary intake. Any piping connection or other device whereby water may be secured from a source other than public water supply. 
+Backflow. Any flow of water into the public water supply from any other source due to a cross-connection, auxiliary intake, interconnection, backpressure, backsiphonage, any combination thereof, or other cause. 
+Backpressure. Any pressure on any source of water other than the public water supply which may be greater than the pressure on the public water supply and may result in a backflow. 
+Backflow prevention device. An approved effective device or method used to prevent backflow from occurring in the potable water supply. The type of device required shall be based on degree of hazard, existing or potential. 
+Backsiphonage. Any circumstance in which the pressure on the public water supply may be reduced to the point that the elevation and atmospheric pressure on a source of water other than the public water supply may result in a pressure to be greater than the pressure on the public water supply and may result in a backflow. 
+Certified tester. A person who has proven his/her competency to test, repair, overhaul and make reports on backflow prevention devices as evidenced by certification of successful completion of a training program approved by the Director of Public Utilities. 
+Confinement device. A backflow prevention device, as approved and required, installed within a private plumbing or distribution system to isolate a localized hazard from the remainder of said system. 
+Consumer. Any person, firm, or corporation responsible for any property at which water from the City of Raleigh public water supply is received. In the absence of other parties or the failure of other parties to accept the responsibilities herein set forth, the owner of record shall be ultimately responsible. 
+Containment device. A backflow prevention device, as approved and required, installed at the point of separation between the public water supply and a private service or private distribution system or at the point of metering. 
+Cross-connection. Any physical connection whereby the public water supply is connected with any other water supply system, whether public or private, either inside or outside of any building or buildings, in such a manner that a flow of water into the public water supply is possible either through the manipulation of valves or because of ineffective check or back-pressure valves, or because of any other arrangement. 
+Cross-connection control coordinator. The official position established and authorized by the City and designated by the Director of Public Utilities to administer, interpret this section and who shall be a certified tester. 
+Double check valve backflow prevention device. An approved assembly composed of two (2) single, spring-loaded independently operating check valves, including tightly closing shut-off valves located at each end of the assembly, and having suitable connections for testing the watertightness of each check valve. 
+Dual check valve. An approved device containing two (2) independently acting check valves in series. 
+Experimental backflow preventor. Any new or existing containment device or methodology of backflow prevention that is not currently approved and certified by the City of Raleigh Public Utilities Department. Requires at a minimum approval from the University of Southern California Foundation for Cross Connection Control and Hydraulic Research Laboratory for consideration for field installation and use. Only then by specific written approval by City of Raleigh Public Utilities Department. 
+Fire line. A system of pipes and equipment used to supply water in an emergency for extinguishing fire. 
+Interconnection. Any system of piping or other arrangement whereby the public water supply is connected directly with a sewer, drain, conduit, pool, heat exchanger, storage reservoir, or other device which does or may contain sewage or other waste or substance which would be capable of imparting contamination to the public water supply. 
+Pressure vacuum breaker. An approved assembly containing an independently operating spring loaded check valve and an independently operating loaded air inlet valve located on the discharge side of the check valve. The assembly must be equipped with suitable connections for testing the proper operation of the device and tightly closing shut-off valves located at each end of the assembly. 
+Public water supply. The water and waterworks system of the City of Raleigh, and its customers outside the corporate limits, for general use and which supply is recognized as the public water supply by the North Carolina Department of Human Resources. 
+Reduced pressure zone principle backflow prevention device (RPZ). An approved device containing within its structure two (2) spring loaded independently operating check valves, together with an automatically operating pressure differential relief valve located between the two (2) check valves. The first check valve reduces the supply pressure a predetermined amount so that during normal flow and at cessation of normal flow the pressure between the checks shall be less than the supply pressure. In case of leakage of either check valve, the differential relief valve, by discharging to the atmosphere, shall operate to maintain the pressure between the check valves less than the supply pressure. This device shall have suitable connections for testing the proper operation of the device, including tightly closing shut-off valves located at each end of the device. 
+(Ord. No. 1987-20, §1, 7-21-87; Ord. No. 1992-3, §1, 7-7-92) 
+</text>
+</law>

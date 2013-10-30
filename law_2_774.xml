@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3046" order_by="12-3046" level="5">Sec. 12-3046. - ATTACK AND SECURITY DOG TRAINER'S LICENSE; REQUIRED.</unit>
+ </structure>
+ <section_number>12-3046</section_number>
+ <catch_line>ATTACK AND SECURITY DOG TRAINER'S LICENSE; REQUIRED.</catch_line>
+ <order_by>12-3046</order_by>
+ <text>
+It shall be unlawful for any person to train in the City any dog to be used as an attack and security dog without possessing a valid attack and security dog trainer's license; provided, this section shall not apply to the City government or any of its agencies. 
+(Code 1959 , §4-29) 
+</text>
+</law>

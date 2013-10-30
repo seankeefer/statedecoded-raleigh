@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.5. - CIVIL PENALTIES.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>CIVIL PENALTIES.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Penalties between ten thousand dollars ($10,000.00) and twenty-five thousand dollars ($25,000.00) per day per violation may be assessed against a violator only if: 
+i.	For any class of violation, only if a civil penalty has been imposed against the violator with in the five (5) years preceding the violation, or 
+ii.	In the case of failure to file, submit, or make available, as the case may be, any documents, data, or reports required by this article, or the orders, rules, regulations and permits issued hereunder, only if the POTW Director determines that the violation was intentional and a civil penalty has been imposed against the violator within the five (5) years preceding the violation. 
+</section>
+  </section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The degree and extent of the harm to the natural resources, to the public health, or to public or private property resulting from the violation; 
+</section>
+   <section prefix="(2)">	The duration and gravity of the violation;
+</section>
+   <section prefix="(3)">	The effect on ground or surface water quantity or quality or on air quality;
+</section>
+   <section prefix="(4)">	The cost of rectifying the damage;
+</section>
+   <section prefix="(5)">	The amount of money saved by noncompliance;
+</section>
+   <section prefix="(6)">	Whether the violation was committed willfully or intentionally;
+</section>
+   <section prefix="(7)">	The prior record of the violator in complying or failing to comply with the pretreatment program; 
+</section>
+   <section prefix="(8)">	The costs of enforcement to the City. 
+</section>
+  </section>
+  <section prefix="(c)">	Appeals of civil penalties assessed in accordance with this section shall be as provided in §8-2127(8). 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

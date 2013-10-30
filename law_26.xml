@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.4" order_by="3.4" level="3">Sec. 3.4 - CONTROL OF OFFICERS AND EMPLOYEES.</unit>
+ </structure>
+ <section_number>I-III-3.4</section_number>
+ <catch_line>CONTROL OF OFFICERS AND EMPLOYEES.</catch_line>
+ <order_by>3.4</order_by>
+ <section prefix="text">
+The officers and employees of the City subject to appointment by the City Manager shall perform such duties as may be required of them by the City Manager, under general regulation of the City Council. 
+</section>
+</law>

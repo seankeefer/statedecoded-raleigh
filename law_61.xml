@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.20" order_by="6.20" level="3">Sec. 6.20 - POWERS AND DUTIES OF DIRECTOR OF PUBLIC SAFETY.</unit>
+ </structure>
+ <section_number>I-VI-6.20</section_number>
+ <catch_line>POWERS AND DUTIES OF DIRECTOR OF PUBLIC SAFETY.</catch_line>
+ <order_by>6.20</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The Director of Public Safety shall have charge of the police force, subject to the supervision and direction of the City Manager, and shall have power to temporarily supplant the Chief of Police and take charge of the department, and shall at all times have power to give direction to the officers and employees in the Police Department, and his direction shall be binding upon all such officers and employees. 
+</section>
+  <section prefix="(b)">	He shall have charge of the police stations, jails, and property and apparatus connected therewith, including City ambulance and patrol wagons used in connection with his department. 
+</section>
+  <section prefix="(c)">	He shall have supervision and control, subject to the supervision and direction of the City Manager, of the Fire Department, of all firemen, officers and employees therein or connected therewith, and of all fire stations, property and apparatus used in connection with the Fire Department; and of the fire alarm system, and all property and apparatus connected therewith. 
+</section>
+  <section prefix="(d)">	He shall have power to temporarily supersede the Chief of the Fire Department, and his orders to said department and all employees therein shall be binding upon said department. 
+</section>
+  <section prefix="(e)">	He shall be charged with the duty of enforcing all ordinances and resolutions relating to traffic on the public streets, alleys, and public ways, on and across railway lines, and through and over the cemetery ways, public parks and other public places. 
+</section>
+  <section prefix="(f)">	He shall be charged with the duty of enforcing all laws, ordinances, and others relating to public health and sanitation, and all health officers and employees of the City shall be under his supervision. It shall be the duty of the City Council to pass such ordinances, rules and regulations, and employ such persons as necessary to preserve and protect public health. He shall be charged, through his department, with the enforcement of all quarantine regulations, and with suppressing and removing conditions on private property within the City that are a menace to health or public safety. He shall coordinate his activities referred to in this paragraph with the Chief Health Officer. 
+</section>
+  <section prefix="(g)">	He shall be authorized to enter upon private premises for the purpose of discharging the duties imposed upon him, and he shall cause to be abated all nuisances which may endanger or affect the health of the City, and generally do all things, subject to the legislative control of the City Council, that may be necessary and expedient for the promotion of health and the suppression of disease. 
+</section>
+  <section prefix="(h)">	He shall perform all other services ordered by the City Council, or that may be ordered by the City Council, not herein expressly conferred upon some other department. 
+</section>
+ </section>
+</law>

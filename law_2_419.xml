@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="11-2021" order_by="11-2021" level="5">Sec. 11-2021. - IN GENERAL.</unit>
+ </structure>
+ <section_number>11-2021</section_number>
+ <catch_line>IN GENERAL.</catch_line>
+ <order_by>11-2021</order_by>
+ <text>
+It is the duty of the law enforcement officers of the City to enforce all of the provisions of this chapter and all of the State motor vehicle laws. 
+Cross reference: Motor vehicle registration and annual fees, §2-2071 et seq. 
+</text>
+</law>

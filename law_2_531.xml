@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2238" order_by="11-2238" level="5">Sec. 11-2238. - SIGNS MUST CONTAIN CORRECT INFORMATION.</unit>
+ </structure>
+ <section_number>11-2238</section_number>
+ <catch_line>SIGNS MUST CONTAIN CORRECT INFORMATION.</catch_line>
+ <order_by>11-2238</order_by>
+ <text>
+It shall be a misdemeanor for any person, persons or signs to state a warning in which is inconsistent with the actual condition of the obstructed street. 
+(Code 1959 , §19-38.2) 
+</text>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2015" order_by="2-2015" level="5">Sec. 2-2015. - LICENSE; DUE DATE.</unit>
+ </structure>
+ <section_number>2-2015</section_number>
+ <catch_line>LICENSE; DUE DATE.</catch_line>
+ <order_by>2-2015</order_by>
+ <text>
+  <section prefix="(a)">	Unless otherwise provided in the schedule of taxes provided for in §2-2013, each privilege license issued shall cover the twelve-month period beginning June 1 of each calendar year and ending May 31 of the subsequent calendar year. 
+</section>
+  <section prefix="(b)">	The privilege license tax is due on June 1 of each year. If, however, a person begins a business after June 1, the tax for that year must be paid before the business is begun. 
+</section>
+  <section prefix="(c)">	The Revenue Collector shall not issue a license until the tax levied under §2-2013 has been paid. 
+</section>
+ </text>
+</law>

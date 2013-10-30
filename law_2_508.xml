@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2203" order_by="11-2203" level="5">Sec. 11-2203. - INSTALLATION OF PARKING METERS.</unit>
+ </structure>
+ <section_number>11-2203</section_number>
+ <catch_line>INSTALLATION OF PARKING METERS.</catch_line>
+ <order_by>11-2203</order_by>
+ <text>
+In the parking meter zones the transportation director shall cause parking meters to be installed upon the curb or sidewalk immediately adjacent to the parking spaces provided in §11-2212, and the transportation director shall be responsible for the regulation, control, operation, maintenance and use of such parking meters. Each device shall be so set as to display a signal showing legal parking upon the deposit of the appropriate coin or coins, lawful money of the United States of America, for the period of time prescribed by this article. Each device shall be so arranged that upon the expiration of the lawful time limit it will indicate by a proper visible signal that the lawful parking period has expired and in such cases the right of such vehicle to occupy such space shall cease and the operator, owner, possessor or Manager thereof shall be subject to the penalties hereinafter provided. 
+(Code 1959 , §21-46) 
+</text>
+</law>

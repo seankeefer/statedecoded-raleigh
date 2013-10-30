@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2168" order_by="12-2168" level="5">Sec. 12-2168. - APPEAL.</unit>
+ </structure>
+ <section_number>12-2168</section_number>
+ <catch_line>APPEAL.</catch_line>
+ <order_by>12-2168</order_by>
+ <text>
+  <section prefix="(1)">	An appeal must be filed in writing with the Director of the Inspections Department within thirty (30) days after service of the written notice or order of the Director of the Inspections Department on the petitioner. The written appeal shall identify the application of the article at issue and provide the reasons the petitioner contends that it was wrongly applied and any supporting documentation. An appeal challenging a notice that a dwelling is qualified as a &quot;probationary rental residential dwelling&quot; pursuant to §12-2163(l)(10) may include an appeal of the basis for the citations resulting in the determination that the dwelling is qualified as a &quot;probationary rental residential dwelling&quot; pursuant to §12-2163(l)(10). 
+</section>
+  <section prefix="(2)">	Unless the Director of Inspections decides to allow the requested relief based on the appeal request, the Director of the Inspections Department shall send each appeal request to arbitration. The Director of Inspections and the appealing party shall select an arbitrator from the Wake County District Court list of arbitrators. The arbitration shall be conducted, to the extent practicable, in accordance with the Supreme Court Rules for Court-Ordered Arbitration in North Carolina. The arbitrator shall be paid a fee equal to the maximum fee specified in such Rules. The arbitrator shall consider both the applicable code provisions and equitable factors in resolving the appeal. If the person who files an appeal of a notice that a dwelling is qualified as a &quot;probationary rental residential dwelling&quot; pursuant to §12-2163(l)(10) shows that the owner did not cause and, with the use of reasonable measures, could not have prevented the actions or activities leading to the citations which qualified the dwelling as a &quot;probationary rental residential dwelling&quot; pursuant to §12-2163(l)(10), the arbitrator may reverse the order. 
+</section>
+  <section prefix="(3)">	An appeal may be taken from any decision of arbitrator by giving notice of appeal to the City Council within thirty (30) days after service of the written decision of the arbitrator. Notice of appeal shall be given by delivery of a written statement to the City Manager stating the grounds for the appeal and providing the City Manager with a copy of the written decision of the arbitrator. The written appeal shall identify the application the article at issue and provide the reasons the petitioner contends that it was wrongly applied. The Director of the Inspection Department shall transmit to the City Manager all documents constituting the record upon which the decision by the arbitrator was made. 
+</section>
+  <section prefix="(4)">	The City Council shall fix a reasonable time for the presentation of oral arguments by the parties and shall give due notice to the petitioner and the City Manager. After consideration of the arbitrator's decision, including any equitable factors applied by the arbitrator, and the record of the proceeding, the City Council shall issue a written determination, within a reasonable time, stating whether the disputed application of the article will be approved without change or modified or reversed. 
+</section>
+  <section prefix="(5)">	All decisions of the Director of the Inspections Department and City Council shall be served on the petitioner. 
+</section>
+  <section prefix="(6)">	The enforcement of an order issued by the Inspections Department which includes the revocation of a residential rental occupancy permit shall be stayed upon the filing of an appeal and until a final order is issued by the Director of the Inspections Department or City Council. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §§11, 14, 15, 7-11-06) 
+</section>
+ </text>
+</law>

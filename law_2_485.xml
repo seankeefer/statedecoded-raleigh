@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2171" order_by="11-2171" level="5">Sec. 11-2171. - PARKING PROHIBITED IN CERTAIN PLACES.</unit>
+ </structure>
+ <section_number>11-2171</section_number>
+ <catch_line>PARKING PROHIBITED IN CERTAIN PLACES.</catch_line>
+ <order_by>11-2171</order_by>
+ <text>
+  <section prefix="(a)">	Obstructing traffic. 
+It shall be unlawful for any person to stop, stand or park any vehicle upon a street, or alley, in such manner or under such conditions as to obstruct the free movement of vehicular traffic, except that a driver may stop temporarily during the actual unloading of passengers or when necessary to obey traffic regulations or signs or signals, or signals of a police officer. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	On a sidewalk, in the area between the roadway and the sidewalk, in the area between the right-of-way line and the roadway or in the median area of a divided roadway. 
+</section>
+   <section prefix="(2)">	On or within twelve (12) feet of a crosswalk. 
+</section>
+   <section prefix="(3)">	Within an intersection. 
+</section>
+   <section prefix="(4)">	Within twenty-five (25) feet upon the approach to any flashing beacon, stop sign or traffic-control signal located at the side of a street or roadway. 
+</section>
+   <section prefix="(5)">	Underpass approaches. No vehicle shall park on either side of any street approaching a railroad underpass or overhead bridge within fifty (50) feet in any direction of the outer edge of such underpass or overhead bridge. 
+</section>
+   <section prefix="(6)">	Grade crossing approaches. No vehicle shall park on either side of any street approaching a grade crossing within fifty (50) feet of the closest rail; provided, that where existing permanent structures are located along the street and closer than fifty (50) feet, parking may be permitted in front of such structures, unless otherwise prohibited, if the parking does not interfere with the view in either direction of an approaching locomotive or train. 
+</section>
+   <section prefix="(7)">	Alongside or opposite any street excavation or obstruction when such stopping, standing or parking would obstruct traffic. 
+</section>
+   <section prefix="(8)">	Upon any bridge or other elevated structure or within any underpass structure.
+</section>
+   <section prefix="(9)">	On the roadway side of any vehicle stopped, standing or parked at the edge or curb of a street. 
+(10)	Within fifteen (15) feet in either direction of a fire hydrant, unless a greater or lesser distance is designated by action of the Council and appropriate signs or markings are displayed. 
+</section>
+   <section prefix="(11)">	Within five (5) feet on either side from a private road or driveway, or in such a manner to block the passage of vehicles to or from such road or driveway. 
+</section>
+   <section prefix="(12)">	City-owned parking areas. It shall be unlawful in any off-street lot or area owned by the City and provided for general public parking to park a motor vehicle, or for the registered owner of a motor vehicle to allow such vehicle to be parked, in any manner other than within properly designated parking spaces. 
+Further, in any such off-street parking lot or area owned by the City and provided for general public parking, it shall be unlawful to park a motor vehicle or for the registered owner of a motor vehicle to allow such vehicle to be parked, in such a manner as would block or otherwise obstruct the reasonable ingress to or egress from such parking area or lot by other motor vehicles, or as would block or obstruct the passage of emergency vehicles through such parking area or lot. 
+</section>
+   <section prefix="(13)">	In any parking place designated as a car share space unless the vehicle belongs to a car sharing agency or company approved by and listed with the City of Raleigh pursuant to §11-2001 of this Code. 
+(Code 1959 , §21-34(a); Ord. No. 1982-821, §1, 1-5-82; Ord. No. 1982-933, §1, 6-29-82; Ord. No. 1990-591, §1, 6-5-90; Ord. No. 2012-122, §2, 11-20-12, eff. 11-27-12) 
+Cross reference: Parking restrictions in City-owned parks, Part 9, Ch. 2, Art. B. 
+State law reference: Stopping on highway prohibited, G.S. 20-161. 
+</section>
+  </section>
+ </text>
+</law>

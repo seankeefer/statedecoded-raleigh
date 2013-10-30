@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.1" order_by="2.1" level="3">Sec. 2.1 - CITY COUNCIL CONSTITUTES GOVERNING BODY.</unit>
+ </structure>
+ <section_number>I-II-2.1</section_number>
+ <catch_line>CITY COUNCIL CONSTITUTES GOVERNING BODY.</catch_line>
+ <order_by>2.1</order_by>
+ <section prefix="text">
+The government of the City and the general management and control of all of its affairs shall be vested in a City Council, which shall be elected as hereinafter set forth and shall exercise its powers in conformity to the provisions of this Act and the provisions of the General Statutes and laws of the State of North Carolina with reference to the powers, rights and privileges of municipalities wherein no provision has been made in this Act with respect thereto; provided, however, that the City Manager shall have the authority hereinafter specified. 
+</section>
+</law>

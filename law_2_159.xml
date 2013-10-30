@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2044" order_by="5-2044" level="5">Sec. 5-2044. - FIRE FINAL INSPECTIONS.</unit>
+ </structure>
+ <section_number>5-2044</section_number>
+ <catch_line>FIRE FINAL INSPECTIONS.</catch_line>
+ <order_by>5-2044</order_by>
+ <text>
+Any occupancy hereafter requested, as evidenced by application to the Building Official for a Certificate of Occupancy, shall receive an initial fire code compliance inspection(s), for the establishment of an inspection file and issue any required operational permits. This fire inspection fee will be in accordance with the existing buildings fee schedule contained in §5-2041(b). Occupying a building that has not been issued a Certificate of Occupancy will constitute a civil penalty for each days continued offense. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+</text>
+</law>

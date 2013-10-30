@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2090" order_by="12-2090" level="5">Sec. 12-2090. - SAFETY PERMIT.</unit>
+ </structure>
+ <section_number>12-2090</section_number>
+ <catch_line>SAFETY PERMIT.</catch_line>
+ <order_by>12-2090</order_by>
+ <text>
+The taxicab inspector shall have the authority to issue a taxicab safety permit on forms prescribed by him for periods of time not to exceed ten (10) days. The holder of such a permit shall be authorized to occupy the front seat of a taxicab while in operation, and shall observe all rules and regulations of this article while on duty. 
+(Code 1959 , §22-52) 
+</text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="G" order_by="G" level="4">ARTICLE G. - PROBATIONARY RENTAL OCCUPANCY PERMIT [8]</unit>
+  <unit label="section" identifier="12-2169" order_by="12-2169" level="5">Sec. 12-2169. - ADMINISTRATIVE FEE AND ARBITRATION FEE.</unit>
+ </structure>
+ <section_number>12-2169</section_number>
+ <catch_line>ADMINISTRATIVE FEE AND ARBITRATION FEE.</catch_line>
+ <order_by>12-2169</order_by>
+ <text>
+  <section prefix="(a)">	Fee for each violation. 
+Any person who violates this article shall pay an administrative fee of two hundred dollars ($200.00) per violation and the costs to the City of service of orders and notices. 
+</section>
+  <section prefix="(b)">	Fee for arbitration. 
+Any person who files an appeal shall pay an administrative fee of two hundred ($200.00) to the City at the time the appeal request is made. Failure to pay the administrative fee shall cause the appeal to be denied. The person who filed the appeal shall be responsible for paying one-half of the costs of the arbitration fee. If the person who appeals is the prevailing party, the administrative fee and the portion of the arbitration fee shall be reimbursed. 
+(Ord. No. 2004-720, §1, 10-19-04; Ord. No. 2006-54, §12, 7-11-06) 
+</section>
+ </text>
+</law>

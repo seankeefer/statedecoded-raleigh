@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2032" order_by="5-2032" level="5">Sec. 5-2032. - FIRE PREVENTION CODE ADOPTED.</unit>
+ </structure>
+ <section_number>5-2032</section_number>
+ <catch_line>FIRE PREVENTION CODE ADOPTED.</catch_line>
+ <order_by>5-2032</order_by>
+ <text>
+  <section prefix="(a)">	Adoption. 
+For the purpose of prescribing regulations governing conditions hazardous to life and property from fire, explosion, or exposure to hazardous materials, the North Carolina Fire Prevention Code (latest edition) along with the North Carolina Amendments of said Code is hereby adopted by reference and is set forth herein as the Fire Prevention and Protection Ordinance for the City. Any amendments to the Fire Prevention Code which are adopted and published by the North Carolina Building Code Council, shall be effective in the jurisdiction of the City at the time such amendments are declared in effect by the North Carolina State Building Code Council. 
+A copy of the fire prevention and protection ordinance, and all technical codes and standards adopted by reference shall be available for public inspection at the Office of the Fire Marshal and or the City Clerk's office. 
+</section>
+  <section prefix="(b)">	Applicability. 
+The provisions of this ordinance shall apply to all buildings and occupancies in the North Carolina Building Code, General Construction and the Fire Prevention Code (latest edition adopted by the NC Building Code Council) and any other building referenced by this ordinance. The provisions of this Code shall apply equally to existing as well as new buildings. All construction, alterations, repairs, replacement, equipment, and maintenance hereinafter made or installed to any building or structure, other than the exceptions to applicability listed in 102.10 of the Fire Prevention Code, shall conform to the provisions of the Fire Prevention Code. 
+Where the North Carolina Fire Prevention Code or its references are inapplicable to a specific occupancy of process, the appropriate NFPA (National Fire Protection Association) or other nationally recognized standard shall be used. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+State law references: Adoption of technical codes by reference, General Statute 160A-76(b); State Building Code, General Statute 143-138 et seq. 
+</section>
+ </text>
+</law>

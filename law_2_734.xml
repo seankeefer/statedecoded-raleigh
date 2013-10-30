@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - RENTAL DWELLING REGISTRATION AND PROP NOTIFICATION</unit>
+  <unit label="section" identifier="12-2177" order_by="12-2177" level="5">Sec. 12-2177. - REGISTRATION REQUIREMENT.</unit>
+ </structure>
+ <section_number>12-2177</section_number>
+ <catch_line>REGISTRATION REQUIREMENT.</catch_line>
+ <order_by>12-2177</order_by>
+ <text>
+  <section prefix="(a)">	Unless compliance with this article is deemed pursuant to §12-2180, it shall be unlawful for an owner to rent, to receive rental income from, or to offer for rent, any rental residential dwelling required to be registered under this part without first registering the dwelling under this part or when the permit issued under §12-2164 is revoked. The owner of a rental residential dwelling shall hold a registration under this part for each rental residential dwelling located on a separate tax parcel and shall abide by the Standards in §12-2179 in order to be eligible to retain the registration. When a manager is contracted to manage multiple dwellings in a single townhouse development or apartment house, a single registration will be required which registration will be issued to the manager of the dwelling units. 
+</section>
+  <section prefix="(b)">	Every application for rental registration shall be filed on a form approved by the Director of the Inspections Department and shall be filed with the Inspections Department. Every application shall be made under oath and shall contain the information required to identify the owner of the dwelling(s) to be registered, contact information including a street address and telephone numbers, and identification and contact information for any manager or other alternate contact person for the dwelling(s). Every application shall include the registration fee as applicable for the property. The owner shall also provide an electronic mail address and a facsimile number in the registration application. Each rented dwelling unit must be registered, however, an owner of multiple units may register all units using one registration form. Within thirty (30) days of receipt of a complete application and a non-refundable application fee of thirty dollars ($30.00), the Inspections Department shall review each application and determine whether the application should be approved. The Inspections Department shall deny any application which does not satisfy the minimum requirements of this article and any application submitted by an owner during a period of permit revocation pursuant to §12-2167 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	For a property with twenty (20) or more residential rental dwellings, the fee shall be fifty dollars ($50.00); 
+</section>
+   <section prefix="(2)">	For a property with fewer than twenty (20) but more than three (3) residential rental dwellings, the fee shall be twenty-five dollars ($25.00); and 
+</section>
+   <section prefix="(3)">	For a property with three or fewer residential rental dwellings, the fee shall be fifteen dollars ($15.00). 
+(Ord. No. 2008-415B, §1, 7-1-08; Ord. No. 2011-980, §§2, 3, 11-15-11) 
+</section>
+  </section>
+ </text>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2086" order_by="12-2086" level="5">Sec. 12-2086. - REFUSAL TO ISSUE.</unit>
+ </structure>
+ <section_number>12-2086</section_number>
+ <catch_line>REFUSAL TO ISSUE.</catch_line>
+ <order_by>12-2086</order_by>
+ <text>
+  <section prefix="(a)">	Whose state driver's license has been revoked or suspended; provided, however, in case of a state license revocation or suspension a taxicab driver's permit may be granted or renewed at the end of the revocation or suspension period. 
+</section>
+  <section prefix="(b)">	Who has accumulated over eight (8) points against his driving record (pending the discretion of the taxicab inspector's review of the totality of the applicant's driving record). 
+</section>
+  <section prefix="(c)">	Who, within a period of five (5) years immediately prior to the date of his application, has been convicted of a felony; unless the conviction is for a felony drug offense in which case application may not be made for a period of ten (10) years. Persons convicted of the felonies of homicide, manslaughter, death by motor vehicle, hit and run, assault, sexual assault, robbery, blackmail, extortion, kidnapping and arson are not eligible to receive permits pursuant to this article. 
+</section>
+  <section prefix="(d)">	Who, within a period of five (5) years immediately prior to the date of his application, has been convicted of any crime involving the driving of an automobile resulting in death to any person. 
+</section>
+  <section prefix="(e)">	Who, within a period of five (5) years immediately prior to the date of his application, has been convicted of driving a motor vehicle while intoxicated. 
+</section>
+  <section prefix="(f)">	Who, within a period of five (5) years immediately prior to the date of this application, has been convicted of a violation of any City, County, state or Federal law relating to the use, possession or sale of intoxicating liquors, alcoholic beverages, beer or wine, narcotic or barbituric or other habit-forming drugs. 
+</section>
+  <section prefix="(g)">	Who, within a period of five (5) years immediately prior to the date of his application, shall have been convicted of a violation of any City, County, state or Federal law relating to prostitution or lotteries. 
+</section>
+  <section prefix="(h)">	Who, within a period of five (5) years immediately prior to the date of his application, has been a habitual user of intoxicating liquors, alcoholic beverages, narcotic, barbituric or other habit-forming drugs. 
+</section>
+  <section prefix="(i)">	Who is a person of such bad character or reputation that it would be clearly contrary to the public interest, safety and welfare to permit such applicant to drive a taxicab. 
+(Code 1959 , §22-48; Ord. No. 1999-691, §13, 11-16-99; Ord. No. 2009-671, §§36—38, 11-3-09) 
+</section>
+ </text>
+</law>

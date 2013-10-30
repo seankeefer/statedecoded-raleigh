@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2013" order_by="2-2013" level="5">Sec. 2-2013. - LICENSE TAX LEVIED.</unit>
+ </structure>
+ <section_number>2-2013</section_number>
+ <catch_line>LICENSE TAX LEVIED.</catch_line>
+ <order_by>2-2013</order_by>
+ <text>
+A license tax is hereby levied on the privilege of engaging in every business within the City which is listed in the schedule of taxes on file in the Department of Finance, Collections Division, hereby incorporated herein and made a part hereof by reference. Any person so engaged in business shall be responsible for making certain that the applicable license tax is paid. 
+</text>
+</law>

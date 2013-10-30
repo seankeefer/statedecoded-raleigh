@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2139" order_by="8-2139" level="5">Sec. 8-2139.1. - RECORD KEEPING.</unit>
+ </structure>
+ <section_number>8-2139</section_number>
+ <catch_line>RECORD KEEPING.</catch_line>
+ <order_by>8-2139</order_by>
+ <text>
+Users subject to the reporting requirements of this article shall retain, and make available for inspection and copying, all records of information obtained pursuant to any monitoring activities required by this article and any additional records of information obtained pursuant to monitoring activities undertaken by the user independent of such requirements. Records shall include the date, exact place, method, and time of sampling, and the name of the person(s) taking the samples; the dates analyses were performed; who performed the analyses; the analytical techniques or methods used; and the results of such analyses. These records shall remain available for a period of at least three (3) years. This period shall be automatically extended for the duration of any litigation concerning the user or the City, or where the user has been specifically notified of a longer retention period by the POTW Director. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</text>
+</law>

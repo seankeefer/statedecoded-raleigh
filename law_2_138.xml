@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2008" order_by="5-2008" level="5">Sec. 5-2008. - DUTIES OF PERSONS OR CORPORATIONS ERECTING OR MAINTAINING TELEPHONE, TELEGRAPH, OR ELECTRIC WIRES.</unit>
+ </structure>
+ <section_number>5-2008</section_number>
+ <catch_line>DUTIES OF PERSONS OR CORPORATIONS ERECTING OR MAINTAINING TELEPHONE, TELEGRAPH, OR ELECTRIC WIRES.</catch_line>
+ <order_by>5-2008</order_by>
+ <text>
+No person shall be allowed to erect, maintain, or operate telegraph, telephone, or electric wires or other wires or cables in the City in such manner as to interfere with the wires of the fire-police emergency boxes. When any person who shall erect, maintain, or operate any telegraph, telephone, or electric wires in the City is notified to cut off the current from such wires during the existence of any fire he shall immediately cut off the current and shall not again turn on the same until proper notice is given by the proper officer of the Fire Department. 
+</text>
+</law>

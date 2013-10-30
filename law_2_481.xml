@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="I" order_by="I" level="4">ARTICLE I. - PEDESTRIANS' RIGHTS AND DUTIES</unit>
+  <unit label="section" identifier="11-2153" order_by="11-2153" level="5">Sec. 11-2153. - ELECTRONIC TRAFFIC AND PEDESTRIAN CONTROL SIGNALS.</unit>
+ </structure>
+ <section_number>11-2153</section_number>
+ <catch_line>ELECTRONIC TRAFFIC AND PEDESTRIAN CONTROL SIGNALS.</catch_line>
+ <order_by>11-2153</order_by>
+ <text>
+  <section prefix="(a)">	Pedestrians crossing roadways at intersections where electronic traffic-control signals are located which are regulated by separate electronic pedestrian signals must obey the instructions of the pedestrian signals. 
+</section>
+  <section prefix="(b)">	Pedestrians who are lawfully in a roadway when the pedestrian signal changes should proceed across the roadway. 
+</section>
+  <section prefix="(c)">	Pedestrians crossing roadways at signalized intersections which are not regulated by separate electronic pedestrian signals must obey the instructions of the traffic-control signal facing vehicular traffic moving in the same direction as such pedestrians. 
+</section>
+  <section prefix="(d)">	Pedestrians crossing roadways at signalized intersections which are not regulated by separate pedestrian signals must not start to cross when a yellow light is exhibited to vehicles. 
+</section>
+  <section prefix="(e)">	The electronic traffic and pedestrian control signals described in this section shall be located, and the regulations provided in this section shall be effective, as designed in official Traffic Schedule No. 1, &quot;Electronic Traffic Control Signals.&quot; 
+Cross reference: Electronic traffic-control signals, §11-2071 
+</section>
+ </text>
+</law>

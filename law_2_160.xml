@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2045" order_by="5-2045" level="5">Sec. 5-2045. - SMOKE DETECTORS REQUIRED.</unit>
+ </structure>
+ <section_number>5-2045</section_number>
+ <catch_line>SMOKE DETECTORS REQUIRED.</catch_line>
+ <order_by>5-2045</order_by>
+ <text>
+  <section prefix="(a)">	Smoke Detectors Required. 
+Every owner of a rental residential dwelling unit lawfully constructed without smoke detectors shall install a smoke detector mounted on the ceiling or wall on every level, at a point centrally located in the corridor or area giving access to each group of rooms used for sleeping purposes and in common stairwells in each dwelling unit. Installation must be complete and smoke detectors fully operable within one hundred eighty (180) days after the application of this section. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Be listed by an agency approved by the N.C. State Building Code Council; and 
+</section>
+   <section prefix="(2)">	Be powered by batteries or by a non-switchable AC source (attached to the building's electrical current and not contain a switch outside the main panel box); and 
+</section>
+   <section prefix="(3)">	Be installed in accordance with the manufacturer's instructions; and
+</section>
+   <section prefix="(4)">	Be activated and provide an audible alarm.
+</section>
+  </section>
+  <section prefix="(c)">	Maintenance. 
+The owner of every rental residential unit where a smoke detector is installed pursuant to this section shall maintain and ensure that the smoke detector is kept in good working order at all times. If a battery-operated smoke detector is used, the batteries shall be replaced at least once per year. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+State law reference: 1991 Session Laws Chapter 312 §2. 
+</section>
+ </text>
+</law>

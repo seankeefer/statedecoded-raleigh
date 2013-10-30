@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="12-3066" order_by="12-3066" level="5">Sec. 12-3066. - SUMMARY DESTRUCTION OF ANIMALS FOR HUMANE REASONS.</unit>
+ </structure>
+ <section_number>12-3066</section_number>
+ <catch_line>SUMMARY DESTRUCTION OF ANIMALS FOR HUMANE REASONS.</catch_line>
+ <order_by>12-3066</order_by>
+ <text>
+When, in the judgment of the person in charge of impoundment facility, it is determined that any impounded animal should be destroyed for humane reasons, or to protect the public from imminent danger to persons or property, such animal may be destroyed without regard to any time limitations otherwise established herein. 
+(Code 1959 , §4-40) 
+</text>
+</law>

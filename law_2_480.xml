@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="I" order_by="I" level="4">ARTICLE I. - PEDESTRIANS' RIGHTS AND DUTIES</unit>
+  <unit label="section" identifier="11-2152" order_by="11-2152" level="5">Sec. 11-2152. - PEDESTRIAN CROSSING PROHIBITED.</unit>
+ </structure>
+ <section_number>11-2152</section_number>
+ <catch_line>PEDESTRIAN CROSSING PROHIBITED.</catch_line>
+ <order_by>11-2152</order_by>
+ <text>
+It shall be unlawful for any person to cross a street, on foot or by any other means, at a point and in a manner prohibited by this section and where a sign, barricade or other notice indicates that such crossing is prohibited. Locations where pedestrian crossing is so prohibited shall be as designated in Traffic Schedule No. 12, &quot;Pedestrian Crossing Prohibited.&quot; 
+(Code 1959 , §21-17.2) 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</text>
+</law>

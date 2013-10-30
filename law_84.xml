@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.43" order_by="6.43" level="3">Sec. 6.43 - CONDEMNATION POWERS AND PROCEDURES.</unit>
+ </structure>
+ <section_number>I-VI-6.43</section_number>
+ <catch_line>CONDEMNATION POWERS AND PROCEDURES.</catch_line>
+ <order_by>6.43</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	In addition to the foregoing powers and as alternative powers and methods of procedure for the exercise of the power of eminent domain, the City of Raleigh is hereby authorized to use, in the exercise of the power of eminent domain for any lawful purpose, the procedure and authority prescribed in Article 9 of Chapter 136 of the General Statutes of North Carolina, as now or hereafter amended; provided, that whenever therein the words &quot;commission&quot; or &quot;highway commission&quot; or &quot;state highway commission&quot; appear, they shall be deemed to include the &quot;City of Raleigh,&quot; and whenever therein the words &quot;director,&quot; &quot;Chairman,&quot; or &quot;Director of Highways&quot; or &quot;Director of the Highway Commission&quot; or &quot;Chairman of the Highway Commission&quot; appear, they shall be deemed to include the &quot;City Manager.&quot; 
+</section>
+  <section prefix="(b)">	The exercise of eminent domain power under this section shall not apply to property of public utilities.
+) 
+Editor's note: 1981 Session Laws, Ch. 919, repealed the grant of condemnation authority set out above and instituted uniform eminent domain procedures for all municipalities, codified as Chapter 40A of the General Statutes. 1991 Session Laws, Ch. 312, §1, which amends §2.14(32), restored the right of the City to use G.S. Ch. 136 condemnation procedures. 
+</section>
+ </section>
+ <history>(S.L. 1955, Ch. 145, §1; S.L. 1973, Ch. 319, §1(u)</history>
+</law>

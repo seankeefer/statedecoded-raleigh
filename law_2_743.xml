@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3001" order_by="12-3001" level="5">Sec. 12-3001. - DIVISION OF ANIMAL CONTROL CREATED; COMPOSITION; RESPONSIBILITY.</unit>
+ </structure>
+ <section_number>12-3001</section_number>
+ <catch_line>DIVISION OF ANIMAL CONTROL CREATED; COMPOSITION; RESPONSIBILITY.</catch_line>
+ <order_by>12-3001</order_by>
+ <text>
+The presence of animals at large, stray animals, nuisance animals, and diseased animals within the corporate limits of the City is hereby declared to be a public nuisance. Such animals are a threat to the health of the community and to the safety of persons and property alike. In order to abate and control this nuisance, there is hereby created within the Police Department of the City an animal control division, to be constituted and composed of such sworn officers of the Police Department as the Council and the City Manager may determine. 
+(Code 1959 , §4-1) 
+Cross reference: Police Department, Part 5, Ch. 1. 
+State law references: Animal shelters, G.S. 160A-493; regulation of wild and domestic animals, G.S. 160A-186, 187. 
+</text>
+</law>

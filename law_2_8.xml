@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1026" order_by="1-1026" level="5">Sec. 1-1026. - ORDER OF BUSINESS.</unit>
+ </structure>
+ <section_number>1-1026</section_number>
+ <catch_line>ORDER OF BUSINESS.</catch_line>
+ <order_by>1-1026</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	Consent agenda.
+</section>
+   <section prefix="(2)">	Planning Commission report.
+</section>
+   <section prefix="(3)">	Special items.
+</section>
+   <section prefix="(4)">	Report and recommendation of the City Manager. 
+</section>
+   <section prefix="(5)">	Citizen committee reports.
+</section>
+   <section prefix="(6)">	Requests and petitions of citizens.
+</section>
+   <section prefix="(7)">	Public hearings.
+</section>
+   <section prefix="(8)">	Council committee reports. 
+</section>
+   <section prefix="(9)">	Report of Mayor and Council Members. 
+(10)	Appointments.
+</section>
+   <section prefix="(11)">	Report and recommendation of City Attorney. 
+</section>
+   <section prefix="(12)">	Report and recommendation of City Clerk. 
+</section>
+  </section>
+  <section prefix="(b)">	The order of business may not be departed from except by consent of a majority of the Council present. 
+(Ord. No. 1993-224, §1, 7-6-93; Ord. No. 1998-454, §1, 11-4-98) 
+Charter references: Quorum and conduct of business, §2.5; adoption of rules of procedure, §2.6 
+State law reference: Meetings of public deliberative bodies, G.S. 143-318.1 et seq. 
+</section>
+ </text>
+</law>

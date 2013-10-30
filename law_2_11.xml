@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1029" order_by="1-1029" level="5">Sec. 1-1029. - RULES OF DEBATE.</unit>
+ </structure>
+ <section_number>1-1029</section_number>
+ <catch_line>RULES OF DEBATE.</catch_line>
+ <order_by>1-1029</order_by>
+ <text>
+  <section prefix="(a)">	Presiding officer may debate and vote, etc. 
+The Mayor or such other member of the Council who may be presiding may move, second and debate from the chair, subject only to such limitations of debate as are by these rules imposed on all members and shall not be deprived of any rights and privileges of a Council member by reason of his acting as the presiding officer. 
+</section>
+  <section prefix="(b)">	Getting the floor; improper references to be avoided. 
+Every member desiring to speak shall address the chair and, upon recognition by the presiding officer, shall confine himself to the question under debate, avoiding all personalities and indecorous language. 
+</section>
+  <section prefix="(c)">	Interruptions. 
+A member, once recognized, shall not be interrupted when speaking unless it be to call the member to order, or as herein otherwise provided. If a member, while speaking, be called to order, the member shall cease speaking until the question of order be determined, and if in order, the member shall be permitted to proceed. 
+</section>
+  <section prefix="(d)">	Privilege of closing debate. 
+The Council member moving the adoption of an ordinance or resolution shall have the privilege of closing the debate. 
+</section>
+  <section prefix="(e)">	Motion to reconsider. 
+A motion to reconsider any action taken by the Council may be made only on the day such action was taken. It may be made either immediately during the same session or at a recessed or adjourned session thereof. Such motion must be made by one of the prevailing side but may be seconded by any member and may be made at any time and have precedence over all other motions or while a member has the floor; it shall be debatable. Nothing herein shall be construed to prevent any member of the Council from making or remaking the same or any other motion at a subsequent meeting of the Council. 
+</section>
+  <section prefix="(f)">	Remarks of council member, when entered in minutes. 
+A Council member may request, through the presiding officer, the privilege of having an abstract of the member's statement on any subject under consideration by the Council entered in the minutes. If the Council consents thereto, such statement shall be entered in the minutes. 
+(Code 1959 , §2-9) 
+</section>
+ </text>
+</law>

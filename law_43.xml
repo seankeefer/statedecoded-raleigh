@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.2" order_by="6.2" level="3">Sec. 6.2 - DEPARTMENT OF FINANCE; DIVISIONS.</unit>
+ </structure>
+ <section_number>I-VI-6.2</section_number>
+ <catch_line>DEPARTMENT OF FINANCE; DIVISIONS.</catch_line>
+ <order_by>6.2</order_by>
+ <section prefix="text">
+The Department of Finance shall consist of the following divisions: (a) Accounting Division; (b) Collections Division; (c) Purchases and Contracts Division. 
+</section>
+</law>

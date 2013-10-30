@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - PROCEDURE</unit>
+  <unit label="section" identifier="6-2005" order_by="6-2005" level="5">Sec. 6-2005. - PRELIMINARY ASSESSMENT ROLL.</unit>
+ </structure>
+ <section_number>6-2005</section_number>
+ <catch_line>PRELIMINARY ASSESSMENT ROLL.</catch_line>
+ <order_by>6-2005</order_by>
+ <text>
+When the total cost of a project has been determined, the Department of Central Engineering shall prepare a preliminary assessment roll. The preliminary roll shall contain a brief description of each lot, parcel, or tract of land assessed, the basis for the assessment, the amount assessed against each, the terms of payment, and the names of the owner of each parcel of land as far as this can be ascertained from the County tax records. A map of the project on which is shown each parcel assessed with the basis of its assessment, the amount assessed against it, and the name of the owner, as far as this can be ascertained from the County tax records shall be a sufficient assessment roll. All completed preliminary assessment rolls shall be filed in the City Clerk and Treasurer's office, where it shall be available for public inspection. Notice of the preliminary assessment roll shall be published by the City Clerk and Treasurer as required by state law. 
+</text>
+</law>

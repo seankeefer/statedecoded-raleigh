@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.33" order_by="6.33" level="3">Sec. 6.33 - COLLECTION OF CHARGES.</unit>
+ </structure>
+ <section_number>I-VI-6.33</section_number>
+ <catch_line>COLLECTION OF CHARGES.</catch_line>
+ <order_by>6.33</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The City Council shall fix the time or times when the water and/or sewer service charges shall become due and payable, and in case any such charge is not paid within ten days after it becomes due, the same shall become a lien upon the property where said water is used and with which said water and/or sewer connections are made; and the same may at any time therefore be collected, either by suit in the name of the City or by the collector of taxes for the City, by the sale of the property upon which said lien attaches, at the courthouse door in the City of Raleigh, after advertising the same thirty days in some newspaper published in the City of Raleigh; and the said sale shall be made under the same rules and regulations, and subject to the same costs and penalties and to the same rights of redemption as are provided for the foreclosure of the lien on real estate for taxes. Upon failure of the owner of the property for which water or sewer is furnished, under the rules and regulations of the City Council, to pay charges when due, then the City Council, or its agent or employees, may cut off the water from the said property; and when so cut off it shall be unlawful for any person, firm, or corporation, other than the City Council, or its agents or employees, to turn on said water to said property, or to use the same in connection with the said property, without having first paid said charges and obtained permission from the City, through its Department of Public Utilities, to turn on said water; and any person, firm, or corporation convicted of the violation of any one of the provisions contained in this section shall be guilty of a misdemeanor, and shall be fined not exceeding fifty dollars ($50) or imprisoned not exceeding thirty days. 
+</section>
+  <section prefix="(b)">	Where the water may be cut off under the provisions of this section for the failure of the occupant of the premises to pay the charges for water and/or sewer service, and the occupant is not the owner of the premises but occupies the premises as a tenant, there shall be no lien against the premises, and it shall not be lawful for the City to require payment of such delinquent bill before turning on the water at the instance of a new and different tenant or occupant of said premises, but this provision shall not apply in cases where the premises are occupied by two or more tenants serviced by the same water meter. 
+</section>
+ </section>
+</law>

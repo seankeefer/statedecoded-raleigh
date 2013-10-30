@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2081" order_by="12-2081" level="5">Sec. 12-2081. - REQUIRED.</unit>
+ </structure>
+ <section_number>12-2081</section_number>
+ <catch_line>REQUIRED.</catch_line>
+ <order_by>12-2081</order_by>
+ <text>
+  <section prefix="(a)">	No person shall drive a taxicab within the corporate limits of the City or within a radius of one mile beyond the corporate limits in all directions unless he shall have first been issued, by the taxicab inspector, a taxicab driver's permit which is then in force and effect. An identification card shall be issued as evidence of the permit. The card shall be approximately four (4) inches by five (5) inches in size and shall contain the name and photograph of the permit holder and the permit number. It shall also bear the name of the taxicab inspector and the following words in bold type or print: 
+&quot;PASSENGERS—FOR YOUR PROTECTION, KEEP A RECORD OF YOUR DRIVER'S NAME AND NUMBER.&quot; 
+</section>
+  <section prefix="(b)">	Each driver, while on duty, shall display his permit card in a frame in the taxicab he is driving in such a manner as to be in full view of all passengers at all times. The driver shall retain custody of it and present it, on demand, for inspection by any passenger or law enforcement officer. 
+(Code 1959 , §22-43; Ord. No. 1978-799, §8, 5-16-78) 
+</section>
+ </text>
+</law>

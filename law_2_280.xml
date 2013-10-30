@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2113" order_by="8-2113" level="5">Sec. 8-2113. - PROHIBITED DISCHARGE STANDARDS.</unit>
+ </structure>
+ <section_number>8-2113</section_number>
+ <catch_line>PROHIBITED DISCHARGE STANDARDS.</catch_line>
+ <order_by>8-2113</order_by>
+ <text>
+  <section prefix="(a)">	General prohibitions. 
+No person, user or consumer shall contribute or cause to be contributed into the POTW, directly or indirectly, any pollutant or waste water which causes interference or pass through. These general prohibitions apply to all users or consumers of a POTW whether or not the user or consumer is a significant industrial user or subject to any national, state, or local pretreatment standards or requirements. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Pollutants which create a fire or explosive hazard in the POTW, including, but not limited to, waste streams with a closed cup flashpoint of less than one hundred forty (140) degrees Fahrenheit (sixty (60) degrees Celsius) using the test methods specified in 40 CFR 261.21. 
+</section>
+   <section prefix="(2)">	Solid or viscous substances in amounts which will cause obstruction of the flow in the POTW resulting in interference [but in no case solids greater than one-quarter (¼) inch in any dimension]. 
+</section>
+   <section prefix="(3)">	Petroleum oil, non-biodegradable cutting oil, or products of mineral oil origin, in amounts that will cause interference or pass through; but in no case, concentrations greater than one hundred (100) mg/l. 
+</section>
+   <section prefix="(4)">	Any waste water having a pH less than 5.0 or more than 12.0 or waste water having any other corrosive property capable of causing damage to the POTW or equipment. Any pH above 12.5 is considered hazardous under 40 CFR 261.22. 
+</section>
+   <section prefix="(5)">	Any waste water containing pollutants, including oxygen-demanding pollutants, in sufficient quantity (flow and/or concentration), either singly or by interaction with other pollutants, to cause interference with the POTW. 
+</section>
+   <section prefix="(6)">	Any waste water having a temperature greater than one hundred fifty (150) degrees Fahrenheit (sixty-six (66) degrees Celsius), or which will inhibit biological activity in the POTW treatment plant resulting in interference, but in no case waste water which causes the temperature at the introduction into the treatment plant to exceed one hundred four (104) degrees Fahrenheit (forty (40) degrees Celsius). 
+</section>
+   <section prefix="(7)">	Any pollutants which result in the presence of toxic gases, vapors or fumes within the POTW in a quantity that may cause acute worker health and safety problems. 
+</section>
+   <section prefix="(8)">	Any trucked or hauled pollutants, except at discharge points designated by the POTW Director in accordance with §8-2121 of this article. 
+</section>
+   <section prefix="(9)">	Any noxious or malodorous liquids, gases, or solids or other waste water which, either singly or by interaction with other wastes, are sufficient to create a public nuisance or hazard to life or are sufficient to prevent entry into the sewers for maintenance and repair. 
+(10)	Any substance which may cause the POTW's effluent or any other product of the POTW such as residues, sludges, or scums, to be unsuitable for reclamation and reuse or to interfere with the reclamation process. In no case shall a substance discharged to the POTW cause the POTW to be in noncompliance with sludge use or disposal regulations or permits issued under Section 405 of the Act; the Solid Waste Disposal Act, the Clean Air Act, the Toxic Substances Control Act, or state criteria applicable to the sludge management method being used. 
+</section>
+   <section prefix="(11)">	Any waste water which imparts color which cannot be removed by the pretreatment process, including, but not limited to, dye wastes and vegetable tanning solutions, which consequently imparts sufficient color to the treatment plant's effluent to render the waters injurious to public health or secondary recreation or to aquatic life and wildlife or to adversely affect the palatability of fish or aesthetic quality or impair the receiving waters for any designated uses. 
+</section>
+   <section prefix="(12)">	Any waste water containing any radioactive wastes or isotopes except as specifically approved by the POTW Director in compliance with applicable state or Federal regulations. 
+</section>
+   <section prefix="(13)">	Stormwater, surface water, ground water, artesian well water, roof runoff, subsurface drainage, swimming pool drainage, condensate, deionized water, noncontact cooling water and unpolluted industrial waste water, unless specifically authorized by the POTW Director. 
+</section>
+   <section prefix="(14)">	Fats, oils, or greases of animal or vegetable origin in concentrations greater than one hundred (100) mg/l, unless specifically authorized by the POTW Director. 
+</section>
+   <section prefix="(15)">	Any sludges, screenings or other residues from the pretreatment of industrial wastes, unless specifically authorized by the POTW Director. 
+</section>
+   <section prefix="(16)">	Any medical wastes, except as specifically authorized in the medical facility's Policy for Disposal of Medical Wastes after it has been approved by the POTW Director as an attachment to and as part of the medical facility's waste water discharge permit. 
+</section>
+   <section prefix="(17)">	Any material containing ammonia, ammonia salts, or other chelating agents which will produce metallic complexes that interfere with the municipal waste water system. 
+</section>
+   <section prefix="(18)">	Any material that would be identified as hazardous waste according to 40 CFR Part 261 if not disposed of in a sewer except as may be specifically authorized by the POTW Director. 
+</section>
+   <section prefix="(19)">	Any waste water causing the treatment plant effluent to violate state water quality standards for toxic substances as described in 15A NCAC 2B .0200. 
+(20)	Waste water causing, alone or in conjunction with other sources, the treatment plant's effluent to fail a toxicity test. 
+</section>
+   <section prefix="(21)">	Recognizable portions of the human or animal anatomy.
+</section>
+   <section prefix="(22)">	Any wastes containing detergents, surface active agents, or other substances which may cause excessive foaming in the municipal waste water system. 
+</section>
+   <section prefix="(23)">	At no time shall two (2) successive readings on an explosion hazard meter, at the point of discharge into the system (or at any point in the system) be more than five (5) per cent nor any single reading over ten (10) per cent of the lower explosive limit (LEL) of the meter. 
+</section>
+   <section prefix="(24)">	Any type of paper product, other than toilet paper.
+</section>
+   <section prefix="(25)">	Any type of cloth, including diapers and wash cloths.
+</section>
+   <section prefix="(26)">	Any type of disposable diaper.
+</section>
+   <section prefix="(27)">	Any type of tobacco product, including cigarettes, cigars, chewing tobacco, and snuff.
+</section>
+   <section prefix="(28)">	Any type of condom.
+</section>
+   <section prefix="(29)">	Any type of personal hygiene product, including tampons, sanitary napkins, and towelettes.
+(30)	Wood, debris, or wood product, including trees, limbs, roots, leaves, yard waste, grass clippings, or lumber.
+</section>
+   <section prefix="(31)">	Construction material, debris, or tools, including rocks, gravel, cement, concrete, masonry bricks or block, shovels, and hand tools. 
+</section>
+   <section prefix="(32)">	Adhesives, glue, dye, or stones used in the manufacture of products.
+</section>
+   <section prefix="(33)">	Product containers, including boxes, bottles, cans, or buckets.
+</section>
+   <section prefix="(34)">	Appliances or parts of appliances.
+</section>
+   <section prefix="(35)">	Vehicles or parts of vehicles.
+</section>
+   <section prefix="(36)">	Rope, string, twine, thread, or similar materials.
+</section>
+   <section prefix="(37)">	Material made of fabric, including carpet, blankets, sheets, sleeping bags.
+</section>
+   <section prefix="(38)">	Trash bags, whether paper or plastic.
+</section>
+   <section prefix="(39)">	All other solids or liquids, other than wastes from the human body, that may accumulate in sewer pipes and cause or contribute to blockages. 
+</section>
+  </section>
+  <section prefix="(c)">	Processing and storage of prohibited pollutants, substances, etc. 
+Pollutants, substances, waste water, or other wastes prohibited by this section shall not be processed or stored in such a manner that they could be discharged to the municipal waste water system. All floor drains located in process or materials storage areas must discharge to the industrial user's pretreatment facility before connecting with the system. 
+</section>
+  <section prefix="(d)">
+   <section prefix="(1)">	Advise the user(s) or consumer(s) of the potential impact of the contribution on the POTW in accordance with §8-2140.4 of this article; and 
+</section>
+   <section prefix="(2)">	Take appropriate actions in accordance with Division 4 of this article for such user or consumer to protect the POTW from interference or pass through. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+  </section>
+ </text>
+</law>

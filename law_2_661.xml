@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2072" order_by="12-2072" level="5">Sec. 12-2072. - DETERMINATION OF ELIGIBILITY.</unit>
+ </structure>
+ <section_number>12-2072</section_number>
+ <catch_line>DETERMINATION OF ELIGIBILITY.</catch_line>
+ <order_by>12-2072</order_by>
+ <text>
+No scrip shall be accepted in payment for taxi service until the passengers first identify themselves as an eligible ART user by showing the driver an official ART identification card. The taxicab driver is required to ensure that the individual paying scrip for taxi service is the same as the individual whose photograph is displayed on the official ART identification card. If the passenger does not have an identification card or if the passenger's picture does not match, then scrip shall not be accepted and the passenger must pay fare in cash. 
+(Ord. No. 1989-383, §4, 6-6-89) 
+</text>
+</law>

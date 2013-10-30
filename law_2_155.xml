@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2040" order_by="5-2040" level="5">Sec. 5-2040. - KEY BOX SYSTEM.</unit>
+ </structure>
+ <section_number>5-2040</section_number>
+ <catch_line>KEY BOX SYSTEM.</catch_line>
+ <order_by>5-2040</order_by>
+ <text>
+  <section prefix="(a)">	Requirements. 
+All commercial enterprises or industries in the City of Raleigh which use, store or manufacture on-site toxic or hazardous materials that must be reported with regulated materials under Title III of the Federal Superfund Amendments and Reauthorization Act (SARA), 42 USC 11001 et seq., Clean Air Act Amendment 112, Chapter 95 Article 18 of the North Carolina General Statutes and the regulations promulgated there under, must have an approved on-site hazardous materials data storage/key box system at each facility where hazardous materials may be found. This requirement shall ensure consistency at all facilities storing hazardous materials so that responders can quickly locate, access, and utilize information located in the data storage/key box system. 
+All facilities having a system that transmits an off-site alarm for fire detection and/or fire suppression systems shall have an approved on-site key box system (consisting of a data storage box and when required a Hazardous Material Data Storage Cabinet) which contains keys to provide fire department access in an emergency or alarm activation. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The data storage box shall contain keys providing access to all secured areas of the facility and may also serve as the required facility key box required by state and local fire codes. The data storage box shall contain current, specific information needed to assist fire departments and hazardous materials teams responding to emergencies at the facility. This information includes but is not limited to, facility maps or plans showing the type, name and location of hazardous materials, SARA Tier II forms, lists of chemicals, with Chemical Abstracts Service (CAS) numbers that are required to be reported on SARA Tier II forms, 24 hour emergency telephone numbers for essential facility employees and other persons to be contacted in case of emergencies. 
+</section>
+   <section prefix="(2)">	The data storage box shall contain the Site Specific Hazardous Chemical Plan/Hazardous Materials Management Plan, specifically in the Wake County and City of Raleigh format. This form shall be updated annually, or more often as necessary, to ensure accuracy. 
+</section>
+   <section prefix="(3)">	The data storage box itself shall be of the type designated and approved by an Office of the Fire Marshal staff member and the Wake County Local Emergency Planning Committee and shall be located at the primary vehicular entrance, outside any security fence that may be surrounding the facility and visible and accessible to emergency responders. If the facility staffs a security control checkpoint, the data storage box may be located at the security checkpoint, but located outside any surrounding security fence, and shall be visible and accessible to all emergency responders. The data storage box may be mounted to a post or other stand alone structure, so long as the above criteria are met. The data storage box may be mounted to a structure that is located outside the secured perimeter, but shall not be mounted to the exterior wall of the facility or inside the facility housing the hazardous materials. 
+</section>
+   <section prefix="(4)">	Facilities may apply for a site specific variance for the location of the Hazardous Materials Data Storage Cabinet to Wake County Emergency Management, Hazardous Material Planner. It is at the discretion of Wake County Emergency Management whether to approve or deny the request. If an alternated location is approved, the Wake County Emergency Management, Hazardous Material Planner will notify the Fire Marshal as to its location. 
+</section>
+   <section prefix="(5)">	The type and model key box system required shall be The Knox Company and based on the criteria listed below: 
+a.	Buildings with less than five stories: Model 3200.
+b.	Hazardous Materials Facility with site specific plans per Wake County LEPC: Data Storage Cabinet.
+c.	Buildings of five or more stories: Data Storage Cabinet.
+The Fire Marshal may approve other data storage boxes and Hazardous Material Data Cabinets which are equivalent to those listed herein. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+State law references: Identification of Toxic or Hazardous Substances, Chapter 95 Article 18 of the North Carolina General Statutes; Fire Prevention Code; Civil preparedness functions under State Department of Crime Control and Public Safety, G.S. §143B-475; Continuity of local government in emergency, G.S. Chapter 162B; Emergency management, G.S. Chapter 166A. 
+</section>
+  </section>
+ </text>
+</law>

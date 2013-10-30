@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.3" order_by="2.3" level="3">Sec. 2.3 - POWER AND ORGANIZATION OF CITY COUNCIL.</unit>
+ </structure>
+ <section_number>I-II-2.3</section_number>
+ <catch_line>POWER AND ORGANIZATION OF CITY COUNCIL.</catch_line>
+ <order_by>2.3</order_by>
+ <section prefix="text">
+All legislative powers of the City shall be vested in the City Council. The City Council shall meet following their election as provided in the general law and shall select such officers as may be provided in this Charter or by general law. At that time, the Mayor, Mayor pro tempore and other members of the City Council shall take and subscribe the oath of office as provided by law. Any such officer not present at this time may take and subscribe the oath at a later time. 
+) 
+</section>
+ <history>(S.L. 1949, Ch. 1184, §10; S.L. 1961, Ch. 800, §1; S.L. 1969, Ch. 383, §1; S.L. 1973, Ch. 319, §1(c)</history>
+</law>

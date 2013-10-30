@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="7" order_by="7" level="2">PART 7 - SOLID WASTE SERVICES [1]</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - SOLID WASTE COLLECTION [2]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="7-2002" order_by="7-2002" level="5">Sec. 7-2002.3. - APPEAL OF CIVIL PENALTY ASSESSMENTS AND ADMINISTRATIVE FEES.</unit>
+ </structure>
+ <section_number>7-2002</section_number>
+ <catch_line>APPEAL OF CIVIL PENALTY ASSESSMENTS AND ADMINISTRATIVE FEES.</catch_line>
+ <order_by>7-2002</order_by>
+ <text>
+  <section prefix="(a)">	Any person assessed a civil penalty or an administrative fee may appeal by filing a written notice of appeal with the Director of the Solid Waste Services Department within ten (10) days after service of the written demand for payment of the assessment. The written appeal shall provide the reasons the petitioner contends that the administrative fee or civil penalty was wrongly applied and any supporting documentation. Failure to file a notice of appeal within this time period shall constitute a waiver of the right to contest the civil penalty or the administrative fee. 
+</section>
+  <section prefix="(b)">	Using the information provided, the Director of the Solid Waste Services Department shall conduct a review of the appeal. The Director of Solid Waste Services may amend or reverse the assessment. 
+</section>
+  <section prefix="(c)">	Unless the Director of Solid Waste Services resolves the appeal, the Director of Solid Waste Services shall schedule the appeal for determination by the City Council if the person who filed the appeal so requests. The City Council shall fix a reasonable time for the hearing of an appeal, shall give due notice of such hearing to the petitioner and the City Manager, and shall render its decision in a reasonable time. 
+</section>
+  <section prefix="(d)">	The City Council's decision on a civil penalty appeal or an administrative fee is subject to further review in the Superior Court of Wake County by proceedings in the nature of certiorari. Any petition for writ of certiorari shall be filed with the Clerk of Superior Court within thirty (30) days after the date that the City Council's decision is issued. 
+(Ord. No. 2011-822, §3, 1-4-11) 
+</section>
+ </text>
+</law>

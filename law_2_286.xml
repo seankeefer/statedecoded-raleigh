@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2119" order_by="8-2119" level="5">Sec. 8-2119. - PRETREATMENT OF WASTE WATER.</unit>
+ </structure>
+ <section_number>8-2119</section_number>
+ <catch_line>PRETREATMENT OF WASTE WATER.</catch_line>
+ <order_by>8-2119</order_by>
+ <text>
+  <section prefix="(a)">	Pretreatment facilities. 
+Users shall provide waste water pretreatment as necessary to comply with this article and waste water permits issued under §8-2127 of this article and shall achieve compliance with all national categorical pretreatment standards, local limits, and the prohibitions set out in §8-2113 of this article within the time limitations as specified by the EPA, the State, or the POTW Director, whichever is more stringent. Any facilities necessary for compliance shall be provided, operated, and maintained at the user's expense. Detailed plans showing the pretreatment facilities and operating procedures shall be submitted to the City for review, and shall be approved by the POTW Director before construction of the facility. The review of such plans and operating procedures shall in no way relieve the user from the responsibility of modifying the facility as necessary to produce an effluent acceptable to the City under the provisions of this article. Any subsequent changes in the pretreatment facilities or method of operation shall be reported to and be approved by the POTW Director prior to the user's initiation of the changes. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Whenever deemed necessary, the POTW Director may require users to restrict their discharge during peak flow periods, designate that certain waste water be discharged only into specific sewers, relocate and/or consolidate points of discharge, separate sewage waste streams from industrial waste streams, and such other conditions as may be necessary to protect the POTW and determine the user's compliance with the requirements of this article. 
+</section>
+   <section prefix="(2)">	The POTW Director may require any person discharging into the POTW to install and maintain, on their property and at their expense, a suitable storage and flow control facility to ensure equalization of flow. A waste water discharge permit may be issued solely for flow equalization. 
+</section>
+   <section prefix="(3)">	All food preparation or serving facilities and all vehicle maintenance facilities connected to the City's sanitary sewer system shall install, maintain, and keep in continuous operation a grease trap interceptor. The interceptor shall be sized in accordance with standards established by the Public Utilities Department. Food preparation or serving facilities and vehicle maintenance facilities shall maintain a written record of maintenance performed on the interceptor for a minimum of three (3) years and shall immediately produce that record upon the City's request. 
+</section>
+   <section prefix="(4)">	Users with the potential to discharge flammable substances may be required to install and maintain an approved combustible gas detection meter. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+  </section>
+ </text>
+</law>

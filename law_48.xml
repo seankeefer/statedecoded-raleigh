@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.7" order_by="6.7" level="3">Sec. 6.7 - DIVISION OF COLLECTION; CITY COLLECTOR OF REVENUE.</unit>
+ </structure>
+ <section_number>I-VI-6.7</section_number>
+ <catch_line>DIVISION OF COLLECTION; CITY COLLECTOR OF REVENUE.</catch_line>
+ <order_by>6.7</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	The City Manager shall appoint a City Collector of Revenue, who shall have all of the powers and duties imposed by the general laws of North Carolina upon municipal tax collectors and who shall have the power and duty of collecting, receiving and properly accounting for all taxes, special assessments, license fees, penalties, interest and other revenues payable to the City of Raleigh. The City Collector of Revenue shall serve at the pleasure of the City Manager and may be removed from office as provided by law. The City Collector of Revenue shall, before entering upon his duties and annually on or before the first day of the fiscal year of the City of Raleigh, furnish to the City of Raleigh a bond in an amount of not less than fifty thousand dollars ($50,000), as may be prescribed and approved by the City Council, for the faithful performance of his duties and for a proper accounting of all funds coming into his hands by virtue of his office, or coming into his possession in connection therewith, for which he may be responsible, a new bond to be furnished annually, and he shall receive such compensation for his services as is fixed by the City Council. 
+</section>
+  <section prefix="(b)">	In the event that provision shall be lawfully made for the collection of ad valorem taxes to be collected and received by any collector who collects both City of Raleigh and Wake County taxes, the City Collector of Revenue shall thereupon have no power or duties to collect such taxes, penalties, interest and revenues the responsibility for the collection and receiving of which shall be imposed upon such collector who collects both City and County taxes; in such event, the City Council may prescribe a bond for the City Collector of Revenue which may be less than the amount of fifty thousand dollars ($50,000) as hereinabove provided for. 
+</section>
+ </section>
+</law>

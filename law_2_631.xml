@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2034" order_by="12-2034" level="5">Sec. 12-2034. - DRIVERS' MANIFESTS.</unit>
+ </structure>
+ <section_number>12-2034</section_number>
+ <catch_line>DRIVERS' MANIFESTS.</catch_line>
+ <order_by>12-2034</order_by>
+ <text>
+  <section prefix="(a)">	Every driver shall maintain a daily manifest upon which are recorded all trips made each day, showing time and place of origin and destination of each trip, the number of passengers and amount of fare, and, in the case of trips taken by persons who are eligible to use ART scrip, record in addition, the ART identification number of the user, the exact fare registered on the taximeter and the amount of scrip used to pay for the trip. All such completed manifests shall be returned to the owner by the driver at the conclusion of his tour of duty. The forms for such records shall be furnished to the driver by the owner and shall be of a character approved by the City Manager. 
+</section>
+  <section prefix="(b)">	Every owner shall retain and preserve all drivers' manifests in a safe place for at least one hundred eighty (180) days and the same shall be made available upon demand for inspection by the Police Department and taxicab inspector, and as requested by the taxicab inspector, information on the driver's manifests shall be tabulated and forwarded to him. 
+(Code 1959 , §22-14; Ord. No. 1989-383, §7, 6-6-89) 
+</section>
+ </text>
+</law>

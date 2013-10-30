@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF FINANCE</unit>
+  <unit label="section" identifier="2-1003" order_by="2-1003" level="4">Sec. 2-1003. - ANNUAL INDEPENDENT AUDIT.</unit>
+ </structure>
+ <section_number>2-1003</section_number>
+ <catch_line>ANNUAL INDEPENDENT AUDIT.</catch_line>
+ <order_by>2-1003</order_by>
+ <text>
+  <section prefix="(1)">	Advise the Council regarding comments to other governmental units and agencies on the position of the City of Raleigh with regard to environmental matters. 
+</section>
+  <section prefix="(2)">	Advise the City Council on matters relating to fuel efficiency. 
+</section>
+  <section prefix="(3)">	Advise the City Council on matters relating to environmental education and awareness. 
+</section>
+  <section prefix="(4)">	Advise the City Council on matters relating to environmental awards and recognition programs. 
+</section>
+  <section prefix="(5)">	Advise the City Council on policies that the City of Raleigh should implement or amend as requested by Council. 
+</section>
+  <section prefix="(6)">	Advise the City Council on such other matters related to environmental quality and safety as the Council shall refer to said Board. 
+(Ord. No. 2006-56, §1, 6-20-06)  
+</section>
+ </text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2206" order_by="11-2206" level="5">Sec. 11-2206. - METER ZONES; PERIOD OF OPERATION.</unit>
+ </structure>
+ <section_number>11-2206</section_number>
+ <catch_line>METER ZONES; PERIOD OF OPERATION.</catch_line>
+ <order_by>11-2206</order_by>
+ <text>
+Parking meters shall be operated in parking meter zones every day between the hours of 8:00 a.m. and 5:00 p.m., except Saturday, Sunday, Independence Day, Labor Day, Thanksgiving Day, Martin Luther King, Jr., Day (third Monday in January), and Christmas Day, and except at the central post office where parking shall be restricted in accordance with the provisions of this chapter and except on such other days and times excepted from time to time by the City Council, and noted on official Traffic Schedule No. 20; provided that the exceptions shall not apply to the fifteen-minute parking meter zone around the post office building. 
+(Code 1959 , §21-48(f); Ord. No. 1987-954, §1, 4-7-87; Ord. No. 2006-998, §2, 4-18-06) 
+</text>
+</law>

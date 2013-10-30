@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - WATER QUALITY PROTECTION [5]</unit>
+  <unit label="section" identifier="8-2145" order_by="8-2145" level="5">Sec. 8-2145. - RIGHT OF ACCESS.</unit>
+ </structure>
+ <section_number>8-2145</section_number>
+ <catch_line>RIGHT OF ACCESS.</catch_line>
+ <order_by>8-2145</order_by>
+ <text>
+The Director of Public Utilities, or authorized representative, shall have the right to enter, at reasonable time, any nonresidential property served by a connection to the Raleigh public water supply for the purpose of performing the duties of this article. In those cases in which the property owner chooses not to provide such access, the Director of Public Utilities, or authorized representative, may designate the location as a high hazard in accordance with §8-2147. 
+(Ord. No. 1987-20, §1, 7-21-87) 
+</text>
+</law>

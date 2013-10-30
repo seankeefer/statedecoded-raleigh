@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - REUSE WATER REGULATION [7]</unit>
+  <unit label="section" identifier="8-2190" order_by="8-2190" level="5">Sec. 8-2190. - LABELING AND COLOR-CODING.</unit>
+ </structure>
+ <section_number>8-2190</section_number>
+ <catch_line>LABELING AND COLOR-CODING.</catch_line>
+ <order_by>8-2190</order_by>
+ <text>
+All reuse water valves, storage facilities and outlets shall be tagged or labeled to warn the public or employees that the water is not intended for drinking. 
+All reuse water piping, valves, outlets and other appurtenances shall be color-coded, taped, or otherwise marked to identify the source of the water as being reuse water, as defined in the Public Utility Handbook. 
+(Ord. No. 2006-100, §1, 9-19-06) 
+</text>
+</law>

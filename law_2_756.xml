@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - NUISANCE ANIMALS</unit>
+  <unit label="section" identifier="12-3021" order_by="12-3021" level="5">Sec. 12-3021. - PUBLIC NUISANCE ANIMALS.</unit>
+ </structure>
+ <section_number>12-3021</section_number>
+ <catch_line>PUBLIC NUISANCE ANIMALS.</catch_line>
+ <order_by>12-3021</order_by>
+ <text>
+  <section prefix="(a)">	Prohibited generally; exceptions. 
+It shall be unlawful to own, keep, or harbor a public nuisance animal within the City. Provided, however, it shall not be unlawful to own or keep a dog of vicious tendencies for the protection of persons or property, if such dog is securely confined in a manner not to expose it to the general public. This exception for dogs of vicious tendencies does not extend to dogs which excessively make disturbing noises. 
+</section>
+  <section prefix="(b)">	Complaint and notice. 
+Upon receipt of a written detailed and signed complaint being made to the animal control division of the Police Department by any resident or residents that any person is maintaining a public nuisance as defined in §12-3004 of this chapter, the Chief of Police shall cause the owner of the animal or animals in question to be notified that a complaint has been received and shall cause the situation complained of to be investigated and a report and findings thereon to be reduced to writing by the investigating animal control officer. 
+</section>
+  <section prefix="(c)">	Abatement. 
+If the written findings of the investigating officer indicate that the complaint is justified, then the Chief of Police shall cause the owner or keeper of the animal or animals in question to be so notified in writing, by registered mail, return receipt requested, ordered to abate such nuisance within seven (7) days after notification, and issued a citation for the violation. In the event the owner of the animal or animals is unknown and cannot be ascertained, the notice and order, along with a general description of the animal or animals shall be published within a local newspaper. 
+</section>
+  <section prefix="(d)">	Impoundment upon failure to abate. 
+If any person receiving notice in the manner hereinabove described shall fail or refuse to abate the nuisance upon order of the Chief of Police within the specified time, the Police Chief may cause the animal or animals in question to be apprehended and impounded in accordance with the provisions of Article E of this chapter. 
+</section>
+  <section prefix="(e)">	Right of appeal. 
+Within the seven-day period mentioned in subsection (c) above, the owner of the nuisance animal may appeal the findings of the Chief of Police to the City Manager by giving written notice of appeal to the Chief of Police, the appeal to stay the abatement of the nuisance until a final determination by the City Council. 
+</section>
+  <section prefix="(f)">	Redemption; destruction. 
+If the owner shall so request, the animal or animals may be redeemed pursuant to the provisions of §12-3064 and upon the further condition that the owner execute a written agreement to comply with the abatement order. If no redemption and execution is made by the owner within the time specified under §12-3063, then the animal shall be disposed of in accordance with the provisions of §12-3065 hereunder. 
+(Code 1959 , §4-13; Ord. No. 1984-307, §4, 3-20-84) 
+</section>
+ </text>
+</law>

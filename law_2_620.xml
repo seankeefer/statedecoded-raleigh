@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2023" order_by="12-2023" level="5">Sec. 12-2023. - TAXICAB INSPECTOR; OFFICE CREATED; DUTIES GENERALLY.</unit>
+ </structure>
+ <section_number>12-2023</section_number>
+ <catch_line>TAXICAB INSPECTOR; OFFICE CREATED; DUTIES GENERALLY.</catch_line>
+ <order_by>12-2023</order_by>
+ <text>
+There is hereby created the office of taxicab inspector. The taxicab inspector shall be responsible for the inspection of taxicabs and other vehicles, the practical administration of this article, and the safety and welfare of the public in connection with the operation and use of taxicabs and other vehicles as defined by this article. 
+The taxicab inspector shall from time to time cause to be made an inspection of taxicabs and other vehicles as defined in §12-2022. If any vehicle shall be found unsafe or unfit for operation, written notice shall be given the driver and the holder of the certificate and license therefor of such condition, and such vehicle shall not be operated thereafter until the same has been put in safe and fit condition. 
+(Code 1959 , §22-3; Ord. No. 1980-487, §4, 10-7-80; Ord. No. 1990-674, §2, 11-6-90; Ord. No. 2009-671, §5, 11-3-09) 
+</text>
+</law>

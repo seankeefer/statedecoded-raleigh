@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2215" order_by="11-2215" level="5">Sec. 11-2215. - RESERVATION OF POWERS.</unit>
+ </structure>
+ <section_number>11-2215</section_number>
+ <catch_line>RESERVATION OF POWERS.</catch_line>
+ <order_by>11-2215</order_by>
+ <text>
+Nothing in this article shall be construed as prohibiting the City from providing for bus stops, for taxicab stands and other matters of similar nature, including the loading or unloading of trucks, vans, or other commercial vehicles. 
+(Code 1959 , §21-52) 
+</text>
+</law>

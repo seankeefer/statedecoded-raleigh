@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.24" order_by="6.24" level="3">Sec. 6.24 - FIRE DEPARTMENT.</unit>
+ </structure>
+ <section_number>I-VI-6.24</section_number>
+ <catch_line>FIRE DEPARTMENT.</catch_line>
+ <order_by>6.24</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created, within the Department of Public Safety, a Fire Department (or division), which shall be composed of a Chief of the Fire Department (or division), and such other officers and employees as shall be deemed necessary by the City Council, whose salaries shall be fixed by the City Council. 
+</section>
+  <section prefix="(b)">	The Chief of the Fire Department shall be responsible for the discipline and efficiency of the Fire Department. All orders shall pass through him and he shall see that all orders, rules and regulations applicable to the Fire Department are fully carried out and performed. Subject to the legislative control of the City Council, rules and regulations shall be made by the Chief and approved by the Director of Public Safety and the City Manager and the same shall be published and each member of the department shall familiarize himself with such rules and regulations. 
+</section>
+  <section prefix="(c)">	The Fire Department shall protect the lives and property of the people. In case of an emergency, the Chief of the Fire Department may cause the blowing up, or pulling down or destroying of any house or houses, and no person shall be held liable civilly or criminally for acting in such cases in obedience to such order. 
+</section>
+  <section prefix="(d)">	The Chief of the Fire Department and the other officers of the department shall have full police powers during fires, and are authorized to make arrests for interference with their operations. 
+</section>
+  <section prefix="(e)">	In the event of an alarm of fire, the apparatus of the Fire Department shall have the exclusive right-of-way in and upon the streets, alleys, squares and railroad crossings in going to any fire. 
+</section>
+  <section prefix="(f)">	The Fire Department shall have the same jurisdiction outside the City limits, as within, upon City owned, leased or controlled property, and as provided by the general laws of North Carolina. 
+</section>
+  <section prefix="(g)">	The Chief of the Fire Department shall perform all duties under the general laws as the same are now or may hereafter be enacted with respect to the inspection of buildings. 
+</section>
+  <section prefix="(h)">	The Chief of the Fire Department shall have authority to make promotions and demotions of members in the department subject to the Civil Service Act applicable to the Police and Fire Departments of the City of Raleigh. 
+</section>
+ </section>
+</law>

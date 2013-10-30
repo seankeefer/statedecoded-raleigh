@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2072" order_by="11-2072" level="5">Sec. 11-2072. - STOP INTERSECTIONS.</unit>
+ </structure>
+ <section_number>11-2072</section_number>
+ <catch_line>STOP INTERSECTIONS.</catch_line>
+ <order_by>11-2072</order_by>
+ <text>
+  <section prefix="(a)">	Except when directed to proceed by a police officer, every driver of a vehicle approaching a designated stop intersection which shall be indicated by a stop sign or, in the discretion of the transportation director, a flashing red light, shall stop before entering the crosswalk, on the near side of the intersection, or, in the event there is no crosswalk, shall stop at a clearly marked stop line, or, if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the intersection. 
+</section>
+  <section prefix="(b)">	The driver having stopped in obedience to a stop sign or flashing red light at an intersection shall proceed cautiously, yielding the right-of-way to all vehicles not so obliged to stop which are approaching the intersection. 
+</section>
+  <section prefix="(c)">	Stop intersections and the location of signs or flashing red lights at those intersections shall be in accordance with official Traffic Schedule No. 2, Stop Intersections. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+State law reference: Stop intersections, G.S. 20-158(a). 
+</section>
+ </text>
+</law>

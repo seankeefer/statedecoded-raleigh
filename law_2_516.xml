@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2211" order_by="11-2211" level="5">Sec. 11-2211. - UNLAWFUL ACTS.</unit>
+ </structure>
+ <section_number>11-2211</section_number>
+ <catch_line>UNLAWFUL ACTS.</catch_line>
+ <order_by>11-2211</order_by>
+ <text>
+  <section prefix="(a)">	It shall be unlawful for any person other than a person having a valid permit issued under authority of §§11-2207 through 11-2210, his authorized agents, employees or servants to park or stand any vehicle in the street parking space adjacent to any parking meter covered or hooded or in a street parking space in which a traffic cone has been placed; provided that employees of the City Traffic Engineering Department shall be authorized to encumber any area described in §11-2207 for the purpose of the installation or maintenance of any traffic-control devices, such encumbrance to be accomplished by the placement of traffic cones or barricades in such area. 
+</section>
+  <section prefix="(b)">	It shall be further unlawful for any unauthorized person to cover or hood any parking meter, or to place a traffic cone in any parking space, or to remove, damage or destroy any official parking meter cover, hood or traffic cone of the City, or for any unauthorized person to have in his possession any official parking meter hood or cover, traffic cone, or any other device designed for the encumbrance of parking spaces contrary to the provisions of §§11-2207 through 11-2210 
+(Code 1959 , §21-48.1) 
+</section>
+ </text>
+</law>

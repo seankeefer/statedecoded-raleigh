@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3007" order_by="12-3007" level="5">Sec. 12-3007. - RUNNING AT LARGE PROHIBITED.</unit>
+ </structure>
+ <section_number>12-3007</section_number>
+ <catch_line>RUNNING AT LARGE PROHIBITED.</catch_line>
+ <order_by>12-3007</order_by>
+ <text>
+  <section prefix="(a)">	It shall be unlawful for the owner of any domesticated animal to allow such animal to be at-large within the corporate limits of the City or on any City property. 
+</section>
+  <section prefix="(b)">	No person shall tether a dog to a tree, fence, post, dog house, or other stationary object for more than three (3) hours total in any twenty-four-hour period. Any device used to tether shall be at least ten (10) feet long and attached in such a manner as to prevent strangulation or other injury to the dog and entanglement with other objects. A cable trolley system may be used to tether for the allowed period so longs as the stationary cable is at least ten (10) feet long and the dog can perpendicularly move at least ten (10) feet away from the stationary line. The line should be attached to the dog with a buckle type collar or a body harness. The device used to tether shall weigh no more than ten (10) percent of the animal's body weight and must allow the dog access to food and water. In addition to being a misdemeanor, a violation of this section is subject to a civil penalty of one hundred dollars ($100.00) per day for each day of violation. 
+(Code 1959 , §4-7; Ord. No. 1982-941, §1, 7-20-82; Ord. No. 2009-552, §2, 3-3-09, eff. 7-1-09)  
+</section>
+ </text>
+</law>

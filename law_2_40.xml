@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="1-4003" order_by="1-4003" level="5">Sec. 1-4003. - LIMITATION OF TERMS.</unit>
+ </structure>
+ <section_number>1-4003</section_number>
+ <catch_line>LIMITATION OF TERMS.</catch_line>
+ <order_by>1-4003</order_by>
+ <text>
+  <section prefix="(a)">	An appointee may serve on any one (1) commission no more than three (3) two-year terms in succession. 
+</section>
+  <section prefix="(b)">	No person shall serve on more than two (2) commissions at any one (1) time. 
+</section>
+  <section prefix="(c)">	The Council hereby establishes a policy of attempting to include on each commission a member less than twenty-one (21) years of age. 
+(Res. 1974-160A, §§3—5; Ord. No. 1981-699, §1, 7-7-81; Ord. No. 1986-761, §2, 4-1-86) 
+</section>
+ </text>
+</law>

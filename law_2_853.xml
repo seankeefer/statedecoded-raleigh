@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="14" order_by="14" level="2">PART 14 - GENERAL PROVISIONS</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - USE OF CODE; RULES OF CONSTRUCTION; PENALTIES</unit>
+  <unit label="section" identifier="14-1009" order_by="14-1009" level="4">Sec. 14-1009. - EFFECT OF REPEAL OR EXPIRATION OF ORDINANCES.</unit>
+ </structure>
+ <section_number>14-1009</section_number>
+ <catch_line>EFFECT OF REPEAL OR EXPIRATION OF ORDINANCES.</catch_line>
+ <order_by>14-1009</order_by>
+ <text>
+It shall be unlawful for any person to use for any dog, attack and security dog training facility, or holding facility, a license receipt, or a rabies inoculation certificate issued to another person, dog, cat, or facility. 
+(Code 1959 , §4-49; Ord. No. 1980-502, §4, 10-21-80; Ord. No. 2012-59, §5, 6-5-12, eff. 1-1-13)  
+</text>
+</law>

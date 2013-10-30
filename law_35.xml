@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="IV" order_by="4" level="2">ARTICLE IV. - ELECTIONS [2] </unit>
+  <unit label="section" identifier="4.4" order_by="4.4" level="3">Sec. 4.4 - OCCURRENCE OF VACANCIES.</unit>
+ </structure>
+ <section_number>I-IV-4.4</section_number>
+ <catch_line>OCCURRENCE OF VACANCIES.</catch_line>
+ <order_by>4.4</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	All vacancies in elective offices shall be permanent and shall occur upon the death, removal or residence, other disqualification (such as that associated with a violation of the law), or disability of the elective office holder. For this purpose, a person shall be deemed to be disabled if, as a result of the certification of a physician, or as a result of an independent investigation by the City Council, it determines that a member is too infirm, either physically or mentally, to discharge his duties adequately and consistently. A member shall also be deemed to be disabled when he fails to attend six (6) consecutive regular meetings of the City Council. 
+</section>
+  <section prefix="(b)">	A person appointed to fill a vacancy on the City Council, due to disqualification or disability, shall be clothed with all the authority and powers given under the laws of North Carolina to such office; but the officer so chosen, shall be subject to recall as any other officer. 
+) 
+
+________________________________________
+FOOTNOTE(S):
+________________________________________
+--- (2) --- 
+Editor's note: 1973 Session Laws, Ch. 319, §1(j), amended the Charter by repealing former §§34-42, 44-47 and 49-53 pertaining to municipal elections. The former sections were derived from: 1951 Session Laws, Ch. 464, §1; 1953 Session Laws, Ch. 347, Art. 2; 1957 Session Laws, Ch. 970, §1; 1959 Session Laws, Ch. 811, §1; and 1965 Session Laws, Ch. 204, §1. (Back) 
+</section>
+ </section>
+ <history>(S.L. 1973, Ch. 319, §1(n)</history>
+</law>

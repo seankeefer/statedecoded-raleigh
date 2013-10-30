@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2073" order_by="11-2073" level="5">Sec. 11-2073. - YIELD SIGNS.</unit>
+ </structure>
+ <section_number>11-2073</section_number>
+ <catch_line>YIELD SIGNS.</catch_line>
+ <order_by>11-2073</order_by>
+ <text>
+  <section prefix="(a)">	The driver of a vehicle approaching a yield sign erected at designated locations, shall, and in obedience to the sign, slow down and yield the right-of-way to any pedestrian crossing the roadway on which he is driving and to any vehicle in movement on the main traveled or through highway or street which is approaching so as to arrive at the intersection at approximately the same time as the vehicle entering the main traveled or through street or highway. 
+</section>
+  <section prefix="(b)">	The driver of the vehicle approaching a yield sign, if required to stop, shall stop before entering the crosswalk on the near side of the intersection; or in the event there is no crosswalk, at a clearly marked stop line; but if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway. 
+</section>
+  <section prefix="(c)">	In accordance with the above, and when signs are erected giving notice thereof, drivers of vehicles, when entering designated or main-traveled or through streets from intersecting streets in the direction or directions shown, shall yield the right-of-way to approaching pedestrians or vehicles. 
+</section>
+  <section prefix="(d)">	Yield signs shall be located, and the regulations applicable thereto shall be effective, as designated in official Traffic Schedule No. 3, Yield Signs. 
+Cross reference: Schedules incorporated by reference, §11-2004 
+State law reference: Erection of yield signs, G.S. 20-158.1. 
+</section>
+ </text>
+</law>

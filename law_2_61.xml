@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2018" order_by="2-2018" level="5">Sec. 2-2018. - PRORATION OF TAX; SEASONAL BUSINESSES.</unit>
+ </structure>
+ <section_number>2-2018</section_number>
+ <catch_line>PRORATION OF TAX; SEASONAL BUSINESSES.</catch_line>
+ <order_by>2-2018</order_by>
+ <text>
+  <section prefix="(a)">	Except when a tax is based on gross receipts, if a business is begun after January 1, but before May 31, the tax shall be one-half of the amount otherwise due. 
+</section>
+  <section prefix="(b)">	Except when a tax is based on gross receipts, a person engaged in a business which is seasonal in nature is liable for one-half of the amount of tax otherwise due. 
+</section>
+ </text>
+</law>

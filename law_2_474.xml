@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2134" order_by="11-2134" level="5">Sec. 11-2134. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>11-2134</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>11-2134</order_by>
+ <text>
+  <section prefix="(a)">	Traffic-control photographic system. 
+An electronic system consisting of photographic, video or electronic camera and vehicle sensor installed to work in conjunction with and official traffic control and to automatically produce photographs, video or digital images of each vehicle violating a standard traffic control. 
+</section>
+  <section prefix="(b)">	In operation. 
+In good working order. 
+</section>
+  <section prefix="(c)">	System location. 
+The approach to an intersection toward which a traffic control photographic system is directed and in operation. 
+</section>
+  <section prefix="(d)">	Vehicle owner. 
+The person identified by the N.C. Department of Motor Vehicles as the registered owner of a motor vehicle. 
+(Ord. No. 2001-108, §1, 11-7-01) 
+</section>
+ </text>
+</law>

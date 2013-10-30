@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2126" order_by="11-2126" level="5">Sec. 11-2126. - MOTOR OR OTHER VEHICLES PROHIBITED FROM DRIVING OVER A MEDIAN STRIP OR FRESHLY PAINTED TRAFFIC DIRECTION SIGNS PAINTED ON THE CITY STREETS.</unit>
+ </structure>
+ <section_number>11-2126</section_number>
+ <catch_line>MOTOR OR OTHER VEHICLES PROHIBITED FROM DRIVING OVER A MEDIAN STRIP OR FRESHLY PAINTED TRAFFIC DIRECTION SIGNS PAINTED ON THE CITY STREETS.</catch_line>
+ <order_by>11-2126</order_by>
+ <text>
+It shall be unlawful for any person to drive any motor or other vehicles over a median strip or any freshly painted line, arrow, crosswalk lines, or other traffic direction sign painted on the streets of the City when signs, flags, marking cones, or other devices are placed adjacent thereto giving notice of the existence thereof. 
+(Code 1959 , §21-33.1) 
+</text>
+</law>

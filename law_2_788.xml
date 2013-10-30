@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - ADMINISTRATION AND ENFORCEMENT</unit>
+  <unit label="section" identifier="12-3067" order_by="12-3067" level="5">Sec. 12-3067. - CONFINEMENT OF ANIMALS WITH HISTORY OF BITING PEOPLE.</unit>
+ </structure>
+ <section_number>12-3067</section_number>
+ <catch_line>CONFINEMENT OF ANIMALS WITH HISTORY OF BITING PEOPLE.</catch_line>
+ <order_by>12-3067</order_by>
+ <text>
+All fierce, dangerous or vicious animals, including dogs that have a history of unlawful biting of humans, shall be confined by the owner within a building or secure enclosure or by the animal control warden in the animal control shelter. Such animals shall not be released from confinement unless securely muzzled. 
+(Code 1959 , §4-41) 
+</text>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2157" order_by="12-2157" level="5">Sec. 12-2157. - STANDARDS.</unit>
+ </structure>
+ <section_number>12-2157</section_number>
+ <catch_line>STANDARDS.</catch_line>
+ <order_by>12-2157</order_by>
+ <text>
+  <section prefix="(a)">	A resident manager shall reside on the licensed premises. The residential manager shall be able to be at the rooming house within thirty (30) minutes after being summoned by the Raleigh Police Department. A telephone shall be located in the resident manager's living quarters. The resident manager or the licensee shall at least once during the license period attend one of the quarterly classes conducted by the City for residential management. 
+</section>
+  <section prefix="(b)">	The licensee shall post a copy of this license in the resident manager's living quarter at a location visible from the entrance way of the living quarter. 
+</section>
+  <section prefix="(c)">	All sleeping quarters shall be served by working heating facilities and a bed with a mattress. 
+</section>
+  <section prefix="(d)">	The licensee shall meet each prospective tenant to determine that such tenant does not intend to use the living quarters for illegal activities. 
+</section>
+  <section prefix="(e)">	The licensee shall commence eviction proceedings against any tenant who engages in unlawful activity in or on the leased premises. 
+</section>
+  <section prefix="(f)">	The business location is not in violation of any applicable zoning, minimum housing code, and fire prevention code regulation.
+</section>
+  <section prefix="(g)">	An up-to-date floor plan and current list of occupants shall be maintained by the resident manager. This floor plan shall be posted in a conspicuous location. 
+(Ord. No. 1992-31, §1, 8-4-92; Ord. No. 1997-49, §2, 2-4-97) 
+</section>
+ </text>
+</law>

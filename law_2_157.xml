@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2042" order_by="5-2042" level="5">Sec. 5-2042. - OPERATIONAL PERMITS AND FEES.</unit>
+ </structure>
+ <section_number>5-2042</section_number>
+ <catch_line>OPERATIONAL PERMITS AND FEES.</catch_line>
+ <order_by>5-2042</order_by>
+ <text>
+  <section prefix="(a)">	Definitions. 
+Operational Permit is an official document issued by the Office of the Fire Marshal authorizing performance of a specified activity, use, or operation as required in Section 105 of the Fire Prevention Code. 
+</section>
+  <section prefix="(b)">	Required Operational Permits. 
+Prior to commencing any of the following operations, a permit shall be obtained from the Fire Marshal's Office pursuant to the procedure set forth in Chapter 1, Section 105 of the Fire Prevention Code, along with the North Carolina Amendments to the State Building Code and this ordinance. Permits shall be obtained to conduct those activities or operations as set forth in the following required operational permit and fee schedule. Permits will not be issued if violations of the fire code exist for the specific permit operation; once corrected, those permit(s) will be issued. If violations exist as part of an operational permit below, the operation or function shall not continue until the violation is corrected and a re-inspection has occurred. An existing building may be issued an operational permit for the permits listed below; the permit will be included in the fee for the inspection of an existing building in accordance with §5-2041 above. 
+Required Operational Permits and Fees1 
+Description	Reference #	Fee
+Aerosol Products (Level 2 or 3 in excess of 500 lbs.)	105.6.1	$78.00
+Amusement Buildings	105.6.2	$157.00
+Carnivals and Fairs	105.6.4	$157.00
+Combustible Dust-Producing Operations	105.6.6	$157.00
+Compressed Gases (meeting any of the criteria in 1—7 below) 	Table 105.6.8	
+ 1.  Corrosive in excess of 200 cu. ft. at NTP.		$78.00
+ 2.  Flammable in excess of 200 cu. ft. at NTP.		$78.00
+ 3.  Highly Toxic in any amount.		$78.00
+ 4.  Inert and Simple Asphyxiant in excess of 6,000 cu. ft. at NTP.		$78.00
+ 5.  Oxidizing (including oxygen) in excess of 504 cu. ft. at NTP.		$78.00
+ 6.  Pyrophoric in any amount		$78.00
+ 7.  Toxic in any amount		$78.00
+Covered Mall Building (meeting any of the criteria in 1—3 below) 	105.6.9	
+ 1.  The placement of retail fixtures and goods, concession, equipment, displays of highly combustible goods and similar items in the mall 	105.6.9(1)	$157.00
+ 2.  The display of liquid- or gas-fired equipment in the mall	105.6.9(2)	$157.00
+ 3.  The use of open-flame or flame-producing equipment in the mall	105.6.9(3)	$157.00
+Cryogenic Fluids (meeting any of the criteria in 1—4 below) 	Table 105.6.10	
+ 1.  Flammable Cryogenic Fluids &gt;1 gallon inside a building and 60 gallons outside a building		$78.00
+ 2.  Inert Cryogenic Fluids in excess of 60 gallons inside a building and in excess of 500 gallons outside a building		$78.00
+ 3.  Oxidizing (including oxygen) in excess of 10 gallons inside a building and in excess of 50 gallons outside a building		$78.00
+ 4.  Physical or Health Hazard not indicated above in any amount inside or outside a building		$78.00
+Dry Cleaning Plants	105.6.12	$78.00
+Exhibits and Trade Shows	105.6.13	$157.00
+Explosives—Up to 90 Day Permit (Blasting)	105.6.14	$315.00
+Explosives—Manufacture, Storage, Handling, Sale and Use	105.6.14	$157.00
+Flammable and Combustible Liquids 	106.16	
+ 1.  Fuel dispensing locations where produced, processed, transported, stored, dispensed, or used.	106.16(5)	$157.00
+ 2.  Place Temporarily out of Service Aboveground or Underground Storage Tanks. (AGST/UGST)3 	106.16(6)	$157.00
+ 3.  Change contents in tank to a greater hazard.	106.16(7)	$157.00
+ 4.  Manufacture, Process, Blend or Refine Flammable or Combustible Liquids.	106.16(8)	$157.00
+ 5.  Dispensing at Commercial, Industrial, Governmental or Manufacturing Establishments.	106.16(9)	$157.00
+ 6.  Utilize a Site for the Dispensing of Liquid Fuels from Tank Vehicles	106.16(10)	$157.00
+Floor Finishing Exceeding 350 square feet using Class I or II Liquids	105.6.17	$78.00
+Fumigation and Thermal Insecticidal Fogging Business	105.6.19	$78.00
+Hazardous Materials (See Table - Permit Amounts for Hazardous Materials)	105.6.20	$78.00
+High-Piled Combustible Storage Exceeding 500 square feet	105.6.22	$78.00
+Industrial Oven Operations	105.6.24	$78.00
+Liquid- or Gas-Fueled Vehicles or Equipment in Assembly Buildings 	105.6.26	$157.00
+Magnesium (Melt, Cast, Heat Treat or Grind more than 10 lbs.)	105.6.28	$78.00
+Miscellaneous Combustible Storage in Excess of 2,500 cubic feet	105.6.29	$78.00
+Open Burning—Bon Fire or Commercial Land Development	105.6.30	$157.00
+Place of Assembly	105.6.34	$78.00
+Private Fire Hydrants 	105.6.35	
+ 1.  For 0—5 Private Hydrants		$78.00
+ 2.  For 6—10 Private Hydrants		$105.00
+ 3.  For 10 or more Private Hydrants		$157.00
+Pyrotechnic Special Effects Material	105.6.36	$157.00
+Refrigeration Equipment (Regulated by Chapter 6 of the Fire Prevention Code)	105.6.38	$78.00
+Repair Garages and Motor Fuel-Dispensing Facilities	105.6.39	$78.00
+Rooftop Heliports	105.6.40	$78.00
+Spraying or Dipping	105.6.41	$157.00
+Storage of Scrap Tires and Tire Byproducts	105.6.42	$78.00
+Tire-Rebuilding Plants	105.6.44	$78.00
+Temporary Membrane Structures, Tents and Air-supported structures (Fee Per Structure)	105.6.43	$78.00
+Large Tents and Membrane Structures (In excess of 15,000 sq. ft.) (Fee Per Structure)	105.6.43	$262.00
+Waste Handling (Wrecking Yards, Junk Yards and Waste Material Handling Facilities)	105.6.45	$78.00
+Other Fees 
+Hydrant Test (Per Test)	$105.00
+Work Without a Required Permit	$262.00
+Re-Inspection Fee - Extra Inspections	$67.00
+Special Inspection Request	$78.00
+Fire Incident and Inspection Reports (Per page)	$0.05
+ 
+  1  For multiple buildings owned by the same owner(s), permit fees are per building as defined by the NC Building Code, Volume I. 
+  2  NTP - Normal Temperature and Pressure. 
+  3  AGST/UGST - Aboveground Storage Tank or Underground Storage Tank. 
+All fees appearing in §5-2042 will be adjusted annually on July 4 based on the average annual prior calendar year United States Department of Labor Consumer Price Index - All Urban Consumers. 
+</section>
+  <section prefix="(c)">	Operational Permit Renewal. 
+Operational permits will be valid for a period of one, two or three years and will be renewable upon completion of a fire inspection in accordance with §5-2041(a). Operational permits are valid until renewed or revoked. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11; Ord. No. 2011-918, §1, 6-21-11, eff. 7-4-11; Ord. No. 2012-65, §1, 6-18-12, eff. 7-1-12) 
+</section>
+ </text>
+</law>

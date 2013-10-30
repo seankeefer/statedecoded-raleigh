@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.1. - INSPECTION AND SAMPLING.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>INSPECTION AND SAMPLING.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+The City will inspect the facilities of any user to ascertain whether the purpose of this article is being met and all requirements are being complied with. Persons or occupants of premises where waste water is created and discharged shall allow the City, Approval Authority and the EPA or their representative ready access at all reasonable times to all parts of the premises for the purposes of inspection, sampling, records examination and copying or in the performance of any of their duties. The City, Approval Authority, and the EPA shall have the right to set up on the user's property such devices as are necessary to conduct sampling, inspection, compliance monitoring and/or metering operations. Where a user has security measures in force which would require proper identification and clearance before entry into their premises, the user shall make necessary arrangements with their security guards so that upon presentation of suitable identification, personnel from the City, Approval Authority and the EPA will be permitted to enter, without delay, for the purposes of performing their specific responsibilities. Denial of the POTW Director's, City's, Approval Authority's, or the EPA's access to the user's premises shall be a violation of this article. Unreasonable delays may constitute denial of access. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</text>
+</law>

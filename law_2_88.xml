@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - VIOLATIONS DIVISION</unit>
+  <unit label="section" identifier="2-2062" order_by="2-2062" level="5">Sec. 2-2062. - ANIMAL CONTROL; FINES AND SUMMONSES.</unit>
+ </structure>
+ <section_number>2-2062</section_number>
+ <catch_line>ANIMAL CONTROL; FINES AND SUMMONSES.</catch_line>
+ <order_by>2-2062</order_by>
+ <text>
+The violations division shall be responsible for the administration and collection of fines and issuance of any applicable summonses under the City's animal control ordinances. 
+Cross reference: Animals, Part 12, Ch. 3, Arts. A, B. 
+</text>
+</law>

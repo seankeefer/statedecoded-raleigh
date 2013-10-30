@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="11-2003" order_by="11-2003" level="5">Sec. 11-2003. - UNIFORM RULES OF THE ROAD.</unit>
+ </structure>
+ <section_number>11-2003</section_number>
+ <catch_line>UNIFORM RULES OF THE ROAD.</catch_line>
+ <order_by>11-2003</order_by>
+ <text>
+The provisions of G.S. 20-138 et seq., which apply to the operation of vehicles and rules of the road shall be in full force and effect upon the streets and highways within the City and shall be enforced wherever applicable. 
+State law references: Authority of cities to regulate traffic, G.S. 160A-300; restrictions on local authorities, G.S. 20-169; operation of motor vehicles and rules of the road, G.S. 20-138 et seq.; motor vehicles generally, G.S. 20-1 et seq. 
+</text>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.2" order_by="3.2" level="3">Sec. 3.2 - POWERS AND DUTIES.</unit>
+ </structure>
+ <section_number>I-III-3.2</section_number>
+ <catch_line>POWERS AND DUTIES.</catch_line>
+ <order_by>3.2</order_by>
+ <section prefix="text">
+The City Manager shall (1) be the administrative head of the City government; (2) see that within the City laws of the State and the ordinances, resolutions, and regulations of the Council are faithfully executed; (3) attend all meetings of the Council, and recommend for adoption such measures as he shall deem expedient; (4) make reports to the Council from time to time upon the affairs of the City, keep the Council fully advised of the City's financial condition and its future financial needs; (5) appoint and remove all heads of departments, superintendents, and other employees of the City, except as herein otherwise provided. 
+</section>
+</law>

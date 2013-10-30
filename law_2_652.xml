@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2056" order_by="12-2056" level="5">Sec. 12-2056. - PERMIT ISSUANCE, RENEWAL REQUIREMENT; EXCEPTIONS.</unit>
+ </structure>
+ <section_number>12-2056</section_number>
+ <catch_line>PERMIT ISSUANCE, RENEWAL REQUIREMENT; EXCEPTIONS.</catch_line>
+ <order_by>12-2056</order_by>
+ <text>
+  <section prefix="(a)">	Every owner shall provide service at least eighteen (18) hours each day, shall provide dispatching by two-way radio in each taxicab, and shall be listed under the firm name in the current or first subsequent publication of the Raleigh telephone directory following adoption of this section. 
+</section>
+  <section prefix="(b)">	Any taxicab company which has less than six (6) taxicabs in operation is exempt from the requirements of this section. Upon an increase in an owner's fleet which results in six (6) or more taxicabs being in operation the vehicles which caused the increase shall be subject to the provisions of this section. So long as the fleet consists of six (6) or more vehicles, any vehicles added or replaced shall be subject to the provisions of this section. 
+(Code 1959 , §22-3.1; Ord. No. 1977-429, 1-18-77; Ord. No. 1978-53, 4-3-79) 
+</section>
+ </text>
+</law>

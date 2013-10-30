@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="K" order_by="K" level="4">ARTICLE K. - PARKING METERS</unit>
+  <unit label="section" identifier="11-2213" order_by="11-2213" level="5">Sec. 11-2213. - ENFORCEMENT.</unit>
+ </structure>
+ <section_number>11-2213</section_number>
+ <catch_line>ENFORCEMENT.</catch_line>
+ <order_by>11-2213</order_by>
+ <text>
+It shall be the duty of the Police Department and officials of the violations division of the Department of Finance to enforce the provisions of this article. 
+</text>
+</law>

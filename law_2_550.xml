@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - PUBLIC TRANSIT</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - TRANSIT AUTHORITY</unit>
+  <unit label="section" identifier="11-4003" order_by="11-4003" level="5">Sec. 11-4003. - TERMS OF MEMBERS.</unit>
+ </structure>
+ <section_number>11-4003</section_number>
+ <catch_line>TERMS OF MEMBERS.</catch_line>
+ <order_by>11-4003</order_by>
+ <text>
+The term of office for members of the authority shall be two (2) years, except that of the nine (9) initial appointments, three (3) shall be for one (1) year terms (not to include the Chairman); thereafter all appointments shall be for two (2) years. 
+(Ord. 1975-1, §3) 
+</text>
+</law>

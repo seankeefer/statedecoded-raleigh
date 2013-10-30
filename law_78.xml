@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.37" order_by="6.37" level="3">Sec. 6.37 - ZONING AND PLANNINGDEPARTMENT OF PLANNING.</unit>
+ </structure>
+ <section_number>I-VI-6.37</section_number>
+ <catch_line>ZONING AND PLANNINGDEPARTMENT OF PLANNING.</catch_line>
+ <order_by>6.37</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	There is hereby created a Department of Planning of the City of Raleigh, and said department shall consist of a director of planning, who shall be its administrative head, and such other officers and employees as may be deemed necessary by the City Council and whose salaries shall be fixed by the City Council. The Director of Planningshall be appointed by the City Manager and he shall be a graduate civil and planning engineer. 
+</section>
+  <section prefix="(b)">	Subject to the legislative control of the City Council and subject to the direction and supervision of the City Manager, the Director of Planningshall have the following powers and duties: To make a careful study of the resources, possibilities and needs of the City of Raleigh, particularly with respect to conditions which may be injurious to the public welfare and to make plans for the development of the City; to draft plans, compile population trends; to consult with and cooperate with civic organizations, subdivision developers, industrial organizations and other private business and individual enterprises; to obtain and prepare engineering cost and statistical information necessary or advisable in connection with proposed plans of construction, repair and maintenance; to make surveys and comparisons for the purpose of recommending the needs for and appropriate locations of Fire Department stations, fire hydrants and other fire fighting and prevention services, police headquarters, stations, and services, sewer outfalls and lines, water lines, streets and sidewalks, utility services, to make surveys, studies and recommendations relating to drainage, and any other matters affecting the public interest and public safety, health and welfare, to the end that the activities and projects of all of the agencies of the City may be correlated and carried out under a comprehensive, definite plan and purpose rather than as separate disintegrated and disassociated fragments; and to perform such other duties as may be required by the City Council. 
+</section>
+  <section prefix="(c)">	The Director of Planningshall have no authority over the operation of any other department of the City, and the several operating departments of the City shall continue to make plans for their respective spheres of activity; but the Department of Planning is created for the purpose of over-all planning designed to assist the several operating departments of the City in formulating a public policy which will treat the problems of the community and of the municipal government as a closely knit whole. The Department of Planning and its director shall have the duty of integrating the plans and projects of the several operating departments of the City government and the projects and plans of private business organizations, individuals and citizens and organizing and directing a systematic program in which the plans of each department of the City and of private enterprise, organizations and citizens may be directed, to the end that the future development and planning of the City will promote the public interest, welfare, health and safety. 
+</section>
+  <section prefix="(d)">	It shall be the duty of the director of planning to study the existing zoning ordinances and regulations; to prepare or to have prepared, a land use plan, and then to make recommendations to the City Council as to any changes, alterations, additions or revisions of the zoning ordinance. 
+</section>
+  <section prefix="(e)">	The Director of Planningshall consult with and advise and otherwise cooperate with the members of the City Planning Commission.
+</section>
+  <section prefix="(f)">	The Director of Planningshall from time to time make surveys and investigations to determine whether the provisions of the Zoning Ordinance of the City of Raleigh are being violated; and it shall be his duty, when violations are discovered, to take necessary and proper proceedings to enforce or require enforcement of the zoning ordinances. 
+</section>
+  <section prefix="(g)">	The City Council, by ordinance, may adopt such additional rules and regulations as considered necessary for the control and functioning of the Department of Planning and its director. 
+) 
+</section>
+ </section>
+ <history>(S.L. 1973, Ch. 319, §1(s)</history>
+</law>

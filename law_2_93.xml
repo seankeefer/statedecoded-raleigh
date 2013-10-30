@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="E" order_by="E" level="4">ARTICLE E. - MOTOR VEHICLES REGISTRATION [2]</unit>
+  <unit label="section" identifier="2-2073" order_by="2-2073" level="5">Sec. 2-2073. - PUBLIC UTILITIES.</unit>
+ </structure>
+ <section_number>2-2073</section_number>
+ <catch_line>PUBLIC UTILITIES.</catch_line>
+ <order_by>2-2073</order_by>
+ <text>
+Any business entity regulated by the State and exempt from listing ad valorem property tax property with theCounty Tax Office shall still be liable for the tax imposed by this article. Any such business shall notify the Revenue Collector of the City of its exempt status and shall make its license payments directly to the Revenue Collector. 
+(Ord. No. 1988-240, §2, 9-6-88) 
+</text>
+</law>

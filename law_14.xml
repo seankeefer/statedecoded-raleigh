@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="II" order_by="2" level="2">ARTICLE II. - LEGISLATION, GOVERNING BODY, GENERAL POWERS</unit>
+  <unit label="section" identifier="2.8" order_by="2.8" level="3">Sec. 2.8 - EFFECTIVE DATE.</unit>
+ </structure>
+ <section_number>I-II-2.8</section_number>
+ <catch_line>EFFECTIVE DATE.</catch_line>
+ <order_by>2.8</order_by>
+ <section prefix="text">
+All ordinances passed by the City Council shall become effective upon their adoption or at such time after their adoption as the City Council may specify. An ordinance annexing territory to the City of Raleigh may be made effective on a date subsequent to the date of its adoption. 
+ 
+Amendment note: 1959 Session Laws, Ch. 259, §1, amended §15 of Ch. 1184 Session Laws 1949 by adding a proviso at the end of the section relating to the effective date of ordinances repealing other ordinances and of ordinances annexing territory; 1979 Session Laws, Ch. 664, §2, amended §15 of Ch. 1184 Session Laws 1949 by completely rewriting the section. 
+</section>
+ <history>(S.L. 1957, Ch. 970, §2; S.L. 1959, Ch. 259, §1; S.L. 1979, Ch. 664, §2)</history>
+</law>

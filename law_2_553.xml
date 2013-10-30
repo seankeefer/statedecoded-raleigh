@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - PUBLIC TRANSIT</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - TRANSIT AUTHORITY</unit>
+  <unit label="section" identifier="11-4006" order_by="11-4006" level="5">Sec. 11-4006. - TRANSIT DIRECTOR'S DUTIES.</unit>
+ </structure>
+ <section_number>11-4006</section_number>
+ <catch_line>TRANSIT DIRECTOR'S DUTIES.</catch_line>
+ <order_by>11-4006</order_by>
+ <text>
+  <section prefix="(a)">	To ensure that the desires, actions, and policies of the authority are converted into appropriate transit services for the area and to administer such policies and actions of the authority in conformance with general administrative policies of the City as determined by the City Manager. 
+</section>
+  <section prefix="(b)">	To direct the implementation of such services.
+</section>
+  <section prefix="(c)">	To oversee transit operations for the authority and report and interpret to the authority on current and planned operating results or implications. 
+</section>
+  <section prefix="(d)">	To develop budgets and standards of transit operation for the authority's approval.
+</section>
+  <section prefix="(e)">	To ensure to the authority the timely implementation of the transit development program; make recommendations to the authority for additional service improvements. 
+</section>
+  <section prefix="(f)">	To testify at regulatory hearings pertaining to all phases of transit activities and/or needs.
+</section>
+  <section prefix="(g)">	To monitor transit marketing effectiveness and to administer transit planning coordination.
+(Ord. 1975-1, §6) 
+</section>
+ </text>
+</law>

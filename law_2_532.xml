@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="L" order_by="L" level="4">ARTICLE L. - SIGNING AND TRAFFIC ROUTING IN THE EVENT OF STREET OBSTRUCTION</unit>
+  <unit label="section" identifier="11-2239" order_by="11-2239" level="5">Sec. 11-2239. - EMERGENCY SITUATIONS.</unit>
+ </structure>
+ <section_number>11-2239</section_number>
+ <catch_line>EMERGENCY SITUATIONS.</catch_line>
+ <order_by>11-2239</order_by>
+ <text>
+In the event of an emergency situation, as defined in this article, which results in the obstruction of any street the prohibitions and requirements of this article shall not apply. In the event of such emergency situation the person, persons, firm or corporation working to remove the obstruction shall make all reasonable efforts to provide for the immediate protection of the health, safety and property of all persons using the street during the existence of the emergency situation. Such person, persons, firm or corporation working to remove the obstruction shall notify the Department of Transportation and Emergency Communication at 911 and shall comply with the provisions of this article as soon as is reasonably possible after commencing work to remove the obstruction causing the emergency situation. 
+(Code 1959 , §19-39; Ord. No. 1994-393, §8, 5-3-94) 
+</text>
+</law>

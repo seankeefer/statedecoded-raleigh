@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.9. - UPSET.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>UPSET.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+  <section prefix="(a)">	An upset shall constitute an affirmative defense to an action brought for noncompliance with categorical pretreatment standards if the requirements of subsection (b), below, are met. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	An upset occurred and the user an identify the cause(s) of the upset; 
+</section>
+   <section prefix="(2)">	The facility was at the time being operated in a prudent and workman-like manner and in compliance with applicable operation and maintenance procedures; and 
+</section>
+   <section prefix="(3)">	The user has submitted the following information to the POTW Director within twenty-four (24) hours of becoming aware of the upset [if this information is provided orally, a written submission must be provided within five (5) days]: 
+a.	A description of the indirect discharge and cause of noncompliance; 
+b.	The period of noncompliance, including exact dates and times or, if not corrected, the anticipated time the noncompliance is expected to continue; and 
+c.	Steps being taken and/or planned to reduce, eliminate, and prevent recurrence of the noncompliance.
+</section>
+  </section>
+  <section prefix="(c)">	In any enforcement proceeding, the user seeking to establish the occurrence of an upset shall have the burden of proof. 
+</section>
+  <section prefix="(d)">	Users will have the opportunity for a determination on any claim of upset only in an enforcement action brought for noncompliance with categorical pretreatment standards. 
+</section>
+  <section prefix="(e)">	Users shall control production of all discharges to the extent necessary to maintain compliance with categorical pretreatment standards upon reduction, loss, or failure of its treatment facility until the facility is restored or an alternative method of treatment is provided. This requirement applies in the situation where, among other things, the primary source of power of the treatment facility is reduced, lost, or fails. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

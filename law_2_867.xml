@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="4" order_by="4" level="2">PART 4 - COMMUNITY SERVICES [1]</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF COMMUNITY SERVICES</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="4-1004" order_by="4-1004" level="5">Sec. 4-1004. - POLICY OF NONDISCRIMINATION.</unit>
+ </structure>
+ <section_number>4-1004</section_number>
+ <catch_line>POLICY OF NONDISCRIMINATION.</catch_line>
+ <order_by>4-1004</order_by>
+ <text>
+  <section prefix="(a)">	The policy of the City of Raleigh is and shall be to oppose any discrimination on account of age, handicap, sex, race, color, creed, sexual orientation, or national origin in any aspect of modern life. 
+</section>
+  <section prefix="(b)">	The administration, committees, commissions, and boards of the City are hereby directed to use their full power and resources, as by law duly given, to prohibit and discourage discrimination as hereinabove mentioned. 
+</section>
+  <section prefix="(c)">	The City Manager and the City Attorney are directed to include within the terms of all contracts of and grants from the City a nondiscrimination provision which will carry out the effect of this section; provided that nothing in this section shall be construed to encroach upon the powers or immunities of the State or Federal governments. 
+</section>
+  <section prefix="(d)">	The City Manager is directed to establish such policies as will insure that there is no discrimination in any function or area of City government. 
+</section>
+  <section prefix="(e)">	All citizens of the City, individual and corporate, are hereby requested and urged to use their power and influence to the end that this City shall be one of equal opportunity for all citizens. 
+(Ord. No. 1969-889, 11-17-69; Ord. No. 1971-63, 3-4-71; Ord. No. 1973-425, §1, 5-21-73; Ord. No. 1985-594, §1, 6-18-85; Ord. No. 1988-106, §1, 1-5-88) 
+Editor's note: Ordinance No. 1973-425, §1, adopted May 21, 1973, amending §4-1004(a), has been included herein with the publication of Supplement No. 24 at the direction of the City. 
+</section>
+ </text>
+</law>

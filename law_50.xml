@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.9" order_by="6.9" level="3">Sec. 6.9 - COLLECTION OF WATER AND SEWER SERVICE CHARGES, CONNECTION FEES AND INSPECTION FEES.</unit>
+ </structure>
+ <section_number>I-VI-6.9</section_number>
+ <catch_line>COLLECTION OF WATER AND SEWER SERVICE CHARGES, CONNECTION FEES AND INSPECTION FEES.</catch_line>
+ <order_by>6.9</order_by>
+ <section prefix="text">
+The City Council may impose upon the City Collector of Revenue the duty and responsibility for collecting, receiving and properly accounting for all water and sewer charges, rents and fees for services, all water and sewer connection charges or fees, and all other inspection fees and revenues due to the City in connection with the operation of its Public Utilities Department; provided, however, that the City Council shall have the power to provide for a special collector to collect such fees, charges, rents and other revenues, in which event there shall be no power or duty to collect the same conferred upon or imposed upon the City Collector of Revenue. 
+</section>
+</law>

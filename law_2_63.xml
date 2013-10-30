@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2020" order_by="2-2020" level="5">Sec. 2-2020. - MULTIPLE BUSINESSES.</unit>
+ </structure>
+ <section_number>2-2020</section_number>
+ <catch_line>MULTIPLE BUSINESSES.</catch_line>
+ <order_by>2-2020</order_by>
+ <text>
+If a person is engaged in more than one business made subject to a license tax under this article, such person shall pay the license tax prescribed in the tax schedule provided for in §2-2013 of this article for each such business, even if the businesses are conducted at the same business location. 
+</text>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF CENTRAL ENGINEERING</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STORMWATER MANAGEMENT ADVISORY COMMISSION</unit>
+  <unit label="section" identifier="6-6011" order_by="6-6011" level="5">Sec. 6-6011. - EASTABLISHMENT, COMPOSITON, DUTIES AND PROCEDURES.</unit>
+ </structure>
+ <section_number>6-6011</section_number>
+ <catch_line>EASTABLISHMENT, COMPOSITON, DUTIES AND PROCEDURES.</catch_line>
+ <order_by>6-6011</order_by>
+ <text>
+  <section prefix="(a)">	Establishment and Composition: 
+The Raleigh Stormwater Management Advisory Commission shall be composed of ten (10) members who shall reside within the City limits. The membership of the Commission shall be appointed by the Council. Each member shall be appointed for a period of two (2) years except that the Council in appointing the original membership of the Commission may prescribe terms of fewer years to the end that the terms of the various members of Stormwater Management Advisory Commission shall be staggered. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The Commission shall review and recommend to the Council stormwater management policies, policy changes, long range plans and their budgetary and rate impacts. 
+</section>
+   <section prefix="(2)">	The Commission shall review and comment to the Council on the annual stormwater management capital improvements program. 
+</section>
+   <section prefix="(3)">	The Commission shall respond to the City Council and city staff requests for advice on matters related to stormwater services and the stormwater management utility. 
+</section>
+   <section prefix="(4)">	The Commission shall present the Council with an annual report of key actions and issues and its annual work program. 
+</section>
+  </section>
+  <section prefix="(c)">	Procedure: 
+The Stormwater Management Advisory Commission is directed to adopt rules of procedure necessary to the conduct of its affairs and in keeping with the provision of this Code, all policies of the City Council, and applicable State laws. Such rules of procedure, and any modifications to same, shall be submitted to the City Council for review and approval. Except as provided in this Code, the rules of procedure adopted by the Commission shall at least provide for: selection of the officers of the Commission; the time and place of its regular meetings, which shall at least be held bi-annually, and the calling of special meetings; the procedures of the conduct of public hearings and voting. The Commission shall elect from its membership at least a chairperson and vice chairperson, who shall serve for terms of one (1) year, who shall be eligible for reelection, and who shall have the right to vote. The chairperson shall preside over the Stormwater Management Advisory Commission. In the absence or disability of the chairperson, the vice-chairperson shall perform the duties of the chairperson. All meetings of the Stormwater Management Advisory Commission shall be open to the public, in accordance with the North Carolina Open Meetings Law, G.S. 143-318.10 et seq., and a public record shall be kept of the Commission's resolutions, proceedings, and actions. The rules of procedure and minutes of the Commission are maintained as separate documents in the nature of a public record at the City Clerk's Office. The Central Engineering Department shall provide such technical, administrative, and clerical assistance as required by the Commission. 
+(Ord. No. 2003-537, §2, 11-5-03)  
+</section>
+ </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - THE COUNCIL [2]</unit>
+  <unit label="section" identifier="1-1011" order_by="1-1011" level="5">Sec. 1-1011. - COUNCIL ELECTORAL DISTRICTS.</unit>
+ </structure>
+ <section_number>1-1011</section_number>
+ <catch_line>COUNCIL ELECTORAL DISTRICTS.</catch_line>
+ <order_by>1-1011</order_by>
+ <text>
+  <section prefix="(a)">	The corporate limits of the City and the limits of the five (5) electoral districts of the City, designated as districts A, B, C, D, and E are and shall be those shown on a map, the preparation of which was authorized by the City Council at its regular meeting held on May 7, 1973. The precise metes and bounds descriptions of the elements of the corporate limits shall be those prescribed by the annexation ordinances relating to those elements, respectively. The specific metes and bounds descriptions of the districts' boundaries shall be those prescribed in official actions of the County Board of Elections establishing the boundary lines of precincts upon which the district boundaries are superimposed and with which they are coincident. Such map shall be labeled and referred to as follows: &quot;Corporate Limits and Electoral District Limits—Number 1—May 7, 1973.&quot; 
+</section>
+  <section prefix="(b)">	The map of the corporate limits and electoral districts of the City shall be the official map of such and shall so continue until officially revised by the Planning Director and Chief Engineer pursuant to appropriate action of the Council. The map and all revisions thereof shall be kept on file by the City Clerk for public inspection. 
+(Code 1959 , §1-6) 
+Charter references: Mode of election of Council, §2.2; elections generally, Art. IV. 
+State law reference: Electoral districts, map requirements, G.S. 160A-23. 
+</section>
+ </text>
+</law>

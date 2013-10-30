@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2174" order_by="11-2174" level="5">Sec. 11-2174. - PARKING TIME LIMITED IN DESIGNATED PLACES.</unit>
+ </structure>
+ <section_number>11-2174</section_number>
+ <catch_line>PARKING TIME LIMITED IN DESIGNATED PLACES.</catch_line>
+ <order_by>11-2174</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	On Saturdays, Sundays, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
+</section>
+   <section prefix="(2)">	At the main post office, where parking is restricted in accordance with other provisions of this chapter. 
+</section>
+   <section prefix="(3)">	At locations specified in §11-2172, §11-2178, §11-2179, or Article K of this chapter. 
+</section>
+  </section>
+  <section prefix="(b)">	Each interval of time, equal to the legally allowable parking time in any particular zone, by which a vehicle remains beyond the legal time, shall be a separate violation. For example, each hour or part thereof a vehicle remains past the first hour in a one-hour parking zone shall constitute a separate violation. 
+</section>
+  <section prefix="(c)">	The City Council may designate certain parking spaces on City streets at or near electric charging stations for use only by electric vehicles. An electric vehicle is one that operates, either partially or exclusively, on electrical energy from the grid, or an off grid source, that is stored on board for motive purpose. An electric charging station is equipment that has as its primary purpose the transfer of electric energy to a battery or other energy storage device on an electric vehicle. 
+Spaces designated as reserved for electric vehicles shall be clearly marked as such. When a space has been so marked no person shall park or stand any nonelectric vehicle in that space. If an electric vehicle is parked in such a designated space but is not attached to the charging station it is in violation of this ordinance. Any nonelectric vehicle so parked is subject to civil fine or removal. The fine for violation of this ordinance is fifty dollars ($50.00) and shall be collected in the same manner and with the same penalties for late payment as other on street parking violations. Any vehicle parked in such a space must make the appropriate payment for the space and observe the time limit for the underlying parking zone. 
+(Code 1959 , §21-37; Ord. No. 1981-691, §2, 6-16-81; Ord. No. 1997-76, §1, 3-4-97; Ord. No. 2006-998, §1, 4-18-06; Ord. No. 2012-35, §1, 4-3-12, eff. 4-10-12) 
+Cross reference: Schedules incorporated by reference, §11-2004 
+</section>
+ </text>
+</law>

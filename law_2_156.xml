@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2041" order_by="5-2041" level="5">Sec. 5-2041. - INSPECTIONS FOR EXISTING BUILDINGS.</unit>
+ </structure>
+ <section_number>5-2041</section_number>
+ <catch_line>INSPECTIONS FOR EXISTING BUILDINGS.</catch_line>
+ <order_by>5-2041</order_by>
+ <text>
+  <section prefix="(a)">	Frequency of Inspections for Existing Buildings. 
+In order to preserve and to protect health and safety, and to satisfy the requirements of General Statute 160A-424, political subdivisions assuming inspection duties, as set out in General Statute 160A-411, shall have a periodic inspection schedule for the purpose of identifying activities and conditions in buildings, structures and premises that pose dangers of fire, explosion or related hazards. Inspection schedules of existing buildings shall be conducted no less frequently than described in the schedule below: 
+Occupancy
+Classification	Inspection Frequency
+Hazardous	Every Year
+Institutional	Every Year
+High Rise	Every Year
+Assembly (&gt;100 Occupant Load)	Every Year
+Residential	Every Year
+Group Home1 	Every Year
+Licensed Day Care1 	Every Year
+Industrial	Every Two Years
+Educational (Except Public Schools1) 	Every Two Years
+Business	Every Three Years
+Mercantile	Every Three Years
+Storage	Every Three Years
+Churches and Synagogues	Every Three Years
+Assembly Occupancies with occupant load less than 100	Every Three Years
+ 
+  1  Frequency rates for inspections of an occupancy mandated by the N.C. General Statutes shall supersede this schedule. 
+</section>
+  <section prefix="(b)">	Building Inspection Fees of Existing Buildings. 
+The following fees for fire prevention inspections and permits are hereby established. An official schedule of such fees shall be maintained in the Office of the Fire Marshal and the City Clerk's Office. 
+Existing Square Footage Fire Inspection Fees1, 2, 3 
+1. Up to 999 sq. ft.	$26.00
+2. 1,000—2,499 sq. ft.	$52.00
+3. 2,500—9,999 sq. ft.	$105.00
+4. 10,000—49,999 sq. ft.	$189.00
+5. 50,000—149,999 sq. ft.	$315.00
+6. 150,000—399,999 sq. ft.	$524.00
+7. 400,000—and Greater	$734.00
+ 
+  1  For a multi-tenant building, the fees are applied for each tenant; except a high-rise building the inspection fees are applied to the entire structure. 
+  2  For multiple building owned by the same owner(s), inspection fees are per building as defined by the N.C. Building Code, Volume 1. 
+  3  Inspection fees are applicable for each State mandated fire inspection. 
+Following the completion of the initial inspection, the fee for an inspection of an existing building shall be assessed and an invoice will be supplied to the owner, occupant, or designee. Subjects will have thirty (30) days to remit payment. After thirty (30) days, the bill will be placed in a past due status and a second invoice will be sent to the subject. After a period of sixty (60) days of non-payment, the account will be subject to a ten (10) per cent late fee and the account will be placed on hold and no additional inspections or permits will be issued, civil action will be taken through the court system after a period of ninety (90) days. 
+</section>
+  <section prefix="(c)">	Re-inspection Fees. 
+When it has been determined that fire hazards or violations of the Fire Prevention Code exists in or upon any property, structure, vehicle, system or process, and written notice of violation and a time period to correct has been given and the period of time given to correct the fire hazard or violation has expired, the Fire Marshal or authorized representative may conduct a re-inspection. A re-inspection fee of sixty-seven dollars ($67.00) may be charged for all visits after sixty (60) days. 
+Payment of fees or fines assessed under the City Code does not permit or excuse the continuation of a violation or the fire hazard. 
+</section>
+  <section prefix="(d)">	Indexing of Fees. 
+All fees appearing in subsections (b) and (c) will be adjusted annually on July 4 based on the average annual prior calendar year United States Department of Labor Consumer Price Index - All Urban Consumers. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11; Ord. No. 2011-918, §1, 6-21-11, eff. 7-4-11; Ord. No. 2012-65, §1, 6-18-12, eff. 7-1-12) 
+Cross reference: Construction inspections for new buildings §5-2039 
+</section>
+ </text>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2074" order_by="8-2074" level="5">Sec. 8-2074. - SPECIAL CONDITIONS IN CITY'S TAKING OVER PRIVATE &quot;COMMUNITY&quot; UTILITY SYSTEMS.</unit>
+ </structure>
+ <section_number>8-2074</section_number>
+ <catch_line>SPECIAL CONDITIONS IN CITY'S TAKING OVER PRIVATE &quot;COMMUNITY&quot; UTILITY SYSTEMS.</catch_line>
+ <order_by>8-2074</order_by>
+ <text>
+  <section prefix="(a)">	The developer shall install a utility system, both water and sewer, if possible, using City standards as a minimum level of design. 
+</section>
+  <section prefix="(b)">	This system shall be supplied by a central temporary source from wells, pumps and tanks and/or sewage disposal system. 
+</section>
+  <section prefix="(c)">	At such time as the area of the City expands to encompass the development and City utility supply main and/or outfall reaches the privately developed community-type system, an agreement may be entered into for the City to connect to, serve and operate the system. 
+</section>
+  <section prefix="(d)">	The agreement shall provide for the line system in the streets and drainage easements to become a part of the City system without cost. 
+</section>
+  <section prefix="(e)">	The depreciated value of the well, tank, pump and sewage disposal plant shall be determined. The City shall then pay the developer for this unrecoverable cost in putting in the system initially. If the line system is found to be substandard, the cost of bringing it up to standard shall be deducted from the amount to be paid the developer. 
+</section>
+  <section prefix="(f)">	All lots connecting to the utility system shall bear their share of the acre connection cost, which cost may be paid lump sum or distributed over a longer period as part of the water bill. 
+(Res. No. 1964-588, §1, 10-5-64) 
+</section>
+ </text>
+</law>

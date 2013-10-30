@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2094" order_by="8-2094" level="5">Sec. 8-2094. - PROJECT PROCEDURES AND EXECUTION OF REIMBURSEMENT CONTRACT.</unit>
+ </structure>
+ <section_number>8-2094</section_number>
+ <catch_line>PROJECT PROCEDURES AND EXECUTION OF REIMBURSEMENT CONTRACT.</catch_line>
+ <order_by>8-2094</order_by>
+ <text>
+  <section prefix="(a)">	Developers or promoters proposing to install major water mains, or major sewer mains, or both shall follow the ordinances, policies, and procedures for such installations established by the City, under the direction of the Department of Public Utilities. Properly prepared preliminary utility plans and profiles shall be first submitted to the Public Utilities Department (or to the Planning Department for projects involving a subdivision) and thereafter shall follow the provisions of Division 2, Article B, Chapter 2, Part 8 (and Chapter 3, Part 10 for projects involving a subdivision) of this Code. 
+</section>
+  <section prefix="(b)">	Following completion of the project and acceptance by the City of the utility improvements, a reimbursement contract shall be prepared, submitted to the Council for approval, and then executed by the City and developer. But no reimbursement contract shall be executed until such time as main trunk or interceptor facilities which serve the acreage fee area are funded and operational. 
+</section>
+  <section prefix="(c)">	The reimbursement amounts will be calculated based on the differential unit cost between a six-inch water main and eight-inch sewer main and the main size installed multiplied by the length of the main installed. The differential unit costs to be used are listed below: 
+Item	Construction Cost
+(per linear foot)	Reimbursement
+Cost (per
+linear foot)
+Water mains 		
+   6-inch	$35.00	
+  12-inch	$60.00	$25.00
+  16-inch	$75.00	$40.00
+  24-inch	$137.00	$102.00
+		
+Sewer mains 		
+   8-inch	$46.00	
+  12-inch	$68.00	$22.00
+  15-inch	$79.00	$33.00
+  18-inch	$100.00	$54.00
+  24-inch	$150.00	$104.00
+		
+Bore 		
+  12-inch	$171.00	
+  16-inch	$200.00	$29.00
+  20-inch	$204.00	$33.00
+  24-inch	$220.00	$48.00
+  36-inch	$269.00	$98.00
+		
+Design &amp; 
+Inspection 	10% of construction cost
+ 
+Following the last working day in June, all fees stated herein shall be adjusted annually based on Engineering News Record Construction Cost Index, as published in December. After the fees are indexed, the fees shall be rounded to the nearest dollar. 
+(Ord. No. 1984-470, §4, 12-18-84; Ord. No. 1985-543, §29, 4-16-85; Ord. No. 1995-669, §§1, 2, 7-5-95; Ord. No. 1996-891, §2, 5-21-96; Ord. No. 1997-113, §2, 7-1-97; Ord. No. 1998-335, §1, 6-2-98; Ord. No. 1999-550, §1, 5-4-99; Ord. No. 2000-794, §1, 5-16-00; Ord. No. 2001-992, §1, 5-1-01; Ord. No. 2002-199, §1, 5-7-02; Ord. No. 2003-437, §1, 5-6-03; Ord. No. 2004-621, §1, 5-4-04; Ord. No. 2005-824, §1, 5-17-05; Ord. No. 2006-14, §1, 5-2-06; Ord. No. 2007-165-TC-299, §1, TC-1-07, 2-6-07; Ord. No. 2007-217, §1, 5-1-07, eff. 7-1-07; Ord. No. 2008-377, §1, 4-15-08, eff. 7-1-08; Ord. No. 2009-555, §1, 3-17-09, eff. 7-1-09; Ord. No. 2010-717, §1, 4-6-10, eff. 7-1-10; Ord. No. 2011-878, §1, 5-17-11, eff. 7-1-11; Ord. No. 2012-38, §1, 5-1-12, eff. 7-1-12; Ord. No. 2012-81, §2, 6-19-12, eff. 7-1-12) 
+</section>
+ </text>
+</law>

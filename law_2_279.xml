@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2112" order_by="8-2112" level="5">Sec. 8-2112. - DEFINITIONS AND ABBREVIATIONS.</unit>
+ </structure>
+ <section_number>8-2112</section_number>
+ <catch_line>DEFINITIONS AND ABBREVIATIONS.</catch_line>
+ <order_by>8-2112</order_by>
+ <text>
+  <section prefix="(i)">
+   <section prefix="(1)">	BOD: Biochemical Oxygen Demand. 
+</section>
+   <section prefix="(2)">	CFR: Code of Federal Regulations.
+</section>
+   <section prefix="(3)">	COD: Chemical Oxygen Demand.
+</section>
+   <section prefix="(4)">	EPA: Environmental Protection Agency. 
+</section>
+   <section prefix="(5)">	gpd: Gallons per day.
+</section>
+   <section prefix="(6)">	l: Liter.
+</section>
+   <section prefix="(7)">	mg: Milligrams.
+</section>
+   <section prefix="(8)">	mg/l: Milligrams per liter.
+</section>
+   <section prefix="(9)">	G.S.: North Carolina General Statutes. 
+(10)	NPDES: National Pollutant Discharge Elimination System. 
+</section>
+   <section prefix="(11)">	O &amp; M: Operation and maintenance.
+</section>
+   <section prefix="(12)">	POTW: Publicly-owned treatment works. 
+</section>
+   <section prefix="(13)">	RCRA: Resource Conservation and Recovery Act.
+</section>
+   <section prefix="(14)">	SIC: Standard Industrial Classification. 
+</section>
+   <section prefix="(15)">	SWDA: Solid Waste Disposal Act.
+</section>
+   <section prefix="(16)">	TSS: Total suspended solids. 
+</section>
+   <section prefix="(17)">	TN: Total Nitrogen.
+</section>
+   <section prefix="(18)">	U.S.C.: United States Code.
+</section>
+   <section prefix="(19)">	F.O.G.: Fats, Oils, Grease.
+(20)	TP: Total Phosphorus.
+(Ord. No. 2011-981, §1, 12-6-11)  
+DIVISION 2. - GENERAL SEWER USE REQUIREMENTS
+</section>
+  </section>
+ </text>
+</law>

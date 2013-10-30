@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET AND SIDEWALK STANDARDS</unit>
+  <unit label="section" identifier="6-2014" order_by="6-2014" level="5">Sec. 6-2014. - SIDEWALKS.</unit>
+ </structure>
+ <section_number>6-2014</section_number>
+ <catch_line>SIDEWALKS.</catch_line>
+ <order_by>6-2014</order_by>
+ <text>
+Street improvements made pursuant to this chapter shall contain sidewalks in accordance with the provisions contained in Street, Sidewalk and Driveway Access Handbook on file with the City Clerk. The City Council may authorize the construction of sidewalks on both sides of a street improvement if pedestrian generators (churches, schools, bus routes, shopping and office areas, etc.) create public need for additional sidewalks. The Council may also vary this standard and authorize the construction of no sidewalks pursuant to §6-2015 or asphalt sidewalks pursuant to §6-2016. 
+(Ord. No. 1987-33, §1, 8-4-87; Ord. No. 1991-716, §1, 1-15-91; Ord. No. 1995-760-TC-122, §6, TC-20C-95, 11-21-95) 
+</text>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - THE DEPARTMENT OF TRANSPORTATION</unit>
+  <unit label="section" identifier="11-1001" order_by="11-1001" level="4">Sec. 11-1001. - DIRECTOR, OFFICERS AND EMPLOYEES.</unit>
+ </structure>
+ <section_number>11-1001</section_number>
+ <catch_line>DIRECTOR, OFFICERS AND EMPLOYEES.</catch_line>
+ <order_by>11-1001</order_by>
+ <text>
+Within sixty (60) days after the passage of this ordinance the City Manager shall cause to be created an administrative process to guide the various City contracting departments as to how each is to interact in the per cent for public art process. 
+(Ord. No. 2009-563, §2, 3-17-09, eff. 7-1-09)  
+</text>
+</law>

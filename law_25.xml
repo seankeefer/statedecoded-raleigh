@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.3" order_by="3.3" level="3">Sec. 3.3 - APPOINTMENT AND REMOVAL OF OFFICERS.</unit>
+ </structure>
+ <section_number>I-III-3.3</section_number>
+ <catch_line>APPOINTMENT AND REMOVAL OF OFFICERS.</catch_line>
+ <order_by>3.3</order_by>
+ <section prefix="text">
+Except as to such officers and members of commissions, boards, and committees which the City Council is authorized by this act to appoint, all City officers and employees as the Council shall determine are necessary for the proper administration of the City shall be appointed by the City Manager, and any such officer or employee (subject to the foregoing exceptions) may be removed by him; but the City Manager shall report to the Council the appointment or removal of any of the heads of departments of the City of Raleigh following such appointment or removal. 
+ 
+</section>
+ <history>(S.L. 1957, Ch. 121, §1)</history>
+</law>

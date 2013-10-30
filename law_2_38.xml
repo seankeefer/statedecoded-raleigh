@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="1-4001" order_by="1-4001" level="5">Sec. 1-4001. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>1-4001</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>1-4001</order_by>
+ <text>
+  <section prefix="(a)">	As used in this article, the term board or commission shall mean any committee, subcommittee, commission, board or authority, or other similar agency or group whether advisory, managerial or quasi-judicial, which is appointed or elected to serve the government of the City. 
+</section>
+  <section prefix="(b)">	As used in this article, the term member shall mean any person appointed, reappointed or confirmed as a member of a board. 
+(Res. 1976-18, §1; Ord. No. 1981-617, §§1, 2, 3-17-81) 
+</section>
+ </text>
+</law>

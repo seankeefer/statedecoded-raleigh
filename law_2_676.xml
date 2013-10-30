@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2092" order_by="12-2092" level="5">Sec. 12-2092. - SURRENDER, DISPLAY, LOSS, ETC., OF DRIVER'S PERMIT.</unit>
+ </structure>
+ <section_number>12-2092</section_number>
+ <catch_line>SURRENDER, DISPLAY, LOSS, ETC., OF DRIVER'S PERMIT.</catch_line>
+ <order_by>12-2092</order_by>
+ <text>
+  <section prefix="(a)">	A driver's permit which has been revoked shall be immediately thereafter surrendered to the taxicab inspector. 
+</section>
+  <section prefix="(b)">	In any case in which the holder of a driver's permit has lost, destroyed or mutilated his permit, he shall immediately report such facts to the taxicab inspector who shall issue a duplicate driver's permit to the permittee. A charge of one dollar ($1.00) shall be collected by the taxicab inspector for each duplicate permit issued. Beginning on January 1, 2011,, the cost of replacement of lost permit will increase to ten dollars ($10.00), and then on January 1, 2012, the amount will cap at twenty dollars ($20.00). 
+(Code 1959 , §22-54; Ord. No. 2009-671, §44, 11-3-09) 
+</section>
+ </text>
+</law>

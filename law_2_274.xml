@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2093" order_by="8-2093" level="5">Sec. 8-2093. - ACREAGE FEES; EXCEPTIONS.</unit>
+ </structure>
+ <section_number>8-2093</section_number>
+ <catch_line>ACREAGE FEES; EXCEPTIONS.</catch_line>
+ <order_by>8-2093</order_by>
+ <text>
+Acreage fees as provided above shall not be imposed within areas for which separate utility contracts have been made between the City and developers to apportion the costs of the construction of the system to serve such area. 
+(Res. No. 1961-223; Res. No. 1964-404; Res. No. 1970-976; Res. No. 1972-659; Res. No. 1973-773; Ord. No. 1985-543, §13, 4-16-85; Ord. No. 2012-70, §1, 6-19-12) 
+State law reference: 1997 Session laws chapter 450, the Wake County Public School System and nonpublic schools of Wake County with 20 or more students qualified under G.S. 115C-555 are exempt from development charges. 
+</text>
+</law>

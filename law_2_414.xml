@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="11-2008" order_by="11-2008" level="5">Sec. 11-2008. - BICYCLES, MOTORCYCLES AND ANIMALS.</unit>
+ </structure>
+ <section_number>11-2008</section_number>
+ <catch_line>BICYCLES, MOTORCYCLES AND ANIMALS.</catch_line>
+ <order_by>11-2008</order_by>
+ <text>
+Every person riding a bicycle, motorcycle, or animal or driving an animal-drawn vehicle, or propelling a push cart upon a street, is subject to the provisions of the chapter, except those which are clearly inapplicable. 
+Cross reference: Bicycles, §11-3001 et seq. 
+</text>
+</law>

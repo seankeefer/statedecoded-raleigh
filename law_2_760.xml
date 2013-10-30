@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3032" order_by="12-3032" level="5">Sec. 12-3032. - PERMIT TO LOCATE, ERECT OR PLACE.</unit>
+ </structure>
+ <section_number>12-3032</section_number>
+ <catch_line>PERMIT TO LOCATE, ERECT OR PLACE.</catch_line>
+ <order_by>12-3032</order_by>
+ <text>
+Before any person shall locate, erect or place any stable on any lot within the corporate limits of the City, he shall make application to the Wake County Health Department and the City Inspection Division. Such permits may be issued, upon compliance with this chapter and with standards and procedures of those agencies. 
+(Code 1959 , §4-15) 
+</text>
+</law>

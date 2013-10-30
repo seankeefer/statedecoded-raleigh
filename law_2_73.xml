@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2030" order_by="2-2030" level="5">Sec. 2-2030. - COLLECTION OF UNPAID TAX.</unit>
+ </structure>
+ <section_number>2-2030</section_number>
+ <catch_line>COLLECTION OF UNPAID TAX.</catch_line>
+ <order_by>2-2030</order_by>
+ <text>
+  <section prefix="(a)">	All taxes imposed by this article shall be paid to the Revenue Collector and shall be due and payable on May 1 and delinquent and subject to penalty after June 1. 
+</section>
+  <section prefix="(b)">	If a person begins or continues to engage in a business taxed under this article without payment of the required privilege license tax, the Revenue Collector may use either of the following methods to collect the unpaid tax: (i) the remedy of levy and sale or attachment and garnishment, in accordance with G.S. 160A-207; or (ii) the remedy of levy and sale of real and personal property of the taxpayer in accordance with G.S. 105-109(d). 
+</section>
+  <section prefix="(c)">	Any person who begins or continues to engage in a business taxed under this article without payment of such tax is liable for an additional tax of two and one-half (½) per cent of the original tax due for each thirty (30) days or portion thereof that the tax is delinquent, provided the additional tax shall be limited to fifty (50) per cent of the tax originally levied but in no event less than ten dollars ($10.00). 
+</section>
+ </text>
+</law>

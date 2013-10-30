@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - FIRE PREVENTION [1]</unit>
+  <unit label="section" identifier="5-2037" order_by="5-2037" level="5">Sec. 5-2037. - FLAMMABLE LIQUIDS STORAGE; RESTRICTIONS ON LOCATION.</unit>
+ </structure>
+ <section_number>5-2037</section_number>
+ <catch_line>FLAMMABLE LIQUIDS STORAGE; RESTRICTIONS ON LOCATION.</catch_line>
+ <order_by>5-2037</order_by>
+ <text>
+  <section prefix="(a)">	Storage of Flammable Liquids in Outside, Aboveground Tanks. 
+The limits on location referenced in the Fire Prevention Code, in which storage of flammable liquids in outside, aboveground tanks is prohibited, are established as follows: all residential zoning districts of the City and the primary and secondary fire districts as described in §5-2035. 
+</section>
+  <section prefix="(b)">	New Bulk Plants for Flammable Liquids. 
+The limits on location referred to in the Fire Prevention Code, in which new bulk plants for flammable liquids are prohibited, are hereby established as follows: all areas zoned for any use other than industrial. 
+</section>
+  <section prefix="(c)">	Bulk Storage of Liquid Petroleum Gas. 
+The limits on location referred to in the Fire Prevention Code, in which bulk storage of liquid petroleum gas is restricted are hereby established as follows: all areas of the City zoned for any use other than industrial. 
+</section>
+  <section prefix="(d)">	Self-service Stations. 
+Following the issuance of a permit, unattended self-service stations shall be permitted solely for the dispensing of motor vehicle fuels into commercial or fleet vehicles. The dispensing of motor vehicle fuels shall comply with all of the provisions of North Carolina State Building Code, Fire Prevention Code and National Fire Protection Association Standard 30A for unattended self-service station vendors. Prior to commencing operations, the self-service station vendor shall make application at the Office of the Fire Marshal and shall obtain a permit to operate an unattended self-service station. So long as the conditions and limitations of the permit and the Fire Prevention Code are observed, such permit shall be valid for a time period of twelve (12) months, and it shall be renewable on a recurring basis. Failure by the self-service station vendor or operator to comply with the provisions of this section shall be cause for revocation of the permit. 
+(Ord. No. 2011-873-TC-344, §1, TC-6-11, 5-3-11) 
+Cross reference: Location of gasoline and fuel pumps from street rights-of-way, §10-6036 
+</section>
+ </text>
+</law>

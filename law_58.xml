@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.17" order_by="6.17" level="3">Sec. 6.17 - DIVISIONS.</unit>
+ </structure>
+ <section_number>I-VI-6.17</section_number>
+ <catch_line>DIVISIONS.</catch_line>
+ <order_by>6.17</order_by>
+ <section prefix="text">
+  <section prefix="(a)">
+   <section prefix="(1)">	Division of engineering, the administrative head of which shall be the City Engineer, who shall be a civil engineer graduated from some recognized college or university, and who may be the same person holding the position of Director of Public Works. 
+</section>
+   <section prefix="(2)">	Division of Streets and Highways.
+</section>
+   <section prefix="(3)">	Division of Sanitation.
+</section>
+   <section prefix="(4)">	Division of Public Buildings.
+</section>
+   <section prefix="(5)">	Division of Shops.
+</section>
+   <section prefix="(6)">	Division of Cemeteries.
+</section>
+   <section prefix="(7)">	Division of Markets.
+</section>
+   <section prefix="(8)">	Division of Street Lighting.
+</section>
+   <section prefix="(9)">	Division of Park Maintenance.
+(10)	Inspection Division.
+</section>
+   <section prefix="(11)">	Such other divisions as may be from time to time authorized by the City Council.
+</section>
+  </section>
+  <section prefix="(b)">	The powers and duties of the divisions with the Department of Public Works and the officials and employees thereof shall be such as from time to time granted, prescribed and defined by ordinance or resolution of the City Council. The City Council shall have the power to eliminate any of the foregoing divisions or to combine any two or more divisions. The powers and duties granted and prescribed for the Department of Public Works and for the various divisions thereof shall be in accordance with the provisions of this act and in accordance with the Constitution and Laws of the State of North Carolina. 
+</section>
+ </section>
+</law>

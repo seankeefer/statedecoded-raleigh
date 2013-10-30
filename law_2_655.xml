@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2059" order_by="12-2059" level="5">Sec. 12-2059. - REVOCATION UPON CHANGE OF OWNERSHIP; ISSUANCE TO NEW OWNER.</unit>
+ </structure>
+ <section_number>12-2059</section_number>
+ <catch_line>REVOCATION UPON CHANGE OF OWNERSHIP; ISSUANCE TO NEW OWNER.</catch_line>
+ <order_by>12-2059</order_by>
+ <text>
+Change of ownership of, or title to any taxicab shall automatically revoke any owner's permit previously granted to the extent applicable to the operation of such taxicab or taxicabs. The purchaser of any such taxicab shall not operate such vehicle as a taxicab unless and until he has applied for, and has been granted, an owner's permit in the manner provided by this chapter. For the purposes of this chapter a change of ownership is deemed to have taken place, if, in addition to other methods usually employed, the owner of any taxicab leases the same to any person under any lease or other arrangement whereby such person shall have the right upon the payment of an amount of money or other consideration of any other thing of value to acquire title at any future date to such taxicab. 
+(Code 1959 , §22-34) 
+</text>
+</law>

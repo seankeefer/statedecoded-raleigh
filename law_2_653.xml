@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2057" order_by="12-2057" level="5">Sec. 12-2057. - ASSIGNMENT OR TRANSFER.</unit>
+ </structure>
+ <section_number>12-2057</section_number>
+ <catch_line>ASSIGNMENT OR TRANSFER.</catch_line>
+ <order_by>12-2057</order_by>
+ <text>
+No owner's permit granted and issued under this chapter shall be assigned or transferred. 
+In the event any taxicab operated pursuant to an owner's permit issued under this chapter shall become damaged or worn out or for other reason is rendered unfit for use, and its use for taxicab purposes discontinued by the holder of the owner's license pursuant to which such taxicab was operated, and such licensee desires to operate another vehicle in its place, then such licensee shall file an affidavit with the taxicab inspector setting forth the fact that such vehicle has been discontinued in use and that such other vehicle has replaced it. Such affidavit shall also contain the make, model, serial number and body style of the vehicle that is being replaced and the same information for the replacement vehicle. 
+(Code 1959 , §22-32; Ord. No. 1980-487, §21, 10-7-80) 
+</text>
+</law>

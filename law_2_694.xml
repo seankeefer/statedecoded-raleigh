@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2122" order_by="12-2122" level="5">Sec. 12-2122. - ISSUANCE OF PERMIT.</unit>
+ </structure>
+ <section_number>12-2122</section_number>
+ <catch_line>ISSUANCE OF PERMIT.</catch_line>
+ <order_by>12-2122</order_by>
+ <text>
+  <section prefix="(a)">	The amplified entertainment permit shall be issued by the Chief Financial Officer or his designee upon verification by the Inspections Department and the Fire Department that all relevant code and safety to life requirements have been met. The permit shall be applied for on a form supplied by the Chief Financial Officer or his designee. The application shall contain the name of the Manager, the name of the registered agent for service of process and such other information as the Chief Financial Officer or his designee may deem relevant and appropriate. Upon receipt of the application, the Chief Financial Officer or his designee shall forward a copy of the same to the Inspection Department for verification of the zoning and building code requirements necessary for the issuance of a license. 
+The Chief Financial Officer or his designee is directed to require the name of the business owner as a part of the application for an Amplified Entertainment Permit. Any change in the ownership of a business after the issuance of the permit shall cause the permit to be immediately invalid and cause the new owner to reapply for the permit. A change in ownership shall mean acquisition of more than ten percent of the stock in a publicly traded corporation, any change in the ownership of shares in a privately held corporation, sale of all or part of a sole proprietorship, or any change in the membership of any form of limited liability organization. 
+</section>
+  <section prefix="(b)">	The fee for an initial amplified entertainment permit shall be five hundred dollars ($500.00). Each annual renewal shall be one hundred dollars ($100.00). 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	The accuracy of the Chief Financial Officer or his designee's factual determination;
+</section>
+   <section prefix="(2)">	The number and type of police calls within a three-block area within the past six (6) months and the relationship of the calls to the establishment holding the permit; 
+</section>
+   <section prefix="(3)">	The zoning classification of surrounding properties; 
+</section>
+   <section prefix="(4)">	The status of any previously issued permits.
+If, after a review of the foregoing factors, any adverse conditions exist on any one (1) of the factors, the appeal will not be allowed. 
+(Ord. No. 1999-539, §1, 4-6-99; Ord. No. 2009-642, §§1, 2, 9-1-09) 
+</section>
+  </section>
+ </text>
+</law>

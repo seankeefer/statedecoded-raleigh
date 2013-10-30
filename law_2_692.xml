@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - AMUSEMENTS [4]</unit>
+  <unit label="section" identifier="12-2120" order_by="12-2120" level="5">Sec. 12-2120. - OUTDOOR AMPLIFIED ENTERTAINMENT.</unit>
+ </structure>
+ <section_number>12-2120</section_number>
+ <catch_line>OUTDOOR AMPLIFIED ENTERTAINMENT.</catch_line>
+ <order_by>12-2120</order_by>
+ <text>
+  <section prefix="(a)">	Stadiums and arenas holding existing special use permits for their operation.
+</section>
+  <section prefix="(b)">	Shopping centers containing more than one hundred thousand (100,000) square feet of retail space so long as no such event continues more than seven (7) consecutive days and so long as the total number of days devoted to such events in a calendar year does not exceed twenty (20) days or four (4) weekends. 
+</section>
+  <section prefix="(c)">	Parades and spectators and participants in parades.
+</section>
+  <section prefix="(d)">	Outdoor events, races, festivals or concerts on public property or public vehicular areas that are sponsored, cosponsored, or permitted by the City. 
+(Ord. No. 1999-539, §1, 4-6-99; Ord. No. 2001-990, §1, 4-17-01; Ord. No. 2008-417, §2, 6-17-08) 
+</section>
+  <section prefix="(e)">	Landscaping, screening, fencing with respect to protecting affected properties from anticipated noise, loss of privacy, and glare; preserving of important natural features; or harmonizing the request with affected properties. 
+</section>
+  <section prefix="(f)">	Control or elimination of noise, dust, vibration, and lighting.
+</section>
+  <section prefix="(g)">
+   <section prefix="(4)">	Duration of permit. 
+Any special use permit issued by the City Council may be limited in its duration and may contain other conditions and limitations including, but not limited to, hours of operation. The special use permit shall remain in full force and effect so long as the establishment maintains a valid amplified entertainment permit unless the conditions of approval of the special use permit set out a different term of validity. 
+</section>
+   <section prefix="(5)">	Exemptions. 
+The following activities are exempted from the regulations controlling outdoor amplified sound: 
+</section>
+  </section>
+ </text>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.4" order_by="6.4" level="3">Sec. 6.4 - POWERS AND DUTIES.</unit>
+ </structure>
+ <section_number>I-VI-6.4</section_number>
+ <catch_line>POWERS AND DUTIES.</catch_line>
+ <order_by>6.4</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	He shall act as accountant for the City and its various departments in settling with all City officers, and shall be head of the accounting division. 
+</section>
+  <section prefix="(2)">	He shall compile the current expense estimates for the budget for the City Manager.
+</section>
+  <section prefix="(3)">	He shall compile the capital estimates for the budget for City Manager.
+</section>
+  <section prefix="(4)">	He shall supervise and be responsible for the disbursement of all moneys and have control over all expenditures to insure that budget appropriations are not exceeded. 
+</section>
+  <section prefix="(5)">	He shall maintain a general accounting system for the City government and each of its offices, departments and agencies; keep books for and exercise financial budgetary control over each office, department and agency; keep separate accounts for the items of appropriation contained in the City budget, each of which accounts shall show the amount of the appropriation, the amounts paid therefrom, the unpaid obligations against it and the unencumbered balance; require reports of receipts and disbursements from each receiving and spending agency of the City government to be made daily or at such intervals as he may deem expedient. 
+</section>
+  <section prefix="(6)">	He shall keep a record of the date, source and amount of each item of receipt, and the date, payee or contractor, the specific purpose and the amount of the disbursement made. 
+</section>
+  <section prefix="(7)">	He shall require officers and departments receiving or disbursing money of the City, or its subdivisions, to keep a record of the date, source and amount of each item of receipts, and the date, the payee or contractor, the specific purpose and the amount of the disbursement made, and shall require the officer or department to keep a copy of such contract. 
+</section>
+  <section prefix="(8)">	He shall examine or test check once a month, and at such other times as the City Council may direct, all books, accounts, receipts, vouchers and other records of all City officers and employees and departments of the City administration receiving or expending public money. 
+</section>
+  <section prefix="(9)">	He shall require all officers and employees of the City, whose duty it is to collect fines, penalties or other money, to be applied to public purposes, to file with him each month, or more often if the City Council so directs, a report of all fees collected by such officers. 
+(10)	He shall monthly, or as often as he may be directed by the City Council, file with the Council a complete statement of the financial condition of the City, and its subdivisions, showing receipts and expenditures of the different departments of the City. 
+</section>
+  <section prefix="(11)">	He shall advise with the Mayor, City Manager, Treasurer and the various department heads of the City of Raleigh, and its subdivisions, and with the Local Government Commission of the State of North Carolina, and he shall inform himself as to the best and simplest methods of so doing so as to bring about, as far as possible, a simple, accurate and uniform system of keeping accounts of the City and its various departments. 
+</section>
+  <section prefix="(12)">	He shall, in conjunction with the City Manager and Treasurer, submit to the City Council, at the proper time, an annual budget estimate and budget which shall be prepared in accordance with the provisions of the general laws of North Carolina as the same are now or may hereafter exist. 
+</section>
+  <section prefix="(13)">	He shall perform such other duties as may be imposed upon him by the City Council and those which may be now or hereafter required of municipal accountants by the general laws of the State of North Carolina and as applicable to the City of Raleigh. 
+</section>
+  <section prefix="(14)">	He shall certify on all contracts of the City as to whether or not funds of said City have been properly provided for the carrying out of said contracts on the part of the City. 
+</section>
+ </section>
+</law>

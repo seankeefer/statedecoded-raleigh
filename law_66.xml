@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.25" order_by="6.25" level="3">Sec. 6.25 - CIVIL SERVICE ACT NOT REPEALED.</unit>
+ </structure>
+ <section_number>I-VI-6.25</section_number>
+ <catch_line>CIVIL SERVICE ACT NOT REPEALED.</catch_line>
+ <order_by>6.25</order_by>
+ <section prefix="text">
+Nothing in this act shall repeal or amend any of the provisions of Chapter Fifty of the Private Laws of North Carolina 1935, being the Civil Service Act relating to policemen and firemen of the City of Raleigh. 
+</section>
+</law>

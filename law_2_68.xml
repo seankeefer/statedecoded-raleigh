@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2025" order_by="2-2025" level="5">Sec. 2-2025. - CHANGE IN PLACE OF BUSINESS.</unit>
+ </structure>
+ <section_number>2-2025</section_number>
+ <catch_line>CHANGE IN PLACE OF BUSINESS.</catch_line>
+ <order_by>2-2025</order_by>
+ <text>
+If a person who has obtained a license for a business taxed under this article desires to move from one business location to another within the City, the license which has been issued shall be valid for the remainder of the license year at this new location and no additional tax need be paid. Within a reasonable time after the change in location; however, such person shall inform the Revenue Collector of the change in address. 
+</text>
+</law>

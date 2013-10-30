@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2037" order_by="12-2037" level="5">Sec. 12-2037. - REFUSAL TO CARRY ORDERLY PASSENGERS.</unit>
+ </structure>
+ <section_number>12-2037</section_number>
+ <catch_line>REFUSAL TO CARRY ORDERLY PASSENGERS.</catch_line>
+ <order_by>12-2037</order_by>
+ <text>
+No driver shall refuse or neglect to convey any orderly person or persons, upon request, unless previously engaged in the provision of premium taxi service or forbidden by the provisions of this chapter to do so. 
+</text>
+</law>

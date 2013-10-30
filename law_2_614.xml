@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PARADES, DEMONSTRATIONS AND STREET EVENTS</unit>
+  <unit label="section" identifier="12-1058" order_by="12-1058" level="5">Sec. 12-1058. - INTERFERENCE WITH PICKETS PROHIBITED; POLICE AUTHORITY TO DISPERSE CROWDS; FAILURE TO LEAVE WHEN ORDERED DECLARED OFFENSE.</unit>
+ </structure>
+ <section_number>12-1058</section_number>
+ <catch_line>INTERFERENCE WITH PICKETS PROHIBITED; POLICE AUTHORITY TO DISPERSE CROWDS; FAILURE TO LEAVE WHEN ORDERED DECLARED OFFENSE.</catch_line>
+ <order_by>12-1058</order_by>
+ <text>
+  <section prefix="(a)">	It shall be unlawful for any person to physically interfere with pickets in the use of the sidewalk or to address profane, indecent, abusive, or threatening language to or at those pickets which would tend to provoke the pickets or others to a breach of the peace. 
+</section>
+  <section prefix="(b)">	The police officers of the City may, in the event of the assemblage of persons in such numbers as to tend to intimidate pickets pursuing their lawful objective through numbers alone or through use of inflammatory words, direct the dispersal of persons so assembled and may arrest any person who fails to absent himself from the place of such assemblage when so directed by the police. 
+</section>
+  <section prefix="(c)">	Whenever the free passage of any street or sidewalk in the City shall be obstructed by a crowd, whether or not the crowd assembles as a result of or in connection with picketing, the persons composing such crowd shall disperse or move on when directed to do so by a police officer. It shall be unlawful for any person to refuse to so disperse or move on when so directed by a police officer as herein provided. 
+(Code 1959 , §15-35.2) 
+</section>
+ </text>
+</law>

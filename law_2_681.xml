@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - PAWNBROKERS [3]</unit>
+  <unit label="section" identifier="12-2102" order_by="12-2102" level="5">Sec. 12-2102. - LICENSING OF PAWNBROKERS.</unit>
+ </structure>
+ <section_number>12-2102</section_number>
+ <catch_line>LICENSING OF PAWNBROKERS.</catch_line>
+ <order_by>12-2102</order_by>
+ <text>
+  <section prefix="(a)">	No person, firm, or corporation shall establish or operate a pawnbroker business without first having applied for and been granted the license provided by this section. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	The name and address of the person, and in case of a firm or partnership, the names and addresses of the persons composing such firm or of the officers of a corporation. 
+</section>
+   <section prefix="(2)">	The name of the business and the street address and mailing address where the business is to be operated. 
+</section>
+   <section prefix="(3)">	A statement indicating the amount of net assets or capital proposed to be used by the petitioner in operation of the business. This statement shall be accompanied by an unaudited statement from an accountant verifying the information contained in the statement. 
+</section>
+   <section prefix="(4)">	An affidavit by the petitioner that he has not been convicted of a felony.
+</section>
+   <section prefix="(5)">	A certificate from the Chief of Police, sheriff of the County, or the State bureau of investigation certifying that the petitioner has not been convicted of a felony. 
+</section>
+  </section>
+  <section prefix="(c)">	The Revenue Collector shall transmit a copy of the application to the Police Department for an investigative report, to the Inspections Department for a determination as to compliance with zoning and development regulations, and to the Fire Department to determine compliance with laws relating to fire protection. These department shall report back to the Revenue Collector within a reasonable period of time not to exceed thirty (30) days. 
+</section>
+  <section prefix="(d)">	An application in proper form shall be placed on the printed agenda of the first regular Council meeting after completion of the reports and for which the normal agenda deadline date can be met. 
+(Ord. No. 1992-982, §2, 6-2-92) 
+</section>
+ </text>
+</law>

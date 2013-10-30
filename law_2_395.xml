@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="9" order_by="9" level="2">PART 9 - PARKS, RECREATION AND CULTURAL AFFAIRS</unit>
+  <unit label="chapter" identifier="10" order_by="10" level="3">CHAPTER 10. - ARTS COMMISSION [8]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="9-10003" order_by="9-10003" level="5">Sec. 9-10003. - ORGANIZATION.</unit>
+ </structure>
+ <section_number>9-10003</section_number>
+ <catch_line>ORGANIZATION.</catch_line>
+ <order_by>9-10003</order_by>
+ <text>
+  <section prefix="(a)">	The commission shall organize and adopt administrative rules and procedures necessary to accomplish its purposes, and elect from its members a chairperson and such other officers as it shall deem necessary. 
+</section>
+  <section prefix="(b)">	All regular or special meetings of the commission shall be open to the public as governed by North Carolina General Statute §143-318.1, Meetings of Governmental Bodies. Any person shall be entitled and encouraged to appear and be heard on any matter pertaining to the arts before the commission. 
+</section>
+  <section prefix="(c)">	The commission shall have a director and suitable staff appointed by the City Manager and maintain an office properly equipped to discharge its functions. 
+(Ord. No. 1977-578, §3, 7-5-77) 
+</section>
+ </text>
+</law>

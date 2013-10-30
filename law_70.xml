@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.29" order_by="6.29" level="3">Sec. 6.29 - ACQUISITION OF RIGHTS-OF-WAY AND OTHER PROPERTY; CONDEMNATION POWERS.</unit>
+ </structure>
+ <section_number>I-VI-6.29</section_number>
+ <catch_line>ACQUISITION OF RIGHTS-OF-WAY AND OTHER PROPERTY; CONDEMNATION POWERS.</catch_line>
+ <order_by>6.29</order_by>
+ <section prefix="text">
+The City Council shall have full power to acquire and hold rights-of-way, water rights, sewerage outlets, and other property necessary or proper in connection with the ownership, maintenance or operation of any of the above named utility systems, both within and without the corporate limits. The City shall have power to condemn rights-of-way, easements, water rights, lands, sewerage outlets, and other property within and without the corporate limits of the City for the purpose of obtaining, storing, maintaining and furnishing a pure and adequate water supply, and of furnishing lights for the City and its citizens, and for the purpose of furnishing sewerage disposal service and sewerage treatment services for the City and its citizens. The condemnation proceedings for any such purpose or purposes shall be the same as are provided for the condemnation of land for street purposes by this act or by the General Statutes of North Carolina. 
+Annotation: Taylor v. Raleigh, 290 N.C. 608, 626-27, 227 S.E.2d 576 (1976). 
+Cross reference: As to condemnation generally, see §6.43 
+</section>
+</law>

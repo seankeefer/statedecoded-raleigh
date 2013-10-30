@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - PRIVILEGE LICENSE TAXES [1]</unit>
+  <unit label="section" identifier="2-2014" order_by="2-2014" level="5">Sec. 2-2014. - REVENUE COLLECTOR; DUTIES.</unit>
+ </structure>
+ <section_number>2-2014</section_number>
+ <catch_line>REVENUE COLLECTOR; DUTIES.</catch_line>
+ <order_by>2-2014</order_by>
+ <text>
+  <section prefix="(a)">	The Revenue Collector is hereby designated as the proper City official to collect license taxes and to issue privilege licenses. 
+</section>
+  <section prefix="(b)">	The Revenue Collector shall make any investigation necessary to determine the tax liability of persons engaged in business within the City. If necessary, the Revenue Collector is authorized to enter upon the premises of any such business during normal business hours for the purpose of determining whether this article has been complied with. 
+</section>
+ </text>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET USE AND CLEANLINESS</unit>
+  <unit label="section" identifier="12-1038" order_by="12-1038" level="5">Sec. 12-1038. - JUNK, ETC., ON RIGHTS-OF-WAY PROHIBITED.</unit>
+ </structure>
+ <section_number>12-1038</section_number>
+ <catch_line>JUNK, ETC., ON RIGHTS-OF-WAY PROHIBITED.</catch_line>
+ <order_by>12-1038</order_by>
+ <text>
+  <section prefix="(a)">	It is unlawful for any person to place or leave or cause to be placed or left, temporarily or permanently, any trash, refuse, garbage, scrapped automobile or truck or part thereof, scrap metal or junk of any kind on the right-of-way of any street or highway within the City. 
+</section>
+  <section prefix="(b)">	This section does not apply to domestic trash or garbage placed on such rights-of-way for removal by the City. 
+(Code 1959 , §11-9) 
+</section>
+ </text>
+</law>

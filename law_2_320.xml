@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2140" order_by="8-2140" level="5">Sec. 8-2140.10. - PROHIBITED DISCHARGE STANDARDS DEFENSE.</unit>
+ </structure>
+ <section_number>8-2140</section_number>
+ <catch_line>PROHIBITED DISCHARGE STANDARDS DEFENSE.</catch_line>
+ <order_by>8-2140</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	A local limit exists for each pollutant discharged and the user was in compliance with each limit directly prior to, and during, the pass through or interference; or 
+</section>
+   <section prefix="(2)">	No local limit exists, but the discharge did not change substantially in nature or constituents from the user's prior discharge when the City was regularly in compliance with its NPDES Permit, and in the case of interference, was in compliance with applicable sludge use or disposal requirements. 
+</section>
+  </section>
+  <section prefix="(b)">	The references in §8-2140.10 refer only to specific prohibitions actually listed in the article; pursuant to 40 CFR Section 403.5(a)(2), the affirmative defense outlined in §8-2140.10 cannot apply to the specific prohibitions in §8-2113(b)(1), (4), and (8). 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</section>
+ </text>
+</law>

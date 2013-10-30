@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET AND SIDEWALK STANDARDS</unit>
+  <unit label="section" identifier="6-2011" order_by="6-2011" level="5">Sec. 6-2011. - SPECIFICATIONS FOR CONSTRUCTION.</unit>
+ </structure>
+ <section_number>6-2011</section_number>
+ <catch_line>SPECIFICATIONS FOR CONSTRUCTION.</catch_line>
+ <order_by>6-2011</order_by>
+ <text>
+The City Council shall determine the character and type of construction and materials to be used in the construction of any street or sidewalk improvement, and it shall determine whether any or all of the work shall be done by contract or by City forces. All street and sidewalk improvements shall be constructed in accordance with the standards of this Code and the specifications of the Department of Central Engineering as approved by the City Council. 
+</text>
+</law>

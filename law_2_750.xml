@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - DOGS AND CATS [9]</unit>
+  <unit label="section" identifier="12-3008" order_by="12-3008" level="5">Sec. 12-3008. - INOCULATION OF DOGS, CATS AND OTHER PETS.</unit>
+ </structure>
+ <section_number>12-3008</section_number>
+ <catch_line>INOCULATION OF DOGS, CATS AND OTHER PETS.</catch_line>
+ <order_by>12-3008</order_by>
+ <text>
+  <section prefix="(a)">	Inoculation. 
+It shall be unlawful for an owner to fail to provide current inoculation against rabies (hydrophobia) for any dog or cat four (4) months of age or older. A rabies inoculation shall be deemed current for a cat if the inoculation has been given within the preceding twelve (12) months. A rabies inoculation shall be deemed current for a dog if two (2) inoculations have been given one year apart and booster doses of rabies vaccine administered every three (3) years thereafter. 
+State law reference: Rabies vaccination, G.S. 130A-185. 
+</section>
+  <section prefix="(b)">
+   <section prefix="(1)">	Any person inoculating an animal against rabies shall issue to the owner of the animal inoculated a numbered metallic tag, stamped with the number and the year for which it is issued, and indicating that the animal has been inoculated against rabies. 
+</section>
+   <section prefix="(2)">	The metal inoculation tag shall be securely fastened to the dog's choke chain collar or harness and it shall be unlawful for the owner of a dog to allow such dog to be within the City without the inoculation tag. 
+</section>
+   <section prefix="(3)">	Cats shall not be required to wear the metallic inoculation tag, but the owner of a cat shall maintain the tag or the rabies vaccination certificates as written evidence to prove the cat has a current rabies inoculation. 
+(Ord. No. 1980-502, §2, 10-21-80) 
+State law reference: Rabies vaccination tags, G.S. 130A-190. 
+</section>
+  </section>
+ </text>
+</law>

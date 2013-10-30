@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - ENVIRONMENTAL ADVISORY BOARD</unit>
+  <unit label="section" identifier="1-4011" order_by="1-4011" level="5">Sec. 1-4011. - BOARD CREATED.</unit>
+ </structure>
+ <section_number>1-4011</section_number>
+ <catch_line>BOARD CREATED.</catch_line>
+ <order_by>1-4011</order_by>
+ <text>
+There is hereby established an Environmental Advisory Board (hereinafter referred to as the Board) for the purpose of advising the City Council on maters related to the environment on which the Council deems it appropriate or necessary to receive advice. The Board will conduct only activities specifically referred to it by City Council. 
+(Ord. No. 2006-56, §1, 6-20-06) 
+</text>
+</law>

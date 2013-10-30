@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="VI" order_by="6" level="2">ARTICLE VI. - MUNICIPAL FUNCTIONS</unit>
+  <unit label="section" identifier="6.10" order_by="6.10" level="3">Sec. 6.10 - DIVISION OF PURCHASES AND CONTRACTS.</unit>
+ </structure>
+ <section_number>I-VI-6.10</section_number>
+ <catch_line>DIVISION OF PURCHASES AND CONTRACTS.</catch_line>
+ <order_by>6.10</order_by>
+ <section prefix="text">
+  <section prefix="(1)">	Establish and enforce specifications with respect to supplies, materials and equipment required by the City government in cooperation with the heads of the various departments and divisions. 
+</section>
+  <section prefix="(2)">	Inspect or supervise the inspection of all deliveries of supplies, materials and equipment and determine their quality, quantity and conformance with specifications. 
+</section>
+  <section prefix="(3)">	Have charge of such general storeroofs and warehouses as the City Council may provide by ordinance.
+</section>
+  <section prefix="(4)">	Transfer to or between offices, departments or agencies, or sell surplus, obsolete, or unused supplies, materials, or equipment, subject to authorization and the direction of the City Council. 
+</section>
+ </section>
+</law>

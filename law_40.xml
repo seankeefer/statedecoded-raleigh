@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="V" order_by="5" level="2">ARTICLE V. - POWERS AND DUTIES OF MAYOR, CITY CLERK AND TREASURER, AND CITY ATTORNEY</unit>
+  <unit label="section" identifier="5.5" order_by="5.5" level="3">Sec. 5.5 - SAME; POWERS AND DUTIES OF CITY CLERK AND TREASURER.</unit>
+ </structure>
+ <section_number>I-V-5.5</section_number>
+ <catch_line>SAME; POWERS AND DUTIES OF CITY CLERK AND TREASURER.</catch_line>
+ <order_by>5.5</order_by>
+ <section prefix="text">
+The City Council shall have power and authority to provide that the City Clerk shall have the powers and perform the duties of City Treasurer, such powers and duties to be prescribed from time to time by the governing body, and to be in addition to all powers and duties as may be prescribed by law; and in such event, the City Clerk shall be known as the &quot;City Clerk and Treasurer.&quot; The power and authority in this section conferred upon the City Council shall be exercised by ordinance duly adopted by the City Council, in the event the City Council shall determine to exercise such power and authority, which ordinance shall provide that the person or persons appointed from time to time to be City Clerk of the City of Raleigh shall have the powers and perform the duties of City Treasurer, as such powers and duties may be prescribed from time to time by the City Council or by law, and that any person so appointed shall be known as City Clerk and Treasurer of the City of Raleigh; provided, that in such event all powers conferred upon the City Clerk or upon the City Treasurer and all duties imposed upon the City Clerk or the City Treasurer by this act or by any other law or by action of the City Council shall be powers conferred upon and duties imposed upon the City Clerk and Treasurer of the City of Raleigh. 
+</section>
+</law>

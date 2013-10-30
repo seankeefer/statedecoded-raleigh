@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STOPS REQUIRED</unit>
+  <unit label="section" identifier="11-2076" order_by="11-2076" level="5">Sec. 11-2076. - STOP WHEN TRAFFIC OBSTRUCTED.</unit>
+ </structure>
+ <section_number>11-2076</section_number>
+ <catch_line>STOP WHEN TRAFFIC OBSTRUCTED.</catch_line>
+ <order_by>11-2076</order_by>
+ <text>
+It shall be unlawful for a driver to enter any intersection or a marked crosswalk unless there is sufficient space on the other side of the intersection or crosswalk to accommodate the vehicle he is operating without obstructing the passage of other vehicles or pedestrians, notwithstanding any traffic-control signal indication to proceed. 
+(Code 1959 , §21-43) 
+</text>
+</law>

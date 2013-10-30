@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - STREETS AND PUBLIC WAYS</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - STREET USE AND CLEANLINESS</unit>
+  <unit label="section" identifier="12-1041" order_by="12-1041" level="5">Secs. 12-1041 — 12-1050. - RESERVED.</unit>
+ </structure>
+ <section_number>12-1041</section_number>
+ <catch_line>RESERVED.</catch_line>
+ <order_by>12-1041</order_by>
+ <text>
+
+
+</text>
+</law>

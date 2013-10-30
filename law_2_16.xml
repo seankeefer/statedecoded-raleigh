@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="1" order_by="1" level="3">CHAPTER 1. - MAYOR AND COUNCIL</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - COUNCIL MEETINGS AND PROCEDURE</unit>
+  <unit label="section" identifier="1-1034" order_by="1-1034" level="5">Sec. 1-1034. - ENFORCEMENT OF DECORUM REQUIREMENTS.</unit>
+ </structure>
+ <section_number>1-1034</section_number>
+ <catch_line>ENFORCEMENT OF DECORUM REQUIREMENTS.</catch_line>
+ <order_by>1-1034</order_by>
+ <text>
+Any person who violates the order and decorum of a Council meeting shall be guilty of a misdemeanor. When directed by the Council, the Chief of Police or such member or members of the Police Department as the Chief may designate shall be sergeant-at-arms of the Council meetings. The Chief or member of the Police Department, shall carry out all orders and instructions given by the presiding officer for the purpose of maintaining order and decorum at the Council meeting. Upon instructions of the presiding officer, it shall be the duty of the sergeant-at-arms, or any of them present, to place any person, other than the Mayor or a Council member, who violates the order and decorum of the meeting under arrest, and cause him to be prosecuted. The Mayor or a Council member may only be placed under arrest for breach of decorum by a vote of the Council. 
+(Code 1959 , §2-14; Ord. No. 1978-748, §1, 3-14-78) 
+</text>
+</law>

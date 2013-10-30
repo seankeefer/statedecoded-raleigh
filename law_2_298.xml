@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="C" order_by="C" level="4">ARTICLE C. - USE OF SANITARY SEWER SYSTEM [4]</unit>
+  <unit label="section" identifier="8-2130" order_by="8-2130" level="5">Sec. 8-2130. - REPORTS ON COMPLIANCE WITH CATEGORICAL PRETREATMENT STANDARD DEADLINE.</unit>
+ </structure>
+ <section_number>8-2130</section_number>
+ <catch_line>REPORTS ON COMPLIANCE WITH CATEGORICAL PRETREATMENT STANDARD DEADLINE.</catch_line>
+ <order_by>8-2130</order_by>
+ <text>
+Within ninety (90) days following the date for final compliance with applicable categorical pretreatment standards, or in the case of a new source following commencement of the introduction of waste water into the POTW, any user subject to such pretreatment standards and requirements shall submit to the POTW Director a report containing the information described in §8-2128(b)(4) through (b)(6) of this article. For users subject to equivalent mass or concentration limits established in accordance with the procedures in 40 CFR 403.6(c), this report shall contain a reasonable measure of the user's long term production rate. For all other users subject to categorical pretreatment standards expressed in terms of allowable pollutant discharge per unit of production (or other measure of operation), this report shall include the user's actual production during the appropriate sampling period. All compliance reports must be signed and certified in accordance with §8-2127(3) of this article. 
+(Ord. No. 2011-981, §1, 12-6-11) 
+</text>
+</law>

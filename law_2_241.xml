@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - WATER AND SEWER EXTENSION POLICIES</unit>
+  <unit label="section" identifier="8-2032" order_by="8-2032" level="5">Sec. 8-2032. - ASSESSMENT; CITY TO SHARE COST OF OVERSIZED LINES.</unit>
+ </structure>
+ <section_number>8-2032</section_number>
+ <catch_line>ASSESSMENT; CITY TO SHARE COST OF OVERSIZED LINES.</catch_line>
+ <order_by>8-2032</order_by>
+ <text>
+In the event it is necessary or desirable in the opinion of the Director of Public Utilities to lay a water main larger than a six-inch main, or sewer main larger than an eight-inch main, the City will bear the cost of the difference between the size of main required and a six-inch water main or eight-inch sewer main. 
+(Code 1959 , §23-9(1); Ord. No. 1985-543, §15, 4-16-85) 
+Editor's note: Regulations concerning reimbursements for oversized utility lines are found in Standard Operating Procedure No. 700-6. 
+</text>
+</law>

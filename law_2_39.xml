@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="1" order_by="1" level="2">PART 1 - GENERAL GOVERNMENT</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - BOARDS AND COMMISSIONS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="1-4002" order_by="1-4002" level="5">Sec. 1-4002. - APPOINTMENTS.</unit>
+ </structure>
+ <section_number>1-4002</section_number>
+ <catch_line>APPOINTMENTS.</catch_line>
+ <order_by>1-4002</order_by>
+ <text>
+  <section prefix="(a)">	All appointments made by the City Council to any commission shall be upon the basis of recommendations made by the Mayor or a member of the Council, and final appointments in all cases shall be made by the Council. 
+</section>
+  <section prefix="(b)">	Nominations for appointment of a citizen other than a member of the Council to any committee, commission or board shall be made openly at a regular Council meeting, and no such appointment shall be made except at a regular Council meeting held subsequent to the meeting at which nominations were received. If nominations to fill a vacancy are made at more than one (1) Council meeting, the appointment shall be made at a regular meeting subsequent to the last meeting at which nominations were made. All persons selected for membership on any committee, commission or board shall be residents of the City unless otherwise specified by the ordinance or resolution establishing the body. In cases where City residency is a requirement for membership, the member shall forfeit his seat upon removing his residence from the City. 
+</section>
+  <section prefix="(c)">	By majority vote of the members of the Council, the Council may declare nominations for an appointment to be closed at any regular meeting. 
+</section>
+  <section prefix="(d)">	If, by reason of the nature or number of vacancies on a committee, commission or board, an immediate appointment or appointments are required, the Council in its discretion may waive the requirements of this section by a majority vote of the members of the Council. Once a person has served six (6) years on any board or commission, they are not eligible for reappointment to that board or commission for a two-year period. 
+</section>
+  <section prefix="(e)">	The City Clerk shall inform the Council at least sixty (60) days prior to the expiration of a term on any committee, commission or board, and any member of a committee, commission or board resigning prior to the expiration of his term shall give written notice thereof to the Council through the Mayor or the City Clerk. 
+</section>
+  <section prefix="(f)">	A member of a committee, commission or board shall continue to serve upon expiration of his term until his successor is duly named and qualified, or unless he resigns. 
+</section>
+  <section prefix="(g)">	All appointments to every commission of the City shall be on the basis of a two-year term, except for the incumbent appointees whose reappointment for two (2) years would cause the six-year limitation set out in subsection (a) to be exceeded. Any such incumbents reappointed shall be reappointed for a period which, added to their previous service, shall constitute six (6) years. Appointments shall be staggered to the end that there shall always be one (1) or more incumbents upon any commission. 
+</section>
+  <section prefix="(h)">	Any City board or commission which desires to have bylaws shall first have the content of such bylaws approved by the City Council. Any amendments to previously approved bylaws shall also require City Council approval. The City Council shall not approve any bylaws which are in conflict with this article or any other section of this Code. Any bylaws in use on November 21, 1989, shall be submitted to the City Council for approval and shall become null and void if not approved by the City Council within ninety (90) days from November 21, 1989. 
+(Code 1959 , §2-18.1; Res. 1974-160A, §2; Ord. No. 1979-76, 5-1-79; Ord. No. 1981-617, §3, 3-17-81; Ord. No. 1984-392, §1, 8-7-84; Ord. No. 1986-761, §1, 4-1-86; Ord. No. 1989-462, §1, 11-21-89; Ord. No. 1993-161, §1, 4-6-93) 
+</section>
+ </text>
+</law>

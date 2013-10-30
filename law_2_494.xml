@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="J" order_by="J" level="4">ARTICLE J. - PARKING AND STANDING</unit>
+  <unit label="section" identifier="11-2180" order_by="11-2180" level="5">Sec. 11-2180. - UNLAWFUL PURPOSES FOR PARKING.</unit>
+ </structure>
+ <section_number>11-2180</section_number>
+ <catch_line>UNLAWFUL PURPOSES FOR PARKING.</catch_line>
+ <order_by>11-2180</order_by>
+ <text>
+  <section prefix="(1)">	Displaying it for sale.
+</section>
+  <section prefix="(2)">	Washing, greasing, or repairing such vehicle, except repairs necessitated by emergency. 
+(Code 1959 , §21-41) 
+</section>
+ </text>
+</law>

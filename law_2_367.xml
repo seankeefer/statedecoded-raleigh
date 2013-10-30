@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - REUSE WATER REGULATION [7]</unit>
+  <unit label="section" identifier="8-2189" order_by="8-2189" level="5">Sec. 8-2189. - NOTIFICATION.</unit>
+ </structure>
+ <section_number>8-2189</section_number>
+ <catch_line>NOTIFICATION.</catch_line>
+ <order_by>8-2189</order_by>
+ <text>
+For areas accessible to the public, notification shall be provided to inform the public of the use of reuse water and that reuse water is not intended for drinking. Signs will be provided indicating &quot;REUSE WATER: DO NOT DRINK&quot;. 
+In industrial and commercial systems, notification shall be provided to inform employees that reuse water is being used and that it is not intended for drinking. Training on the proper handling of reuse water shall be provided to employees required to be in direct contact with reuse systems. Systems in areas of public access shall be marked to identify the source of the water as being reuse water. 
+(Ord. No. 2006-100, §1, 9-19-06) 
+</text>
+</law>

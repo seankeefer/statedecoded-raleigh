@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2161" order_by="12-2161" level="5">Sec. 12-2161. - REGISTRATION OF SUPPORTIVE HOUSING RESIDENCES AND MULTI-UNIT SUPPORTIVE HOUSING RESIDENCES.</unit>
+ </structure>
+ <section_number>12-2161</section_number>
+ <catch_line>REGISTRATION OF SUPPORTIVE HOUSING RESIDENCES AND MULTI-UNIT SUPPORTIVE HOUSING RESIDENCES.</catch_line>
+ <order_by>12-2161</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	The address of the residence, 
+</section>
+   <section prefix="(2)">	The name, address and telephone number of the &quot;operator representative,&quot;
+</section>
+   <section prefix="(3)">	The number of occupants permitted to dwell there, and
+</section>
+   <section prefix="(4)">	For an initial registration, an affirmation that the residence is not located in violation of applicable radius separation requirements for such facilities. 
+For purposes of this section, &quot;operator representative&quot; shall mean an individual who represents the operator or residents of a supportive housing residence or a multi-unit supportive housing residence who is responsible for addressing problems with the operation of such a facility, if any, whenever they arise. The &quot;operator representative&quot; may live on-site at the facility or off-site, but must be available to the public. 
+</section>
+  </section>
+  <section prefix="(b)">	Supportive housing residences or multi-unit supportive housing residences must obtain and maintain any and all applicable federal, state, local or other licenses required for such facilities before registering. 
+</section>
+  <section prefix="(c)">	Any changes in licensure status or in designated &quot;operator representative&quot; must be reported to the Zoning Enforcement Administrator immediately. 
+(Ord. No. 1994-365-TC-71, §21, TC-22-93, 4-5-94; Ord. No. 2011-953, §§1, 2, 10-4-11; Ord. No. 2012-16, §1, 2-21-12) 
+Cross reference: Radius requirements for multi-unit supportive housing residences and supportive housing residences, §10-2072(b). 
+
+________________________________________
+FOOTNOTE(S):
+________________________________________
+--- (7) --- 
+Editor's note: Ord. No. 1987-915, §1, adopted Feb. 3, 1987, repealed §§12-2155—12-2161 of Article F, pertaining to precious metal dealers, as derived from Ord. No. 1980-511, adopted Nov. 4, 1980, and Ord. No. 1981-603, §1, adopted Mar. 17, 1981. §1 of Ord. No. 1992-31, adopted Aug. 11, 1992, effective Oct. 31, 1992, added a new article, §§12-2155—12-2160. (Back) 
+</section>
+ </text>
+</law>

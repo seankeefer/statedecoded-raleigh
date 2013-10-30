@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="12-3003" order_by="12-3003" level="5">Sec. 12-3003. - MEMBERS OF DIVISION TO HAVE POWER, AUTHORITY AND IMMUNITY OF PEACE OFFICERS, DUTY TO WEAR BADGE; FIREARMS.</unit>
+ </structure>
+ <section_number>12-3003</section_number>
+ <catch_line>MEMBERS OF DIVISION TO HAVE POWER, AUTHORITY AND IMMUNITY OF PEACE OFFICERS, DUTY TO WEAR BADGE; FIREARMS.</catch_line>
+ <order_by>12-3003</order_by>
+ <text>
+  <section prefix="(a)">	In the performance of their duties, members of the division shall have the power, authority and immunity of peace officers as described in G.S. 15-41 and 160A-285, but only in regard to enforcing the provisions of this Code and the General Statutes of North Carolina which relate to the care, treatment and impounding of animals and making arrests for violations of such provisions. As members of the division shall only have that limited authority described in this section, a member shall not be considered a &quot;policeman&quot; for purposes of the Code relating to the policemen's and firemen's special relief fund, and shall not be eligible for benefits thereunder. 
+</section>
+  <section prefix="(b)">	Each member of the division, while performing his respective duties, shall wear a badge of a size and design to be determined by the Chief of Police. 
+</section>
+  <section prefix="(c)">	Notwithstanding the prior provisions of this section, members of the division shall not and are not hereby authorized to carry on their persons any firearms of any kind unless specifically authorized by the Chief of Police. However, members of the division may store at animal shelters or carry in department vehicles, firearms approved for use by the Chief of Police and use such firearms when necessary to enforce sections of this chapter or other applicable law for the control of wild, vicious, diseased or potentially dangerous animals when the officer in charge of the animal control division deems the action necessary. 
+(Code 1959 , §4-3) 
+</section>
+ </text>
+</law>

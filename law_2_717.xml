@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - SHORT-TERM RESIDENTIAL OCCUPANCIES [7]</unit>
+  <unit label="section" identifier="12-2158" order_by="12-2158" level="5">Sec. 12-2158. - COMPLIANCE WITH PROVISIONS.</unit>
+ </structure>
+ <section_number>12-2158</section_number>
+ <catch_line>COMPLIANCE WITH PROVISIONS.</catch_line>
+ <order_by>12-2158</order_by>
+ <text>
+All persons required by this article to have a license that are operating a business shall have thirty (30) days from the application of this article to file for any required license. The Inspection Department shall inspect each rooming business annually to determine compliance. 
+(Ord. No. 1992-31, §1, 8-4-92) 
+Cross reference: Compliance with fair housing and landlord and tenant laws, §12-2160 
+</text>
+</law>

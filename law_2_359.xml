@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - REUSE WATER REGULATION [7]</unit>
+  <unit label="section" identifier="8-2181" order_by="8-2181" level="5">Sec. 8-2181. - DEFINITIONS.</unit>
+ </structure>
+ <section_number>8-2181</section_number>
+ <catch_line>DEFINITIONS.</catch_line>
+ <order_by>8-2181</order_by>
+ <text>
+[As used in this article, the following terms shall have the meanings provided in this section unless the context clearly indicates otherwise.] 
+Approval Authority shall mean the Director of the Division of Water Quality of the North Carolina Department of Environment, Health and Natural Resources or his designee. 
+Authorized representative of the reclaimed water user: 
+(A)	If user is a corporation, authorized representative shall mean the president, secretary, or a vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation, or 
+(B)	If the user is a partnership or sole proprietorship, an authorized representative shall mean a general partner or the proprietor, respectively. 
+(C)	If the user is a federal, state or local government facility, an authorized representative shall mean a director or highest official appointed or designated to oversee the operation and performance of the activities of the government facility, or their designee. 
+(D)	The entities described in subdivisions (A) through (B) above may designate another authorized representative if the authorization is in writing, the authorization specifies the individual or position responsible for the overall operation of the facility from which the discharge originates or having overall responsibility for environmental matters for the company, and the written authorization is submitted to the City. 
+Cross-connection shall mean Any physical connection whereby the public water supply is connected with any other water supply system, whether public or private, either inside or outside of any building or buildings, in such a manner that a flow of water into the public water supply is possible either through the manipulation of valves or because of ineffective check or back-pressure valves, or because of any other arrangement. 
+Consumer shall mean any person, firm, or corporation responsible for any property at which reuse water from the City of Raleigh public reuse water system is received. In the absence of other parties or the failure of other parties to accept the responsibilities herein set forth, the owner of record shall be ultimately responsible. 
+Dedicators shall mean and include the person owning or constructing any private utility system being dedicated to the City. 
+Major reuse water shall mean those reuse water lines which are twelve (12) inches in diameter or greater. 
+NCAC Section 15A NCAC 02T.0900 shall mean the North Carolina Administrative Code, Section 15A, subchapter 02T, section .0900, as currently written and as may be rewritten from time to time. 
+Permit shall mean an individual user permit issued by the City of Raleigh and in some cases, the North Carolina Division of Water Quality, to operate an on-site reclaimed water facility. 
+Reclaimed water shall have the same meaning as reuse water. 
+Reuse water shall mean wastewater that has been treated to water quality standards as defined by the applicable section of the North Carolina Administrative Code and is intended to be distributed for further use. 
+Reuse water service stubs shall mean those portions of the reuse water service pipes that connect to the City's reuse water mains and extend to the boundaries of public easements and rights-of-way. 
+Tap size shall mean the nominal diameter of the connection of the reuse water line installed between a reuse water meter assembly and the reuse water main connected to the reuse water utility system of Raleigh without regard to the configuration of that reuse water assembly or ownership of the reuse water meter assembly or reuse water main. 
+Utility system or utility lines shall mean and include reuse water pipe lines, water pipe lines, and sewer pipe lines (any or all as determined by the context), and shall include all pipes, valves, valve boxes, hydrants, and other fixtures, equipment, and apparatus connected to and forming a part of the main reuse water, main water, or sewer pipe lines and systems or all, and all appliances necessary and convenient thereto. The utility lines dedicated to the City shall include only main distribution lines, valves, hydrants and other apparatus, fixtures and equipment forming a part of the lines laid in public streets, roads, highways and alleys or across City utility or sanitary sewer easements on private property, and shall not include lines leading from mains to building connections on private property and shall not include the reuse water, water, or sewer lines within any residences or other privately owned building. Utility lines built in accordance with City/County contract dated January, 1985, are part of the City's utility system. 
+Waters of the State shall mean any stream, river, brook, swamp, lake, sound tidal estuary, bay, creek, reservoir, waterway or other body or accumulation of water, whether surface or underground, public or private, or natural or artificial, that is contained in, flows through, or borders upon any portion of the State of North Carolina. 
+(Ord. No. 2006-100, §1, 9-19-06) 
+</text>
+</law>

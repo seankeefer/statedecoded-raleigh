@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="6" order_by="6" level="2">PART 6 - CENTRAL ENGINEERING</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - STREET AND SIDEWALK IMPROVEMENTS [1]</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - PROCEDURE</unit>
+  <unit label="section" identifier="6-2003" order_by="6-2003" level="5">Sec. 6-2003. - PROPERTY OWNER INITIATIVE.</unit>
+ </structure>
+ <section_number>6-2003</section_number>
+ <catch_line>PROPERTY OWNER INITIATIVE.</catch_line>
+ <order_by>6-2003</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(2)">	A map shall be prepared by the Department of Central Engineering showing the names of property owners, location and frontage of each parcel of land or lot abutting on both sides of the proposed street or streets to be improved, and delineation of any lots which comply with the requirements of §6-2021(4)a. 
+</section>
+  </section>
+  <section prefix="(b)">	After the petition is signed by all property owners who wish to have improvements made, it is then returned to the Department of Central Engineering. The petition is then sent to the City Clerk and Treasurer to determine whether the petition conforms to the requirements of G.S. 160A-217. According to this statute, the sufficiency of the petition is determined by the number of property owners who sign the petition and the amount of lineal feet of frontage of the lands represented by the signatories, in most cases fifty (50) per cent of the owners and fifty (50) per cent of the lineal feet of frontage is required by the General Statutes; however, G.S. 160A-217 makes exception to this standard. If a valid petition is submitted, the City Clerk and Treasurer will notify the City Council that it may adopt a preliminary resolution (resolution of intent). 
+</section>
+  <section prefix="(c)">
+   <section prefix="(1)">	Availability of funds;
+</section>
+   <section prefix="(2)">	Classification of street or streets proposed to be improved; 
+</section>
+   <section prefix="(3)">	Estimated unit cost of the proposed improvement;
+</section>
+   <section prefix="(4)">	Impact on land use, soil erosion, water quality, and stormwater management;
+</section>
+   <section prefix="(5)">	Percentage of development of lots on street or streets proposed to be improved; 
+</section>
+   <section prefix="(6)">	Percentage of owners and footage represented by the petition; 
+</section>
+   <section prefix="(7)">	Priority of the need for improvement of this street relative to the need for improvement of other streets; and 
+</section>
+   <section prefix="(8)">	Time of filing petition with the Department of Central Engineering.
+</section>
+  </section>
+  <section prefix="(d)">	If a preliminary resolution is adopted by the City Council, then the public shall be notified and informed as provided in §6-2002(b) and (c) of this chapter. 
+</section>
+  <section prefix="(e)">	Notwithstanding any provisions herein, the City Council, pursuant to §6-2002 may adopt a preliminary resolution of intent and assess the costs against property owners without a petition that conforms to the requirements of G.S. 160A-217. 
+</section>
+ </text>
+</law>

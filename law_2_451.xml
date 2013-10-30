@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TURNING MOVEMENTS</unit>
+  <unit label="section" identifier="11-2101" order_by="11-2101" level="5">Sec. 11-2101. - TURNING MARKERS.</unit>
+ </structure>
+ <section_number>11-2101</section_number>
+ <catch_line>TURNING MARKERS.</catch_line>
+ <order_by>11-2101</order_by>
+ <text>
+When authorized signs, markers, buttons, or other indicators are placed within an intersection indicating the course to be traveled by vehicles turning thereat, no driver of a vehicle shall disobey the directions of the indicators. 
+State law reference: Turning at intersections, G.S. 20-153. 
+</text>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="3" order_by="3" level="3">CHAPTER 3. - ANIMALS</unit>
+  <unit label="article" identifier="D" order_by="D" level="4">ARTICLE D. - STABLES AND HOLDING FACILITIES</unit>
+  <unit label="section" identifier="12-3049" order_by="12-3049" level="5">Sec. 12-3049. - CATTERIES LICENSE; REQUIRED.</unit>
+ </structure>
+ <section_number>12-3049</section_number>
+ <catch_line>CATTERIES LICENSE; REQUIRED.</catch_line>
+ <order_by>12-3049</order_by>
+ <text>
+It shall be unlawful for any person to operate a cattery in the City without possessing a valid cattery license. 
+(Code 1959 , §4-32) 
+</text>
+</law>

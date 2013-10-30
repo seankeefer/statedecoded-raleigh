@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - MOTOR VEHICLES AND TRAFFIC</unit>
+  <unit label="article" identifier="H" order_by="H" level="4">ARTICLE H. - MISCELLANEOUS DRIVING RULES</unit>
+  <unit label="section" identifier="11-2136" order_by="11-2136" level="5">Sec. 11-2136. - PENALTY AND APPEAL.</unit>
+ </structure>
+ <section_number>11-2136</section_number>
+ <catch_line>PENALTY AND APPEAL.</catch_line>
+ <order_by>11-2136</order_by>
+ <text>
+  <section prefix="(a)">	Any violation of this section shall be deemed a non-criminal violation for which a civil penalty of fifty dollars ($50.00) shall be assessed. The violation shall not be assessed any points pursuant to G.S. 20-16(c) or G.S. 58-36-65. Notice of the violation shall be forwarded to the owner by personal service or first class mail to the address given on the motor vehicle registration. The owner shall have thirty (30) days to respond to the notice of violation. If the owner fails to pay the civil penalty or to respond to the notice of violation within the time period specified on the citation, the owner shall have waived the right to contest responsibility for the violation and shall be subject to an additional penalty of fifty dollars ($50.00). The City may establish procedures for the collection of these penalties and may enforce the penalties by civil action in the nature of debt. 
+</section>
+  <section prefix="(b)">	A notice of appeal shall be filed within thirty (30) days after receiving notification of the violation. Failure to give notice of appeal within this time period shall constitute a waiver of the right to contest the citation. Appeals shall be heard by an administrative process established by the City and set out on each citation. Anyone desiring an appeal must post a bond equal in amount to the civil penalty for the violation before an appeal hearing will be scheduled. A member of the appeals panel may waive or reduce the bond upon receipt of sworn evidence that the appealing party is unable to pay the full amount of the bond. Sworn evidence must be submitted within seven (7) calendar days after a notice of appeal has been filed. Appeals from a decision of the appeals panel shall be by certiorari to the Superior Court of Wake County. 
+(Ord. No. 2001-108, §3, 11-7-01; Ord. No. 2003-434, §§2, 3, 5-6-03; Ord. No. 2003-497, §§2, 3, 9-2-03) 
+</section>
+ </text>
+</law>

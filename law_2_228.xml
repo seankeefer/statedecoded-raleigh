@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="8" order_by="8" level="2">PART 8 - PUBLIC UTILITIES</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - WATER AND SEWER SERVICE</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - GENERAL PROVISIONS</unit>
+  <unit label="section" identifier="8-2007" order_by="8-2007" level="5">Sec. 8-2007. - COMMON METERS AND CONNECTIONS; REQUIREMENTS.</unit>
+ </structure>
+ <section_number>8-2007</section_number>
+ <catch_line>COMMON METERS AND CONNECTIONS; REQUIREMENTS.</catch_line>
+ <order_by>8-2007</order_by>
+ <text>
+  <section prefix="(a)">	The building or buildings to be served are in compliance with the City's zoning and subdivision ordinances, if located within the jurisdiction of the City, or with the County zoning and subdivision ordinances, if located within the jurisdiction of the County. 
+</section>
+  <section prefix="(b)">	The building permit and plat shows a single owner and indicates that the complex of buildings will be constructed on a single lot. 
+</section>
+  <section prefix="(c)">	If one (1) common meter is used, such meter shall be located within the street right-of-way or in a two-foot easement adjacent to the street right-of-way at such locations approved by the Director of Public Utilities. 
+</section>
+  <section prefix="(d)">	If a common water connection and/or sewer connection and more than one (1) meter is used, the meters may be located on private property. In such cases the applicant shall be required to submit to the Department of Public Utilities a site plan showing the proposed water and sewer construction. The plans shall be prepared by a registered professional engineer who shall also provide periodic inspection of the work. When the work is complete, he shall furnish the owner and the City with a certification that the work has been done properly and has been approved by him. The plan shall be approved by the Department of Public Utilities to include size of water and sewer line, materials to be used for construction, valve locations, hydrant locations, manhole locations, meter locations and any other appurtenances that may be necessary as determined by the Director of Public Utilities. All construction from the property line to the water meter shall be in accordance with the City standards and specifications. Construction beyond the water meter may be with materials permitted in the City of Raleigh Plumbing Code. All sewer construction within easements shall be in accordance with City standards and specifications; all other sewer construction shall be in accordance with the City of Raleigh Plumbing Code. All construction shall be performed by either a licensed master plumber or a licensed utility contractor. The Director of Public Utilities or his designated representatives may enter the premises of any water or sewer user between the hours of 8:00 a.m. and 6:00 p.m. to examine the pipes and fixtures, the quantity of water being used and the manner of its use, to take meter readings and to make meter repairs. 
+</section>
+  <section prefix="(e)">	Should a building within such a multiple constructed area be conveyed to a new owner, the City shall require a separate water and sewer connection from that building to the public main. Each development in any of the above categories shall have a fire protection plan approved by the Public Utilities Department and the Fire Department prior to the issuance of a building permit and prior to the installation of water connections or the extension of existing water installations. 
+</section>
+  <section prefix="(f)">	The fire protection plans shall be submitted in triplicate to the Director of Public Utilities for approval. The City reserves the right to require proper size water lines, proper hydrants spacing and location, and the installation of metering devices where it shall be determined that water is being used for other than fire protection purposes exclusively. All water facilities constructed on private property for the purpose of fire fighting shall be in accordance with City standards and specifications. Construction beyond the water meter may be with material permitted in the City of Raleigh Plumbing Code. 
+(Code 1959 , §23-17.1(c); Ord. No. 1985-543, §§7—10, 4-16-85) 
+Cross references: Water and sewer rates and connection fees, §§2-3001—2-3004; plumbing code, §10-6071 et seq. 
+</section>
+ </text>
+</law>

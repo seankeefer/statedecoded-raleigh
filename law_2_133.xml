@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="5" order_by="5" level="2">PART 5 - PUBLIC SAFETY</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - FIRE PROTECTION AND PREVENTION</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - THE FIRE DEPARTMENT</unit>
+  <unit label="section" identifier="5-2003" order_by="5-2003" level="5">Sec. 5-2003. - COMPOSITION OF COMPANIES; RESIDENCE OF MEMBERS.</unit>
+ </structure>
+ <section_number>5-2003</section_number>
+ <catch_line>COMPOSITION OF COMPANIES; RESIDENCE OF MEMBERS.</catch_line>
+ <order_by>5-2003</order_by>
+ <text>
+The number of members allowed to each company shall be fixed by the Chief. The number of companies shall not be increased without the approval of the Council. All members of the Fire Department, with the exception of clerical support personnel, must live within fifty (50) miles' driving distance of the Raleigh Municipal Building. All employees of the Fire Department are required to have at their residences an operational telephone. In those cases in which a telephone call from the employee's residence to the Raleigh Municipal Building is long distance, the employee must agree to accept the charges for person-to-person calls to him concerning City business or public safety emergencies. All employees of the Fire Department must provide to the department their current residence address and telephone number, and promptly advise the department of all changes. 
+(Ord. No. 1985-488, §2, 2-5-85; Ord. No. 1992-86, §2, 11-4-92) 
+</text>
+</law>

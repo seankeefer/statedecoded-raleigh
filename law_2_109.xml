@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="2" order_by="2" level="2">PART 2 - FINANCE</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - REVENUE AND TAXATION</unit>
+  <unit label="article" identifier="F" order_by="F" level="4">ARTICLE F. - TRANSIENT OCCUPANCY TAX; CONVENTION AND VISITORS BUREAU</unit>
+  <unit label="section" identifier="2-2093" order_by="2-2093" level="5">Sec. 2-2093. - POWERS AND DUTIES.</unit>
+ </structure>
+ <section_number>2-2093</section_number>
+ <catch_line>POWERS AND DUTIES.</catch_line>
+ <order_by>2-2093</order_by>
+ <text>
+The Bureau is to promote travel to and tourism in the City and County. To fulfill its duties, the Bureau may contract with any person, to advise and assist it in the promotion of travel, tourism and conventions. The Bureau may only spend funds for visitor promotion and convention promotion. 
+(Ord. No. 1992-904, §5, 1-7-92) 
+</text>
+</law>

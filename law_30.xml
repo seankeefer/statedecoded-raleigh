@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="division" identifier="I" order_by="1" level="1">Division I - Charter</unit>
+  <unit label="article" identifier="III" order_by="3" level="2">ARTICLE III. - APPOINTMENT AND REMOVAL OF OFFICERS AND EMPLOYEES; INTEREST OF OFFICIALS IN CONTRACTS</unit>
+  <unit label="section" identifier="3.8" order_by="3.8" level="3">Sec. 3.8 - BONDS REQUIRED OF OFFICIALS AND EMPLOYEES OF THE CITY.</unit>
+ </structure>
+ <section_number>I-III-3.8</section_number>
+ <catch_line>BONDS REQUIRED OF OFFICIALS AND EMPLOYEES OF THE CITY.</catch_line>
+ <order_by>3.8</order_by>
+ <section prefix="text">
+  <section prefix="(a)">	Every official, employee or agent of the City who handles or has custody of more than one hundred dollars ($100) of the funds of the City at any time shall, before assuming his duties as such, and thereafter annually on or before the first day of the fiscal year of the City, be required to furnish the City a good and sufficient bond in an amount determined by the City Council to be sufficient to protect the City, payable to the City of Raleigh and conditioned upon the faithful performance of his duties and a true accounting for all funds of the City which may come into his hands, custody or control during the particular fiscal year, which bond shall be approved by the City Council and deposited with the City Clerk; provided, however, that such bond of any employee or employees may, in the discretion of the City Council and authorized by resolution, be conditioned only upon a true accounting for funds of the City. The City shall pay the premiums for such bonds. The bond required by this section may be a bond executed by the particular official, employee, or agent, as principal, and by the surety or sureties required and approved by the City Council, or the bond may be a schedule bond executed by a surety company, insurance company or other company authorized to execute such bonds and authorized to do a surety business in the State of North Carolina, without the necessity of the signature of the particular officials, employees or agents constituting the principals of such bond, which bonds shall list the names of the officials, employees and agents covered as principals by the bond and their respective positions with the City of Raleigh, or the said bond may be a schedule position bond or blanket position bond which lists the particular positions of employment and offices whose incumbents are covered by said bond; and when any authorized company shall execute, as surety, any such schedule bond, listing, by name or position, the officials, employees and agents of the City covered by the bond, it shall be conclusively presumed that the bond was executed and furnished by the particular officials, employees and agents of the City, respectively specified therein, by name or position, and each such official, employee and agent required to furnish bond and each surety executing any such bond is hereby charged with notice of this section of this act, which shall be a part of the obligation of every such bond. 
+</section>
+  <section prefix="(b)">	The City Council shall not accept any continuing bond or renewal bond but shall require a new bond for the period of each fiscal year of the City, and such bond shall be and shall be known as &quot;Official Bond of Public Officials,&quot; and the six-year statute of limitations shall apply as to actions for recovery under any such bond. 
+</section>
+ </section>
+</law>

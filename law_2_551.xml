@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="11" order_by="11" level="2">PART 11 - TRANSPORTATION</unit>
+  <unit label="chapter" identifier="4" order_by="4" level="3">CHAPTER 4. - PUBLIC TRANSIT</unit>
+  <unit label="article" identifier="A" order_by="A" level="4">ARTICLE A. - TRANSIT AUTHORITY</unit>
+  <unit label="section" identifier="11-4004" order_by="11-4004" level="5">Sec. 11-4004. - POWERS AND DUTIES.</unit>
+ </structure>
+ <section_number>11-4004</section_number>
+ <catch_line>POWERS AND DUTIES.</catch_line>
+ <order_by>11-4004</order_by>
+ <text>
+  <section prefix="(a)">	Implementation of the transit development program and updating periodically that program.
+</section>
+  <section prefix="(b)">	Development and execution of contracts with a private transit management firm for provision of transit service.
+</section>
+  <section prefix="(c)">	Marketing, promoting, and providing information about transit service in the Raleigh area.
+</section>
+  <section prefix="(d)">	Monitoring the quantity and quality of transit service provided.
+</section>
+  <section prefix="(e)">	Performing operational and short range transit planning and coordination with long range transportation planning done by City, regional, and state agencies. 
+</section>
+  <section prefix="(f)">	To use officers, employees, and facilities of the City on such a basis as may be agreed upon between the City Manager and the authority. 
+</section>
+  <section prefix="(g)">	To maintain and operate facilities and equipment necessary or convenient for authority operations, including the provision of public transportation service. 
+</section>
+  <section prefix="(h)">	To enter into and administer contracts or agreements with civil jurisdictions outside the territory of the authority with respect to the provision of public transportation service. 
+</section>
+  <section prefix="(i)">	To equitably and efficiently establish and administer the scheduling, routing, and rates of transit service.
+</section>
+  <section prefix="(j)">	To develop budgets for its operation for approval by the City Council and to exercise authority hereby granted in conformance with such approved budget. No power or duty herein enumerated shall be exercised or carried out except consistently with and according to the approved budget. 
+(Ord. 1975-1, §4) 
+</section>
+ </text>
+</law>

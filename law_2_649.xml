@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<law>
+ <structure>
+  <unit label="Division" identifier="II" order_by="2" level="1">Division II - Planning and Development</unit>
+  <unit label="part" identifier="12" order_by="12" level="2">PART 12 - LICENSING AND REGULATION</unit>
+  <unit label="chapter" identifier="2" order_by="2" level="3">CHAPTER 2. - BUSINESSES AND TRADES</unit>
+  <unit label="article" identifier="B" order_by="B" level="4">ARTICLE B. - VEHICLES FOR HIRE</unit>
+  <unit label="section" identifier="12-2053" order_by="12-2053" level="5">Sec. 12-2053. - ISSUANCE.</unit>
+ </structure>
+ <section_number>12-2053</section_number>
+ <catch_line>ISSUANCE.</catch_line>
+ <order_by>12-2053</order_by>
+ <text>
+  <section prefix="(a)">
+   <section prefix="(1)">	That the applicant has not complied with all of the provisions of this chapter; or
+</section>
+   <section prefix="(2)">	That the criminal record of the applicant (or of the officers, directors, or supervising employees of a corporate applicant), if any, is such that it would be against the public interest and welfare for such application to be granted; or 
+</section>
+   <section prefix="(3)">	That applicant has made a false or misleading statement in his application.
+</section>
+  </section>
+  <section prefix="(b)">	The taxicab inspector may refuse to issue an owner's permit to any person who has been convicted of a felony, or of a violation of any Federal or state statute relating to the use, possession or sale of intoxicating liquors, or of any Federal or state statute relating to prostitution, or of any Federal or state statute relating to the use, possession or sale of any habit-forming drugs; or to any person who is an habitual user of intoxicating liquors or narcotic drugs; or to a person who has been an habitual violator of traffic laws or ordinances. 
+(Code 1959 , §22-29; Ord. No. 1988-220, §§3, 4, 7-19-88) 
+</section>
+ </text>
+</law>
